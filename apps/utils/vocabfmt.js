@@ -13,6 +13,9 @@ var grps = {
   UNGRP: []
 };
 
+/**
+ * Returns word type: lineType.WORD, lineType.SAMPLE or lineType.GRP.
+ */
 function getStrType(line) {
   let t = lineType.OTHER;
   let a = line.match('(?<word>^[a-zA-Z])|(?<example>•)|(?<grp>^\\*\\* [a-zA-Z]|\\*\\*\\* )');
@@ -22,7 +25,11 @@ function getStrType(line) {
   return lineType.OTHER;
 }
 
-async function processLineByLine() {
+/**
+ * Reads the dictionary file and adds words to the appropriate categories.
+ * @returns {"group": [words]} object
+ */
+async function getWordsGroups() {
   try {
     const file = readline.createInterface({
       input: fs.createReadStream(vocabularyFile),
@@ -63,4 +70,4 @@ async function processLineByLine() {
   }
 };
 
-processLineByLine();
+getWordsGroups();
