@@ -1,0 +1,2 @@
+format:
+	node vocabfmt.js
