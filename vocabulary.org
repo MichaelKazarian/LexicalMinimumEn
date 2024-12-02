@@ -419,7 +419,6 @@ castle (n)
 cat (n)
 catch (v)
 cathedral (n)
-Page 8
 cauliflower (n)
 cause (n & v)
 cave (n)
@@ -2094,7 +2093,6 @@ p.m. (adv)
 pocket (n)
 pocket money (n)
 poem (n)
-Page 24
 poet (n)
 poetry (n)
 point (n & v)
@@ -2406,7 +2404,6 @@ roll (n & v)
 • to roll into a ball (v)
 roof (n)
 room (n)
-Page 27
 • the sitting room
 • There's lots of room in here
 rose (n)
@@ -4489,7 +4486,7 @@ trainer(s)
 volleyball
 water skiing
 
-**** TODO Travel and Transport
+**** Travel and Transport
 abroad
 accommodation
 (aero)plane
@@ -4763,7 +4760,7 @@ wet
 wind
 windy
 
-**** TODO Work and Jobs
+**** Work and Jobs
 (travel) agent
 actor
 actress
