@@ -7,6 +7,7 @@ const lineType = {
 };
 const events = require('events');
 const fs = require('fs');
+const path = require('path');
 const readline = require('readline');
 
 var grps = {
@@ -61,13 +62,58 @@ async function getWordsGroups() {
 
     await events.once(file, 'close');
 
-    console.log(grps);
-    console.log('Reading file line by line with readline done.');
-    const used = process.memoryUsage().heapUsed / 1024 / 1024;
-    console.log(`The script uses approximately ${Math.round(used * 100) / 100} MB`);
+    // console.log(grps);
+    // console.log('Reading file line by line with readline done.');
+    // const used = process.memoryUsage().heapUsed / 1024 / 1024;
+    // console.log(`The script uses approximately ${Math.round(used * 100) / 100} MB`);
+    return grps;
   } catch (err) {
     console.error(err);
   }
+  return {};
 };
 
-getWordsGroups();
+/**
+ * Removes empty groups and word samples.
+ * param {"group": [words]} groupedwords
+ * @returns {"group": [words]} object object contains grouped words.
+ */
+function getWordsOnly(groupedWords) {
+  let g = Object.entries(groupedWords)
+      .reduce((acc, [key, val]) => {
+        if (val.length > 0) {
+          acc[key]=val;
+        }
+        return acc;
+      }, {});
+  return g;
+}
+
+function cleanGrpName(grpName) {
+  return grpName.replace(/^\*+\s+([a-zA-Z ]+)/, '$1');
+}
+
+
+
+let wordGroups = getWordsGroups()
+    .then(result => getWordsOnly(result))
+    .then(cleanedGroups => {
+        // Clean the group names
+        let cleaned = Object.fromEntries(
+            Object.entries(cleanedGroups).map(([key, value]) => [cleanGrpName(key), value])
+        );
+
+        // Convert to JSON string
+        let jsonString = JSON.stringify(cleaned, null, 2);
+
+        // Write the JSON string to the file in ../../generated
+        fs.writeFile('../../generated/vocabulary.json', jsonString, 'utf8', function(err) {
+            if (err) {
+                console.log("An error occurred while writing JSON Object to File: ", err);
+            } else {
+                console.log("JSON file has been saved to ../../generated/vocabulary.json");
+            }
+        });
+    });
+
+
