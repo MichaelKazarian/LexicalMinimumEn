@@ -94,27 +94,42 @@ function cleanGrpName(grpName) {
 }
 
 
+let wordGroups = getWordsGroups()
+    .then(result => getWordsOnly(result))
+    .then(cleanedGroups => {
+        // Clean the group names
+        let cleaned = Object.fromEntries(
+            Object.entries(cleanedGroups).map(([key, value]) => [cleanGrpName(key), value])
+        );
 
-// let wordGroups = getWordsGroups()
-//     .then(result => getWordsOnly(result))
-//     .then(cleanedGroups => {
-//         // Clean the group names
-//         let cleaned = Object.fromEntries(
-//             Object.entries(cleanedGroups).map(([key, value]) => [cleanGrpName(key), value])
-//         );
+        // Convert to JSON string
+        let jsonString = JSON.stringify(cleaned, null, 2);
 
-//         // Convert to JSON string
-//         let jsonString = JSON.stringify(cleaned, null, 2);
+        return new Promise((resolve, reject) => {
+            // Write the JSON string to the file in ../../generated
+            fs.writeFile('../../generated/vocabulary.json', jsonString, 'utf8', function(err) {
+                if (err) {
+                    console.log("An error occurred while writing JSON Object to File: ", err);
+                    reject(err);
+                } else {
+                    console.log("JSON file has been saved to ../../generated/vocabulary.json");
+                    resolve(cleaned); // Resolve with the cleaned data for further use
+                }
+            });
+        });
+    })
+    .then(cleaned => {
+        // Now we can read the JSON file since it's guaranteed to be written
+        const jsonData = require('../../generated/vocabulary.json');
 
-//         // Write the JSON string to the file in ../../generated
-//         fs.writeFile('../../generated/vocabulary.json', jsonString, 'utf8', function(err) {
-//             if (err) {
-//                 console.log("An error occurred while writing JSON Object to File: ", err);
-//             } else {
-//                 console.log("JSON file has been saved to ../../generated/vocabulary.json");
-//             }
-//         });
-//     });
+        // Process each group in the JSON data
+        for (const [groupName, words] of Object.entries(jsonData)) {
+            processGroup(groupName, words);
+        }
+
+        console.log("Files have been created in their respective group directories.");
+    })
+    .catch(err => console.error("An error occurred:", err));
 
 function cleanWord(word) {
   // Remove any explanation in parentheses
@@ -150,12 +165,7 @@ function processGroup(groupName, wordsArray) {
   });
 }
 
-// Assuming we already have our JSON data
-const jsonData = require('../../generated/vocabulary.json');
-
-// Process each group in the JSON data
-for (const [groupName, words] of Object.entries(jsonData)) {
-  processGroup(groupName, words);
+function cleanGrpName(grpName) {
+  // Using regex to match one or more asterisks followed by spaces and then capturing the text
+  return grpName.replace(/^\*+\s+([a-zA-Z ]+)/, '$1');
 }
-
-console.log("Files have been created in their respective group directories.");
