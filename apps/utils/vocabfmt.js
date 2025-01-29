@@ -95,25 +95,67 @@ function cleanGrpName(grpName) {
 
 
 
-let wordGroups = getWordsGroups()
-    .then(result => getWordsOnly(result))
-    .then(cleanedGroups => {
-        // Clean the group names
-        let cleaned = Object.fromEntries(
-            Object.entries(cleanedGroups).map(([key, value]) => [cleanGrpName(key), value])
-        );
+// let wordGroups = getWordsGroups()
+//     .then(result => getWordsOnly(result))
+//     .then(cleanedGroups => {
+//         // Clean the group names
+//         let cleaned = Object.fromEntries(
+//             Object.entries(cleanedGroups).map(([key, value]) => [cleanGrpName(key), value])
+//         );
 
-        // Convert to JSON string
-        let jsonString = JSON.stringify(cleaned, null, 2);
+//         // Convert to JSON string
+//         let jsonString = JSON.stringify(cleaned, null, 2);
 
-        // Write the JSON string to the file in ../../generated
-        fs.writeFile('../../generated/vocabulary.json', jsonString, 'utf8', function(err) {
-            if (err) {
-                console.log("An error occurred while writing JSON Object to File: ", err);
-            } else {
-                console.log("JSON file has been saved to ../../generated/vocabulary.json");
-            }
-        });
+//         // Write the JSON string to the file in ../../generated
+//         fs.writeFile('../../generated/vocabulary.json', jsonString, 'utf8', function(err) {
+//             if (err) {
+//                 console.log("An error occurred while writing JSON Object to File: ", err);
+//             } else {
+//                 console.log("JSON file has been saved to ../../generated/vocabulary.json");
+//             }
+//         });
+//     });
+
+function cleanWord(word) {
+  // Remove any explanation in parentheses
+  const wordWithoutExplanation = word.split('(')[0].trim();
+  // Split words if they have alternatives separated by '/'
+  return wordWithoutExplanation.split('/').map(w => w.trim());
+}
+
+function sanitizeDirName(dirName) {
+  if (dirName.length > 1) {
+    return '-' + dirName.replace(/\s+/g, '-');
+  }
+  return dirName; // If only one character, return as is
+}
+
+function processGroup(groupName, wordsArray) {
+  // Sanitize the directory name
+  const sanitizedGroupName = sanitizeDirName(groupName);
+  // Create directory for group if it doesn't exist
+  const groupDir = path.join(__dirname, '../../generated', sanitizedGroupName);
+  if (!fs.existsSync(groupDir)) {
+    fs.mkdirSync(groupDir, { recursive: true });
+  }
+
+  wordsArray.forEach(word => {
+    const cleanedWords = cleanWord(word);
+    
+    cleanedWords.forEach(cleanWord => {
+      // Use the cleaned word for the filename, but write the original word to the file
+      const filePath = path.join(groupDir, `${cleanWord}.txt`);
+      fs.writeFileSync(filePath, word, 'utf8');
     });
+  });
+}
 
+// Assuming we already have our JSON data
+const jsonData = require('../../generated/vocabulary.json');
 
+// Process each group in the JSON data
+for (const [groupName, words] of Object.entries(jsonData)) {
+  processGroup(groupName, words);
+}
+
+console.log("Files have been created in their respective group directories.");
