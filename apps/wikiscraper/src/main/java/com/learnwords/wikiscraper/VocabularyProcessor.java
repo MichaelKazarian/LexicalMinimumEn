@@ -2,6 +2,7 @@ package com.learnwords.wikiscraper;
 
 import java.io.*;
 import java.nio.file.*;
+import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -13,13 +14,18 @@ public class VocabularyProcessor {
     }
 
     private static void processDirectory(File dir) {
-        System.out.println(dir);
         if (dir.isDirectory()) {
-            for (File file : dir.listFiles()) {
-                if (file.isDirectory() && !file.getName().startsWith("-")) {
-                    processDirectory(file); // Recursively process subdirectories
-                } else if (file.getName().endsWith(".txt")) {
-                    processFile(file);
+            // Sort files alphabetically
+            File[] files = dir.listFiles();
+            if (files != null) {
+                Arrays.sort(files, (f1, f2) -> f1.getName().compareToIgnoreCase(f2.getName()));
+
+                for (File file : files) {
+                    if (file.isDirectory() && !file.getName().startsWith("-")) {
+                        processDirectory(file); // Recursively process subdirectories
+                    } else if (file.getName().endsWith(".txt")) {
+                        processFile(file);
+                    }
                 }
             }
         }
