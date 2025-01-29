@@ -19,7 +19,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.5.0</version>
         <configuration>
-          <mainClass>com.learnwords.wikiscraper.App</mainClass>
+          <mainClass>com.learnwords.wikiscraper.VocabularyProcessor</mainClass>
         </configuration>
       </plugin>
     </plugins>
@@ -28,14 +28,20 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/args4j/args4j -->
+    <!-- Added for file I/O -->
     <dependency>
-    <groupId>args4j</groupId>
-    <artifactId>args4j</artifactId>
-    <version>2.37</version>
-</dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.11.0</version>
+    </dependency>
+    <!-- For command-line argument parsing -->
+    <dependency>
+      <groupId>args4j</groupId>
+      <artifactId>args4j</artifactId>
+      <version>2.37</version>
+    </dependency>
   </dependencies>
 </project>
