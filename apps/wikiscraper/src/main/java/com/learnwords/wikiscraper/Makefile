@@ -7,6 +7,8 @@ clean:
 compile:
 	cd ../../../../../../ && mvn compile
 
+test: clean
+	cd ../../../../../../ && mvn test
 
 cd-root-dir:
 	cd ../../../../../../
