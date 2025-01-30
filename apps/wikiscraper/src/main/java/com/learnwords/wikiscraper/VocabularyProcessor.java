@@ -35,30 +35,40 @@ public class VocabularyProcessor {
         try {
             String fileName = file.getName().replace(".txt", "");
             String partWord = "W-" + fileName;
-            
-            String content = new String(Files.readAllBytes(Paths.get(file.toURI())));
-            
-            // Check for part of speech in parentheses
-            Pattern pofPattern = Pattern.compile("\\((.*?)\\)");
-            Matcher matcher = pofPattern.matcher(content);
-            String partPof = "";
-            if (matcher.find()) {
-                partPof = "POF-" + matcher.group(0);
-            }
-            
-            // Check for examples marked with bullet points
-            StringBuilder partExample = new StringBuilder();
-            int exampleNumber = 1;
-            Pattern examplePattern = Pattern.compile("•\\s*(.+?)(?=(?:•|$))");
-            matcher = examplePattern.matcher(content);
-            while (matcher.find()) {
-                partExample.append("Ex").append(exampleNumber).append("-").append(matcher.group(1).trim()).append(" ");
-                exampleNumber++;
-            }
-            
-            System.out.println(String.format("%s %s %s", partWord, partPof, partExample)); 
+            String content = readFileContent(file);
+
+            String partPof = extractPartOfSpeech(content);
+            String partExample = extractExamples(content);
+
+            // System.out.println(String.format("%s %s %s", partWord, partPof, partExample));
+            System.out.println(String.format("%s", fileName)); 
         } catch (IOException e) {
             System.err.println("Error processing file: " + file.getName() + " - " + e.getMessage());
         }
+    }
+
+    public static String readFileContent(File file) throws IOException {
+        return new String(Files.readAllBytes(Paths.get(file.toURI())));
+    }
+
+    public static String extractPartOfSpeech(String content) {
+        Pattern pofPattern = Pattern.compile("\\((.*?)\\)");
+        Matcher matcher = pofPattern.matcher(content);
+        if (matcher.find()) {
+            return "POF-" + matcher.group(0);
+        }
+        return "";
+    }
+
+    public static String extractExamples(String content) {
+        StringBuilder partExample = new StringBuilder();
+        int exampleNumber = 1;
+        Pattern examplePattern = Pattern.compile("•\\s*(.+?)(?=\\s*\\n*•|$)");
+        Matcher matcher = examplePattern.matcher(content);
+        while (matcher.find()) {
+            partExample.append("Ex").append(exampleNumber).append("-").append(matcher.group(1).trim()).append(" ");
+            exampleNumber++;
+        }
+        return partExample.toString().trim();
     }
 }
