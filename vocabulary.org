@@ -4093,7 +4093,10 @@ sheet
 shelf
 shower
 sink
-sitting room sofa stairs step
+sitting room
+sofa
+stairs
+step
 surround
 switch
 table
@@ -4246,7 +4249,9 @@ well
 wonderful
 
 **** Places: Buildings
-apartment block/block of flats bank
+apartment block
+block of flats
+bank
 bookshop
 cafe
 castle
