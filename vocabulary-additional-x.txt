@@ -1,0 +1,283 @@
+socks;n;sɒks;шкарпетки
+swimming;v;ˈswɪmɪŋ;плавання;плавати
+swimsuit;n;ˈswɪmˌsuːt;купальник
+tights;n;taɪts;колготки
+tracksuit;n;ˈtrækˌsuːt;спортивний костюм
+wear;v;weər;носити;одягати
+by post;adv;baɪ poʊst;по пошті
+call back;v;ˌkɔːl ˈbæk;передзвонити
+chat room;n;ˈʧæt ruːm;чат-кімната
+delete;v;dɪˈliːt;видаляти
+dial up;v;ˌdaɪəl ˈʌp;набирати номер
+hang up;v;ˌhæŋ ˈʌp;покласти трубку
+keyboard;n;ˈkiːbɔːrd;клавіатура
+mobile phone;n;ˌmoʊbəl ˈfoʊn;мобільний телефон
+mouse mat;n;ˈmaʊs mæt;килимок для миші
+printer;n;ˈprɪntər;принтер
+switch off;v;ˌswɪtʃ ˈɒf;вимкнути
+switch on;v;ˌswɪtʃ ˈɒn;увімкнути
+text message;n;ˈtɛkst ˌmɛsɪdʒ;текстове повідомлення
+Africa;n;ˈæfrɪkə;Африка
+Antarctica;n;ænˈtɑːrktɪkə;Антарктика
+Asia;n;ˈeɪʒə;Азія
+Australia;n;ɒˈstreɪliə;Австралія
+Europe;n;ˈjʊərəp;Європа
+North America;n;ˌnɔːrθ əˈmɛrɪkə;Північна Америка
+South America;n;ˌsaʊθ əˈmɛrɪkə;Південна Америка
+Brazil;n;brəˈzɪl;Бразилія
+Brazilian;adj;brəˈzɪliən;бразильський
+Canada;n;ˈkænədə;Канада
+Canadian;adj;kəˈneɪdiən;канадський
+China;n;ˈʧaɪnə;Китай
+Chinese;adj;ʧaɪˈniːz;китайський
+France;n;fræns;Франція
+French;adj;frɛnʧ;французький
+Ireland;n;ˈaɪərlənd;Ірландія
+Irish;adj;ˈaɪrɪʃ;ірландський
+India;n;ˈɪndiə;Індія
+Indian;adj;ˈɪndiən;індійський
+Italy;n;ˈɪtəli;Італія
+Italian;adj;ɪˈtæliən;італійський
+Spain;n;speɪn;Іспанія
+Spanish;adj;ˈspænɪʃ;іспанський
+Monday;n;ˈmʌndi;понеділок
+Tuesday;n;ˈtjuːzdeɪ;вівторок
+Wednesday;n;ˈwɛnzdeɪ;середа
+Thursday;n;ˈθɜːzdeɪ;четвер
+Friday;n;ˈfraɪdeɪ;п'ятниця
+Saturday;n;ˈsætərdeɪ;субота
+Sunday;n;ˈsʌndeɪ;неділя
+    break up;v;ˌbreɪk ˈʌp;перерва;розпадатися
+    classroom;n;ˈklæsˌruːm;класна кімната
+    languages;n;ˈlæŋɡwɪdʒɪz;мови
+    nature studies;n;ˈneɪtʃər ˈstʌdiz;природознавство
+    notice board;n;ˈnoʊtɪs bɔːrd;доска оголошень
+    primary school;n;ˌpraɪməri ˈskuːl;початкова школа
+    state school;n;ˌsteɪt ˈskuːl;державна школа
+    classical music;n;ˌklæsɪkəl ˈmjuːzɪk;класична музика
+    disco;n;ˈdɪskoʊ;дискотека
+    folk music;n;ˈfoʊlk ˈmjuːzɪk;фольклорна музика
+    hit song;n;ˈhɪt sɔːŋ;хіт;популярна пісня
+    interview;n;ˈɪntərvjuː;інтерв'ю
+    jazz music;n;ˈdʒæz ˈmjuːzɪk;джазова музика
+    pop music;n;ˈpɒp ˈmjuːzɪk;поп-музика
+    programme;n;ˈprəʊɡræm;програма
+    rock music;n;ˈrɒk ˈmjuːzɪk;рок-музика
+    romantic;adj;rəʊˈmæntɪk;романтичний
+    bottle bank;n;ˈbɒtl bæŋk;контейнер для збору пляшок
+    climate change;n;ˈklaɪmət ʧeɪndʒ;зміна клімату
+    public transport;n;ˌpʌblɪk ˈtrænspɔːrt;громадський транспорт
+    candy;n;ˈkændi;цукерки
+    fruit juice;n;ˈfruːt dʒuːs;фруктовий сік
+    soft drink;n;ˈsɒft drɪŋk;безалкогольний напій
+    thirsty;adj;ˈθɜːsti;спраглий
+    feel better;v;ˌfiːl ˈbɛtər;почуватися краще
+    feel ill;v;ˌfiːl ˈɪl;почуватися хворим
+    feel seek;v;ˌfiːl ˈsiːk;почуватися погано (неправильно, правильно - feel sick)
+    get better;v;ˌɡɛt ˈbɛtər;видужувати
+    get worse;v;ˌɡɛt ˈwɜːrs;ставати гірше
+    go jogging;v;ˌɡoʊ ˈdʒɒɡɪŋ;бігати трусцою
+    injure;v;ˈɪndʒər;травмувати
+    keep fit;v;ˌkiːp ˈfɪt;тримати себе в формі
+    painful;adj;ˈpeɪnfʊl;болючий
+    run;v;rʌn;бігати
+    sore throat;n;ˌsɔːr ˈθroʊt;ангіна;болить горло
+    stomach ache;n;ˈstʌmək eɪk;боль у животі
+    take exercise;v;ˌteɪk ˈɛksəsaɪz;займатися спортом
+    toes;n;toʊz;пальці ніг
+    camping;n;ˈkæmpɪŋ;кемпінг
+    dancing;n;ˈdænsɪŋ;танці
+    drawing;n;ˈdrɔːɪŋ;малювання
+    facilities;n;fəˈsɪlɪtiz;обладнання;умови
+    hang out;v;ˌhæŋ ˈaʊt;тусити;проводити час
+    jogging;n;ˈdʒɒɡɪŋ;біг підтюпцем
+    join in;v;ˌdʒɔɪn ˈɪn;приєднуватися
+    keen on;adj;ˌkiːn ˈɒn;захоплюватися;любити
+    painting;n;ˈpeɪntɪŋ;малювання
+    picnic;n;ˈpɪknɪk;пікнік
+    slide;n;slaɪd;гірка
+    swings;n;swɪŋz;гойдалки
+    TV;n;ˌtiːˈviː;телевізор
+    bin;n;bɪn;сміттєве відро
+    blanket;n;ˈblæŋkɪt;ковдра
+    chest of drawers;n;ˌʧɛst əv ˈdrɔːrz;комод
+    dining room dish;n;ˌdaɪnɪŋ ruːm dɪʃ;страва для їдальні
+    drawer;n;ˈdrɔːr;ящик
+    flatmate;n;ˈflætˌmeɪt;сусід по квартирі
+    hi-fi;n;ˌhaɪˈfaɪ;аудіосистема високої якості
+    living-room;n;ˈlɪvɪŋ ruːm;вітальня
+    roommate;n;ˈruːmˌmeɪt;сусід по кімнаті
+    vase;n;veɪz;ваза
+    video;n;ˈvɪdiəʊ;відео
+    washing;n;ˈwɒʃɪŋ;прання
+    wastepaper basket;n;ˌweɪstˌpeɪpər ˈbæskɪt;кошик для сміття
+    WC;n;ˌdʌbəljuːˈsiː;туалет
+    beginner;n;bɪˈɡɪnər;початківець
+    communicate;v;kəˈmjuːnɪkeɪt;спілкуватися
+    letter;n;ˈlɛtər;лист;буква
+    meaning;n;ˈmiːnɪŋ;значення
+    say;v;seɪ;говорити
+    January;January;ˈdʒænjuəri;січень
+    February;February;ˈfɛbruəri;лютий
+    March;March;mɑːrtʃ;березень
+    April;April;ˈeɪprəl;квітень
+    May;May;meɪ;травень
+    June;June;dʒuːn;червень
+    July;July;dʒuːˈlaɪ;липень
+    August;August;ˈɔːɡəst;серпень
+    September;September;sɛpˈtɛmbər;вересень
+    October;October;ɒkˈtəʊbər;жовтень
+    November;November;nəʊˈvɛmbər;листопад
+    December;December;dɪˈsɛmbər;грудень
+    spring;n;sprɪŋ;весна
+    summer;n;ˈsʌmər;літо
+    autumn;n;ˈɔːtəm;осінь
+    winter;n;ˈwɪntər;зима
+    first;adj;fɜːrst;перший
+    second;adj;ˈsɛkənd;другий
+    third;adj;θɜːrd;третій
+    fourth;adj;fɔːrθ;четвертий
+    annoyed;adj;əˈnɔɪd;роздратований
+    bossy;adj;ˈbɒsi;начальницький
+    challenging;adj;ˈʧælɪndʒɪŋ;викличний
+    depressed;adj;dɪˈprɛst;депресивний
+    disappointed;adj;ˌdɪsəˈpɔɪntɪd;розчарований
+    frightened;adj;ˈfraɪtənd;переляканий
+    healthy;adj;ˈhɛlθi;здоровий
+    lucky;adj;ˈlʌki;щасливий
+    noisy;adj;ˈnɔɪzi;шумний
+    realistic;adj;ˌrɪəˈlɪstɪk;реалістичний
+    relaxed;adj;rɪˈlækst;розслаблений
+    surprised;adj;səˈpraɪzd;здивований
+    unusual;adj;ʌnˈjuːʒʊəl;незвичайний
+    wonderful;adj;ˈwʌndəfʊl;чудовий
+    apartment block;n;əˈpɑːrtmənt blɒk;блок квартир
+    block of flats;n;blɒk əv ˈflæts;блок квартир
+    bank;n;bæŋk;банк
+    office block;n;ˈɒfɪs blɒk;офісний блок
+    sports centre;n;ˈspɔːrts ˌsɛntər;спортивний центр
+    swimming pool;n;ˈswɪmɪŋ puːl;басейн
+    theatre;n;ˈθɪətər;театр
+city centre;n;ˌsɪti ˈsɛntər;центр міста
+shopping centre;n;ˈʃɒpɪŋ ˌsɛntər;торговий центр
+taxi rank;n;ˈtæksi ræŋk;стоянка таксі
+dry cleaner;n;ˌdraɪ ˈkliːnər;хімчистка
+sports centre;n;ˈspɔːrts ˌsɛntər;спортивний центр
+swimming pool;n;ˈswɪmɪŋ puːl;басейн
+theatre;n;ˈθɪətər;театр
+cash;n;kæʃ;готівка
+credit card;n;ˈkrɛdɪt kɑːrd;кредитна картка
+inexpensive;adj;ˌɪnɛkˈspɛnsɪv;недорогий
+reduced;adj;rɪˈdjuːst;знижений
+boxing;n;ˈbɒksɪŋ;бокс
+climbing;n;ˈklaɪmɪŋ;скелелазіння
+coach;n;koʊtʃ;тренер
+cycling;n;ˈsaɪklɪŋ;велоспорт
+dancing;n;ˈdænsɪŋ;танці
+diving;n;ˈdaɪvɪŋ;пірнання
+fishing;n;ˈfɪʃɪŋ;риболовля
+game;n;ɡeɪm;гра;матч
+high jump;n;ˌhaɪ ˈdʒʌmp;стрибки у висоту
+hit;v;hɪt;ударити
+horse-riding;n;ˈhɔːrs ˌraɪdɪŋ;верхова їзда
+jogging;n;ˈdʒɒɡɪŋ;біг підтюпцем
+join in;v;ˌdʒɔɪn ˈɪn;приєднуватися
+kick;v;kɪk;бити ногою
+long jump;n;ˌlɒŋ ˈdʒʌmp;стрибки у довжину
+motorcycling;n;ˈmoʊtərˌsaɪklɪŋ;мотоциклетний спорт
+net;n;nɛt;сітка
+race track;n;ˈreɪs træk;трек для перегонів
+racing;n;ˈreɪsɪŋ;гонки
+riding;n;ˈraɪdɪŋ;верхова їзда
+running;n;ˈrʌnɪŋ;біг
+sailing;n;ˈseɪlɪŋ;вітрильний спорт
+skiing;n;ˈskiːɪŋ;лижний спорт
+swimming;n;ˈswɪmɪŋ;плавання
+trainer;n;ˈtreɪnər;тренер
+water skiing;n;ˌwɔːtər ˈskiːɪŋ;водні лижі
+autumn;n;ˈɔːtəm;осінь
+bush;n;bʊʃ;кущ
+environment;n;ɪnˈvaɪrənmənt;навколишнє середовище
+fall;n;fɔːl;падіння;осінь (американський варіант)
+farmland;n;ˈfɑːrmˌlænd;сільськогосподарські угіддя
+lion;n;ˈlaɪən;лев
+mice;n;maɪs;миші
+spring;n;sprɪŋ;весна
+summer;n;ˈsʌmər;літо
+waves;n;weɪvz;хвилі
+winter;n;ˈwɪntər;зима
+at sea;prep;ət ˈsiː;у морі
+border;n;ˈbɔːrdər;кордон
+by air;prep;baɪ ˈeər;повітрям
+by land;prep;baɪ ˈlænd;сухопутним шляхом
+by rail;prep;baɪ ˈreɪl;залізницею
+by road;prep;baɪ ˈroʊd;автомобільним шляхом
+by sea;prep;baɪ ˈsiː;морем
+capital city;n;ˌkæpɪtəl ˈsɪti;столиця
+car alarm;n;ˈkɑːr əˌlɑːrm;сигналізація автомобіля
+charter;v;ˈʧɑːrtər;орендувати (транспорт)
+check-in;n;ˈʧɛk ɪn;реєстрація
+coach;n;koʊtʃ;автобус (особливо далекого прямування)
+cyclist;n;ˈsaɪklɪst;велосипедист
+delay;n;dɪˈleɪ;затримка
+double room;n;ˌdʌbl ˈruːm;двомісний номер
+drive;v;draɪv;водити
+driving licence;n;ˌdraɪvɪŋ ˈlaɪsəns;водійське посвідчення
+due;adj;djuː;очікуваний;належний
+facilities;n;fəˈsɪlɪtiz;умови;обладнання
+handlebars;n;ˈhændlˌbɑːrz;руль
+journey;n;ˈdʒɜːrni;подорож
+land;v;lænd;приземлятися
+lost property;n;ˌlɒst ˈprɒpərti;загублені речі
+luggage;n;ˈlʌɡɪdʒ;багаж
+map;n;mæp;карта
+on vacation;adv;ɒn vəˈkeɪʃən;у відпустці
+parking lot;n;ˈpɑːrkɪŋ lɒt;стоянка для автомобілів
+parking space;n;ˈpɑːrkɪŋ speɪs;місце для паркування
+petrol pump;n;ˈpɛtrəl pʌmp;бензоколонка
+railroad;n;ˈreɪlˌroʊd;залізниця
+road sign;n;ˈroʊd saɪn;дорожній знак
+single room;n;ˌsɪŋɡl ˈruːm;одномісний номер
+taxi rank;n;ˈtæksi ræŋk;стоянка таксі
+tire;n;ˈtaɪər;шина
+traffic lights;n;ˈtræfɪk laɪts;світлофор
+    traveller’s cheque;n;ˌtrævlərz ˈʧɛk;дорожній чек
+    centigrade;adj;ˈsɛntɪɡreɪd;градуси за Цельсієм
+    cloudy;adj;ˈklaʊdi;хмарно
+    degrees;n;dɪˈɡriːz;градуси
+    foggy;adj;ˈfɒɡi;туманно
+    gale;n;ɡeɪl;шторм;ураганний вітер
+    get wet;v;ˌɡɛt ˈwɛt;змокнути
+    icy;adj;ˈaɪsi;льодяний
+    lightning;n;ˈlaɪtnɪŋ;блискавка
+    snowfall;n;ˈsnoʊˌfɔːl;снігопад
+    sunny;adj;ˈsʌni;сонячно
+    windy;adj;ˈwɪndi;вітряно
+    banker;n;ˈbæŋkər;банкір
+    businessman;n;ˈbɪznɪsˌmæn;бізнесмен
+    businesswoman;n;ˈbɪznɪsˌwʊmən;бізнесвумен
+    cameraman;n;ˈkæmərəˌmæn;оператор
+    captain;n;ˈkæptɪn;капітан
+    conference;n;ˈkɒnfərəns;конференція
+    crew;n;kruː;екіпаж
+    dancer;n;ˈdænsər;танцівник
+    designer;n;dɪˈzaɪnər;дизайнер
+    diver;n;ˈdaɪvər;водолаз
+    employer;n;ɪmˈplɔɪər;роботодавець
+    farmer;n;ˈfɑːrmər;фермер
+    fireman;n;ˈfaɪəmən;пожежник
+    interpreter;n;ɪnˈtɜːrprɪtər;перекладач
+    lecturer;n;ˈlɛkʧərər;лектор
+    librarian;n;laɪˈbrɛəriən;бібліотекар
+    manager;n;ˈmænɪdʒər;менеджер
+    novelist;n;ˈnɒvəlɪst;романіст
+    photographer;n;fəˈtɒɡrəfər;фотограф
+    publisher;n;ˈpʌblɪʃər;видавець
+    reporter;n;rɪˈpɔːrtər;репортер
+    retirement;n;rɪˈtaɪəmənt;вихід на пенсію
+    sailor;n;ˈseɪlər;моряк
+    sales assistant;n;ˌseɪlz əˈsɪstənt;продавець
+    security guard;n;sɪˈkjʊərɪti ɡɑːrd;охоронець
+    taxi driver;n;ˈtæksi ˌdraɪvər;водій таксі
+    teacher;n;ˈtiːʧər;вчитель
+    unemployed;adj;ˌʌnɪmˈplɔɪd;безробітний
