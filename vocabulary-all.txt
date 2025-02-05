@@ -1,0 +1,2928 @@
+
+ability ; n ; əˈbɪlɪti ; здатність, уміння
+able ; adj ; ˈeɪbəl ; здатний, спроможний
+about ; prep/adv ; əˈbaʊt ; про, близько
+above ; prep/adv ; əˈbʌv ; над, вище
+abroad ; adv ; əˈbrɔːd ; за кордоном
+absent ; adj ; ˈæbsənt ; відсутній
+accept ; v ; əkˈsept ; приймати, погоджуватися
+access ; n/v ; ˈækses ; доступ, отримувати доступ
+accident ; n ; ˈæksɪdənt ; нещасний випадок
+accommodation ; n ; əˌkɒməˈdeɪʃn ; житло, розміщення
+accompany ; v ; əˈkʌmpəni ; супроводжувати
+according to ; prep ; əˈkɔːrdɪŋ tuː ; згідно з
+account ; n/v ; əˈkaʊnt ; рахунок, звіт
+accurate ; adj ; ˈækjʊrət ; точний
+ache ; n/v ; eɪk ; біль, боліти
+achieve ; v ; əˈtʃiːv ; досягати
+across ; prep/adv ; əˈkrɒs ; через, по той бік
+act ; n/v ; ækt ; дія, діяти
+action ; n ; ˈækʃn ; дія, дію
+active ; adj ; ˈæktɪv ; активний
+activity ; n ; ækˈtɪvɪti ; діяльність
+actor ; n ; ˈæktər ; актор
+actress ; n ; ˈæktrɪs ; актриса
+actual ; adj ; ˈæktʃuəl ; реальний
+ad ; n ; æd ; реклама
+add ; v ; æd ; додавати
+addition ; n ; əˈdɪʃn ; додавання, додаток
+address ; n/v ; əˈdres ; адреса, звертатися
+admire ; v ; ədˈmaɪər ; захоплюватися
+admission ; n ; ədˈmɪʃn ; допуск, визнання
+admit ; v ; ədˈmɪt ; визнавати, допускати
+adult ; n/adj ; ˈædʌlt ; дорослий, дорослий
+advanced ; adj ; ədˈvænst ; просунутий
+advantage ; n ; ədˈvæntɪdʒ ; перевага
+adventure ; n ; ədˈventʃər ; пригода
+advert ; n ; ˈædvɜːt ; реклама
+advertise ; v ; ˈædvətaɪz ; рекламувати
+advertisement ; n ; ədˈvɜːtɪsmənt ; реклама
+advice ; n ; ədˈvaɪs ; порада
+advise ; v ; ədˈvaɪz ; радити
+aeroplane ; n ; ˈeərəpleɪn ; літак
+afford ; v ; əˈfɔːd ; мати змогу
+afraid ; adj ; əˈfreɪd ; наляканий
+Africa;n;ˈæfrɪkə;Африка
+after ; prep/adv/conj ; ˈæftər ; після
+afternoon ; n ; ˌæftəˈnuːn ; післяобіддя
+afterwards ; adv ; ˈæftəwədz ; потім
+again ; adv ; əˈɡen ; знову
+against ; prep ; əˈɡenst ; проти
+age ; n/v ; eɪdʒ ; вік, старіти
+aged ; adj ; ˈeɪdʒd ; старий
+agency ; n ; ˈeɪdʒənsi ; агентство
+agent ; n ; ˈeɪdʒənt ; агент
+ago ; adv ; əˈɡoʊ ; тому
+agree ; v ; əˈɡriː ; погоджуватися
+ahead ; adv ; əˈhɛd ; попереду
+aim ; n/v ; eɪm ; ціль, цілити
+air ; n ; eər ; повітря
+air-conditioning ; n ; ˈeər kənˌdɪʃənɪŋ ; кондиціонування повітря
+air force ; n ; ˈeər ˌfɔːrs ; повітряні сили
+airline ; n ; ˈeərlaɪn ; авіакомпанія
+airmail ; n ; ˈeərmeɪl ; авіапошта
+airport ; n ; ˈeərpɔːrt ; аеропорт
+alarm ; n/v ; əˈlɑːrm ; тривога, сповіщати
+alarm clock ; n ; əˈlɑːrm klɒk ; будильник
+album ; n ; ˈælbəm ; альбом
+alike ; adj/adv ; əˈlaɪk ; схожий, однаково
+alive ; adj ; əˈlaɪv ; живий
+all ; adj/pron ; ɔːl ; увесь, всі
+allow ; v ; əˈlaʊ ; дозволяти
+all right ; adj/adv ; ɔːl ˈraɪt ; гаразд, добре
+almost ; adv ; ˈɔːlməʊst ; майже
+alone ; adj/adv ; əˈləʊn ; самотній, на самоті
+along ; prep/adv ; əˈlɒŋ ; вздовж, разом
+aloud ; adv ; əˈlaʊd ; голосно
+alphabet ; n ; ˈælfəbɛt ; алфавіт
+already ; adv ; ɔːlˈrɛdi ; вже
+alright ; adv ; ɔːlˈraɪt ; гаразд
+also ; adv ; ˈɔːlsəʊ ; також
+although ; conj ; ɔːlˈðəʊ ; хоча
+altogether ; adv ; ˌɔːltəˈɡɛðər ; загалом
+always ; adv ; ˈɔːlweɪz ; завжди
+a.m.;abbr;ˌeɪˈɛm;ранок;до полудня
+amazed ; adj ; əˈmeɪzd ; вражений
+amazing ; adj ; əˈmeɪzɪŋ ; вражаючий
+ambassador ; n ; æmˈbæsədər ; посол
+ambition ; n ; æmˈbɪʃn ; амбіція
+ambulance ; n ; ˈæmbjʊləns ; швидка допомога
+among ; prep ; əˈmʌŋ ; серед
+amount ; n ; əˈmaʊnt ; кількість
+amusing ; adj ; əˈmjuːzɪŋ ; забавний
+ancient ; adj ; ˈeɪnʃənt ; давній
+and ; conj ; ænd ; і
+angry ; adj ; ˈæŋɡri ; сердитий
+animal ; n ; ˈænɪməl ; тварина
+ankle ; n ; ˈæŋkl ; щиколотка
+anniversary ; n ; ˌænɪˈvɜːsəri ; річниця
+announce ; v ; əˈnaʊns ; оголошувати
+announcement ; n ; əˈnaʊnsmənt ; оголошення
+annoy ; v ; əˈnɔɪ ; дратувати
+annoyed;adj;əˈnɔɪd;роздратований
+annual ; adj ; ˈænjuəl ; щорічний
+another ; adj/pron ; əˈnʌðər ; інший
+answer ; n/v ; ˈænsər ; відповідь, відповідати
+answer ; n/v ; ˈænsər ; відповідь, відповідати
+answerphone ; n ; ˈænsəfəʊn ; автовідповідач
+Antarctica;n;ænˈtɑːrktɪkə;Антарктика
+antique ; n/adj ; ænˈtiːk ; антикваріат, антикварний
+anxious ; adj ; ˈæŋkʃəs ; тривожний
+any ; adj/pron ; ˈeni ; будь-який, будь-хто
+anybody ; pron ; ˈenibɒdi ; будь-хто
+anyhow ; adv ; ˈenihaʊ ; якось, все одно
+anyone ; pron ; ˈeniwʌn ; будь-хто
+anything ; pron ; ˈeniθɪŋ ; будь-що
+anyway ; adv ; ˈeniweɪ ; як би там не було
+anywhere ; adv ; ˈenɪweə ; будь-де
+apart from ; prep ; əˈpɑːt frəm ; окрім
+apartment ; n ; əˈpɑːtmənt ; квартира
+apartment block;n;əˈpɑːrtmənt blɒk;блок квартир
+apologise ; v ; əˈpɒlədʒaɪz ; вибачатися
+apology ; n ; əˈpɒlədʒi ; вибачення
+appear ; v ; əˈpɪə ; з'являтися
+appearance ; n ; əˈpɪərəns ; зовнішність, поява
+apple ; n ; ˈæpl ; яблуко
+application ; n ; ˌæplɪˈkeɪʃn ; заявка, програма
+apply ; v ; əˈplaɪ ; подавати заявку, застосовувати
+appointment ; n ; əˈpɔɪntmənt ; призначення, зустріч
+approach ; n/v ; əˈprəʊtʃ ; підхід, наближатися
+approve ; v ; əˈpruːv ; схвалювати
+April;April;ˈeɪprəl;квітень
+architect ; n ; ˈɑːkɪtekt ; архітектор
+area ; n ; ˈeəriə ; район, область
+argue ; v ; ˈɑːɡjuː ; сперечатися
+arm ; n ; ɑːm ; рука
+armchair ; n ; ˈɑːmtʃeə ; крісло
+army ; n ; ˈɑːmi ; армія
+around ; prep/adv ; əˈraʊnd ; навколо, приблизно
+arrange ; v ; əˈreɪndʒ ; організовувати
+arrest ; n/v ; əˈrest ; арешт, заарештовувати
+arrival ; n ; əˈraɪvl ; прибуття
+arrive ; v ; əˈraɪv ; прибувати
+art ; n ; ɑːt ; мистецтво
+article ; n ; ˈɑːtɪkl ; стаття
+artist ; n ; ˈɑːtɪst ; художник
+as ; conj/prep ; æz ; як, якщо
+ashamed ; adj ; əˈʃeɪmd ; сором'язливий
+Asia;n;ˈeɪʒə;Азія
+ask ; v ; ɑːsk ; питати
+asleep ; adj ; əˈsliːp ; сплячий
+aspirin ; n ; ˈæspərɪn ; аспірин
+assistant ; n ; əˈsɪstənt ; помічник
+as well ; adv ; æz ˈwel ; також
+as well as ; prep ; æz ˈwel æz ; також, як і
+at ; prep ; æt ; в, на
+at all ; phr ; æt ˈɔːl ; взагалі
+at first ; phr ; æt ˈfɜːst ; спочатку
+athlete ; n ; ˈæθliːt ; спортсмен
+athletics ; n ; æθˈlɛtɪks ; легка атлетика
+at last ; phr ; æt ˈlɑːst ; нарешті
+at least ; phr ; æt ˈliːst ; принаймні
+atmosphere ; n ; ˈætməsfɪə ; атмосфера
+at once ; phr ; æt ˈwʌns ; негайно
+at present ; phr ; æt ˈpreznt ; наразі
+at sea;prep;ət ˈsiː;у морі
+attach ; v ; əˈtætʃ ; прикріплювати
+attack ; n/v ; əˈtæk ; атака, атакувати
+attempt ; n/v ; əˈtɛmpt ; спроба, намагатися
+attend ; v ; əˈtɛnd ; відвідувати
+attention ; n ; əˈtɛnʃn ; увага
+at the same time ; phr ; æt ði ˈseɪm taɪm ; одночасно
+attitude ; n ; ˈætɪtjuːd ; ставлення
+attract ; v ; əˈtrækt ; приваблювати
+attraction ; n ; əˈtrækʃn ; привабливість
+attractive ; adj ; əˈtræktɪv ; привабливий
+audience ; n ; ˈɔːdiəns ; аудиторія
+August;August;ˈɔːɡəst;серпень
+aunt ; n ; ɑːnt ; тітка
+Australia;n;ɒˈstreɪliə;Австралія
+automatically ; adv ; ˌɔːtəˈmætɪkli ; автоматично
+autumn;n;ˈɔːtəm;осінь
+autumn;n;ˈɔːtəm;осінь
+available ; adj ; əˈveɪləbl ; доступний
+average ; n/adj ; ˈævərɪdʒ ; середній, середнє
+avoid ; v ; əˈvɔɪd ; уникати
+awake ; adj/v ; əˈweɪk ; несплячий, прокидатися
+away ; adv ; əˈweɪ ; геть, далеко
+awful ; adj ; ˈɔːfl ; жахливий
+baby;n;ˈbeɪbi;немовля;малюк
+back;adv;bæk;назад
+background;n;ˈbækɡraʊnd;фон;минуле
+backpack;n;ˈbækpæk;рюкзак
+backwards;adv;ˈbækwərdz;назад;у зворотному напрямку
+bad;adj;bæd;поганий
+bag;n;bæɡ;сумка;мішок
+baggage;n;ˈbæɡɪdʒ;багаж
+bake;v;beɪk;випікати;печи
+balance;n;ˈbæləns;баланс;рівновага
+balcony;n;ˈbælkəni;балкон
+bald;adj;bɔːld;лисий
+ball;n;bɔːl;м'яч;кулька
+ballet;n;ˈbæleɪ;балет
+balloon;n;bəˈluːn;куля;балон
+banana;n;bəˈnænə;банан
+band;n;bænd;група;оркестр
+bandage;n;ˈbændɪdʒ;бинт
+bank;n;bæŋk;банк
+bank;n;bæŋk;банк
+bank balance;n;bæŋk ˈbæləns;банківський баланс
+banker;n;ˈbæŋkər;банкір
+banknote;n;ˈbæŋkˌnoʊt;банкнота
+bar;n;bɑːr;бар;смужка
+barbecue;n;ˈbɑːrbɪkjuː;барбекю
+bare;adj;beər;голий;неприкритий
+baseball;n;ˈbeɪsˌbɔːl;бейсбол
+basement;n;ˈbeɪsmənt;підвал
+base on;v;beɪs ɒn;базувати на;ґрунтуватися на
+basic;adj;ˈbeɪsɪk;базовий;основний
+basin;n;ˈbeɪsɪn;миска;басейн
+basket;n;ˈbɑːskɪt;кошик
+basketball;n;ˈbɑːskɪtˌbɔːl;баскетбол
+bat;n;bæt;кажан;бита
+bath;n;bɑːθ;ванна
+bathroom;n;ˈbɑːθruːm;ванна кімната
+battle;n;ˈbætl;битва
+bay;n;beɪ;затока
+be;v;biː;бути
+beach;n;biːʧ;пляж
+bean;n;biːn;боб;квасоля
+bear;n;beər;ведмідь
+beard;n;bɪəd;борода
+beat;v;biːt;бити;перемагати
+beautiful;adj;ˈbjuːtɪfʊl;красивий
+because;conj;bɪˈkɒz;тому що
+because of;prep;bɪˈkɒz əv;через;завдяки
+become;v;bɪˈkʌm;ставати
+bed;n;bɛd;ліжко
+bedroom;n;ˈbɛdrʊm;спальня
+bee;n;biː;бджола
+beef;n;biːf;яловичина
+before;prep;bɪˈfɔːr;до;перед
+begin;v;bɪˈɡɪn;починати
+beginner;n;bɪˈɡɪnər;початківець
+behave;v;bɪˈheɪv;поводитися
+behind;prep;bɪˈhaɪnd;позаду;за
+believe;v;bɪˈliːv;вірити
+bell;n;bɛl;дзвін;дзвоник
+belong;v;bɪˈlɒŋ;належати
+belongings;n;bɪˈlɒŋɪŋz;належності;речі
+below;prep;bɪˈləʊ;нижче;під
+belt;n;bɛlt;пояс;ремінь
+bend;v;bɛnd;гнути;згинати
+beneath;prep;bɪˈniːθ;під;нижче
+benefit;n;ˈbɛnɪfɪt;користь;вигода
+beside;prep;bɪˈsaɪd;біля;поруч
+between;prep;bɪˈtwiːn;між
+beyond;prep;bɪˈjɒnd;за;понад
+bicycle;n;ˈbaɪsɪkəl;велосипед
+big;adj;bɪɡ;великий
+bike;n;baɪk;велосипед;мотоцикл
+bill;n;bɪl;рахунок;банкнота
+bin;n;bɪn;сміттєве відро
+biography;n;baɪˈɒɡrəfi;біографія
+biology;n;baɪˈɒlədʒi;біологія
+bird;n;bɜːd;птах
+birth;n;bɜːθ;народження
+birthday;n;ˈbɜːθdeɪ;день народження
+biscuit;n;ˈbɪskɪt;печиво
+bit;n;bɪt;шматочок;трохи
+bite;v;baɪt;кусати
+bitter;adj;ˈbɪtər;гіркий
+black;adj;blæk;чорний
+blackboard;n;ˈblækbɔːd;дошка
+blame;v;bleɪm;звинувачувати
+blank;adj;blæŋk;порожній;чистий
+blanket;n;ˈblæŋkɪt;ковдра
+bleed;v;bliːd;кровоточити
+blind;adj;blaɪnd;сліпий
+block;n;blɒk;блок;квартал
+block of flats;n;blɒk əv ˈflæts;блок квартир
+blood;n;blʌd;кров
+blouse;n;blaʊz;блузка
+blow;v;bloʊ;дути;дмухати
+blue;adj;bluː;синій
+board;n;bɔːd;дошка;рада
+boarding pass;n;ˈbɔːdɪŋ pɑːs;посадковий талон
+boat;n;boʊt;човен;лодка
+body;n;ˈbɒdi;тіло
+boil;v;bɔɪl;кип'ятити;варити
+bold;adj;boʊld;сміливий;жирний (шрифт)
+bomb;n;bɒm;бомба
+bone;n;boʊn;кістка
+book;n;bʊk;книга
+booking office;n;ˈbʊkɪŋ ˈɒfɪs;каса;бронювальне бюро
+bookshelf;n;ˈbʊkʃɛlf;книжкова полиця
+bookshop;n;ˈbʊkʃɒp;книгарня
+boot;n;buːt;чобіт;бутс
+border;n;ˈbɔːrdər;кордон
+bored;adj;bɔːrd;нудьгуючий;засмучений
+boring;adj;ˈbɔːrɪŋ;нудний
+born;adj;bɔːrn;народжений
+borrow;v;ˈbɒrəʊ;позичати;брати в борг
+boss;n;bɒs;начальник;бос
+bossy;adj;ˈbɒsi;начальницький
+both;adj;boʊθ;обидва;обидві
+bottle;n;ˈbɒtl;пляшка
+bottle bank;n;ˈbɒtl bæŋk;контейнер для збору пляшок
+bottom;n;ˈbɒtəm;дно;низ
+bowl;n;boʊl;миска;чаша
+box;n;bɒks;коробка
+boxing;n;ˈbɒksɪŋ;бокс
+boy;n;bɔɪ;хлопчик
+boyfriend;n;ˈbɔɪfrɛnd;хлопець;бойфренд
+brain;n;breɪn;мозок
+brake;n;breɪk;гальмо
+branch;n;bræntʃ;гілка;філія
+brave;adj;breɪv;хоробрий
+Brazil;n;brəˈzɪl;Бразилія
+Brazilian;adj;brəˈzɪliən;бразильський
+bread;n;brɛd;хліб
+break;v;breɪk;ламати;перерва
+break down;v;breɪk daʊn;ламатися;розпадатися
+breakfast;n;ˈbrɛkfəst;сніданок
+break in;v;breɪk ɪn;спробувати зламати;втрутитися
+break up;v;ˌbreɪk ˈʌp;перерва;розпадатися
+breath;n;brɛθ;дихання
+breathe;v;briːð;дихати
+brick;n;brɪk;цегла
+bridge;n;brɪdʒ;міст
+brief;adj;bриf;короткий;стислий
+bright;adj;braɪt;яскравий;розумний
+brilliant;adj;ˈbrɪljənt;блискучий;геніальний
+bring;v;brɪŋ;приносити;приводити
+bring up;v;brɪŋ ʌp;виховувати;підіймати
+broad;adj;brɔːd;широкий
+brochure;n;ˈbroʊʃər;брошура
+brother;n;ˈbrʌðər;брат
+brown;adj;braʊn;коричневий
+brush;n;brʌʃ;щітка
+bucket;n;ˈbʌkɪt;відро
+buffet;n;ˈbʌfeɪ;буфет;самообслуговування
+bug;n;bʌɡ;жук;комаха
+build;v;bɪld;будувати
+building;n;ˈbɪldɪŋ;будівля;споруда
+bulb;n;bʌlb;цибулина;лампочка
+bullet;n;ˈbʊlɪt;куля
+bum;n;bʌm;сідниці;бродяга
+bureau;n;ˈbjʊərəʊ;бюро;відділ
+burger;n;ˈbɜːɡər;бургер;гамбургер
+burglar;n;ˈbɜːɡlər;злодій;грабіжник
+burglary;n;ˈbɜːɡləri;крадіжка;злодійство
+bury;v;ˈbɛri;закопувати;поховати
+bus;n;bʌs;автобус
+bush;n;bʊʃ;кущ
+business;n;ˈbɪznəs;бізнес;справа
+businessman;n;ˈbɪznɪsˌmæn;бізнесмен
+businesswoman;n;ˈbɪznɪsˌwʊmən;бізнесвумен
+bus station;n;bʌs ˈsteɪʃən;автобусна станція
+bus stop;n;bʌs stɒp;автобусна зупинка
+busy;adj;ˈbɪzi;зайнятий;оживлений
+but;conj;bʌt;але;проте
+butcher;n;ˈbʊʧər;м'ясник
+butter;n;ˈbʌtər;масло
+button;n;ˈbʌtən;кнопка;ґудзик
+buy;v;baɪ;купувати
+by;prep;baɪ;біля;до
+by accident;adv;baɪ ˈæksɪdənt;випадково
+by air;prep;baɪ ˈeər;повітрям
+by all means;adv;baɪ ɔːl ˈmiːnz;звичайно;безумовно
+by hand;adv;baɪ hænd;вручну;руками
+by land;prep;baɪ ˈlænd;сухопутним шляхом
+by mistake;adv;baɪ mɪˈsteɪk;помилково
+by name;adv;baɪ neɪm;за ім'ям
+by post;adv;baɪ poʊst;по пошті
+by rail;prep;baɪ ˈreɪl;залізницею
+by road;prep;baɪ ˈroʊd;автомобільним шляхом
+by sea;prep;baɪ ˈsiː;морем
+cab;n;kæb;таксі;кабріолет
+cabbage;n;ˈkæbɪdʒ;капуста
+cabin;n;ˈkæbɪn;каюта;хатина
+cable;n;ˈkeɪbəl;кабель;трос
+cafe;n;ˈkæfeɪ;кафе
+cage;n;keɪdʒ;клітка
+cake;n;keɪk;торт;пиріг
+calculator;n;ˈkælkjʊleɪtər;калькулятор
+calendar;n;ˈkælɪndər;календар
+call;v;kɔːl;дзвонити;називати
+call back;v;ˌkɔːl ˈbæk;передзвонити
+call for;v;ˈkɔːl fɔːr;вимагати;закликати
+calm;adj;kɑːm;спокійний
+camel;n;ˈkæməl;верблюд
+camera;n;ˈkæmərə;камера;фотоапарат
+cameraman;n;ˈkæmərəˌmæn;оператор
+camp;n;kæmp;табір
+camping;n;ˈkæmpɪŋ;кемпінг
+campsite;n;ˈkæmpˌsaɪt;табір для кемпінгу
+can;v;kæn;могти;можна
+Canada;n;ˈkænədə;Канада
+Canadian;adj;kəˈneɪdiən;канадський
+canal;n;kəˈnæl;канал
+cancel;v;ˈkænsəl;скасовувати;анулівати
+candidate;n;ˈkændɪdət;кандидат
+candle;n;ˈkændl;свічка
+candy;n;ˈkændi;цукерки
+canteen;n;kænˈtiːn;їдальня;буфет
+cap;n;kæp;ковпак;кришка
+capital;n;ˈkæpɪtəl;столиця;капітал
+capital city;n;ˌkæpɪtəl ˈsɪti;столиця
+captain;n;ˈkæptɪn;капітан
+car;n;kɑːr;автомобіль
+car alarm;n;ˈkɑːr əˌlɑːrm;сигналізація автомобіля
+card;n;kɑːrd;картка;карточка
+care;n;keər;турбота;догляд
+career;n;kəˈrɪər;кар'єра
+car park;n;ˈkɑː pɑːrk;автостоянка
+carpet;n;ˈkɑːrɪt;килим
+carrot;n;ˈkærət;морква
+carry;v;ˈkæri;нести;перевозити
+carry on;v;ˈkæri ɒn;продовжувати;нести далі
+carry out;v;ˈkæri aʊt;виконувати;здійснювати
+cartoon;n;kɑːrˈtuːn;мультфільм;карикатура
+case;n;keɪs;випадок;справа
+cash;n;kæʃ;готівка
+cassette;n;kəˈsɛt;касета
+cassette;n;kəˈsɛt;касета
+cassette player;n;kəˈsɛt ˈpleɪər;магнітофон
+castle;n;ˈkæsəl;замок
+cat;n;kæt;кішка
+catch;v;kætʃ;ловити;захоплювати
+cathedral;n;kəˈθiːdrəl;собор
+cauliflower;n;ˈkɒlɪˌflaʊər;цвітна капуста
+cause;n;kɔːz;причина;справа
+cave;n;keɪv;печера
+CD;n;ˌsiːˈdiː;компакт-диск
+CD;n;ˌsiːˈdiː;компакт-диск
+CD-Rom;n;ˌsiːdiːˈrɒm;CD-ROM
+ceiling;n;ˈsiːlɪŋ;стеля
+celebrate;v;ˈsɛlɪbreɪt;святкувати
+celebration;n;ˌsɛlɪˈbreɪʃən;святкування
+celery;n;ˈsɛləri;селера
+cellar;n;ˈsɛlər;підвал
+cent;n;sɛnt;цент;цента
+centigrade;adj;ˈsɛntɪɡreɪd;градуси за Цельсієм
+centimetre;n;ˈsɛntɪˌmiːtər;сантиметр
+central;adj;ˈsɛntrəl;центральний
+central heating;n;ˈsɛntrəl ˈhiːtɪŋ;центральне опалення
+centre;n;ˈsɛntər;центр
+century;n;ˈsɛnʧəri;століття
+cereal;n;ˈsɪəriəl;злаки;каша
+certain;adj;ˈsɜːtən;впевнений;конкретний
+certificate;n;səˈtɪfɪkət;сертифікат
+chain;n;ʧeɪn;ланцюг
+chair;n;ʧeər;стілець
+chalk;n;ʧɔːk;ковйолок
+challenge;n;ˈʧæləndʒ;виклик;завдання
+challenging;adj;ˈʧælɪndʒɪŋ;викличний
+champion;n;ˈʧæmpɪən;чемпіон
+chance;n;ʧæns;шанс;можливість
+change;v;ʧeɪndʒ;змінювати;міняти
+changing room;n;ˈʧeɪndʒɪŋ ruːm;роздягальня
+channel;n;ˈʧænəl;канал;прохід
+chapter;n;ˈʧæptər;глава;розділ
+character;n;ˈkærɪktər;характер;персонаж
+charge;v;ʧɑːrdʒ;заряджати;обвинувачувати
+charter;v;ˈʧɑːrtər;орендувати (транспорт)
+chat;v;ʧæt;балакати;спілкуватися
+chat room;n;ˈʧæt ruːm;чат-кімната
+cheap;adj;ʧiːp;дешевий
+cheat;v;ʧit;обманювати;шахраювати
+check;v;ʧɛk;перевіряти;контролювати
+check in;v;ʧɛk ɪn;реєструватися;зайти
+check-in;n;ˈʧɛk ɪn;реєстрація
+check out;v;ʧɛk aʊt;виписуватися;перевіряти
+cheerful;adj;ˈʧɪəfʊl;веселий;радісний
+cheers;interj;ʧɪəz;дякую;вітання
+cheese;n;ʧiːz;сир
+chef;n;ʃɛf;кухар;шеф-кухар
+chemist;n;ˈkɛmɪst;хімік;аптекар
+chemistry;n;ˈkɛmɪstri;хімія
+cheque;n;ʧɛk;чек
+chess;n;ʧɛs;шахи
+chest;n;ʧɛst;груди;скриня
+chest of drawers;n;ˌʧɛst əv ˈdrɔːrz;комод
+chicken;n;ˈʧɪkɪn;курка;курятина
+chief;adj;ʧiːf;головний;основний
+child;n;ʧaɪld;дитина
+childhood;n;ˈʧaɪldhʊd;дитинство
+chimney;n;ˈʧɪmni;димар;комин
+chin;n;ʧɪn;підборіддя
+China;n;ˈʧaɪnə;Китай
+Chinese;adj;ʧaɪˈniːz;китайський
+chips;n;ʧɪps;чипси;картопля фрі
+chocolate;n;ˈʧɒklət;шоколад
+choice;n;ʧɔɪs;вибір
+choose;v;ʧuːz;вибирати;обирати
+church;n;ʧɜːʧ;церква
+cinema;n;ˈsɪnəmə;кінотеатр
+circle;n;ˈsɜːkl;коло
+circus;n;ˈsɜːkəs;цирк
+city;n;ˈsɪti;місто
+city centre;n;ˌsɪti ˈsɛntər;центр міста
+clap;v;klæp;плескати;аплодувати
+class;n;klæs;клас;урок
+classical music;n;ˌklæsɪkəl ˈmjuːzɪk;класична музика
+classroom;n;ˈklæsˌruːm;класна кімната
+clean;adj;cliːn;чистий
+clear;adj;klɪər;ясний;чистий
+clever;adj;ˈklɛvər;розумний;кмітливий
+click;v;klɪk;клацати;натиснути
+cliff;n;klɪf;скеля;урвище
+climate;n;ˈklaɪmət;клімат
+climate change;n;ˈklaɪmət ʧeɪndʒ;зміна клімату
+climb;v;klaɪm;підніматися;лазити
+climbing;n;ˈklaɪmɪŋ;скелелазіння
+clinic;n;ˈklɪnɪk;клініка
+cloakroom;n;ˈkləʊkruːm;гардероб
+clock;n;klɒk;годинник
+close;v;kləʊz;закривати
+cloth;n;klɔθ;тканина;матеріал
+clothes;n;kləʊðz;одяг
+cloud;n;klaʊd;хмара
+cloudy;adj;ˈklaʊdi;хмарно
+club;n;klʌb;клуб
+coach;n;koʊtʃ;автобус (особливо далекого прямування)
+coach;n;koʊtʃ;тренер
+coal;n;koʊl;вугілля
+coast;n;koʊst;узбережжя;берег
+coat;n;koʊt;пальто;шар
+cocoa;n;ˈkoʊkoʊ;какао
+coconut;n;ˈkoʊkənʌt;кокос
+coffee;n;ˈkɒfi;кава
+coin;n;kɔɪn;монета
+cola;n;ˈkəʊlə;кола
+cold;adj;kəʊld;холодний
+collar;n;ˈkɒlər;комір;нашийник
+colleague;n;ˈkɒliːɡ;колега
+collect;v;kəˈlɛkt;збирати;колекціонувати
+collection;n;kəˈlɛkʃən;колекція;збір
+college;n;ˈkɒlɪdʒ;коледж
+colour;n;ˈkʌlər;колір
+comb;n;koʊm;гребінець
+come;v;kʌm;приходити;йти
+comedian;n;kəˈmiːdiən;комік;гуморист
+come down;v;ˈkʌm daʊn;спускатися;знижуватися
+comedy;n;ˈkɒmədi;комедія
+come on;v;ˈkʌm ɒn;давай;увімкнутися
+comer;n;ˈkʌmər;прибулець;новачок
+comfort;n;ˈkʌmfət;комфорт;утіха
+comfortable;adj;ˈkʌmfətəbl;зручний;комфортний
+comic;n;ˈkɒmɪk;комікс;гумористичний
+command;n;kəˈmænd;команда;наказ
+commercial;adj;kəˈmɜːʃəl;комерційний;рекламний
+committee;n;kəˈmɪti;комітет;група
+common;adj;ˈkɒmən;звичайний;спільний
+communicate;v;kəˈmjuːnɪkeɪt;спілкуватися
+communication;n;kəˌmjuːnɪˈkeɪʃən;комунікація;спілкування
+compact;adj;ˈkɒmpækt;компактний;щільний
+company;n;ˈkʌmpəni;компанія;товариство
+compare;v;kəmˈpeər;порівнювати
+comparison;n;kəmˈpærɪsən;порівняння
+compete;v;kəmˈpiːt;змагатися;конкурувати
+competition;n;ˌkɒmpəˈtɪʃən;конкурс;змагання
+complain;v;kəmˈpleɪn;скаржитися
+complaint;n;kəmˈpleɪnt;скарга
+complete;adj;kəmˈpliːt;повний;завершений
+complicated;adj;ˈkɒmplɪkeɪtɪd;складний;заплутаний
+composition;n;ˌkɒmpəˈzɪʃən;композиція;твір
+computer;n;kəmˈpjuːtər;комп'ютер
+concentrate;v;ˈkɒnsəntreɪt;концентрувати;зосереджуватися
+concert;n;ˈkɒnsɜːt;концерт
+conclusion;n;kənˈkluːʒən;висновок;закінчення
+condition;n;kənˈdɪʃən;умова;стан
+conference;n;ˈkɒnfərəns;конференція
+confident;adj;ˈkɒnfɪdənt;впевнений
+confirm;v;kənˈfɜːm;підтверджувати
+congratulations!;interj;kənˌɡrætʃəˈleɪʃənz;віншую!;вітаю!
+connect;v;kəˈnɛkt;з'єднувати;приєднувати
+connection;n;kəˈnɛkʃən;зв'язок;з'єднання
+consider;v;kənˈsɪdər;розглядати;вважати
+consist;v;kənˈsɪst;складатися;полягати
+consul;n;ˈkɒnsəl;консул
+consulate;n;ˈkɒnsjʊlət;консульство
+contact;n;ˈkɒntækt;контакт;зв'язок
+contain;v;kənˈteɪn;містити;включати
+contents;n;ˈkɒntents;вміст;зміст
+continent;n;ˈkɒntɪnənt;континент
+continue;v;kənˈtɪnjuː;продовжувати
+contract;n;ˈkɒntrækt;контракт;угода
+control;v;kənˈtrəʊl;контролювати;керувати
+convenient;adj;kənˈviːniənt;зручний;практичний
+conversation;n;ˌkɒnvəˈseɪʃən;розмова;бесіда
+cook;v;kʊk;готувати;варити
+cooker;n;ˈkʊkər;плита;кухонна піч
+cookie;n;ˈkʊki;печиво;кекс
+cool;adj;kuːl;крутий;прохолодний
+copy;n;ˈkɒpi;копія
+corn;n;kɔːn;кукурудза
+correct;adj;kəˈrɛkt;правильний;точний
+correction;n;kəˈrɛkʃən;виправлення;корекція
+corridor;n;ˈkɒrɪdɔːr;коридор
+cost;v;kɒst;коштувати
+costume;n;ˈkɒstjuːm;костюм;маскарадний костюм
+cottage;n;ˈkɒtɪdʒ;котедж;садиба
+cotton;n;ˈkɒtən;бавовна;ватне волокно
+cough;n;kɒf;кашель
+count;v;kaʊnt;рахувати;брати до уваги
+country;n;ˈkʌntri;країна
+countryside;n;ˈkʌntrisaɪd;сільська місцевість;природа
+couple;n;ˈkʌpəl;пара;подружжя
+courage;n;ˈkʌrɪdʒ;сміливість;мужність
+course;n;kɔːs;курс;страва
+court;n;kɔːt;суд;двір
+cover;v;ˈkʌvər;покривати;охоплювати
+cow;n;kaʊ;корова
+crash;v;kræʃ;розбиватися;аварія
+crazy;adj;ˈkreɪzi;божевільний;шалений
+cream;n;kriːm;вершки;крем
+create;v;krɪˈeɪt;створювати
+creative;adj;krɪˈeɪtɪv;творчий;креативний
+creature;n;ˈkriːtʃər;істота;творіння
+credit;n;ˈkrɛdɪt;кредит;довіра
+credit card;n;ˈkrɛdɪt kɑːrd;кредитна картка
+crew;n;kruː;екіпаж
+crime;n;kraɪm;злочин
+criminal;adj;ˈkrɪmɪnəl;кримінальний;злочинний
+cross;v;krɒs;перетинати;переходити
+crossing;n;ˈkrɒsɪŋ;перехід;перехрестя
+crossroads;n;ˈkrɒsroʊdz;перехрестя
+crowd;n;kraʊd;натовп
+crowded;adj;ˈkraʊdɪd;заповнений;переповнений
+crown;n;kraʊn;корона
+cruel;adj;ˈkruːəl;жорстокий
+cruise;n;kruːz;круїз;подорож
+cry;v;kraɪ;плакати;кричати
+cucumber;n;ˈkjuːkʌmbər;огірок
+cultural;adj;ˈkʌltʃərəl;культурний
+culture;n;ˈkʌltʃər;культура
+cup;n;kʌp;чашка
+cupboard;n;ˈkʌbəd;шафа;буфет
+cure;v;kjʊər;лікувати;вилікувати
+curious;adj;ˈkjʊərɪəs;цікавий;допитливий
+curly;adj;ˈkɜːrli;кучерявий
+currency;n;ˈkʌrənsi;валюта
+current;adj;ˈkʌrənt;поточний;сучасний
+curriculum;n;kəˈrɪkjʊləm;навчальна програма
+curriculum vitae;n;kəˈrɪkjʊləm ˈviːtaɪ;резюме;життєпис
+curry;n;ˈkʌri;каррі;соус каррі
+curtain;n;ˈkɜːtn;занавіска;штора
+curve;n;kɜːv;крива;зігнутість
+cushion;n;ˈkʊʃən;подушка;м'яка підкладка
+custom;n;ˈkʌstəm;звичай;традиція
+customer;n;ˈkʌstəmər;клієнт;покупець
+customs;n;ˈkʌstəmz;митниця
+customs officer;n;ˈkʌstəmz ˈɒfɪsər;митник
+cut;v;kʌt;різати;відрізати
+cut up;v;ˈkʌt ʌp;нарізати;подрібнювати
+CV;n;ˌsiːˈviː;резюме
+cycle;n;ˈsaɪkəl;велосипед;цикл
+cycling;n;ˈsaɪklɪŋ;велоспорт
+cyclist;n;ˈsaɪklɪst;велосипедист
+dad;n;dæd;тато;батько
+daddy;n;ˈdædi;татко;папа
+daily;adj;ˈdeɪli;щоденний
+damage;n;ˈdæmɪdʒ;шкода;пошкодження
+damp;adj;dæmp;вологий;сирний
+dance;v;dɑːns;танцювати
+dancer;n;ˈdænsər;танцівник
+dancing;n;ˈdænsɪŋ;танці
+dancing;n;ˈdænsɪŋ;танці
+danger;n;ˈdeɪndʒər;небезпека
+dangerous;adj;ˈdeɪndʒərəs;небезпечний
+dark;adj;dɑːrk;темний
+date;n;deɪt;дата;зустріч
+daughter;n;ˈdɔːtər;дочка
+day;n;deɪ;день
+dead;adj;dɛd;мертвий
+deaf;adj;dɛf;глухий
+deal;n;diːl;угода;справи
+dear;adj;dɪər;дорогий;любий
+death;n;dɛθ;смерть
+December;December;dɪˈsɛmbər;грудень
+decide;v;dɪˈsaɪd;вирішувати
+decimal;adj;ˈdɛsɪməl;десятковий
+decision;n;dɪˈsɪʒən;рішення
+deck;n;dɛk;палуба;колода
+declare;v;dɪˈklɛər;заявляти;оголошувати
+deejay;n;ˈdiːdʒeɪ;діджей
+deep;adj;diːp;глибокий
+defeat;v;dɪˈfiːt;перемагати;поразка
+defence;n;dɪˈfɛns;оборона;захист
+defend;v;dɪˈfɛnd;захищати
+definitely;adv;ˈdɛfɪnətli;точно;безумовно
+degree;n;dɪˈɡriː;ступінь;градус
+degrees;n;dɪˈɡriːz;градуси
+delay;n;dɪˈleɪ;затримка
+delete;v;dɪˈliːt;видаляти
+delighted;adj;dɪˈlaɪtɪd;радісний;задоволений
+deliver;v;dɪˈlɪvər;доставляти;народжувати
+delivery;n;dɪˈlɪvəri;доставка;пологи
+demand;n;dɪˈmænd;попит;вимога
+demonstration;n;ˌdɛmənˈstreɪʃən;демонстрація;показ
+dentist;n;ˈdɛntɪst;стоматолог
+depart;v;dɪˈpɑːrt;виїжджати;відбуватися
+department;n;dɪˈpɑːtmənt;відділ;департамент
+departure;n;dɪˈpɑːtʃər;від'їзд;відхід
+depend;v;dɪˈpɛnd;залежати
+deposit;n;dɪˈpɒzɪt;депозит;застава
+depressed;adj;dɪˈprɛst;депресивний
+depth;n;dɛpθ;глибина
+description;n;dɪˈskrɪpʃən;опис;характеристика
+desert;n;ˈdɛzərt;пустеля
+deserve;v;dɪˈzɜːv;заслуговувати
+design;n;dɪˈzaɪn;дизайн;проект
+designer;n;dɪˈzaɪnər;дизайнер
+desk;n;dɛsk;стіл;письмовий стіл
+despite;prep;dɪˈspaɪt;незважаючи на
+dessert;n;dɪˈzɜːrt;десерт
+destination;n;ˌdɛstɪˈneɪʃən;місце призначення
+destroy;v;dɪˈstrɔɪ;руйнувати;знищувати
+detail;n;ˈdiːteɪl;деталь;подробиця
+detective;n;dɪˈtɛktɪv;детектив
+develop;v;dɪˈvɛləp;розвивати;виробляти
+diagram;n;ˈdaɪəɡræm;діаграма;схема
+dial;v;ˈdaɪəl;набирати;крутити
+dial up;v;ˌdaɪəl ˈʌp;набирати номер
+diary;n;ˈdaɪəri;щоденник
+dictionary;n;ˈdɪkʃənəri;словник
+die;v;daɪ;помирати
+diet;n;ˈdaɪət;дієта;харчування
+differ;v;ˈdɪfər;відрізнятися
+difference;n;ˈdɪfərəns;різниця;відмінність
+different;adj;ˈdɪfərənt;різний;відмінний
+difficult;adj;ˈdɪfɪkəlt;складний;важкий
+difficulty;n;ˈdɪfɪkəlti;складність;проблема
+dig;v;dɪɡ;копати;викопувати
+digital;adj;ˈdɪdʒɪtəl;цифровий
+dining room;n;ˈdaɪnɪŋ ruːm;їдальня
+dining room dish;n;ˌdaɪnɪŋ ruːm dɪʃ;страва для їдальні
+dinner;n;ˈdɪnər;вечеря
+diploma;n;dɪˈpləʊmə;диплом
+direct;adj;dɪˈrɛkt;прямий;безпосередній
+direction;n;dɪˈrɛkʃən;напрямок;керування
+director;n;dɪˈrɛktər;директор;режисер
+directory;n;dɪˈrɛktəri;довідник;каталог
+disabled;adj;dɪsˈeɪbəld;інвалідний;непрацездатний
+disadvantage;n;ˌdɪsədˈvæntɪdʒ;недолік;мінус
+disagree;v;ˌdɪsəˈɡriː;не погоджуватися;сперечатися
+disappear;v;ˌdɪsəˈpɪər;зникати;дисапірувати
+disappoint;v;ˌdɪsəˈpɔɪnt;розчаровувати
+disappointed;adj;ˌdɪsəˈpɔɪntɪd;розчарований
+disc;n;dɪsk;диск;платівка
+disco;n;ˈdɪskoʊ;дискотека
+discount;n;ˈdɪskaʊnt;знижка
+discover;v;dɪˈskʌvər;відкривати;виявляти
+discuss;v;dɪˈskʌs;обговорювати
+discussion;n;dɪˈskʌʃən;обговорення;дискусія
+disease;n;dɪˈziːz;хвороба;захворювання
+disgusting;adj;dɪˈskʌstɪŋ;огидний;бридкий
+dish;n;dɪʃ;страва;посуд
+dishwasher;n;ˈdɪʃˌwɒʃər;посудомийна машина
+disk;n;dɪsk;диск;магнітний диск
+dislike;v;ˌdɪsˈlaɪk;не любити;не подобатися
+display;v;dɪˈspleɪ;показувати;виставляти
+distance;n;ˈdɪstəns;відстань
+distant;adj;ˈdɪstənt;далекий
+district;n;ˈdɪstrɪkt;район;округ
+disturb;v;dɪˈstɜːrb;турбувати;перешкоджати
+dive;v;daɪv;пірнати;стрибати
+diver;n;ˈdaɪvər;водолаз
+divide;v;dɪˈvaɪd;ділити;розділяти
+diving;n;ˈdaɪvɪŋ;пірнання
+dizzy;adj;ˈdɪzi;запаморочливий;безглуздий
+DJ;n;ˌdiːˈdʒeɪ;діджей
+do;v;duː;робити;виконувати
+doctor;n;ˈdɒktər;лікар
+document;n;ˈdɒkjʊmənt;документ;папір
+documentary;n;ˌdɒkjʊˈmɛntəri;документальний фільм
+dog;n;dɒɡ;собака
+doll;n;dɒl;лялька
+dollar;n;ˈdɒlər;долар
+dolphin;n;ˈdɒlfɪn;дельфін
+door;n;dɔːr;двері
+double;adj;ˈdʌbl;подвійний
+double room;n;ˌdʌbl ˈruːm;двомісний номер
+doubt;n;daʊt;сумнів
+down;adv;daʊn;вниз;донизу
+download;v;ˈdaʊnˌləʊd;завантажувати;скачувати
+downstairs;adv;ˌdaʊnˈsteəz;вниз по сходах;на першому поверсі
+dozen;n;ˈdʌzən;дюжина
+Dr;abbr;ˈdɒktər;доктор
+drama;n;ˈdrɑːmə;драма;театр
+draw;v;drɔː;малювати;тягнути
+drawer;n;ˈdrɔːr;ящик
+drawing;n;ˈdrɔːɪŋ;малювання
+dream;n;driːm;сон;мрія
+dress;n;dres;сукня;одяг
+dressing;n;ˈdresɪŋ;заправка;соус
+drink;v;drɪŋk;пити
+drive;v;draɪv;водити
+drive;v;draɪv;водити;їхати
+driving licence;n;ˈdraɪvɪŋ ˈlaɪsəns;водійське посвідчення
+driving licence;n;ˌdraɪvɪŋ ˈlaɪsəns;водійське посвідчення
+drop;v;drɒp;крапати;падати
+drugstore;n;ˈdrʌɡstɔːr;аптека;магазин ліків
+drum;n;drʌm;барабан
+dry;adj;draɪ;сухий
+dry cleaner;n;ˌdraɪ ˈkliːnər;хімчистка
+dry cleaning;n;ˈdraɪ ˈkliːnɪŋ;хімчистка
+duck;n;dʌk;качка
+due;adj;djuː;належний;очікуваний
+due;adj;djuː;очікуваний;належний
+due to;prep;ˈdjuː tuː;через;завдяки
+dull;adj;dʌl;нудний;тупий
+during;prep;ˈdjʊərɪŋ;протягом;в процесі
+dust;n;dʌst;пил
+dustbin;n;ˈdʌstbɪn;сміттєвий бак;кошик для сміття
+duty;n;ˈdjuːti;обов'язок;мито
+duty-free;adj;ˈdjuːti friː;безмитний
+duvet;n;ˈdjuːveɪ;ковдра;пухова ковдра
+DVD;n;ˌdiːˌviːˈdiː;DVD-диск
+DVD player;n;ˌdiːˌviːˈdiː ˈpleɪər;програвач DVD
+each;adj;ˈiːtʃ;кожен
+ear;n;ɪər;вухо
+earache;n;ˈɪəreɪk;вушна біль
+early;adj;ˈɜːrli;ранній;рано
+earn;v;ɜːn;заробляти;отримувати
+earring;n;ˈɪərɪŋ;сережка
+earth;n;ɜːθ;земля;планета
+east;n;ist;схід
+eastern;adj;ˈiːstərn;східний
+easy;adj;ˈiːzi;легкий;простий
+eat;v;it;їсти
+economics;n;ˌiːkəˈnɒmɪks;економіка;економічна наука
+edge;n;ɛdʒ;край;ребро
+educate;v;ˈɛdʒʊkeɪt;виховувати;навчати
+education;n;ˌɛdʒʊˈkeɪʃən;освіта;навчання
+effect;n;ɪˈfɛkt;ефект;вплив
+efficient;adj;ɪˈfɪʃənt;ефективний;дієвий
+effort;n;ˈɛfət;зусилля;старання
+egg;n;ɛɡ;яйце
+either;pron;ˈaɪðər;або;кожен з двох
+elderly;adj;ˈɛldərli;літа;старший
+elect;v;ɪˈlɛkt;обирати;вибирати
+election;n;ɪˈlɛkʃən;вибори
+electric;adj;ɪˈlɛktrɪk;електричний
+electrical;adj;ɪˈlɛktrɪkəl;електричний;електротехнічний
+electricity;n;ɪˌlɛktrɪˈsɪti;електрика;електроенергія
+electronic;adj;ˌɪlɛkˈtrɒnɪk;електронний
+elementary;adj;ˌɛlɪˈmɛntəri;початковий;елементарний
+elephant;n;ˈɛlɪfənt;слон
+else;adv;ɛls;інший;ще
+email;n;ˈiːmeɪl;електронна пошта
+embarrassed;adj;ɪmˈbærəst;засоромлений;незручний
+embarrassing;adj;ɪmˈbærəsɪŋ;незручний;соромливий
+embassy;n;ˈɛmbəsi;посольство
+emergency;n;ɪˈmɜːrdʒənsi;надзвичайна ситуація;невідкладність
+employ;v;ɪmˈplɔɪ;наймати;займати
+employee;n;ɪmˈplɔɪ.iː;працівник;найманий працівник
+employer;n;ɪmˈplɔɪər;роботодавець
+employment;n;ɪmˈplɔɪmənt;зайнятість;робота
+empty;adj;ˈɛmpti;порожній
+encourage;v;ɪnˈkʌrɪdʒ;заохочувати;підтримувати
+end;v;ɛnd;закінчувати;кінчати
+end up;v;ˈɛnd ʌp;закінчувати;опинятися
+enemy;n;ˈɛnəmi;ворог
+engaged;adj;ɪnˈɡeɪdʒd;зайнятий;заручений
+engineer;n;ˌɛndʒɪˈnɪər;інженер
+enjoy;v;ɪnˈdʒɔɪ;насолоджуватися;використовувати
+enormous;adj;ɪˈnɔːməs;величезний;гігантський
+enough;adj;ɪˈnʌf;достатньо;досить
+enquiry;n;ɪnˈkwaɪəri;запит;дослідження
+enter;v;ˈɛntər;входити;вписувати
+entertain;v;ˌɛntərˈteɪn;розважати;приймати
+entertaining;adj;ˌɛntərˈteɪnɪŋ;розважальний;цікавий
+entertainment;n;ˌɛntərˈteɪnmənt;розвага;шоу
+entrance;n;ˈɛntrəns;вхід;в'їзд
+entry;n;ˈɛntri;вступ;запис
+envelope;n;ˈɛnvələʊp;конверт;обгортка
+environment;n;ɪnˈvaɪrənmənt;навколишнє середовище
+environment;n;ɪnˈvaɪrənmənt;середовище;навколишнє середовище
+equal;adj;ˈiːkwəl;рівний;однаковий
+equipment;n;ɪˈkwɪpmənt;обладнання;екіпірування
+escalator;n;ˈɛskəleɪtər;есгейтер;рухомі сходи
+escape;v;ɪˈskeɪp;втікати;уникати
+especially;adv;ɪˈspɛʃəli;особливо;насамперед
+essay;n;ˈɛseɪ;есе;нарис
+essential;adj;ɪˈsɛnʃəl;необхідний;суттєвий
+Euro;n;ˈjʊərəʊ;євро;євровалюта
+euro;n;ˈjʊərəʊ;євро;європейська валюта
+Europe;n;ˈjʊərəp;Європа
+even;adv;ˈiːvən;навіть;рівно
+evening;n;ˈiːvnɪŋ;вечір
+event;n;ɪˈvɛnt;подія;захід
+ever;adv;ˈɛvər;коли-небудь;взагалі
+every;adj;ˈɛvri;кожний;всі
+everybody;pron;ˈɛvribɒdi;всі;усі
+everyone;pron;ˈɛvrɪwʌn;кожен;всі
+everything;pron;ˈɛvrɪθɪŋ;все;усі речі
+everywhere;adv;ˈɛvrɪwɛər;всюди;скрізь
+exact;adj;ɪɡˈzækt;точний;прецизійний
+exam;n;ɪɡˈzæm;іспит;екзамен
+examination;n;ɪɡˌzæmɪˈneɪʃən;обстеження;іспит
+examine;v;ɪɡˈzæmɪn;обстежувати;перевіряти
+example;n;ɪɡˈzɑːmpəl;приклад
+excellent;adj;ˈɛksələnt;відмінний;чудовий
+except;prep;ɪkˈsɛpt;крім;за винятком
+exchange;v;ɪksˈtʃeɪndʒ;обмінювати;замінювати
+exchange rate;n;ɪksˈtʃeɪndʒ reɪt;обмінний курс
+excited;adj;ɪkˈsaɪtɪd;збуджений;захоплений
+excitement;n;ɪkˈsaɪtmənt;збудження;ентузіазм
+exciting;adj;ɪkˈsaɪtɪŋ;захоплюючий;цікавий
+excuse;v;ɪkˈskjuːz;вибачати;виправдовувати
+exercise;n;ˈɛksəsaɪz;вправа;тренування
+exhibition;n;ˌɛksɪˈbɪʃən;виставка;ексгібіція
+exist;v;ɪɡˈzɪst;існувати
+exit;n;ˈɛksɪt;вихід
+expect;v;ɪkˈspɛkt;очікувати;сподіватися
+expedition;n;ˌɛkspɪˈdɪʃən;експедиція;поход
+expensive;adj;ɪkˈspɛnsɪv;дорогий;вартісний
+experience;n;ɪkˈspɪərɪəns;досвід;переживання
+experiment;n;ɪkˈspɛrɪmənt;експеримент;дослід
+expert;n;ˈɛkspɜːt;експерт;фахівець
+explain;v;ɪkˈspleɪn;пояснювати;тлумачити
+explanation;n;ˌɛkspləˈneɪʃən;пояснення;тлумачення
+explode;v;ɪkˈspləʊd;вибухати;розриватися
+explore;v;ɪkˈsplɔːr;досліджувати;вивчати
+extra;adj;ˈɛkstrə;додатковий;зайвий
+extraordinary;adj;ɪkˈstrɔːdɪnəri;надзвичайний;незвичайний
+extremely;adv;ɪkˈstriːmli;надзвичайно;дуже
+eye;n;aɪ;око;глаз
+face;n;feɪs;обличчя;лице
+facilities;n;fəˈsɪlɪtiz;обладнання;умови
+facilities;n;fəˈsɪlɪtiz;умови;обладнання
+fact;n;fækt;факт;реальність
+factory;n;ˈfæktəri;фабрика;завод
+fail;v;feɪl;провалюватися;не вдаватися
+failure;n;ˈfeɪljər;провал;невдача
+faint;v;feɪnt;знепритомніти;втрачати свідомість
+fair;adj;feər;справедливий;чесний
+fairly;adv;ˈfeərli;досить;відносно
+faithfully;adv;ˈfeɪθfəli;вірно;чесно
+fall;n;fɔːl;падіння;осінь (американський варіант)
+fall;v;fɔːl;падати;впасти
+false;adj;fɔːls;неправдивий;фальшивий
+familiar;adj;fəˈmɪljər;знайомий;звичний
+family;n;ˈfæməli;сім'я;родина
+famous;adj;ˈfeɪməs;відомий;знаменитий
+fan;n;fæn;вентилятор;фанат
+fantastic;adj;fænˈtæstɪk;фантастичний;чудовий
+far;adv;fɑːr;далеко;далекий
+fare;n;feər;плата за проїзд;тариф
+farm;n;fɑːm;ферма;господарство
+farmer;n;ˈfɑːrmər;фермер
+farmland;n;ˈfɑːrmˌlænd;сільськогосподарські угіддя
+fascinate;v;ˈfæsɪneɪt;захоплювати;чарувати
+fashion;n;ˈfæʃən;мода;стиль
+fast;adj;fɑːst;швидкий
+fasten;v;ˈfɑːsən;закріплювати;прикріплювати
+fat;adj;fæt;товстий;жирний
+father;n;ˈfɑːðər;батько
+fault;n;fɔːlt;помилка;недолік
+favour;n;ˈfeɪvər;послуга;прихильність
+favourite;adj;ˈfeɪvərɪt;улюблений;найбільш вподобаний
+fax;n;fæks;факс;факсимільний зв'язок
+fear;n;fɪər;страх;боязнь
+February;February;ˈfɛbruəri;лютий
+fee;n;fiː;плата;такса
+feed;v;fiːd;годувати;живити
+feel;v;fiːl;відчувати;чути
+feel better;v;ˌfiːl ˈbɛtər;почуватися краще
+feel ill;v;ˌfiːl ˈɪl;почуватися хворим
+feel like;v;ˈfiːl laɪk;відчувати бажання;мати настрій
+feel seek;v;ˌfiːl ˈsiːk;почуватися погано (неправильно, правильно - feel sick)
+fence;n;fɛns;паркан;огорожа
+ferry;n;ˈfɛri;пором
+festival;n;ˈfɛstɪvəl;фестиваль;свято
+fetch;v;fɛtʃ;приносити;дістати
+fever;n;ˈfiːvər;лихоманка;гарячка
+few;adj;fjuː;мало;кілька
+fiance;n;fiˈɑːnseɪ;наречений;наречена
+fiction;n;ˈfɪkʃən;вигадка;художня література
+field;n;fiːld;поле;ділянка
+fight;v;faɪt;боротися;битися
+figure;n;ˈfɪɡər;фігура;цифра
+fill;v;fɪl;наповнювати;заповнювати
+fill in;v;ˈfɪl ɪn;заповнювати;доповнювати
+fill up;v;ˈfɪl ʌp;заповнювати;наповнювати
+film;n;fɪlm;фільм;кінострічка
+film maker;n;ˈfɪlmˌmeɪkər;режисер;кінотворець
+film star;n;ˈfɪlm stɑːr;кіноактор;зірка кіно
+final;adj;ˈfaɪnəl;остаточний;фінальний
+financial;adj;faɪˈnænʃəl;фінансовий;грошовий
+find;v;faɪnd;знаходити;відкривати
+find out;v;ˈfaɪnd aʊt;дізнаватися;з'ясовувати
+fine;adj;faɪn;добре;чудово
+finger;n;ˈfɪŋɡər;палець;перст
+finish;v;ˈfɪnɪʃ;закінчувати;добігати кінця
+fire;n;faɪər;вогонь;пожежа
+firefighter;n;ˈfaɪərˌfaɪtər;пожежник
+fireman;n;ˈfaɪəmən;пожежник
+firm;adj;fɜːm;міцний;твердий
+first;adj;fɜːrst;перший
+first;adj;fɜːst;перший;початковий
+fish;n;fɪʃ;риба
+fishing;n;ˈfɪʃɪŋ;риболовля
+fit;adj;fɪt;підходящий;здоровий
+fitness;n;ˈfɪtnəs;фізична форма;здоров'я
+fix;v;fɪks;лагодити;вирішувати
+flag;n;flæɡ;прапор
+flat;adj;flæt;плоский;рівний
+flatmate;n;ˈflætˌmeɪt;сусід по квартирі
+flight;n;flaɪt;політ;рейс
+flight attendant;n;ˈflaɪt əˈtɛndənt;стюардеса;стюард
+float;v;fləʊt;плавати;спливати
+flood;n;flʌd;повінь;затоплення
+floor;n;flɔːr;підлога;поверх
+flour;n;ˈflaʊər;борошно
+flow;v;fləʊ;текти;поточити
+flower;n;ˈflaʊər;квітка
+flu;n;fluː;грип
+flute;n;fluːt;флейта
+fly;v;flaɪ;літати;мчати
+fog;n;fɒɡ;туман
+foggy;adj;ˈfɒɡi;туманно
+fold;v;fəʊld;складати;згинати
+folk;n;fəʊk;люди;народ
+folk music;n;ˈfoʊlk ˈmjuːzɪk;фольклорна музика
+follow;v;ˈfɒləʊ;йти за;слідувати
+following;adj;ˈfɒləʊɪŋ;наступний;такий
+fond;adj;fɒnd;ніжний;прихильний
+fool;n;fuːl;дурень;ідіот
+foot;n;fʊt;нога;стопа
+football;n;ˈfʊtbɔːl;футбол;американський футбол
+for;prep;fɔː;для;на
+forbid;v;fəˈbɪd;забороняти;не дозволяти
+force;n;fɔːs;сила;влада
+forecast;v;ˈfɔːkɑːst;прогнозувати;передбачати
+foreign;adj;ˈfɒrən;іноземний;закордонний
+foreigner;n;ˈfɒrənər;іноземець;чужинець
+forest;n;ˈfɒrɪst;ліс;лісова місцевість
+forever;adv;fəˈrɛvər;назавжди;вічно
+forget;v;fəˈɡɛt;забувати;забути
+forgive;v;fəˈɡɪv;прощати;дарувати
+fork;n;fɔːk;вилка;розвилка
+form;n;fɔːm;форма;анкета
+former;adj;ˈfɔːmər;колишній;попередній
+fortnight;n;ˈfɔːtnaɪt;два тижні
+fortunately;adv;ˈfɔːtʃənətli;на щастя;вдало
+forward;adv;ˈfɔːwəd;вперед;наперед
+fountain;n;ˈfaʊntɪn;фонтан;джерело
+fourth;adj;fɔːrθ;четвертий
+France;n;fræns;Франція
+free;adj;friː;вільний;безкоштовний
+freeze;v;friːz;заморожувати;мерзнути
+freezer;n;ˈfriːzər;морозильник;холодильник
+French;adj;frɛnʧ;французький
+French fries;n;ˈfrɛntʃ fraɪz;фрі;смажені картопляні смужки
+frequent;adj;ˈfriːkwənt;частий;регулярний
+fresh;adj;frɛʃ;свіжий;новий
+Friday;n;ˈfraɪdeɪ;п'ятниця
+fridge;n;frɪdʒ;холодильник
+friend;n;frɛnd;друг;приятель
+frighten;v;ˈfraɪtn;лякати;налякати
+frightened;adj;ˈfraɪtənd;переляканий
+from;prep;frɒm;з;від
+front;n;frʌnt;фронт;передня частина
+frontier;n;ˈfrʌntɪər;кордон;фронтир
+frost;n;frɒst;іній;мороз
+fruit;n;fruːt;фрукт;плід
+fruit juice;n;ˈfruːt dʒuːs;фруктовий сік
+fry;v;fraɪ;смажити;обсмажувати
+frying pan;n;ˈfraɪɪŋ pæn;сковорода
+fuel;n;ˈfjuːəl;паливо;горюче
+full;adj;fʊl;повний;насичений
+full time;n;ˈfʊl taɪm;повний робочий день
+full-time;adj;ˈfʊlˈtaɪm;повний;цілодобовий
+fun;n;fʌn;розвага;веселощі
+funny;adj;ˈfʌni;смішний;кумедний
+furnished;adj;ˈfɜːnɪʃt;мебльований;обставлений
+furniture;n;ˈfɜːnɪtʃər;меблі;обстановка
+further; adj/adv; ˈfɜːðə; далі; додатковий
+future; n/adj; ˈfjuːtʃə; майбутнє; майбутній
+gale;n;ɡeɪl;шторм;ураганний вітер
+gallery; n; ˈɡæləri; галерея
+game;n;ɡeɪm;гра;матч
+gap; n; ɡæp; проміжок; щілина
+garage; n; ˈɡærɑːʒ; гараж
+garden; n; ˈɡɑːrdən; сад
+gas; n; ɡæs; газ
+gate; n; ɡeɪt; ворота
+general; adj/n; ˈdʒɛnərəl; загальний; генерал
+generation; n; ˌdʒɛnəˈreɪʃən; покоління
+generous; adj; ˈdʒɛnərəs; щедрий
+gentle; adj; ˈdʒɛntl; лагідний; ніжний
+gentleman; n; ˈdʒɛntlmən; джентльмен
+geography; n; dʒiˈɒɡrəfi; географія
+get; v; ɡɛt; отримувати; ставати
+get along; v phr; ɡɛt əˈlɒŋ; ладнати; просуватися
+get back; v phr; ɡɛt bæk; повертатися
+get better;v;ˌɡɛt ˈbɛtər;видужувати
+get down; v phr; ɡɛt daʊn; записувати; спускатися
+get in; v phr; ɡɛt ɪn; заходити; потрапити
+get off; v phr; ɡɛt ɒf; зійти; від'їхати
+get on; v phr; ɡɛt ɒn; сідати (на транспорт); ладнати
+get rid of; v phr; ɡɛt rɪd əv; позбутися
+get up; v phr; ɡɛt ʌp; вставати; підніматися
+get wet;v;ˌɡɛt ˈwɛt;змокнути
+get worse;v;ˌɡɛt ˈwɜːrs;ставати гірше
+giraffe; n; dʒɪˈræf; жираф
+girl; n; ɡɜːl; дівчина
+girlfriend; n; ˈɡɜːlˌfrɛnd; дівчина (в стосунках)
+give; v; ɡɪv; давати
+give back; v phr; ɡɪv bæk; повертати
+give in; v phr; ɡɪv ɪn; здаватися
+give up; v phr; ɡɪv ʌp; відмовлятися; кидати
+give way; v phr; ɡɪv weɪ; поступатися; давати дорогу
+glad; adj; ɡlæd; радий
+glance; v/n; ɡlæns; зиркати; погляд
+glass; n; ɡlɑːs; скло; склянка
+glasses; n; ˈɡlɑːsɪz; окуляри
+global warming; n; ˈɡloʊbəl ˈwɔːrmɪŋ; глобальне потепління
+glove; n; ɡlʌv; рукавичка
+go; v/n; ɡəʊ; іти; хід
+goal; n; ɡəʊl; мета; ворота
+goat; n; ɡəʊt; коза
+go for; v phr; ɡəʊ fɔː; вибирати; прагнути
+go jogging;v;ˌɡoʊ ˈdʒɒɡɪŋ;бігати трусцою
+gold; n/adj; ɡəʊld; золото; золотий
+golf; n; ɡɒlf; гольф
+good; adj/n; ɡʊd; добрий; добро
+good-looking; adj; ˈɡʊdˌlʊkɪŋ; гарний; привабливий
+goodnight; interj; ɡʊdˈnaɪt; на добраніч
+goods; n; ɡʊdz; товари
+go off; v phr; ɡəʊ ɒf; вибухати; вимикатися
+go on; v phr; ɡəʊ ɒn; продовжувати; відбуватися
+govern; v; ˈɡʌvən; керувати; управляти
+government; n; ˈɡʌvənmənt; уряд
+go with; v phr; ɡəʊ wɪð; іти з; підходити до
+grade; n/v; ɡreɪd; оцінка; класифікувати
+gram; n; ɡræm; грам
+grammar; n; ˈɡræmə; граматика
+grand; adj; ɡrænd; чудовий; грандіозний
+grandchild; n; ˈɡrændˌtʃaɪld; онук; внучка
+granddaughter; n; ˈɡrændˌdɔːtə; внучка
+grandfather; n; ˈɡrændˌfɑːðə; дідусь
+grandma; n; ˈɡrændˌmɑː; бабуся
+grandmother; n; ˈɡrændˌmʌðə; бабуся
+grandpa; n; ˈɡrændˌpɑː; дідусь
+grandparent; n; ˈɡrændˌpɛərənt; дідусь або бабуся
+grandson; n; ˈɡrændˌsʌn; онук
+grant; v/n; ɡrænt; надавати; грант
+grape; n; ɡreɪp; виноград
+grass; n; ɡrɑːs; трава
+grateful; adj; ˈɡreɪtfəl; вдячний
+great; adj; ɡreɪt; великий; чудовий
+green; adj/n; ɡriːn; зелений; зелений колір
+greengrocer; n; ˈɡriːnˌɡrəʊsə; овочевий продавець
+grey; adj/n; ɡreɪ; сірий; сірий колір
+grill; v/n; ɡrɪl; гриль; смажити на грилі
+grocer; n; ˈɡrəʊsə; бакалійник
+ground; n; ɡraʊnd; земля; ґрунт
+group; n; ɡruːp; група
+grow; v; ɡrəʊ; рости; вирощувати
+grow up; v phr; ɡrəʊ ʌp; виростати; дорослішати
+guard; n/v; ɡɑːd; охоронець; охороняти
+guess; v/n; ɡɛs; здогадуватися; здогад
+guest; n; ɡɛst; гість
+guest-house; n; ˈɡɛstˌhaʊs; гостьовий будинок
+guide; n/v; ɡaɪd; гід; керувати
+guidebook; n; ˈɡaɪdˌbʊk; путівник
+guilty; adj; ˈɡɪlti; винний
+guitar; n; ɡɪˈtɑː; гітара
+gum; n; ɡʌm; жуйка
+guy; n; ɡaɪ; хлопець; чоловік
+gym; n; dʒɪm; спортзал
+habit; n; ˈhæbɪt; звичка
+hair; n; heə; волосся
+haircut; n; ˈheəˌkʌt; стрижка
+hairdresser; n; ˈheəˌdresə; перукар
+hairdryer; n; ˈheəˌdraɪə; фен
+half; n/adj; hɑːf; половина; напів-
+hall; n; hɔːl; зал; коридор
+hallo; interj; həˈləʊ; привіт (варіант hello)
+hammer; n/v; ˈhæmə; молоток; забивати
+hand; n/v; hænd; рука; передавати
+handbag; n; ˈhændˌbæɡ; сумка
+hand-held; adj; ˈhændˌhɛld; ручний
+hand in; v phr; hænd ɪn; здавати; подавати
+handkerchief; n; ˈhæŋkətʃɪf; носовичок
+handle; v/n; ˈhændəl; обробляти; ручка
+handlebars;n;ˈhændlˌbɑːrz;руль
+hand out; v phr; hænd aʊt; роздавати
+handsome; adj; ˈhændsəm; вродливий; привабливий
+handwriting; n; ˈhændˌraɪtɪŋ; почерк
+hang; v; hæŋ; вішати; висіти
+hang out;v;ˌhæŋ ˈaʊt;тусити;проводити час
+hang up;v;ˌhæŋ ˈʌp;покласти трубку
+happen; v; ˈhæpən; відбуватися
+happy; adj; ˈhæpi; щасливий
+harbour; n; ˈhɑːbə; гавань
+hard; adj/adv; hɑːd; важкий; важко
+hardly; adv; ˈhɑːdli; ледве; майже не
+hat; n; hæt; капелюх
+hate; v/n; heɪt; ненавидіти; ненависть
+have; v; hæv; мати
+have got; v phr; hæv gɒt; мати; володіти
+he; pron; hiː; він
+head; n/v; hɛd; голова; очолювати
+headache; n; ˈhɛdˌeɪk; головний біль
+headline; n; ˈhɛdˌlaɪn; заголовок
+health; n; hɛlθ; здоров'я
+healthy;adj;ˈhɛlθi;здоровий
+hear; v; hɪə; чути
+heart; n; hɑːt; серце
+heat; n/v; hiːt; тепло; нагрівати
+heavy; adj; ˈhɛvi; важкий
+hedge; n; hɛdʒ; жива огорожа
+height; n; haɪt; висота
+helicopter; n; ˈhɛlɪˌkɒptə; гелікоптер
+hello; interj/n; həˈləʊ; привіт; привітання
+helmet; n; ˈhɛlmɪt; шолом
+help; v/n; hɛlp; допомагати; допомога
+her; pron; hɜː; її; їй
+here; adv; hɪə; тут
+hero; n; ˈhɪərəʊ; герой
+hers; pron; hɜːz; її (власність)
+herself; pron; hɜːˈsɛlf; вона сама
+hide; v; haɪd; ховати
+hi-fi;n;ˌhaɪˈfaɪ;аудіосистема високої якості
+high; adj/adv; haɪ; високий; високо
+high jump;n;ˌhaɪ ˈdʒʌmp;стрибки у висоту
+hill; n; hɪl; пагорб
+him; pron; hɪm; його; йому
+himself; pron; hɪmˈsɛlf; він сам
+hire; v/n; ˈhaɪə; наймати; оренда
+his; pron; hɪz; його
+historic; adj; hɪˈstɒrɪk; історичний (значущий)
+historical; adj; hɪˈstɒrɪkəl; історичний (пов'язаний з історією)
+history; n; ˈhɪstəri; історія
+hit;v;hɪt;ударити
+hit; v/n; hɪt; вдарити; удар
+hitch-hike; v; ˈhɪtʃˌhaɪk; автостопити
+hit song;n;ˈhɪt sɔːŋ;хіт;популярна пісня
+hobby; n; ˈhɒbi; хобі; захоплення
+hockey; n; ˈhɒki; хокей
+hold; v/n; həʊld; тримати; утримання
+hold up; v phr; həʊld ʌp; затримувати; підняти
+hole; n; həʊl; отвір; дірка
+holiday; n; ˈhɒlədeɪ; свято; відпустка
+home; n/adv; həʊm; дім; додому
+homepage; n; ˈhəʊmˌpeɪdʒ; головна сторінка
+homework; n; ˈhəʊmwɜːk; домашнє завдання
+honest; adj; ˈɒnɪst; чесний
+honey; n; ˈhʌni; мед
+hope; v/n; həʊp; сподіватися; надія
+horrible; adj; ˈhɒrəbəl; жахливий
+horse; n; hɔːs; кінь
+horse-riding;n;ˈhɔːrs ˌraɪdɪŋ;верхова їзда
+hospital; n; ˈhɒspɪtəl; лікарня
+hostel; n; ˈhɒstəl; гуртожиток; хостел
+hot; adj; hɒt; гарячий
+hotel; n; həʊˈtɛl; готель
+hour; n; aʊə; година
+house; n; haʊs; будинок
+housewife; n; ˈhaʊsˌwaɪf; домогосподарка
+housework; n; ˈhaʊsˌwɜːk; домашня робота
+hovercraft; n; ˈhɒvəˌkrɑːft; судно на повітряній подушці
+how; adv; haʊ; як
+however; adv/conj; haʊˈɛvə; однак; проте
+how much; phr; haʊ mʌtʃ; скільки
+huge; adj; hjuːdʒ; величезний
+human; adj/n; ˈhjuːmən; людський; людина
+hunger; n; ˈhʌŋɡə; голод
+hungry; adj; ˈhʌŋɡri; голодний
+hurry; v/n; ˈhʌri; поспішати; поспіх
+hurt; v; hɜːt; боліти; поранити
+husband; n; ˈhʌzbənd; чоловік
+hut; n; hʌt; хатина
+hydrofoil; n; ˈhaɪdrəfɔɪl; глісер
+I; pron; aɪ; я
+ice; n; aɪs; лід
+ice cream; n; ˈaɪs ˌkriːm; морозиво
+ice hockey; n; ˈaɪs ˌhɒki; хокей на льоду
+icy;adj;ˈaɪsi;льодяний
+idea; n; aɪˈdɪə; ідея
+identity; n; aɪˈdɛntɪti; ідентичність; особистість
+if; conj; ɪf; якщо
+ill; adj; ɪl; хворий
+illness; n; ˈɪlnəs; хвороба
+imagination; n; ɪˌmædʒɪˈneɪʃən; уява
+imagine; v; ɪˈmædʒɪn; уявляти
+immediate; adj; ɪˈmiːdiət; негайний; безпосередній
+immediately; adv; ɪˈmiːdiətli; негайно
+immigration; n; ˌɪmɪˈɡreɪʃən; імміграція
+import; v/n; ˈɪmpɔːt; імпортувати; імпорт
+importance; n; ɪmˈpɔːtəns; важливість
+important; adj; ɪmˈpɔːtənt; важливий
+impossible; adj; ɪmˈpɒsəbəl; неможливий
+improve; v; ɪmˈpruːv; покращувати
+in; prep; ɪn; у; в
+in advance; phr; ɪn ədˈvɑːns; заздалегідь
+in any case; phr; ɪn ˈɛni keɪs; у будь-якому разі
+in case of; phr; ɪn ˈkeɪs əv; у разі
+include; v; ɪnˈkluːd; включати
+income; n; ˈɪnkʌm; дохід
+incorrect; adj; ˌɪnkəˈrɛkt; неправильний
+increase; v/n; ɪnˈkriːs; збільшувати; зростання
+in danger; phr; ɪn ˈdeɪndʒə; у небезпеці
+indeed; adv; ɪnˈdiːd; справді
+independent; adj; ˌɪndɪˈpɛndənt; незалежний
+index; n; ˈɪndɛks; індекс; покажчик
+India;n;ˈɪndiə;Індія
+Indian;adj;ˈɪndiən;індійський
+individual; adj/n; ˌɪndɪˈvɪdʒuəl; індивідуальний; особа
+indoor; adj; ˈɪndɔː; внутрішній; домашній
+indoors; adv; ɪnˈdɔːz; у приміщенні; в будинку
+industry; n; ˈɪndəstri; промисловість
+inexpensive;adj;ˌɪnɛkˈspɛnsɪv;недорогий
+in fact; phr; ɪn ˈfækt; насправді
+influence; n/v; ˈɪnfluəns; вплив; впливати
+inform; v; ɪnˈfɔːm; інформувати
+information; n; ˌɪnfəˈmeɪʃən; інформація
+in front of; phr; ɪn ˈfrʌnt əv; перед; попереду
+ingredients; n; ɪnˈɡriːdiənts; інгредієнти
+inhabitant; n; ɪnˈhæbɪtənt; житель
+in half; phr; ɪn ˈhɑːf; навпіл
+in ink; phr; ɪn ˈɪŋk; чорнилом
+initial; adj/n; ɪˈnɪʃəl; початковий; ініціали
+injure;v;ˈɪndʒər;травмувати
+ink; n; ɪŋk; чорнило
+in love; phr; ɪn ˈlʌv; закоханий
+inn; n; ɪn; готель; заїжджий двір
+in order; phr; ɪn ˈɔːdə; у порядку
+in order to; phr; ɪn ˈɔːdə tuː; для того щоб
+in pencil; phr; ɪn ˈpɛnsəl; олівцем
+in pieces; phr; ɪn ˈpiːsɪz; на шматки
+in place; phr; ɪn ˈpleɪs; на місці
+in private; phr; ɪn ˈpraɪvət; приватно
+in public; phr; ɪn ˈpʌblɪk; публічно
+inquiry; n; ɪnˈkwaɪəri; запит; розслідування
+insect; n; ˈɪnsɛkt; комаха
+inside; adv/prep/n; ɪnˈsaɪd; всередині; всередині; внутрішня сторона
+insist; v; ɪnˈsɪst; наполягати
+instance; n; ˈɪnstəns; приклад; випадок
+instead; adv; ɪnˈstɛd; замість
+instead of; prep phr; ɪnˈstɛd əv; замість
+in stock; phr; ɪn ˈstɒk; у наявності
+instruction; n; ɪnˈstrʌkʃən; інструкція; настанова
+instructor; n; ɪnˈstrʌktə; інструктор
+instrument; n; ˈɪnstrəmənt; інструмент
+insure; v; ɪnˈʃʊə; страхувати
+intelligent; adj; ɪnˈtɛlɪdʒənt; розумний; інтелігентний
+intend; v; ɪnˈtɛnd; мати намір; планувати
+intermediate; adj/n; ˌɪntəˈmiːdiət; середній; проміжний
+international; adj; ˌɪntəˈnæʃənəl; міжнародний
+internet; n; ˈɪntəˌnɛt; інтернет
+interpret; v; ɪnˈtɜːprɪt; тлумачити; перекладати
+interpreter;n;ɪnˈtɜːrprɪtər;перекладач
+interrupt; v; ˌɪntəˈrʌpt; переривати
+interval; n; ˈɪntəvəl; інтервал; пауза
+interview;n;ˈɪntərvjuː;інтерв'ю
+in the end; phr; ɪn ði ˈɛnd; в кінці кінців
+in time; phr; ɪn ˈtaɪm; вчасно
+into; prep; ˈɪntuː; в; у
+introduce; v; ˌɪntrəˈdjuːs; представляти; вводити
+introduction; n; ˌɪntrəˈdʌkʃən; введення; знайомство
+in turn; phr; ɪn ˈtɜːn; по черзі
+in two; phr; ɪn ˈtuː; навпіл
+invade; v; ɪnˈveɪd; вторгатися
+invasion; n; ɪnˈveɪʒən; вторгнення
+invent; v; ɪnˈvɛnt; винайти
+invention; n; ɪnˈvɛnʃən; винахід
+invitation; n; ˌɪnvɪˈteɪʃən; запрошення
+invite; v; ɪnˈvaɪt; запрошувати
+involve; v; ɪnˈvɒlv; включати; залучати
+Ireland;n;ˈaɪərlənd;Ірландія
+Irish;adj;ˈaɪrɪʃ;ірландський
+iron; n/v; ˈaɪən; залізо; прасувати
+island; n; ˈaɪlənd; острів
+issue; n/v; ˈɪʃuː; питання; видавати
+IT; n; ˌaɪˈtiː; інформаційні технології
+it; pron; ɪt; воно; це
+Italian;adj;ɪˈtæliən;італійський
+Italy;n;ˈɪtəli;Італія
+item; n; ˈaɪtəm; предмет; товар
+its; pron; ɪts; його; її (неживе)
+itself; pron; ɪtˈsɛlf; сам; себе
+jacket; n; ˈdʒækɪt; куртка
+jail; n/v; dʒeɪl; в'язниця; ув'язнювати
+jam; n; dʒæm; джем; варення
+January;January;ˈdʒænjuəri;січень
+jazz; n; dʒæz; джаз
+jazz music;n;ˈdʒæz ˈmjuːzɪk;джазова музика
+jealous; adj; ˈdʒɛləs; ревнивий
+jeans; n; dʒiːnz; джинси
+jet; n; dʒɛt; реактивний літак; струмінь
+jewellery; n; ˈdʒuːəlri; коштовності; прикраси
+job; n; dʒɒb; робота; посада
+jog; v; dʒɒɡ; бігати трусцем
+jogging;n;ˈdʒɒɡɪŋ;біг підтюпцем
+jogging;n;ˈdʒɒɡɪŋ;біг підтюпцем
+join; v; dʒɔɪn; приєднуватися; з'єднувати
+join in;v;ˌdʒɔɪn ˈɪn;приєднуватися
+join in;v;ˌdʒɔɪn ˈɪn;приєднуватися
+joke; n/v; dʒəʊk; жарт; жартувати
+journalism; n; ˈdʒɜːnəlɪzəm; журналістика
+journalist; n; ˈdʒɜːnəlɪst; журналіст
+journey; n; ˈdʒɜːni; подорож
+journey;n;ˈdʒɜːrni;подорож
+judge; n/v; dʒʌdʒ; суддя; судити
+jug; n; dʒʌɡ; глечик
+juice; n; dʒuːs; сік
+July;July;dʒuːˈlaɪ;липень
+jump; v/n; dʒʌmp; стрибати; стрибок
+June;June;dʒuːn;червень
+jury; n; ˈdʒʊəri; журі; присяжні
+just; adv; dʒʌst; тільки; справедливий
+kangaroo; n; ˌkæŋɡəˈruː; кенгуру
+keen; adj; kiːn; гострий; захоплений
+keen on;adj;ˌkiːn ˈɒn;захоплюватися;любити
+keep; v; kiːp; зберігати; тримати
+keep fit;v;ˌkiːp ˈfɪt;тримати себе в формі
+keep in; v phr; kiːp ɪn; утримувати; тримати в
+keep on; v phr; kiːp ɒn; продовжувати; не переставати
+keep up; v phr; kiːp ʌp; підтримувати; не відставати
+kettle; n; ˈkɛtəl; чайник
+key; n; kiː; ключ
+keyboard;n;ˈkiːbɔːrd;клавіатура
+kick;v;kɪk;бити ногою
+kids; n; kɪdz; діти
+kill; v; kɪl; вбивати
+kilo; n; ˈkiːləʊ; кілограм
+kilometre; n; kɪˈlɒmɪtə; кілометр
+kind; n/adj; kaɪnd; вид; добрий
+king; n; kɪŋ; король
+kiosk; n; ˈkiːɒsk; кіоск
+kiss; v/n; kɪs; цілувати; поцілунок
+kitchen; n; ˈkɪtʃɪn; кухня
+kitten; n; ˈkɪtən; кошеня
+knee; n; niː; коліно
+kneel; v; niːl; стояти на колінах
+knife; n; naɪf; ніж
+knit; v; nɪt; в'язати
+knock; v/n; nɒk; стукати; стук
+knock down; v phr; nɒk daʊn; збивати; зносити
+knock out; v phr; nɒk aʊt; нокаутувати; вибивати
+know; v; nəʊ; знати
+knowledge; n; ˈnɒlɪdʒ; знання
+laboratory; n; ləˈbɒrətəri; лабораторія
+labourer; n; ˈleɪbərə; робітник
+lack; n/v; læk; нестача; не вистачати
+ladder; n; ˈlædə; драбина
+lady; n; ˈleɪdi; леді; жінка
+lake; n; leɪk; озеро
+lamb; n; læm; ягня; баранина
+lamp; n; læmp; лампа
+land; n/v; lænd; земля; приземлятися
+land;v;lænd;приземлятися
+landlady; n; ˈlændˌleɪdi; господиня; власниця будинку
+landlord; n; ˈlændˌlɔːd; господар; власник будинку
+landscape; n; ˈlændˌskeɪp; пейзаж
+language; n; ˈlæŋɡwɪdʒ; мова
+languages;n;ˈlæŋɡwɪdʒɪz;мови
+laptop; n; ˈlæpˌtɒp; ноутбук
+large; adj; lɑːdʒ; великий
+laser; n; ˈleɪzə; лазер
+last; adj/n/v; lɑːst; останній; тривати; останній раз
+late; adj/adv; leɪt; пізній; пізно
+lately; adv; ˈleɪtli; нещодавно
+later; adv; ˈleɪtə; пізніше
+latest; adj; ˈleɪtɪst; останній; найновіший
+laugh; v/n; læf; сміятися; сміх
+laundry; n; ˈlɔːndri; пральня; прання
+lavatory; n; ˈlævətəri; туалет
+law; n; lɔː; закон
+lawn; n; lɔːn; газон
+lawyer; n; ˈlɔːjə; адвокат; юрист
+lay; v; leɪ; класти; покласти
+lazy; adj; ˈleɪzi; лінивий
+lead; v/n; liːd; вести; свинець
+leaf; n; liːf; листок; листя
+learn; v; lɜːrn; вчитися; навчатися
+least; adv/det; liːst; найменше; найменший
+leather; n; ˈleðə; шкіра
+leave; v; liːv; залишати; покидати
+leave out; v phr; liːv aʊt; виключати; пропускати
+lecture; n/v; ˈlɛktʃə; лекція; читати лекцію
+lecturer;n;ˈlɛkʧərər;лектор
+left; adj/n; lɛft; лівий; залишок
+leg; n; lɛɡ; нога
+leisure; n; ˈlɛʒə; дозвілля
+lemon; n; ˈlɛmən; лимон
+lemonade; n; ˌlɛməˈneɪd; лимонад
+lend; v; lɛnd; позичати; давати в борг
+length; n; lɛŋθ; довжина
+less; adv/det; lɛs; менше; менший
+lesson; n; ˈlɛsən; урок
+let; v; lɛt; дозволяти; здавати в оренду
+letter;n;ˈlɛtər;лист;буква
+letter-box; n; ˈlɛtər bɒks; поштова скринька
+lettuce; n; ˈlɛtɪs; салат
+level; n/adj; ˈlɛvəl; рівень; рівний
+librarian;n;laɪˈbrɛəriən;бібліотекар
+library; n; ˈlaɪbrəri; бібліотека
+licence; n; ˈlaɪsəns; ліцензія
+lie; v/n; laɪ; брехати; брехня
+life; n; laɪf; життя
+lift; v/n; lɪft; піднімати; ліфт
+light; n/adj; laɪt; світло; легкий
+lighter; n; ˈlaɪtə; запальничка
+lightning;n;ˈlaɪtnɪŋ;блискавка
+like; v/prep; laɪk; подобатися; як
+likely; adj/adv; ˈlaɪkli; ймовірний; ймовірно
+limit; n/v; ˈlɪmɪt; обмеження; обмежувати
+line; n; laɪn; лінія; рядок
+lion;n;ˈlaɪən;лев
+lip; n; lɪp; губа
+lipstick; n; ˈlɪpˌstɪk; помада
+liquid; n/adj; ˈlɪkwɪd; рідина; рідкий
+list; n/v; lɪst; список; перелічувати
+listen; v; ˈlɪsən; слухати
+literature; n; ˈlɪtərətʃə; література
+litre; n; ˈliːtə; літр
+litter; n/v; ˈlɪtə; сміття; засмічувати
+little; adj/det; ˈlɪtəl; маленький; небагато
+live; v/adj; lɪv; жити; живий
+living; adj/n; ˈlɪvɪŋ; живий; життя
+living room; n; ˈlɪvɪŋ ruːm; вітальня
+living-room;n;ˈlɪvɪŋ ruːm;вітальня
+load; v/n; ləʊd; завантажувати; вантаж
+loaf; n; ləʊf; буханець; хліб
+loan; n/v; ləʊn; позика; позичати
+local; adj/n; ˈləʊkəl; місцевий; локальний
+location; n; ləʊˈkeɪʃən; місце; локація
+lock; v/n; lɒk; замикати; замок
+locker; n; ˈlɒkə; шафка; локер
+lonely; adj; ˈləʊnli; самотній
+long; adj/adv; lɒŋ; довгий; довго
+long jump;n;ˌlɒŋ ˈdʒʌmp;стрибки у довжину
+look; v/n; lʊk; дивитися; погляд
+look after; v phr; lʊk ˈɑːftə; доглядати; піклуватися
+look forward to; v phr; lʊk ˈfɔːwəd tuː; з нетерпінням чекати
+look like; v phr; lʊk laɪk; виглядати як; бути схожим
+look out; v phr; lʊk aʊt; бути обережним; дивитися
+look up; v phr; lʊk ʌp; шукати; дивитися вгору
+loose; adj; luːs; вільний; нещільний
+lorry; n; ˈlɒri; вантажівка
+lose; v; luːz; втрачати; програвати
+lost property;n;ˌlɒst ˈprɒpərti;загублені речі
+lost property office; n; lɒst ˈprɒpəti ˈɒfɪs; бюро знахідок
+lot; n; lɒt; багато; доля
+loud; adj; laʊd; гучний
+lounge; n; laʊndʒ; вітальня; хол
+love; v/n; lʌv; любити; любов
+lovely; adj; ˈlʌvli; чудовий; милий
+low; adj; ləʊ; низький
+lower; v/adj; ˈləʊər; знижувати; нижчий
+luck; n; lʌk; удача
+lucky;adj;ˈlʌki;щасливий
+luggage; n; ˈlʌɡɪdʒ; багаж
+luggage;n;ˈlʌɡɪdʒ;багаж
+lump; n; lʌmp; шматок; грудка
+lunch; n; lʌntʃ; обід
+lunchtime; n; ˈlʌntʃtaɪm; час обіду
+lung; n; lʌŋ; легеня
+luxury; n; ˈlʌkʃəri; розкіш
+machine; n; məˈʃiːn; машина; апарат
+mad; adj; mæd; божевільний; сердитий
+Madam; n; ˈmædəm; пані; мадам
+made of; v phr; meɪd ɒv; зроблений з; виготовлений з
+magazine; n; ˌmæɡəˈziːn; журнал
+magic; n/adj; ˈmædʒɪk; магія; чарівний
+magnificent; adj; mæɡˈnɪfɪsənt; величний; чудовий
+mail; n/v; meɪl; пошта; відправляти поштою
+main; adj; meɪn; головний; основний
+majority; n; məˈdʒɒrɪti; більшість; більшина
+make; v; meɪk; робити; виготовляти; створювати; складати
+make sure; v phr; meɪk ʃʊə; переконатися; упевнитися
+make-up; n; ˈmeɪkʌp; макіяж; косметика
+male; adj/n; meɪl; чоловічий; чоловік
+man; n; mæn; чоловік; людина
+manage; v; ˈmænɪdʒ; керувати; управляти
+manager;n;ˈmænɪdʒər;менеджер
+manner; n; ˈmænə; манера; спосіб
+many; adj/pron; ˈmɛni; багато; численні
+map;n;mæp;карта
+map; n; mæp; карта; мапа
+March;March;mɑːrtʃ;березень
+mark; n/v; mɑːk; відмітка; позначка; оцінка; позначати
+market; n; ˈmɑːkɪt; ринок; базар
+marriage; n; ˈmærɪdʒ; шлюб; одруження
+marry; v; ˈmæri; одружитися; вийти заміж
+master; n/v; ˈmɑːstər; майстер; господар; оволодіти; опанувати
+match; n/v; mætʃ; матч; збіг; підходити; відповідати
+mate; n; meɪt; товариш; партнер
+material; n/adj; məˈtɪərɪəl; матеріал; матеріальний
+math; n; mæθ; математика
+mathematics; n; ˌmæθ(ə)ˈmætɪks; математика; математики
+matter; n/v; ˈmætə; матерія; справа; мати значення; важити
+maximum; n/adj; ˈmæksɪməm; максимум; максимальний
+May;May;meɪ;травень
+maybe; adv; ˈmeɪbi; можливо; можливе
+me; pron; mi; мене; я
+meal; n; miːl; їжа; страва
+mean; v/adj; miːn; означати; середній; жорстокий
+meaning;n;ˈmiːnɪŋ;значення
+means; n; miːnz; засіб; спосіб
+measure; n/v; ˈmɛʒə; міра; вимірювати
+meat; n; miːt; м'ясо
+mechanic; n; mɪˈkænɪk; механік
+medicine; n; ˈmɛdɪsɪn; медицина; ліки
+medium; n/adj; ˈmiːdɪəm; середовище; середній
+meet; v; miːt; зустрічатися; зустріти
+melon; n; ˈmɛlən; диня
+melt; v; mɛlt; плавитися; танути
+member; n; ˈmɛmbə; член; учасник
+membership; n; ˈmɛmbəʃɪp; членство
+memory; n; ˈmɛməri; пам'ять
+mention; v/n; ˈmɛnʃən; згадувати; згадка
+menu; n; ˈmɛnjuː; меню
+merry; adj; ˈmɛri; веселий; радісний
+message; n; ˈmɛsɪdʒ; повідомлення; послання
+metal; n; ˈmɛtəl; метал
+method; n; ˈmɛθəd; метод; спосіб
+metre; n; ˈmiːtə; метр
+mice;n;maɪs;миші
+microwave; n; ˈmaɪkrəweɪv; мікрохвильовка
+midday; n; ˈmɪdˌdeɪ; полудень
+middle; n/adj; ˈmɪdəl; середина; середній
+midnight; n; ˈmɪdˌnaɪt; північ
+mild; adj; maɪld; м'який; лагідний
+mile; n; maɪl; миля
+milk; n; mɪlk; молоко
+millimetre; n; ˈmɪlɪmiːtə; міліметр
+mind; n/v; maɪnd; розум; думати
+mine; pron/n; maɪn; мій; копальня
+mineral; n/adj; ˈmɪnərəl; мінерал; мінеральний
+mineral water; n; ˈmɪnərəl ˈwɔːtə; мінеральна вода
+minimum; n/adj; ˈmɪnɪməm; мінімум; мінімальний
+minister; n; ˈmɪnɪstə; міністр
+mirror; n; ˈmɪrə; дзеркало
+miserable; adj; ˈmɪzərəbəl; нещасний; жалюгідний
+Miss; n; mɪs; міс
+miss; v/n; mɪs; пропускати; міс
+mist; n; mɪst; туман
+mistake; n/v; mɪˈsteɪk; помилка; помилятися
+mix; v/n; mɪks; змішувати; суміш
+mobile; adj/n; ˈməʊbaɪl; мобільний; телефон
+mobile phone;n;ˌmoʊbəl ˈfoʊn;мобільний телефон
+model; n; ˈmɒdəl; модель
+modern; adj; ˈmɒdən; сучасний
+moment; n; ˈmoʊmənt; момент; мить
+Monday;n;ˈmʌndi;понеділок
+money; n; ˈmʌni; гроші
+monkey; n; ˈmʌŋki; мавпа
+month; n; mʌnθ; місяць
+moon; n; muːn; місяць
+more; adv/det; mɔː; більше
+morning; n; ˈmɔːnɪŋ; ранок
+mosque; n; mɒsk; мечеть
+most; adv/det; moʊst; найбільш; більшість
+mother; n; ˈmʌðə; мати
+motor; n; ˈmoʊtər; двигун
+motorbike; n; ˈmoʊtər.baɪk; мотоцикл
+motorcycle; n; ˈmoʊtərˌsaɪkəl; мотоцикл
+motorcycling;n;ˈmoʊtərˌsaɪklɪŋ;мотоциклетний спорт
+motor-racing; n; ˈmoʊtər ˈreɪsɪŋ; автогонки
+motorway; n; ˈmoʊtərˌweɪ; автомагістраль
+mountain; n; ˈmaʊntən; гора
+mouse; n; maʊs; миша
+mouse mat;n;ˈmaʊs mæt;килимок для миші
+moustache; n; məˈstɑːʃ; вуса
+mouth; n; maʊθ; рот
+move; v/n; muːv; рухати; переміщати; пересувати; крок
+movie; n; ˈmuːvi; фільм; кіно
+movie star; n; ˈmuːvi stɑːr; кінозірка
+movie theatre; n; ˈmuːvi ˈθɪətə; кінотеатр
+MP3 player; n; ˌɛm piː θriː ˈpleɪər; плеєр MP3
+Mr; n; ˈmɪstə; пан; містер
+Mrs; n; ˈmɪsɪz; пані; місіс
+Ms; n; mɪz; пані; міс
+much; adv/det; mʌtʃ; багато; дуже
+mug; n; mʌɡ; кружка
+multiply; v; ˈmʌltɪplaɪ; множити; розмножувати
+mum; n; mʌm; мама
+mummy;n;ˈmʌmi;мумія;мама (розм.)
+murder;n;ˈmɜːdər;вбивство
+museum;n;mjuˈziːəm;музей
+mushroom;n;ˈmʌʃruːm;гриб
+music;n;ˈmjuːzɪk;музика
+musical;adj;ˈmjuːzɪkəl;музичний
+musician;n;mjuˈzɪʃən;музикант
+mustard;n;ˈmʌstəd;гірчиця
+my;pron;maɪ;мій;моє;моя
+myself;pron;maɪˈsɛlf;сам;сама;само
+mystery;n;ˈmɪstəri;таємниця
+nail;n;neɪl;цвях;ніготь
+narrow;adj;ˈnærəʊ;вузький
+nasty;adj;ˈnæsti;неприємний;поганий
+national;adj;ˈnæʃənəl;національний
+nationality;n;ˌnæʃəˈnælɪti;національність
+natural;adj;ˈnæʧərəl;природний
+nature;n;ˈneɪʧər;природа
+nature studies;n;ˈneɪtʃər ˈstʌdiz;природознавство
+near;adj;nɪər;близький
+nearby;adv;ˈnɪəbaɪ;неподалік
+nearly;adv;ˈnɪərli;майже
+neat;adj;niːt;акуратний;чистий
+necessary;adj;ˈnɛsəsəri;необхідний
+neck;n;nek;шийка
+need;v;niːd;потрібувати
+needle;n;ˈniːdl;голка
+negative;adj;ˈnɛɡətɪv;негативний
+neighbour;n;ˈneɪbər;сусід
+neighbourhood;n;ˈneɪbəhʊd;сусідство;район
+neither;pron;ˈnaɪðər;ані;жоден
+nephew;n;ˈnɛfjuː;племінник
+nervous;adj;ˈnɜːvəs;нервовий
+net;n;nɛt;сітка
+network;n;ˈnɛtwɜːk;мережа
+never;adv;ˈnɛvər;ніколи
+new;adj;njuː;новий
+news;n;njuːz;новини
+newsagent;n;ˈnjuːzˌeɪdʒənt;торговець пресою
+newspaper;n;ˈnjuːzˌpeɪpər;газета
+next;adj;nɛkst;наступний
+next to;prep;ˈnɛkst tuː;поруч з;біля
+nice;adj;naɪs;приємний;милий
+niece;n;niːs;племінниця
+night;n;naɪt;ніч
+nightclub;n;ˈnaɪtklʌb;нічний клуб
+no;adv;nəʊ;ні
+nobody;pron;ˈnəʊbɒdi;ніхто
+noise;n;nɔɪz;шум
+noisy;adj;ˈnɔɪzi;шумний
+none;pron;nʌn;ніякий;жоден
+nonsense;n;ˈnɒnsɛns;нісенітниця
+noon;n;nuːn;полудень
+no one;pron;ˈnəʊ wʌn;ніхто
+nor;conj;nɔːr;і не;ані
+normal;adj;ˈnɔːməl;нормальний
+north;n;nɔːθ;північ
+North America;n;ˌnɔːrθ əˈmɛrɪkə;Північна Америка
+northeast;n;ˌnɔːθˈiːst;північний схід
+northwest;n;ˌnɔːθˈwɛst;північний захід
+nose;n;noʊz;ніс
+not;adv;nɒt;не
+note;n;noʊt;нотатка;нота
+notebook;n;ˈnoʊtˌbʊk;записник;ноутбук
+notepaper;n;ˈnoʊtˌpeɪpər;папір для нотаток
+nothing;pron;ˈnʌθɪŋ;нічого
+notice;n;ˈnoʊtɪs;оголошення;увага
+notice board;n;ˈnoʊtɪs bɔːrd;доска оголошень
+novel;n;ˈnɒvəl;роман;новинка
+novelist;n;ˈnɒvəlɪst;романіст
+November;November;nəʊˈvɛmbər;листопад
+now;adv;naʊ;зараз
+nowadays;adv;ˈnaʊədeɪz;нині;в наші дні
+nowhere;adv;ˈnoʊwɛər;ніде
+number;n;ˈnʌmbər;число;номер
+nurse;n;nɜːrs;медсестра;няня
+nut;n;nʌt;горіх
+object;n;ˈɒbdʒɪkt;об'єкт;предмет
+obvious;adj;ˈɒbviəs;очевидний;явний
+occasion;n;əˈkeɪʒən;випадок;нагода
+occasional;adj;əˈkeɪʒənəl;випадковий;час від часу
+occupation;n;ˌɒkjuˈpeɪʃən;заняття;професія
+ocean;n;ˈoʊʃən;океан
+o’clock;adv;əˈklɒk;година
+October;October;ɒkˈtəʊbər;жовтень
+of;prep;əv;від;про
+of course;adv;əv ˈkɔːrs;звичайно;безумовно
+off;adv;ɒf;геть;з
+offer;v;ˈɒfər;пропонувати
+office;n;ˈɒfɪs;офіс
+office block;n;ˈɒfɪs blɒk;офісний блок
+officer;n;ˈɒfɪsər;офіцер;чиновник
+of his stay, checkout;phrase;əv hɪz steɪ, ˈtʃekaʊt;під час його перебування, виїзд
+often;adv;ˈɒfən;часто
+oh!;interj;oʊ;о!
+oh dear!;interj;oʊ dɪər;о боже!
+oil;n;ɔɪl;олія;нафта
+O.K.;interj;ˌoʊˈkeɪ;ОК;добре
+OK;interj;ˌoʊˈkeɪ;ОК
+okay;interj;ˌoʊˈkeɪ;в порядку
+old;adj;oʊld;старий
+old-fashioned;adj;ˌoʊldˈfæʃənd;старомодний
+omelette;n;ˈɒmlɪt;омлет
+on;prep;ɒn;на;у
+on board;adv;ɒn ˈbɔːrd;на борту
+on business;adv;ɒn ˈbɪznɪs;у справах
+once;adv;wʌns;колись;одного разу
+one;num;wʌn;один
+oneself;pron;ˌwʌnˈsɛlf;сам;сама;само
+one-way;adj;ˈwʌnˌweɪ;односторонній;в один кінець
+on fire;adv;ɒn ˈfaɪər;у вогні
+on foot;adv;ɒn ˈfʊt;пішки
+on holiday;adv;ɒn ˈhɒlədeɪ;у відпустці
+onion;n;ˈʌnjən;цибуля
+online;adv;ˈɒnlaɪn;онлайн
+on loan;adv;ɒn ˈloʊn;у користуванні
+only;adv;ˈoʊnli;тільки;лише
+on purpose;adv;ɒn ˈpɜːpəs;навмисно
+on request;adv;ɒn rɪˈkwɛst;за запитом
+on sale;adv;ɒn ˈseɪl;на розпродажі
+on time;adv;ɒn ˈtaɪm;вчасно
+onto;prep;ˈɒntu;на;на поверхню
+on vacation;adv;ɒn vəˈkeɪʃən;у відпустці
+open;adj;ˈoʊpən;відкритий
+opening hours;n;ˈoʊpənɪŋ ˈaʊərz;години роботи
+opera;n;ˈɒpərə;опера
+operate;v;ˈɒpəreɪt;оперувати;керувати
+operation;n;ˌɒpəˈreɪʃən;операція;діяльність
+operator;n;ˈɒpəreɪtər;оператор
+opinion;n;əˈpɪnjən;думка
+opportunity;n;ˌɒpərˈtjuːnɪti;можливість
+opposite;adj;ˈɒpəzɪt;протилежний
+option;n;ˈɒpʃən;варіант;вибір
+or;conj;ɔːr;або
+orange;adj;ˈɒrɪndʒ;помаранчевий
+orchestra;n;ˈɔːrkɪstrə;оркестр
+order;n;ˈɔːrdər;замовлення;порядок
+ordinary;adj;ˈɔːrdənəri;звичайний
+organisation;n;ˌɔːrɡənaɪˈzeɪʃən;організація
+organise;v;ˈɔːrɡənaɪz;організувати
+original;adj;əˈrɪdʒənəl;оригінальний
+other;adj;ˈʌðər;інший
+our;pron;aʊər;наш
+ours;pron;aʊərz;наше
+ourselves;pron;ˌaʊərˈsɛlvz;ми самі
+out;adv;aʊt;назовні
+outdoor;adj;ˈaʊtˌdɔːr;зовнішній;відкритий
+outdoors;adv;ˌaʊtˈdɔːrz;на вулиці
+out of;prep;ˌaʊt əv;з;із
+out of date;adj;ˌaʊt əv ˈdeɪt;застарілий
+out of doors;adv;ˌaʊt əv ˈdɔːrz;на вулиці
+out of order;adj;ˌaʊt əv ˈɔːrdər;не працює;порушено порядок
+out of stock;adj;ˌaʊt əv ˈstɒk;відсутній у наявності
+out of work;adj;ˌaʊt əv ˈwɜːrk;безробітний
+outside;prep;ˌaʊtˈsaɪd;зовні
+oven;n;ˈʌvən;духовка
+over;prep;ˈoʊvər;над;понад
+overnight;adv;ˌoʊvərˈnaɪt;на ніч
+overtake;v;ˌoʊvərˈteɪk;обганяти
+owe;v;oʊ;боргувати
+own;v;oʊn;власний;володіти
+owner;n;ˈoʊnər;власник
+pack;v;pæk;пакувати
+packet;n;ˈpækɪt;пакет;упаковка
+page;n;peɪdʒ;сторінка
+pain;n;peɪn;біль
+painful;adj;ˈpeɪnfʊl;болючий
+paint;v;peɪnt;фарбувати;малювати
+painting;n;ˈpeɪntɪŋ;малювання
+pair;n;peər;пара
+palace;n;ˈpæləs;палац
+pale;adj;peɪl;блідий
+pan;n;pæn;сковорода
+pants;n;pænts;штани;трусики
+paper;n;ˈpeɪpər;папір
+parcel;n;ˈpɑːsəl;посилка;пакет
+pardon;n;ˈpɑːrdn;пробачення;вибачення
+parent;n;ˈpeərənt;батько;мати
+park;n;pɑːrk;парк
+parking lot;n;ˈpɑːrkɪŋ lɒt;стоянка для автомобілів
+parking space;n;ˈpɑːrkɪŋ speɪs;місце для паркування
+parliament;n;ˈpɑːrləmənt;парламент
+part;n;pɑːrt;частина
+particular;adj;pərˈtɪkjʊlər;особливий;специфічний
+partly;adv;ˈpɑːrtli;частково
+partner;n;ˈpɑːrtnər;партнер
+part time;adv;ˌpɑːrt ˈtaɪm;неповний робочий день
+part-time;adj;ˌpɑːrtˈtaɪm;неповний;частковий
+party;n;ˈpɑːrti;свято;партія
+pass;v;pɑːs;передавати;проходити
+passenger;n;ˈpæsɪndʒər;пасажир
+passport;n;ˈpæspɔːrt;паспорт
+password;n;ˈpæswɜːrd;пароль
+past;n;pɑːst;минуле;за
+pasta;n;ˈpæstə;макарони
+pastry;n;ˈpeɪstri;випічка;кондитерські вироби
+path;n;pɑːθ;стежка;шлях
+patient;n;ˈpeɪʃənt;пацієнт;терплячий
+pattern;n;ˈpætərn;візерунок;модель
+pause;n;pɔːz;пауза
+pavement;n;ˈpeɪvmənt;тротуар
+pay;v;peɪ;платити
+pea;n;piː;горох
+peace;n;piːs;мир
+peanut;n;ˈpiːnʌt;арахіс
+pear;n;peər;груша
+pedestrian;n;pəˈdɛstrɪən;пішохід
+peel;v;piːl;чистити;лущити
+pen;n;pen;ручка
+pence;n;pens;пенси
+pencil;n;ˈpɛnsəl;олівець
+pencil case;n;ˈpɛnsəl keɪs;пенал
+pen-friend;n;ˈpenˌfrɛnd;листовний друг
+penknife;n;ˈpenˌnaɪf;складний ніж
+penny;n;ˈpeni;пенні
+pension;n;ˈpɛnʃən;пенсія
+people;n;ˈpiːpəl;люди
+pepper;n;ˈpɛpər;перець
+per;prep;pɜːr;на;за
+per cent;adv;ˌpɜːr ˈsɛnt;відсоток
+perfect;adj;ˈpɜːrfɪkt;ідеальний
+perform;v;pərˈfɔːrm;виконувати;представляти
+performance;n;pərˈfɔːrməns;виступ;продуктивність
+perfume;n;ˈpɜːrfjuːm;парфум;духи
+perhaps;adv;pərˈhæps;можливо;може бути
+period;n;ˈpɪərɪəd;період;час
+permanent;adj;ˈpɜːrmənənt;постійний
+permission;n;pərˈmɪʃən;дозвіл
+permitted;adj;pərˈmɪtɪd;дозволений
+person;n;ˈpɜːrsən;особа;людина
+personal;adj;ˈpɜːrsənəl;особистий
+persuade;v;pərˈsweɪd;переконувати
+pet;n;pɛt;домашня тварина
+petrol;n;ˈpɛtrəl;бензин
+petrol pump;n;ˈpɛtrəl pʌmp;бензоколонка
+petrol station;n;ˈpɛtrəl ˈsteɪʃən;заправна станція
+pharmacy;n;ˈfɑːrməsi;аптека
+phone;n;foʊn;телефон
+photo;n;ˈfəʊtəʊ;фото;фотографія
+photocopy;n;ˈfəʊtəʊˌkɒpi;ксерокопія
+photograph;n;ˈfəʊtəɡrɑːf;фотографія
+photographer;n;fəˈtɒɡrəfər;фотограф
+photography;n;fəˈtɒɡrəfi;фотографія (як мистецтво або наука)
+physician;n;fɪˈzɪʃən;лікар
+physics;n;ˈfɪzɪks;фізика
+piano;n;piˈænəʊ;піаніно
+pick;v;pɪk;вибирати;збирати
+pick up;v;ˈpɪk ʌp;піднімати;збирати
+picnic;n;ˈpɪknɪk;пікнік
+picture;n;ˈpɪktʃər;картина;зображення
+pie;n;paɪ;пиріг
+piece;n;piːs;частина;шматок
+pig;n;pɪɡ;свиня
+pile;n;paɪl;стос;купа
+pill;n;pɪl;таблетка
+pillow;n;ˈpɪləʊ;подушка
+pilot;n;ˈpaɪlət;пілот
+pin;n;pɪn;шпилька;голка
+pink;adj;pɪŋk;рожевий
+pipe;n;paɪp;труба
+pity;n;ˈpɪti;жаль;співчуття
+pizza;n;ˈpiːtsə;піца
+place;n;pleɪs;місце
+plain;adj;pleɪn;звичайний;простий
+plan;n;plæn;план
+plane;n;pleɪn;літак
+planet;n;ˈplænɪt;планета
+plant;n;plɑːnt;рослина
+plastic;n;ˈplæstɪk;пластик
+plate;n;pleɪt;тарілка
+platform;n;ˈplætfɔːrm;платформа
+play;v;pleɪ;грати
+player;n;ˈpleɪər;гравець;програвач
+playground;n;ˈpleɪɡraʊnd;ігровий майданчик
+playing cards;n;ˈpleɪɪŋ kɑːdz;гральні карти
+pleasant;adj;ˈplɛzənt;приємний
+please;adv;pliz;будь ласка
+please; interj; pliːz; будь ласка
+pleasure;n;ˈplɛʒər;задоволення
+plenty;n;ˈplɛnti;достаток;багато
+plug;n;plʌɡ;вилка;пробка
+plug in;v;ˈplʌɡ ɪn;вставити вилку
+p.m.;abbr;piː ˈɛm;після полудня
+pocket;n;ˈpɒkɪt;кишеня
+pocket money;n;ˈpɒkɪt ˈmʌni;кишенькові гроші
+poem;n;ˈpoʊɪm;вірш
+poet;n;ˈpoʊɪt;поет
+poetry;n;ˈpoʊɪtri;поезія
+point;n;pɔɪnt;точка;значення
+police;n;pəˈlis;поліція
+policeman;n;pəˈlisˌmæn;поліцейський (чоловік)
+police officer;n;pəˈlis ˈɒfɪsər;поліцейський
+police station;n;pəˈlis ˈsteɪʃən;поліцейська дільниця
+policewoman;n;pəˈlisˌwʊmən;поліцейська (жінка)
+polite;adj;pəˈlaɪt;ввічливий
+political;adj;pəˈlɪtɪkəl;політичний
+politician;n;ˌpɒlɪˈtɪʃən;політик
+politics;n;ˈpɒlɪtɪks;політика
+pollution;n;pəˈluːʃən;забруднення
+pool;n;puːl;басейн;ставок
+pop;n;pɒp;поп-музика
+pop music;n;ˈpɒp ˈmjuːzɪk;поп-музика
+population;n;ˌpɒpjʊˈleɪʃən;населення
+port;n;pɔːrt;порт
+porter;n;ˈpɔːrtər;носій;портьє
+position;n;pəˈzɪʃən;позиція;місце
+positive;adj;ˈpɒzɪtɪv;позитивний
+possibility;n;ˌpɒsəˈbɪlɪti;можливість
+possible;adj;ˈpɒsəbl;можливий
+post;v;poʊst;відправляти поштою
+postage;n;ˈpoʊstɪdʒ;поштовий збір
+postcard;n;ˈpoʊstˌkɑːrd;листівка
+poster;n;ˈpoʊstər;плакат
+postman;n;ˈpoʊstmæn;поштар
+post office;n;ˈpoʊst ˈɒfɪs;пошта;поштове відділення
+pot;n;pɒt;горщик;каструля
+potato;n;pəˈteɪtəʊ;картопля
+pound;n;paʊnd;фунт
+pour;v;pɔːr;наливати;лити
+poverty;n;ˈpɒvərti;бідність
+powder;n;ˈpaʊdər;порошок
+power;n;ˈpaʊər;сила;влада
+practice;n;ˈpræktɪs;практика
+practise;v;ˈpræktɪs;практикувати
+pray;v;preɪ;молитися
+prayer;n;ˈpreər;молитва
+prefer;v;prɪˈfɜːr;воліти;переважати
+preparation;n;ˌprɛpəˈreɪʃən;підготовка
+prepare;v;prɪˈpeər;готувати
+prescription;n;prɪˈskrɪpʃən;рецепт
+presenter;n;prɪˈzɛntər;ведучий
+president;n;ˈprɛzɪdənt;президент
+press;v;prɛs;натиснути;преса
+prevent;v;prɪˈvɛnt;запобігати
+previous;adj;ˈpriːviəs;попередній
+price;n;praɪs;ціна
+priest;n;priːst;священник
+primary;adj;ˈpraɪməri;початковий;основний
+primary school;n;ˌpraɪməri ˈskuːl;початкова школа
+prime minister;n;ˌpraɪm ˈmɪnɪstər;прем'єр-міністр
+prince;n;prɪns;принц
+princess;n;ˈprɪnsəs;принцеса
+principal;adj;ˈprɪnsɪpəl;головний;основний
+print;v;prɪnt;друкувати
+printer;n;ˈprɪntər;принтер
+prison;n;ˈprɪzn;в'язниця
+prisoner;n;ˈprɪznər;в'язень
+private;adj;ˈpraɪvət;приватний;особистий
+prize;n;praɪz;приз
+probable;adj;ˈprɒbəbl;імовірний
+probably;adv;ˈprɒbəbli;імовірно;напевно
+problem;n;ˈprɒbləm;проблема
+produce;v;prəˈdjuːs;виробляти
+product;n;ˈprɒdʌkt;продукт
+profession;n;prəˈfɛʃən;професія
+professional;adj;prəˈfɛʃənəl;професійний
+professor;n;prəˈfɛsər;професор
+program;n;ˈprəʊɡræm;програма
+programme;n;ˈprəʊɡræm;програма
+project;n;ˈprɒdʒɛkt;проект
+promise;v;ˈprɒmɪs;обіцяти
+pronounce;v;prəˈnaʊns;вимовляти
+pronunciation;n;prəˌnʌnsiˈeɪʃən;вимова
+proper;adj;ˈprɒpər;правильний;належний
+property;n;ˈprɒpərti;власність;майно
+protect;v;prəˈtɛkt;захищати
+proud;adj;praʊd;гордий
+prove;v;pruːv;доводити
+provide;v;prəˈvaɪd;забезпечувати;постачати
+public;adj;ˈpʌblɪk;громадський;публічний
+public transport;n;ˌpʌblɪk ˈtrænspɔːrt;громадський транспорт
+publish;v;ˈpʌblɪʃ;публікувати
+publisher;n;ˈpʌblɪʃər;видавець
+pull;v;pʊl;тягнути
+pullover;n;ˈpʊlˌoʊvər;светр
+pump;n;pʌmp;насос
+punctual;adj;ˈpʌŋktʃuəl;пунктуальний
+punish;v;ˈpʌnɪʃ;карати
+punishment;n;ˈpʌnɪʃmənt;покарання
+pupil;n;ˈpjuːpəl;учень;зіниця
+pure;adj;pjʊər;чистий
+purple;adj;ˈpɜːrpl;фіолетовий
+purpose;n;ˈpɜːrpos;мета;призначення
+purse;n;pɜːrs;гаманець
+push;v;pʊʃ;штовхати
+put;v;pʊt;класти;ставити
+put away;v;pʊt əˈweɪ;сховати;прибрати
+put down;v;pʊt daʊn;покласти;записати
+put off;v;pʊt ɒf;відкласти;відмінити
+put on;v;pʊt ɒn;одягнути;увімкнути
+put out;v;pʊt aʊt;загасити;вимкнути
+put through;v;pʊt θruː;з'єднати (по телефону);пройти (через)
+put up;v;pʊt ʌp;підняти;розмістити
+pyjamas;n;pɪˈdʒɑːməz;піжама
+qualification;n;ˌkwɒlɪfɪˈkeɪʃən;кваліфікація
+qualify;v;ˈkwɒlɪfaɪ;кваліфікувати;відповідати вимогам
+quality;n;ˈkwɒlɪti;якість
+quantity;n;ˈkwɒntɪti;кількість
+quarter;n;ˈkwɔːtər;чверть
+quay;n;kiː;пристань
+queen;n;kwiːn;королева
+question;n;ˈkwɛstʃən;питання
+questionnaire;n;ˌkwɛstʃəˈnɛər;анкета;опросник
+queue;n;kjuː;черга
+quick;adj;kwɪk;швидкий
+quiet;adj;ˈkwaɪət;тихий
+quit;v;kwɪt;кинути;звільнитися
+quite;adv;kwaɪt;досить;цілком
+quiz;n;kwɪz;вікторина
+rabbit;n;ˈræbɪt;кролик
+race;n;reɪs;гонка;раса
+race track;n;ˈreɪs træk;трек для перегонів
+racing;n;ˈreɪsɪŋ;гонки
+racket;n;ˈrækɪt;ракетка
+radio;n;ˈreɪdiəʊ;радіо
+rail;n;reɪl;рейка;поручень
+railroad;n;ˈreɪlˌroʊd;залізниця
+railway;n;ˈreɪlweɪ;залізниця
+rain;n;reɪn;дощ
+raincoat;n;ˈreɪnkoʊt;плащ
+rainforest;n;ˈreɪnˌfɒrɪst;тропічний ліс
+raise;v;reɪz;піднімати;збирати
+range;n;reɪndʒ;діапазон;гряда
+rank;n;ræŋk;ранг;звання
+rare;adj;reər;рідкісний
+rarely;adv;ˈreərli;рідко
+rather;adv;ˈrɑːðər;досить;швидше
+raw;adj;rɔː;сирий
+reach;v;riːtʃ;досягати
+read;v;riːd;читати
+ready;adj;ˈrɛdi;готовий
+real;adj;rɪəl;справжній
+realise;v;ˈrɪəlaɪz;усвідомлювати;реалізовувати
+realistic;adj;ˌrɪəˈlɪstɪk;реалістичний
+really;adv;ˈrɪəli;дійсно;справді
+reason;n;ˈriːzən;причина
+reasonable;adj;ˈriːzənəbl;розумний;доступний
+receipt;n;rɪˈsiːt;чек;квитанція
+receive;v;rɪˈsiːv;отримувати
+recent;adj;ˈriːsənt;недавній
+reception;n;rɪˈsɛpʃən;прийом;рецепція
+recipe;n;ˈrɛsɪpi;рецепт
+recognise;v;ˈrɛkəɡnaɪz;впізнавати;визнавати
+recommend;v;ˌrɛkəˈmɛnd;рекомендувати
+record;n;ˈrɛkɔːrd;запис;рекорд
+record;v;rɪˈkɔːd;записувати
+recorder;n;rɪˈkɔːdər;магнітофон;рекордер
+recording;n;rɪˈkɔːdɪŋ;запис
+recover;v;rɪˈkʌvər;відновлювати;повертатися
+recycle;v;ˌriːˈsaɪkəl;переробляти
+recycled;adj;ˈriːˌsaɪkəld;перероблений
+recycling;n;ˈriːˌsaɪklɪŋ;переробка
+red;adj;rɛd;червоний
+reduce;v;rɪˈdjuːs;зменшувати
+reduced;adj;rɪˈdjuːst;знижений
+refreshments;n;rɪˈfrɛʃmənts;освіжаючі напої;закуски
+refrigerator;n;rɪˈfrɪdʒəreɪtər;холодильник
+refund;n;ˈriːfʌnd;повернення грошей
+refuse;v;rɪˈfjuːz;відмовляти
+regarding;prep;rɪˈɡɑːdɪŋ;щодо;стосовно
+region;n;ˈriːdʒən;регіон;область
+register;v;ˈrɛdʒɪstər;реєструвати
+registration;n;ˌrɛdʒɪˈstreɪʃən;реєстрація
+regret;v;rɪˈɡrɛt;шкодувати
+regular;adj;ˈrɛɡjʊlər;регулярний;постійний
+relation;n;rɪˈleɪʃən;відношення;родич
+relationship;n;rɪˈleɪʃənʃɪp;відносини
+relative;n;ˈrɛlətɪv;родич;відносний
+relaxation;n;ˌriːlækˈseɪʃən;відпочинок;релаксація
+relaxed;adj;rɪˈlækst;розслаблений
+reliable;adj;rɪˈlaɪəbl;надійний
+religion;n;rɪˈlɪdʒən;релігія
+remain;v;rɪˈmeɪn;залишатися
+remember;v;rɪˈmɛmbər;пам'ятати
+remind;v;rɪˈmaɪnd;нагадувати
+remove;v;rɪˈmuːv;видаляти;усувати
+rent;v;rɛnt;орендувати
+repair;v;rɪˈpeər;ремонтувати
+repeat;v;rɪˈpiːt;повторювати
+replace;v;rɪˈpleɪs;заміняти
+reply;v;rɪˈplaɪ;відповідати
+report;n;rɪˈpɔːt;звіт;доповідь
+reporter;n;rɪˈpɔːrtər;репортер
+request;n;rɪˈkwɛst;запит;прохання
+require;v;rɪˈkwaɪər;вимагати;потребувати
+rescue;v;ˈrɛskjuː;рятувати
+research;n;ˈriːsɜːtʃ;дослідження
+reservation;n;ˌrɛzərˈveɪʃən;бронювання;резервація
+reserve;v;rɪˈzɜːv;резервувати;зберігати
+respect;n;rɪˈspɛkt;повага
+responsible;adj;rɪˈspɒnsəbl;відповідальний
+rest;n;rɛst;відпочинок
+restaurant;n;ˈrɛstərɒnt;ресторан
+result;n;rɪˈzʌlt;результат
+retire;v;rɪˈtaɪər;виходити на пенсію;відступати
+retirement;n;rɪˈtaɪəmənt;вихід на пенсію
+return;v;rɪˈtɜːn;повертатися
+review;n;rɪˈvjuː;огляд;відгук
+revise;v;rɪˈvaɪz;переглядати;виправляти
+reward;n;rɪˈwɔːd;винагорода
+rice;n;raɪs;рис
+rich;adj;rɪtʃ;багатий
+ride;v;raɪd;їхати верхи;кататися
+riding;n;ˈraɪdɪŋ;верхова їзда
+right;adj;raɪt;правий;правильний
+ring;n;rɪŋ;кільце;дзвоник
+ring back;v;rɪŋ bæk;подзвонити знову
+ring off;v;rɪŋ ɒf;покласти трубку
+ring up;v;rɪŋ ʌp;дзвонити
+ripe;adj;raɪp;стиглий
+rise;v;raɪz;підніматися
+river;n;ˈrɪvər;річка
+road;n;roʊd;дорога
+road sign;n;ˈroʊd saɪn;дорожній знак
+roast;v;roʊst;запікати
+rob;v;rɒb;грабувати
+robbery;n;ˈrɒbəri;грабіж
+rock;n;rɒk;скеля;камінь
+rock music;n;ˈrɒk ˈmjuːzɪk;рок-музика
+role;n;roʊl;роль
+roll;v;roʊl;котитися;сукати
+romantic;adj;rəʊˈmæntɪk;романтичний
+roof;n;ruːf;дах
+room;n;ruːm;кімната
+roommate;n;ˈruːmˌmeɪt;сусід по кімнаті
+rose;n;roʊz;троянда
+rough;adj;rʌf;грубий;нерівний
+round;adj;raʊnd;круглий
+roundabout;n;ˈraʊndəbaʊt;кругове перехрестя
+route;n;ruːt;маршрут
+row;n;roʊ;ряд;сварка
+rubbish;n;ˈrʌbɪʃ;сміття
+rude;adj;ruːd;грубий;нечемний
+rugby;n;ˈrʌɡbi;регбі
+ruin;v;ˈruːɪn;руйнувати
+rule;n;ruːl;правило;закон
+ruler;n;ˈruːlər;лінійка;правитель
+run;v;rʌn;бігати
+running;n;ˈrʌnɪŋ;біг
+run out of;v;rʌn aʊt əv;закінчуватися;залишатися без
+sad;adj;sæd;сумний
+safe;adj;seɪf;безпечний
+safety;n;ˈseɪfti;безпека
+sail;v;seɪl;плавати під вітрилом
+sailing;n;ˈseɪlɪŋ;вітрильний спорт
+sailor;n;ˈseɪlər;моряк
+salad;n;ˈsæləd;салат
+salary;n;ˈsæləri;зарплата
+sale;n;seɪl;продаж;розпродаж
+sales assistant;n;ˌseɪlz əˈsɪstənt;продавець
+salesman;n;ˈseɪlzmən;продавець
+saleswoman;n;ˈseɪlzˌwʊmən;продавщиця
+salt;n;sɔːlt;сіль
+same;adj;seɪm;той самий
+sand;n;sænd;пісок
+sandwich;n;ˈsænwɪdʒ;сандвіч
+satisfactory;adj;ˌsætɪsˈfæktəri;задовільний
+satisfied;adj;ˈsætɪsfaɪd;задоволений
+Saturday;n;ˈsætərdeɪ;субота
+saucer;n;ˈsɔːsər;блюдце
+sausage;n;ˈsɒsɪdʒ;ковбаса;сосиска
+save;v;seɪv;економити;рятувати
+say;v;seɪ;говорити
+scene;n;siːn;сцена;вид
+scenery;n;ˈsiːnəri;пейзаж;декорації
+school;n;skuːl;школа
+science;n;ˈsaɪəns;наука
+science fiction;n;ˈsaɪəns ˈfɪkʃən;наукова фантастика
+scientific;adj;ˌsaɪənˈtɪfɪk;науковий
+scientist;n;ˈsaɪəntɪst;вчений
+scissors;n;ˈsɪzərz;ножиці
+scooter;n;ˈskuːtər;скутер
+score;n;skɔːr;рахунок;бал
+scream;v;skriːm;кричати
+screen;n;skriːn;екран
+sculpture;n;ˈskʌlptʃər;скульптура
+sea;n;siː;море
+search;v;sɜːtʃ;шукати
+seaside;n;ˈsiːˌsaɪd;узбережжя
+season;n;ˈsiːzn;сезон
+seat;n;siːt;сидіння
+seat belt;n;ˈsiːt belt;ремінь безпеки
+second;adj;ˈsɛkənd;другий
+second;adj;ˈsɛkənd;другий
+secondary;adj;ˈsɛkəndəri;другорядний;середня
+secret;adj;ˈsiːkrɪt;секретний
+secretary;n;ˈsɛkrətəri;секретар
+security;n;sɪˈkjʊərɪti;безпека
+security guard;n;sɪˈkjʊərɪti ɡɑːrd;охоронець
+see;v;siː;бачити
+seem;v;siːm;здаватися
+seldom;adv;ˈsɛldəm;рідко
+select;v;sɪˈlɛkt;вибирати
+self-service;adj;ˌsɛlfˈsɜːvɪs;самообслуговування
+sell;v;sɛl;продавати
+send;v;sɛnd;відправляти
+sensible;adj;ˈsɛnsəbl;розумний;практичний
+sentence;n;ˈsɛntəns;речення;вирок
+September;September;sɛpˈtɛmbər;вересень
+series;n;ˈsɪəriːz;серія
+serious;adj;ˈsɪəriəs;серйозний
+servant;n;ˈsɜːrvənt;слуга
+serve;v;sɜːv;обслуговувати;подавати
+service;n;ˈsɜːvɪs;сервіс;послуга
+session;n;ˈsɛʃən;сесія;засідання
+set;v;sɛt;встановлювати;належати
+set free;v;ˌsɛt ˈfriː;звільнити
+set off;v;ˌsɛt ˈɒf;відправитися;викликати
+set out;v;ˌsɛt ˈaʊt;вирушити;викласти
+set up;v;ˌsɛt ˈʌp;організувати;налаштувати
+several;adj;ˈsɛvrəl;кілька
+sew;v;soʊ;шити
+sex;n;sɛks;стать;секс
+sh!;interj;ʃ;тише!
+shade;n;ʃeɪd;тінь
+shadow;n;ˈʃædəʊ;тінь
+shake;v;ʃeɪk;трусити;струсити
+shallow;adj;ˈʃæləʊ;мілкий
+shame;n;ʃeɪm;сором;ганьба
+shampoo;n;ʃæmˈpuː;шампунь
+shape;n;ʃeɪp;форма
+share;v;ʃeər;ділитися;поділити
+shark;n;ʃɑːrk;акула
+sharp;adj;ʃɑːrp;гострий;різкий
+shave;v;ʃeɪv;голити
+she;pron;ʃiː;вона
+sheep;n;ʃiːp;вівця
+sheet;n;ʃiːt;аркуш;простирадло
+shelf;n;ʃɛlf;полиця
+shine;v;ʃaɪn;світити;блищати
+ship;n;ʃɪp;корабель
+shirt;n;ʃɜːrt;сорочка
+shock;n;ʃɒk;шок
+shoe;n;ʃuː;взуття
+shoot;v;ʃuːt;стріляти
+shop;n;ʃɒp;магазин
+shop assistant;n;ˈʃɒp əˌsɪstənt;продавець
+shopkeeper;n;ˈʃɒpˌkiːpər;крамар;власник магазину
+shopping centre;n;ˈʃɒpɪŋ ˌsɛntər;торговий центр
+shore;n;ʃɔːr;берег
+short;adj;ʃɔːrt;короткий
+shorts;n;ʃɔːrts;шорти
+shoulder;n;ˈʃoʊldər;плече
+shout;v;ʃaʊt;кричати
+show;v;ʃoʊ;показувати
+shower;n;ˈʃaʊər;душ
+shut;v;ʃʌt;закривати
+shy;adj;ʃaɪ;сором'язливий
+sick;adj;sɪk;хворий
+side;n;saɪd;бік;сторона
+sight;n;saɪt;зір;вид
+sightseeing;n;ˈsaɪtˌsiːɪŋ;екскурсія
+sign;n;saɪn;знак;підпис
+signal;n;ˈsɪɡnəl;сигнал
+signature;n;ˈsɪɡnətʃər;підпис
+signpost;n;ˈsaɪnˌpoʊst;вказівник;стовп з дорожніми знаками
+silence;n;ˈsaɪləns;тиша
+silent;adj;ˈsaɪlənt;тихий;мовчазний
+silk;n;sɪlk;шовк
+silly;adj;ˈsɪli;дурний;глупий
+silver;n;ˈsɪlvər;срібло
+similar;adj;ˈsɪmələr;подібний
+simple;adj;ˈsɪmpl;простий
+since;prep;sɪns;з;відтоді як
+sincerely;adv;sɪnˈsɪərli;щиро
+sing;v;sɪŋ;співати
+single;adj;ˈsɪŋɡl;одиночний;неодружений
+single room;n;ˌsɪŋɡl ˈruːm;одномісний номер
+sink;v;sɪŋk;тонути;раковина (для миття посуду)
+Sir;n;sɜːr;сер (звернення)
+sister;n;ˈsɪstər;сестра
+sit;v;sɪt;сидіти
+site;n;saɪt;місце;сайт
+sitting room;n;ˈsɪtɪŋ ruːm;вітальня
+situated;adj;ˈsɪtʃueɪtɪd;розташований
+situation;n;ˌsɪtʃuˈeɪʃən;ситуація
+size;n;saɪz;розмір
+skateboard;n;ˈskeɪtˌbɔːrd;скейтборд
+ski;v;skiː;кататися на лижах
+skiing;n;ˈskiːɪŋ;лижний спорт
+skill;n;skɪl;уміння;навичка
+skilled;adj;skɪld;кваліфікований
+skin;n;skɪn;шкіра
+skirt;n;skɜːrt;спідниця
+sky;n;skaɪ;небо
+sleep;v;sliːp;спати
+sleeve;n;sliːv;рукав
+slice;n;slaɪs;шматок;нарізати
+slide;n;slaɪd;гірка
+slim;adj;slɪm;стрункий
+slip;v;slɪp;ковзати;помилитися
+slope;n;sloʊp;схил
+slow;adj;sloʊ;повільний
+small;adj;smɔːl;маленький
+smart;adj;smɑːrt;розумний;елегантний
+smell;v;smɛl;нюхати;пахнути
+smile;v;smaɪl;усміхатися
+smoke;v;smoʊk;курити
+smooth;adj;smuːð;гладкий
+snack;n;snæk;перекус
+snake;n;sneɪk;змія
+snow;n;snoʊ;сніг
+snowball;n;ˈsnoʊˌbɔːl;сніжка
+snowboard;n;ˈsnoʊˌbɔːrd;сноуборд
+snowfall;n;ˈsnoʊˌfɔːl;снігопад
+snowman;n;ˈsnoʊˌmæn;сніговик
+snowstorm;n;ˈsnoʊˌstɔːrm;снігова буря
+so;adv;səʊ;так;отже
+soap;n;soʊp;мило
+social;adj;ˈsəʊʃəl;соціальний
+society;n;səˈsaɪəti;суспільство
+sock;n;sɒk;шкарпетка
+socks;n;sɒks;шкарпетки
+sofa;n;ˈsəʊfə;диван
+soft;adj;sɒft;м'який
+soft drink;n;ˈsɒft drɪŋk;безалкогольний напій
+software;n;ˈsɒftˌweər;програмне забезпечення
+soil;n;sɔɪl;ґрунт;земля
+soldier;n;ˈsəʊldʒər;солдат
+solid;adj;ˈsɒlɪd;твердий;міцний
+some;adj;sʌm;деякий;кілька
+somebody;pron;ˈsʌmbədi;хтось
+someone;pron;ˈsʌmwʌn;хтось
+something;pron;ˈsʌmθɪŋ;щось
+sometimes;adv;ˈsʌmtaɪmz;іноді
+somewhere;adv;ˈsʌmwɛər;десь
+son;n;sʌn;син
+song;n;sɒŋ;пісня
+soon;adv;suːn;скоро
+sore;adj;sɔːr;болючий
+sore throat;n;ˌsɔːr ˈθroʊt;ангіна;болить горло
+sorry;adj;ˈsɒri;вибачте;шкода
+sort;n;sɔːt;вид;сортувати
+so-so;adj;ˌsəʊˈsəʊ;так собі;не дуже
+sound;n;saʊnd;звук
+soup;n;suːp;суп
+sour;adj;ˈsaʊər;кислий
+south;n;saʊθ;південь
+South America;n;ˌsaʊθ əˈmɛrɪkə;Південна Америка
+southeast;n;ˌsaʊθˈiːst;південний схід
+southwest;n;ˌsaʊθˈwɛst;південний захід
+souvenir;n;ˌsuːvəˈnɪər;сувенір
+space;n;speɪs;простір;космос
+spade;n;speɪd;лопата
+Spain;n;speɪn;Іспанія
+Spanish;adj;ˈspænɪʃ;іспанський
+spare;adj;speər;запасний;вільний
+speak;v;spiːk;говорити
+special;adj;ˈspɛʃəl;спеціальний;особливий
+speech;n;spiːtʃ;мова;промова
+speed;n;spiːd;швидкість
+spell;v;spɛl;пояснювати;заклинати
+spend;v;spɛnd;витрачати;проводити час
+spill;v;spɪl;проливати;розсипати
+spinach;n;ˈspɪnɪtʃ;шпинат
+spite;n;spaɪt;злість;несприйняття
+spoil;v;spɔɪl;псувати;балувати
+spoon;n;spuːn;ложка
+sport;n;spɔːrt;спорт
+sports centre;n;ˈspɔːrts ˌsɛntər;спортивний центр
+sports centre;n;ˈspɔːrts ˌsɛntər;спортивний центр
+spot;n;spɒt;пляма;місце
+spring;n;sprɪŋ;весна
+spring;n;sprɪŋ;весна
+spy;n;spaɪ;шпигун
+square;n;skwɛər;площа;квадрат
+squash;n;skwɒʃ;кабачок;гра в сквош
+stadium;n;ˈsteɪdiəm;стадіон
+staff;n;stæf;персонал;штаб
+stage;n;steɪdʒ;сцена;етап
+stain;n;steɪn;пляма
+stairs;n;stɛərz;сходи
+stall;n;stɔːl;прилавок;стійло
+stamp;n;stæmp;марка;штамп
+stand;v;stænd;стояти
+standard;adj;ˈstændərd;стандартний
+star;n;stɑːr;зірка
+start;v;stɑːrt;починати
+state;n;steɪt;стан;держава
+statement;n;ˈsteɪtmənt;заява;висловлювання
+state school;n;ˌsteɪt ˈskuːl;державна школа
+station;n;ˈsteɪʃən;станція
+statue;n;ˈstætʃuː;статую
+stay;v;steɪ;залишатися;перебувати
+stay behind;v;ˌsteɪ bɪˈhaɪnd;залишатися
+steak;n;steɪk;стейк
+steal;v;stiːl;красти
+steam;n;stiːm;пара
+steel;n;stiːl;сталь
+steep;adj;stiːp;крутий
+step;n;stɛp;крок;ступінь
+stick;v;stɪk;приклеювати;паличка
+sticky;adj;ˈstɪki;липкий
+stiff;adj;stɪf;жорсткий;скутий
+still;adv;stɪl;все ще;тихо
+stir;v;stɜːr;мішати
+stomach;n;ˈstʌmək;шлунок
+stomach ache;n;ˈstʌmək eɪk;боль у животі
+stone;n;stoʊn;камінь
+stop;v;stɒp;зупиняти
+store;n;stɔːr;магазин;склад
+storm;n;stɔːrm;буря
+story;n;ˈstɔːri;історія;оповідання
+straight;adj;streɪt;прямий
+strange;adj;streɪndʒ;дивний;незвичайний
+stranger;n;ˈstreɪndʒər;незнайомець
+strawberry;n;ˈstrɔːbəri;полуниця
+stream;n;striːm;потік;струмок
+street;n;striːt;вулиця
+stress;n;strɛs;стрес;напруга
+strict;adj;strɪkt;строгий
+strike;v;straɪk;ударяти;страйкувати
+strong;adj;strɒŋ;сильний;міцний
+student;n;ˈstjuːdənt;студент
+studio;n;ˈstjuːdiəʊ;студія
+study;v;ˈstʌdi;вивчати
+stupid;adj;ˈstjuːpɪd;дурний
+style;n;staɪl;стиль
+subject;n;ˈsʌbdʒɪkt;предмет;тема
+subtract;v;səbˈtrækt;віднімати
+subway;n;ˈsʌbweɪ;метро;підземний перехід
+succeed;v;səkˈsiːd;досягати успіху;наступати
+success;n;səkˈsɛs;успіх
+such;adj;sʌtʃ;такий;подібний
+sudden;adj;ˈsʌdən;раптовий
+sugar;n;ˈʃʊɡər;цукор
+suggest;v;səˈdʒɛst;пропонувати;наводити думку
+suit;v;suːt;підходити;костюм
+suitable;adj;ˈsuːtəbl;підхожий;відповідний
+suitcase;n;ˈsuːtˌkeɪs;валіза
+sum;n;sʌm;сума
+summer;n;ˈsʌmər;літо
+summer;n;ˈsʌmər;літо
+sum up;v;ˌsʌm ˈʌp;підсумовувати
+sun;n;sʌn;сонце
+sunbathe;v;ˈsʌnˌbeɪð;засмагати
+Sunday;n;ˈsʌndeɪ;неділя
+sunlight;n;ˈsʌnˌlaɪt;сонячне світло
+sunny;adj;ˈsʌni;сонячно
+sunrise;n;ˈsʌnˌraɪz;схід сонця
+sunset;n;ˈsʌnˌsɛt;захід сонця
+sunshine;n;ˈsʌnˌʃaɪn;сонячне світло;сонячний день
+supermarket;n;ˈsuːpərˌmɑːrkɪt;супермаркет
+supply;v;səˈplaɪ;постачати
+support;v;səˈpɔːrt;підтримувати
+suppose;v;səˈpoʊz;припустити;вважати
+sure;adj;ʃʊər;впевнений;точно
+surfing;n;ˈsɜːrfɪŋ;серфінг
+surname;n;ˈsɜːrneɪm;прізвище
+surprise;n;səˈpraɪz;сюрприз;здивування
+surprised;adj;səˈpraɪzd;здивований
+surround;v;səˈraʊnd;оточувати
+sweater;n;ˈswɛtər;светр
+sweatshirt;n;ˈswɛtˌʃɜːrt;свитшот
+sweep;v;swiːp;підмітати
+sweet;adj;swiːt;солодкий
+swim;v;swɪm;плавати
+swimming;n;ˈswɪmɪŋ;плавання
+swimming;v;ˈswɪmɪŋ;плавання;плавати
+swimming costume;n;ˈswɪmɪŋ ˌkɒstjuːm;купальник
+swimming pool;n;ˈswɪmɪŋ puːl;басейн
+swimming pool;n;ˈswɪmɪŋ puːl;басейн
+swimsuit;n;ˈswɪmˌsuːt;купальник
+swing;v;swɪŋ;гойдатися;качатися
+swings;n;swɪŋz;гойдалки
+switch;v;swɪtʃ;перемикати
+switch off;v;ˌswɪtʃ ˈɒf;вимкнути
+switch on;v;ˌswɪtʃ ˈɒn;увімкнути
+system;n;ˈsɪstəm;система
+table;n;ˈteɪbl;стіл
+table-cloth;n;ˈteɪblˌklɒθ;скатертина
+tablet;n;ˈtæblət;таблетка;планшет
+table-tennis;n;ˈteɪbl ˌtɛnɪs;настільний теніс
+take;v;teɪk;брати
+take away;v;ˌteɪk əˈweɪ;забирати;віднімати
+take exercise;v;ˌteɪk ˈɛksəsaɪz;займатися спортом
+take off;v;ˌteɪk ˈɒf;знімати;злітати
+take part;v;ˌteɪk ˈpɑːrt;брати участь
+take place;v;ˌteɪk ˈpleɪs;відбуватися
+take up;v;ˌteɪk ˈʌp;займатися;брати
+talent;n;ˈtælənt;талант
+talk;v;tɔːk;говорити
+tall;adj;tɔːl;високий
+tap;n;tæp;краник;кран
+tape;n;teɪp;стрічка;касета
+taste;v;teɪst;смакувати
+tax;n;tæks;податок
+taxi;n;ˈtæksi;таксі
+taxi driver;n;ˈtæksi ˌdraɪvər;водій таксі
+taxi rank;n;ˈtæksi ræŋk;стоянка таксі
+taxi rank;n;ˈtæksi ræŋk;стоянка таксі
+tea;n;tiː;чай
+teach;v;tiːtʃ;навчати
+teacher;n;ˈtiːʧər;вчитель
+team;n;tiːm;команда
+tear;v;teər;рвати
+technique;n;tɛkˈniːk;техніка;метод
+technology;n;tɛkˈnɒlədʒi;технологія
+teenage;adj;ˈtiːnˌeɪdʒ;підлітковий
+teeth;n;tiːθ;зуби
+telegram;n;ˈtɛlɪˌɡræm;телеграма
+telephone;n;ˈtɛlɪˌfoʊn;телефон
+television;n;ˈtɛlɪˌvɪʒən;телевізор
+tell;v;tɛl;розповідати;говорити
+temperature;n;ˈtɛmpərətʃər;температура
+temporary;adj;ˈtɛmpərəri;тимчасовий
+tennis;n;ˈtɛnɪs;теніс
+tent;n;tɛnt;намет
+term;n;tɜːm;термін;семестр
+terminal;n;ˈtɜːmɪnəl;термінал
+terrible;adj;ˈtɛrəbl;жахливий
+test;n;tɛst;тест;іспит
+text;n;tɛkst;текст
+text message;n;ˈtɛkst ˌmɛsɪdʒ;текстове повідомлення
+than;conj;ðæn;ніж
+thank;v;θæŋk;дозувати
+thanks;interj;θæŋks;дякую
+thank you;interj;ˈθæŋk juː;дякую
+that;pron;ðæt;те;той
+theatre;n;ˈθɪətər;театр
+theatre;n;ˈθɪətər;театр
+theft;n;θɛft;крадіжка
+their;pron;ðɛər;їхній
+theirs;pron;ðɛərz;їхнє
+them;pron;ðɛm;їх
+themselves;pron;ðəmˈsɛlvz;самі собі
+then;adv;ðɛn;тоді;потім
+there;adv;ðɛər;там
+therefore;adv;ˈðɛərˌfɔːr;отже;тому
+thermometer;n;θərˈmɒmɪtər;термометр
+these;pron;ðiːz;ці
+they;pron;ðeɪ;вони
+thick;adj;θɪk;товстий;густий
+thief;n;θiːf;злодій
+thin;adj;θɪn;тонкий;схудлий
+thing;n;θɪŋ;річ;справа
+things;n;θɪŋz;речі
+think;v;θɪŋk;думати
+third;adj;θɜːrd;третій
+thirst;n;θɜːst;спрага
+thirsty;adj;ˈθɜːsti;спраглий
+this;pron;ðɪs;це;цей
+those;pron;ðəʊz;ті;той
+though;conj;ðəʊ;хоча
+thought;n;θɔːt;думка
+thriller;n;ˈθrɪlər;трилер
+throat;n;θroʊt;горло
+through;prep;θruː;через
+throughout;prep;θruːˈaʊt;протягом;по всьому
+throw;v;θroʊ;кидати
+throw away;v;ˌθroʊ əˈweɪ;викинути
+thumb;n;θʌm;великий палець
+thunder;n;ˈθʌndər;грім
+thunderstorm;n;ˈθʌndərˌstɔːrm;гроза
+Thursday;n;ˈθɜːzdeɪ;четвер
+tick;n;tɪk;галочка;кліщ
+ticket;n;ˈtɪkɪt;квиток
+tidy;adj;ˈtaɪdi;охайний
+tidy up;v;ˌtaɪdi ˈʌp;прибирати
+tie;v;taɪ;зав'язувати;краватка
+tiger;n;ˈtaɪɡər;тигр
+tight;adj;taɪt;тісний
+tights;n;taɪts;колготки
+time;n;taɪm;час
+timetable;n;ˈtaɪmˌteɪbl;розклад
+tin;n;tɪn;банка;олово
+tin-opener;n;ˈtɪnˌoʊpənər;консервний ніж
+tiny;adj;ˈtaɪni;крихітний
+tip;n;tɪp;порада;чайові
+tire;n;ˈtaɪər;шина
+tired;adj;ˈtaɪərd;втомлений
+title;n;ˈtaɪtl;назва;звання
+to;prep;tuː;до
+toast;n;toʊst;тост
+today;adv;təˈdeɪ;сьогодні
+toe;n;toʊ;палець ноги
+toes;n;toʊz;пальці ніг
+together;adv;təˈɡɛðər;разом
+toilet;n;ˈtɔɪlət;туалет
+tomato;n;təˈmeɪtoʊ;помідор
+tomorrow;adv;təˈmɒroʊ;завтра
+ton;n;tʌn;тонна
+tongue;n;tʌŋ;язик
+tonight; adv/n; təˈnaɪt; сьогодні ввечері
+tonight;adv;təˈnaɪt;сьогодні ввечері
+too;adv;tuː;також;занадто
+tool;n;tuːl;інструмент
+tooth;n;tuːθ;зуб
+toothache;n;ˈtuːθˌeɪk;зубний біль
+toothbrush;n;ˈtuːθˌbrʌʃ;зубна щітка
+toothpaste;n;ˈtuːθˌpeɪst;зубна паста
+top;n;tɒp;верх
+topic;n;ˈtɒpɪk;тема
+total;adj;ˈtoʊtl;загальний;сума
+touch;v;tʌtʃ;торкатися
+tour;n;tuər;тур;екскурсія
+tourism;n;ˈtʊərɪzəm;туризм
+tourist;n;ˈtʊərɪst;турист
+toward;prep;təˈwɔːrd;до;напрямок до
+towel;n;ˈtaʊəl;рушник
+tower;n;ˈtaʊər;вежа
+town;n;taʊn;місто;містечко
+toy;n;tɔɪ;іграшка
+track;n;træk;слід;колія
+track suit;n;ˈtræk ˌsuːt;спортивний костюм
+tracksuit;n;ˈtrækˌsuːt;спортивний костюм
+trade;n;treɪd;торгівля
+traditional;adj;trəˈdɪʃənəl;традиційний
+traffic;n;ˈtræfɪk;рух;транспортний потік
+traffic jam;n;ˈtræfɪk dʒæm;пробка
+traffic light;n;ˈtræfɪk laɪt;світлофор
+traffic lights;n;ˈtræfɪk laɪts;світлофор
+train;n;treɪn;поїзд
+trainer;n;ˈtreɪnər;тренер
+trainers;n;ˈtreɪnərz;кросівки
+tram;n;træm;трамвай
+transfer;v;ˈtrænsˌfɜːr;переводити;перекладати
+translate;v;trænsˈleɪt;перекладати
+translation;n;trænsˈleɪʃən;переклад
+transport;n;ˈtrænspɔːrt;транспорт
+travel;v;ˈtrævəl;подорожувати
+travel agent;n;ˈtrævəl ˌeɪdʒənt;туристичне агентство
+traveller's cheque;n;ˈtrævələrz ʧɛk;дорожній чек
+traveller’s cheque;n;ˌtrævlərz ˈʧɛk;дорожній чек
+tree;n;triː;дерево
+trip;n;trɪp;подорож;поход
+trouble;n;ˈtrʌbl;проблема;неприємність
+trousers;n;ˈtraʊzərz;штани
+truck;n;trʌk;вантажівка
+true;adj;truː;правдивий
+trumpet;n;ˈtrʌmpɪt;труба
+trust;v;trʌst;довіряти
+truth;n;truːθ;правда
+try;v;traɪ;намагатися
+try on;v;ˌtraɪ ˈɒn;приміряти
+T-shirt;n;ˈtiːˌʃɜːrt;T-шкіра
+tube;n;tuːb;трубка;метро
+Tuesday;n;ˈtjuːzdeɪ;вівторок
+tune;n;tuːn;мелодія
+tunnel;n;ˈtʌnl;тунель
+turkey;n;ˈtɜːrki;індичка
+turn;v;tɜːrn;повертати
+turn down;v;ˌtɜːrn ˈdaʊn;зменшити;відмовити
+turning;n;ˈtɜːrnɪŋ;поворот
+turn into;v;ˌtɜːrn ˈɪntuː;перетворитися на
+turn off;v;ˌtɜːrn ˈɒf;вимкнути
+turn on;v;ˌtɜːrn ˈɒn;увімкнути
+turn out;v;ˌtɜːrn ˈaʊt;виявитися;закінчитися
+turn up;v;ˌtɜːrn ˈʌp;з'явитися;підвищити
+TV;n;ˌtiːˈviː;телевізор
+twice;adv;ˈtwaɪs;двічі
+twin;adj;twɪn;близнюк
+type;v;taɪp;тип;друкувати
+typical;adj;ˈtɪpɪkəl;типовий
+tyre;n;ˈtaɪər;шина;покришка
+ugly;adj;ˈʌɡli;негарний
+umbrella;n;ʌmˈbrɛlə;парасолька
+unable;adj;ʌnˈeɪbl;нездатний
+uncle;n;ˈʌŋkl;дядько
+under;prep;ˈʌndər;під
+underground;adj;ˈʌndərˌɡraʊnd;підземний
+underpants;n;ˈʌndərˌpænts;трусики
+understand;v;ˌʌndərˈstænd;розуміти
+unemployed;adj;ˌʌnɪmˈplɔɪd;безробітний
+uniform;n;ˈjuːnɪfɔːrm;форма;однострій
+universe;n;ˈjuːnɪvɜːrs;універсум;всесвіт
+university;n;ˌjuːnɪˈvɜːrsɪti;універсітет
+unleaded;adj;ʌnˈlɛdɪd;безсвинцевий
+unless;conj;ʌnˈlɛs;якщо не
+until;prep;ʌnˈtɪl;до;аж до
+unusual;adj;ʌnˈjuːʒʊəl;незвичайний
+up;adv;ʌp;вгору
+update;v;ˈʌpdeɪt;оновлювати
+upon;prep;əˈpɒn;на;на основі
+upset;adj;ʌpˈsɛt;засмучений;збентежений
+upstairs;adv;ˌʌpˈsteərz;нагору;на верхньому поверсі
+up to;prep;ˌʌp tu;до;до рівня
+up to date;adj;ˌʌp tu ˈdeɪt;сучасний;актуальний
+urgent;adj;ˈɜːrdʒənt;терміновий
+us;pron;ʌs;нас
+use;v;juːz;використовувати
+used to;v;ˈjuːst tu;звикати;раніше
+usual;adj;ˈjuːʒʊəl;звичайний
+valley;n;ˈvæli;долина
+value;n;ˈvæljuː;цінність;вартість
+van;n;væn;фургон
+vanilla;n;vəˈnɪlə;ваніль
+variety;n;vəˈraɪəti;різноманітність
+various;adj;ˈveəriəs;різний;різноманітний
+vase;n;vɑːz;ваза
+vase;n;veɪz;ваза
+veal;n;viːl;теляча м'ясо
+vegetable;n;ˈvɛdʒtəbl;овоч
+vegetarian;adj;ˌvɛdʒəˈteəriən;вегетаріанець
+vehicle;n;ˈviːɪkl;транспортний засіб
+venue;n;ˈvɛnjuː;місце проведення
+very;adv;ˈvɛri;дуже
+victim;n;ˈvɪktɪm;жертва
+victory;n;ˈvɪktəri;перемога
+video;n;ˈvɪdiəʊ;відео
+video;n;ˈvɪdiəʊ;відео
+video recorder;n;ˈvɪdiəʊ rɪˈkɔːdər;відеомагнітофон
+videotape;n;ˈvɪdiəʊteɪp;відеокасета
+view;n;vjuː;вид;погляд
+village;n;ˈvɪlɪdʒ;село
+violin;n;ˌvaɪəˈlɪn;скрипка
+visa;n;ˈviːzə;віза
+visit;v;ˈvɪzɪt;відвідувати
+visitor;n;ˈvɪzɪtər;відвідувач
+vocabulary;n;vəˈkæbjʊləri;словниковий запас
+voice;n;vɔɪs;голос
+volleyball;n;ˈvɒlibɔːl;волейбол
+vote;v;voʊt;голосувати
+voyage;n;ˈvɔɪɪdʒ;подорож;плавання
+wage;n;weɪdʒ;зарплата
+wait;v;weɪt;чекати
+waiter;n;ˈweɪtər;офіціант
+waiting-room;n;ˈweɪtɪŋ ruːm;чекальня
+waitress;n;ˈweɪtrɪs;офіціантка
+wake;v;weɪk;будити
+walk;v;wɔːk;ходити;прогулянка
+wall;n;wɔːl;стіна
+wallet;n;ˈwɒlɪt;гаманець
+want;v;wɒnt;хотіти
+war;n;wɔːr;війна
+ward;n;wɔːd;палата;район
+warm;adj;wɔːrm;теплий
+warn;v;wɔːrn;попереджати
+wash;v;wɒʃ;мити
+wash-basin;n;ˈwɒʃˌbeɪsn;умивальник
+washing;n;ˈwɒʃɪŋ;прання
+washing machine;n;ˈwɒʃɪŋ məˈʃiːn;пральна машина
+washing up;n;ˈwɒʃɪŋ ʌp;миття посуду
+wash up;v;ˌwɒʃ ˈʌp;мивати посуд
+waste;v;weɪst;гаємо;марнувати
+wastepaper basket;n;ˌweɪstˌpeɪpər ˈbæskɪt;кошик для сміття
+wastepaper basket;n;ˈweɪstpeɪpər ˌbɑːskɪt;кошик для сміття
+watch;v;wɒtʃ;дивитися;спостерігати
+water;n;ˈwɔːtər;вода
+waterfall;n;ˈwɔːtəfɔːl;водоспад
+water skiing;n;ˌwɔːtər ˈskiːɪŋ;водні лижі
+wave;n;weɪv;хвиля;махати
+waves;n;weɪvz;хвилі
+way;n;weɪ;шлях;спосіб
+WC;n;ˌdʌbəljuːˈsiː;туалет
+WC;n;ˌdʌbəljuːˈsiː;туалет
+we;pron;wiː;ми
+weak;adj;wiːk;слабкий
+wear;v;weər;носити;одягати
+wear off;v;ˌwɛər ˈɒf;стиратися;зникати
+wear out;v;ˌwɛər ˈaʊt;зношуватися
+weather;n;ˈwɛðər;погода
+web;n;wɛb;веб;мережа
+website;n;ˈwɛbˌsaɪt;веб-сайт
+wedding;n;ˈwɛdɪŋ;весілля
+Wednesday;n;ˈwɛnzdeɪ;середа
+week;n;wiːk;тиждень
+weekday;n;ˈwiːkdeɪ;будній день
+weekend;n;ˌwiːkˈɛnd;вихідні
+weekly;adj;ˈwiːkli;щотижневий
+weigh;v;weɪ;зважувати
+weight;n;weɪt;вага
+welcome;v;ˈwɛlkəm;вітати;ласкаво просимо
+welfare;n;ˈwɛlfeər;добробут;соціальне забезпечення
+well;adv;wɛl;добре
+Well done!;interj;ˌwɛl ˈdʌn;Молодець!;Добре зроблено!
+well known;adj;ˌwɛl ˈnoʊn;відомий
+well-known;adj;ˌwɛlˈnoʊn;відомий
+well made;adj;ˌwɛl ˈmeɪd;добре зроблений
+well-made;adj;ˌwɛlˈmeɪd;добре виготовлений
+west;n;wɛst;захід
+wet;adj;wɛt;мокрий
+what;pron;wɒt;що
+whatever;pron;wɒtˈɛvər;чого б не;будь-що
+wheel;n;wiːl;колесо
+wheelchair;n;ˈwiːlˌtʃeər;інвалідний візок
+when;adv;wɛn;коли
+whenever;adv;wɛnˈɛvər;коли б не;кожного разу, коли
+where;adv;wɛər;де
+wherever;adv;wɛrˈɛvər;де б не;в будь-якому місці
+which;pron;wɪtʃ;який;яка
+whichever;pron;wɪtʃˈɛvər;який би не;будь-який
+while, whilst;conj;waɪl, waɪlst;поки;в той час як
+white;adj;waɪt;білий
+whoever;pron;huːˈɛvər;хто б не;будь-хто
+whole;adj;hoʊl;цілий;весь
+whose;pron;huːz;чий
+who, whom;pron;huː, hu:m;хто;кого
+why;adv;waɪ;чому
+wide;adj;waɪd;широкий
+width;n;wɪdθ;ширина
+wife;n;waɪf;дружина
+wild;adj;waɪld;дикий
+wildlife;n;ˈwaɪldˌlaɪf;дикі тварини;дикі природи
+win;v;wɪn;виграти
+wind;n;wɪnd;вітер
+window;n;ˈwɪndəʊ;вікно
+windscreen;n;ˈwɪndˌskriːn;лобове скло
+windsurfing;n;ˈwɪndˌsɜːrfɪŋ;вітрильний серфінг
+windy;adj;ˈwɪndi;вітряно
+wing;n;wɪŋ;крило
+winter;n;ˈwɪntər;зима
+winter;n;ˈwɪntər;зима
+wish;v;wɪʃ;бажати
+with;prep;wɪð;з;разом з
+within;prep;wɪˈðɪn;всередині;протягом
+without;prep;wɪˈðaʊt;без
+witness;n;ˈwɪtnəs;свідок
+woman;n;ˈwʊmən;жінка
+wonder;v;ˈwʌndər;дивуватися;задаватися питанням
+wonderful;adj;ˈwʌndəfʊl;чудовий
+wood;n;wʊd;дерево;ліс
+wooden;adj;ˈwʊdn;дерев'яний
+wool;n;wʊl;вовна
+word;n;wɜːd;слово
+work;v;wɜːrk;працювати
+working hours;n;ˈwɜːrkɪŋ ˈaʊərz;робочі години
+world;n;wɜːrld;світ
+worry;v;ˈwʌri;турбуватися
+worse;adj;wɜːrs;гірший
+worst;adj;wɜːrst;найгірший
+worth;adj;wɜːrθ;варто;цінний
+wound;n;wuːnd;рана
+wrap;v;ræp;загортати
+write out;v;ˌraɪt ˈaʊt;вписати;написати повністю
+wrong;adj;rɒŋ;неправильний
+year;n;jɪər;рік
+yearly;adv;ˈjɪərli;щорічно
+yellow;adj;ˈjɛloʊ;жовтий
+yes;interj;jɛs;так
+yesterday;adv;ˈjɛstədeɪ;вчора
+yet;adv;jɛt;ще;вже
+you;pron;juː;ти;ви
+you know;phrase;juː ˈnoʊ;ти знаєш
+young;adj;jʌŋ;молодий
+your;pron;jɔːr;твій;ваш
+yours;pron;jɔːrz;твоє;ваше
+yourself;pron;jɔːrˈsɛlf;сам;сама;само
+youth;n;juːθ;молодь;юність
+zebra;n;ˈziːbrə;зебра
+zero;n;ˈzɪərəʊ;нуль
+zone;n;zoʊn;зона
+zoo;n;zuː;зоопарк
