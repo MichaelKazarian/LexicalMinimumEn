@@ -69,7 +69,7 @@ function processDirectory(directoryPath, wordSet) {
 
 // Основна функція
 function main() {
-  const txtFilePath = '../../vocabulary-x.txt'; // Заміни на шлях до твого файлу
+  const txtFilePath = '../../data/vocabulary-x.txt'; // Заміни на шлях до твого файлу
   const directoryPath = '../../generated'; // Заміни на шлях до твого каталогу
 
   // Читаємо файл та створюємо Set

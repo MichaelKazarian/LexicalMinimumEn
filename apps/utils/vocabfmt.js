@@ -1,4 +1,4 @@
-const vocabularyFile = '../../vocabulary.org';
+const vocabularyFile = '../../data/vocabulary.org';
 const lineType = {
   WORD: "WORD",
   SAMPLE: "SAMPLE",
