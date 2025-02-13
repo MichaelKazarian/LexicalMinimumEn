@@ -46,4 +46,3 @@ sort -t'|' -k1,1 > $output_lex_min
 
 # Видалення тимчасових файлів
 rm dict_sorted.txt weights_sorted.txt
-
