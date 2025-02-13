@@ -1,4 +1,4 @@
-a.m.|abbr|ˌeɪˈɛm|ранок; до полудня
+|
 ability|n|əˈbɪlɪti|здатність; уміння
 able|adj|ˈeɪbəl|здатний; спроможний
 about|prep/adv|əˈbaʊt|про; близько
@@ -103,7 +103,6 @@ annoyed|adj|əˈnɔɪd|роздратований
 annual|adj|ˈænjuəl|щорічний
 another|adj/pron|əˈnʌðər|інший
 answer|n/v|ˈænsər|відповідь; відповідати
-answer|n/v|ˈænsər|відповідь; відповідати
 answerphone|n|ˈænsəfəʊn|автовідповідач
 Antarctica|n|ænˈtɑːrktɪkə|Антарктика
 antique|n/adj|ænˈtiːk|антикваріат; антикварний
@@ -179,7 +178,6 @@ aunt|n|ɑːnt|тітка
 Australia|n|ɒˈstreɪliə|Австралія
 automatically|adv|ˌɔːtəˈmætɪkli|автоматично
 autumn|n|ˈɔːtəm|осінь
-autumn|n|ˈɔːtəm|осінь
 available|adj|əˈveɪləbl|доступний
 average|n/adj|ˈævərɪdʒ|середній; середнє
 avoid|v|əˈvɔɪd|уникати
@@ -204,7 +202,6 @@ balloon|n|bəˈluːn|куля; балон
 banana|n|bəˈnænə|банан
 band|n|bænd|група; оркестр
 bandage|n|ˈbændɪdʒ|бинт
-bank|n|bæŋk|банк
 bank|n|bæŋk|банк
 bank balance|n|bæŋk ˈbæləns|банківський баланс
 banker|n|ˈbæŋkər|банкір
@@ -422,7 +419,6 @@ cartoon|n|kɑːrˈtuːn|мультфільм; карикатура
 case|n|keɪs|випадок; справа
 cash|n|kæʃ|готівка
 cassette|n|kəˈsɛt|касета
-cassette|n|kəˈsɛt|касета
 cassette player|n|kəˈsɛt ˈpleɪər|магнітофон
 castle|n|ˈkæsəl|замок
 cat|n|kæt|кішка
@@ -431,7 +427,6 @@ cathedral|n|kəˈθiːdrəl|собор
 cauliflower|n|ˈkɒlɪˌflaʊər|цвітна капуста
 cause|n|kɔːz|причина; справа
 cave|n|keɪv|печера
-CD|n|ˌsiːˈdiː|компакт-диск
 CD|n|ˌsiːˈdiː|компакт-диск
 CD-Rom|n|ˌsiːdiːˈrɒm|CD-ROM
 ceiling|n|ˈsiːlɪŋ|стеля
@@ -521,8 +516,7 @@ clothes|n|kləʊðz|одяг
 cloud|n|klaʊd|хмара
 cloudy|adj|ˈklaʊdi|хмарно
 club|n|klʌb|клуб
-coach|n|koʊtʃ|автобус (особливо далекого прямування)
-coach|n|koʊtʃ|тренер
+coach|n|koʊtʃ|тренер; автобус (особливо далекого прямування)
 coal|n|koʊl|вугілля
 coast|n|koʊst|узбережжя; берег
 coat|n|koʊt|пальто; шар
@@ -666,7 +660,6 @@ damp|adj|dæmp|вологий; сирний
 dance|v|dɑːns|танцювати
 dancer|n|ˈdænsər|танцівник
 dancing|n|ˈdænsɪŋ|танці
-dancing|n|ˈdænsɪŋ|танці
 danger|n|ˈdeɪndʒər|небезпека
 dangerous|adj|ˈdeɪndʒərəs|небезпечний
 dark|adj|dɑːrk|темний
@@ -796,9 +789,7 @@ dream|n|driːm|сон; мрія
 dress|n|dres|сукня; одяг
 dressing|n|ˈdresɪŋ|заправка; соус
 drink|v|drɪŋk|пити
-drive|v|draɪv|водити
 drive|v|draɪv|водити; їхати
-driving licence|n|ˈdraɪvɪŋ ˈlaɪsəns|водійське посвідчення
 driving licence|n|ˌdraɪvɪŋ ˈlaɪsəns|водійське посвідчення
 drop|v|drɒp|крапати; падати
 drugstore|n|ˈdrʌɡstɔːr|аптека; магазин ліків
@@ -808,7 +799,6 @@ dry cleaner|n|ˌdraɪ ˈkliːnər|хімчистка
 dry cleaning|n|ˈdraɪ ˈkliːnɪŋ|хімчистка
 duck|n|dʌk|качка
 due|adj|djuː|належний; очікуваний
-due|adj|djuː|очікуваний; належний
 due to|prep|ˈdjuː tuː|через; завдяки
 dull|adj|dʌl|нудний; тупий
 during|prep|ˈdjʊərɪŋ|протягом; в процесі
@@ -876,7 +866,6 @@ entertainment|n|ˌɛntərˈteɪnmənt|розвага; шоу
 entrance|n|ˈɛntrəns|вхід; в'їзд
 entry|n|ˈɛntri|вступ; запис
 envelope|n|ˈɛnvələʊp|конверт; обгортка
-environment|n|ɪnˈvaɪrənmənt|навколишнє середовище
 environment|n|ɪnˈvaɪrənmənt|середовище; навколишнє середовище
 equal|adj|ˈiːkwəl|рівний; однаковий
 equipment|n|ɪˈkwɪpmənt|обладнання; екіпірування
@@ -930,7 +919,6 @@ extremely|adv|ɪkˈstriːmli|надзвичайно; дуже
 eye|n|aɪ|око; глаз
 face|n|feɪs|обличчя; лице
 facilities|n|fəˈsɪlɪtiz|обладнання; умови
-facilities|n|fəˈsɪlɪtiz|умови; обладнання
 fact|n|fækt|факт; реальність
 factory|n|ˈfæktəri|фабрика; завод
 fail|v|feɪl|провалюватися; не вдаватися
@@ -999,7 +987,6 @@ fire|n|faɪər|вогонь; пожежа
 firefighter|n|ˈfaɪərˌfaɪtər|пожежник
 fireman|n|ˈfaɪəmən|пожежник
 firm|adj|fɜːm|міцний; твердий
-first|adj|fɜːrst|перший
 first|adj|fɜːst|перший; початковий
 fish|n|fɪʃ|риба
 fishing|n|ˈfɪʃɪŋ|риболовля
@@ -1237,8 +1224,7 @@ his|pron|hɪz|його
 historic|adj|hɪˈstɒrɪk|історичний (значущий)
 historical|adj|hɪˈstɒrɪkəl|історичний (пов'язаний з історією)
 history|n|ˈhɪstəri|історія
-hit|v|hɪt|ударити
-hit|v/n|hɪt|вдарити; удар
+hit|v/n|hɪt|ударити; удар
 hitch-hike|v|ˈhɪtʃˌhaɪk|автостопити
 hit song|n|ˈhɪt sɔːŋ|хіт; популярна пісня
 hobby|n|ˈhɒbi|хобі; захоплення
@@ -1398,14 +1384,11 @@ jewellery|n|ˈdʒuːəlri|коштовності; прикраси
 job|n|dʒɒb|робота; посада
 jog|v|dʒɒɡ|бігати трусцем
 jogging|n|ˈdʒɒɡɪŋ|біг підтюпцем
-jogging|n|ˈdʒɒɡɪŋ|біг підтюпцем
 join|v|dʒɔɪn|приєднуватися; з'єднувати
-join in|v|ˌdʒɔɪn ˈɪn|приєднуватися
 join in|v|ˌdʒɔɪn ˈɪn|приєднуватися
 joke|n/v|dʒəʊk|жарт; жартувати
 journalism|n|ˈdʒɜːnəlɪzəm|журналістика
 journalist|n|ˈdʒɜːnəlɪst|журналіст
-journey|n|ˈdʒɜːni|подорож
 journey|n|ˈdʒɜːrni|подорож
 judge|n/v|dʒʌdʒ|суддя; судити
 jug|n|dʒʌɡ|глечик
@@ -1455,7 +1438,6 @@ lake|n|leɪk|озеро
 lamb|n|læm|ягня; баранина
 lamp|n|læmp|лампа
 land|n/v|lænd|земля; приземлятися
-land|v|lænd|приземлятися
 landlady|n|ˈlændˌleɪdi|господиня; власниця будинку
 landlord|n|ˈlændˌlɔːd|господар; власник будинку
 landscape|n|ˈlændˌskeɪp|пейзаж
@@ -1558,7 +1540,6 @@ lower|v/adj|ˈləʊər|знижувати; нижчий
 luck|n|lʌk|удача
 lucky|adj|ˈlʌki|щасливий
 luggage|n|ˈlʌɡɪdʒ|багаж
-luggage|n|ˈlʌɡɪdʒ|багаж
 lump|n|lʌmp|шматок; грудка
 lunch|n|lʌntʃ|обід
 lunchtime|n|ˈlʌntʃtaɪm|час обіду
@@ -1583,7 +1564,6 @@ manage|v|ˈmænɪdʒ|керувати; управляти
 manager|n|ˈmænɪdʒər|менеджер
 manner|n|ˈmænə|манера; спосіб
 many|adj/pron|ˈmɛni|багато; численні
-map|n|mæp|карта
 map|n|mæp|карта; мапа
 March|March|mɑːrtʃ|березень
 mark|n/v|mɑːk|відмітка; позначка; оцінка; позначати
@@ -1959,8 +1939,7 @@ player|n|ˈpleɪər|гравець; програвач
 playground|n|ˈpleɪɡraʊnd|ігровий майданчик
 playing cards|n|ˈpleɪɪŋ kɑːdz|гральні карти
 pleasant|adj|ˈplɛzənt|приємний
-please|adv|pliz|будь ласка
-please|interj|pliːz|будь ласка
+please|adv/interj|pliːz|будь ласка
 pleasure|n|ˈplɛʒər|задоволення
 plenty|n|ˈplɛnti|достаток; багато
 plug|n|plʌɡ|вилка; пробка
@@ -2266,7 +2245,6 @@ season|n|ˈsiːzn|сезон
 seat|n|siːt|сидіння
 seat belt|n|ˈsiːt belt|ремінь безпеки
 second|adj|ˈsɛkənd|другий
-second|adj|ˈsɛkənd|другий
 secondary|adj|ˈsɛkəndəri|другорядний; середня
 secret|adj|ˈsiːkrɪt|секретний
 secretary|n|ˈsɛkrətəri|секретар
@@ -2443,9 +2421,7 @@ spoil|v|spɔɪl|псувати; балувати
 spoon|n|spuːn|ложка
 sport|n|spɔːrt|спорт
 sports centre|n|ˈspɔːrts ˌsɛntər|спортивний центр
-sports centre|n|ˈspɔːrts ˌsɛntər|спортивний центр
 spot|n|spɒt|пляма; місце
-spring|n|sprɪŋ|весна
 spring|n|sprɪŋ|весна
 spy|n|spaɪ|шпигун
 square|n|skwɛər|площа; квадрат
@@ -2515,7 +2491,6 @@ suitable|adj|ˈsuːtəbl|підхожий; відповідний
 suitcase|n|ˈsuːtˌkeɪs|валіза
 sum|n|sʌm|сума
 summer|n|ˈsʌmər|літо
-summer|n|ˈsʌmər|літо
 sum up|v|ˌsʌm ˈʌp|підсумовувати
 sun|n|sʌn|сонце
 sunbathe|v|ˈsʌnˌbeɪð|засмагати
@@ -2540,10 +2515,8 @@ sweatshirt|n|ˈswɛtˌʃɜːrt|свитшот
 sweep|v|swiːp|підмітати
 sweet|adj|swiːt|солодкий
 swim|v|swɪm|плавати
-swimming|n|ˈswɪmɪŋ|плавання
-swimming|v|ˈswɪmɪŋ|плавання; плавати
+swimming|n/v|ˈswɪmɪŋ|плавання; плавати
 swimming costume|n|ˈswɪmɪŋ ˌkɒstjuːm|купальник
-swimming pool|n|ˈswɪmɪŋ puːl|басейн
 swimming pool|n|ˈswɪmɪŋ puːl|басейн
 swimsuit|n|ˈswɪmˌsuːt|купальник
 swing|v|swɪŋ|гойдатися; качатися
@@ -2573,7 +2546,6 @@ tax|n|tæks|податок
 taxi|n|ˈtæksi|таксі
 taxi driver|n|ˈtæksi ˌdraɪvər|водій таксі
 taxi rank|n|ˈtæksi ræŋk|стоянка таксі
-taxi rank|n|ˈtæksi ræŋk|стоянка таксі
 tea|n|tiː|чай
 teach|v|tiːtʃ|навчати
 teacher|n|ˈtiːʧər|вчитель
@@ -2602,7 +2574,6 @@ thank|v|θæŋk|дозувати
 thanks|interj|θæŋks|дякую
 thank you|interj|ˈθæŋk juː|дякую
 that|pron|ðæt|те; той
-theatre|n|ˈθɪətər|театр
 theatre|n|ˈθɪətər|театр
 theft|n|θɛft|крадіжка
 their|pron|ðɛər|їхній
@@ -2667,7 +2638,6 @@ tomorrow|adv|təˈmɒroʊ|завтра
 ton|n|tʌn|тонна
 tongue|n|tʌŋ|язик
 tonight|adv/n|təˈnaɪt|сьогодні ввечері
-tonight|adv|təˈnaɪt|сьогодні ввечері
 too|adv|tuː|також; занадто
 tool|n|tuːl|інструмент
 tooth|n|tuːθ|зуб
@@ -2772,7 +2742,6 @@ van|n|væn|фургон
 vanilla|n|vəˈnɪlə|ваніль
 variety|n|vəˈraɪəti|різноманітність
 various|adj|ˈveəriəs|різний; різноманітний
-vase|n|vɑːz|ваза
 vase|n|veɪz|ваза
 veal|n|viːl|теляча м'ясо
 vegetable|n|ˈvɛdʒtəbl|овоч
@@ -2782,7 +2751,6 @@ venue|n|ˈvɛnjuː|місце проведення
 very|adv|ˈvɛri|дуже
 victim|n|ˈvɪktɪm|жертва
 victory|n|ˈvɪktəri|перемога
-video|n|ˈvɪdiəʊ|відео
 video|n|ˈvɪdiəʊ|відео
 video recorder|n|ˈvɪdiəʊ rɪˈkɔːdər|відеомагнітофон
 videotape|n|ˈvɪdiəʊteɪp|відеокасета
@@ -2818,7 +2786,6 @@ washing machine|n|ˈwɒʃɪŋ məˈʃiːn|пральна машина
 washing up|n|ˈwɒʃɪŋ ʌp|миття посуду
 wash up|v|ˌwɒʃ ˈʌp|мивати посуд
 waste|v|weɪst|гаємо; марнувати
-wastepaper basket|n|ˌweɪstˌpeɪpər ˈbæskɪt|кошик для сміття
 wastepaper basket|n|ˈweɪstpeɪpər ˌbɑːskɪt|кошик для сміття
 watch|v|wɒtʃ|дивитися; спостерігати
 water|n|ˈwɔːtər|вода
@@ -2827,7 +2794,6 @@ water skiing|n|ˌwɔːtər ˈskiːɪŋ|водні лижі
 wave|n|weɪv|хвиля; махати
 waves|n|weɪvz|хвилі
 way|n|weɪ|шлях; спосіб
-WC|n|ˌdʌbəljuːˈsiː|туалет
 WC|n|ˌdʌbəljuːˈsiː|туалет
 we|pron|wiː|ми
 weak|adj|wiːk|слабкий
@@ -2884,7 +2850,6 @@ windscreen|n|ˈwɪndˌskriːn|лобове скло
 windsurfing|n|ˈwɪndˌsɜːrfɪŋ|вітрильний серфінг
 windy|adj|ˈwɪndi|вітряно
 wing|n|wɪŋ|крило
-winter|n|ˈwɪntər|зима
 winter|n|ˈwɪntər|зима
 wish|v|wɪʃ|бажати
 with|prep|wɪð|з; разом з
