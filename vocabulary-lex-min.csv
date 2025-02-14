@@ -1,70 +1,3 @@
-Africa|n|ˈæfrɪkə|NULL|Африка
-Antarctica|n|ænˈtɑːrktɪkə|NULL|Антарктика
-April|April|ˈeɪprəl|NULL|квітень
-Asia|n|ˈeɪʒə|NULL|Азія
-August|August|ˈɔːɡəst|NULL|серпень
-Australia|n|ɒˈstreɪliə|NULL|Австралія
-Brazil|n|brəˈzɪl|NULL|Бразилія
-Brazilian|adj|brəˈzɪliən|NULL|бразильський
-CD|n|ˌsiːˈdiː|NULL|компакт-диск
-CD-Rom|n|ˌsiːdiːˈrɒm|NULL|CD-ROM
-CV|n|ˌsiːˈviː|NULL|резюме
-Canada|n|ˈkænədə|NULL|Канада
-Canadian|adj|kəˈneɪdiən|2661|канадський
-China|n|ˈʧaɪnə|NULL|Китай
-Chinese|adj|ʧaɪˈniːz|1222|китайський
-DJ|n|ˌdiːˈdʒeɪ|NULL|діджей
-DVD|n|ˌdiːˌviːˈdiː|NULL|DVD-диск
-DVD player|n|ˌdiːˌviːˈdiː ˈpleɪər|NULL|програвач DVD
-December|December|dɪˈsɛmbər|NULL|грудень
-Dr|abbr|ˈdɒktər|NULL|доктор
-Euro|n|ˈjʊərəʊ|NULL|євро; євровалюта
-Europe|n|ˈjʊərəp|NULL|Європа
-February|February|ˈfɛbruəri|NULL|лютий
-France|n|fræns|NULL|Франція
-French|adj|frɛnʧ|3099|французький
-French fries|n|ˈfrɛntʃ fraɪz|NULL|фрі; смажені картопляні смужки
-Friday|n|ˈfraɪdeɪ|NULL|п'ятниця
-I|pron|aɪ|11|я
-IT|n|ˌaɪˈtiː|NULL|інформаційні технології
-India|n|ˈɪndiə|NULL|Індія
-Indian|adj|ˈɪndiən|2340|індійський
-Ireland|n|ˈaɪərlənd|NULL|Ірландія
-Irish|adj|ˈaɪrɪʃ|2955|ірландський
-Italian|adj|ɪˈtæliən|2660|італійський
-Italy|n|ˈɪtəli|NULL|Італія
-January|January|ˈdʒænjuəri|NULL|січень
-July|July|dʒuːˈlaɪ|NULL|липень
-June|June|dʒuːn|NULL|червень
-MP3 player|n|ˌɛm piː θriː ˈpleɪər|NULL|плеєр MP3
-Madam|n|ˈmædəm|NULL|пані; мадам
-March|March|mɑːrtʃ|NULL|березень
-May|May|meɪ|NULL|травень
-Miss|n|mɪs|NULL|міс
-Monday|n|ˈmʌndi|NULL|понеділок
-Mr|n|ˈmɪstə|211|пан; містер
-Mrs|n|ˈmɪsɪz|1038|пані; місіс
-Ms|n|mɪz|1275|пані; міс
-North America|n|ˌnɔːrθ əˈmɛrɪkə|NULL|Північна Америка
-November|November|nəʊˈvɛmbər|NULL|листопад
-O.K.|interj|ˌoʊˈkeɪ|NULL|ОК; добре
-OK|interj|ˌoʊˈkeɪ|3046|ОК
-October|October|ɒkˈtəʊbər|NULL|жовтень
-Saturday|n|ˈsætərdeɪ|NULL|субота
-September|September|sɛpˈtɛmbər|NULL|вересень
-Sir|n|sɜːr|NULL|сер (звернення)
-South America|n|ˌsaʊθ əˈmɛrɪkə|NULL|Південна Америка
-Spain|n|speɪn|NULL|Іспанія
-Spanish|adj|ˈspænɪʃ|2225|іспанський
-Sunday|n|ˈsʌndeɪ|NULL|неділя
-T-shirt|n|ˈtiːˌʃɜːrt|3521|футболка
-TV|n|ˌtiːˈviː|797|телевізор
-Thursday|n|ˈθɜːzdeɪ|NULL|четвер
-Tuesday|n|ˈtjuːzdeɪ|NULL|вівторок
-WC|n|ˌdʌbəljuːˈsiː|NULL|туалет
-Wednesday|n|ˈwɛnzdeɪ|NULL|середа
-Well done!|interj|ˌwɛl ˈdʌn|NULL|Молодець!; Добре зроблено!
-a.m.|abbr|ˌeɪˈɛm|NULL|ранок; до полудня
 ability|n|əˈbɪlɪti|783|здатність; уміння
 able|adj|ˈeɪbəl|386|здатний; спроможний
 about|prep/adv|əˈbaʊt|179|про; близько
@@ -108,6 +41,7 @@ advise|v|ədˈvaɪz|2575|радити
 aeroplane|n|ˈeərəpleɪn|NULL|літак
 afford|v|əˈfɔːd|1860|мати змогу
 afraid|adj|əˈfreɪd|1407|наляканий
+Africa|n|ˈæfrɪkə|NULL|Африка
 after|prep/adv/conj|ˈæftər|260|після
 afternoon|n|ˌæftəˈnuːn|1195|післяобіддя
 afterwards|adv|ˈæftəwədz|NULL|потім
@@ -122,8 +56,8 @@ agree|v|əˈɡriː|515|погоджуватися
 ahead|adv|əˈhɛd|2672|попереду
 aim|n/v|eɪm|3675|ціль; цілити
 air|n|eər|371|повітря
-air force|n|ˈeər ˌfɔːrs|NULL|повітряні сили
 air-conditioning|n|ˈeər kənˌdɪʃənɪŋ|NULL|кондиціонування повітря
+air force|n|ˈeər ˌfɔːrs|NULL|повітряні сили
 airline|n|ˈeərlaɪn|2147|авіакомпанія
 airmail|n|ˈeərmeɪl|NULL|авіапошта
 airport|n|ˈeərpɔːrt|1780|аеропорт
@@ -133,8 +67,8 @@ album|n|ˈælbəm|2234|альбом
 alike|adj/adv|əˈlaɪk|4440|схожий; однаково
 alive|adj|əˈlaɪv|1541|живий
 all|adj/pron|ɔːl|222|увесь; всі
-all right|adj/adv|ɔːl ˈraɪt|NULL|гаразд; добре
 allow|v|əˈlaʊ|340|дозволяти
+all right|adj/adv|ɔːl ˈraɪt|NULL|гаразд; добре
 almost|adv|ˈɔːlməʊst|292|майже
 alone|adj/adv|əˈləʊn|1620|самотній; на самоті
 along|prep/adv|əˈlɒŋ|1200|вздовж; разом
@@ -146,6 +80,7 @@ also|adv|ˈɔːlsəʊ|87|також
 although|conj|ɔːlˈðəʊ|379|хоча
 altogether|adv|ˌɔːltəˈɡɛðər|3838|загалом
 always|adv|ˈɔːlweɪz|206|завжди
+a.m.|abbr|ˌeɪˈɛm|NULL|ранок; до полудня
 amazed|adj|əˈmeɪzd|NULL|вражений
 amazing|adj|əˈmeɪzɪŋ|2314|вражаючий
 ambassador|n|æmˈbæsədər|4567|посол
@@ -168,6 +103,7 @@ annual|adj|ˈænjuəl|1368|щорічний
 another|adj/pron|əˈnʌðər|2337|інший
 answer|n/v|ˈænsər|824|відповідь; відповідати
 answerphone|n|ˈænsəfəʊn|NULL|автовідповідач
+Antarctica|n|ænˈtɑːrktɪkə|NULL|Антарктика
 antique|n/adj|ænˈtiːk|NULL|антикваріат; антикварний
 anxious|adj|ˈæŋkʃəs|3864|тривожний
 any|adj/pron|ˈeni|4720|будь-який; будь-хто
@@ -190,6 +126,7 @@ apply|v|əˈplaɪ|941|подавати заявку; застосовувати
 appointment|n|əˈpɔɪntmənt|3048|призначення; зустріч
 approach|n/v|əˈprəʊtʃ|1374|підхід; наближатися
 approve|v|əˈpruːv|2070|схвалювати
+April|April|ˈeɪprəl|NULL|квітень
 architect|n|ˈɑːkɪtekt|3393|архітектор
 area|n|ˈeəriə|231|район; область
 argue|v|ˈɑːɡjuː|779|сперечатися
@@ -206,36 +143,39 @@ art|n|ɑːt|347|мистецтво
 article|n|ˈɑːtɪkl|732|стаття
 artist|n|ˈɑːtɪst|737|художник
 as|conj/prep|æz|129|як; якщо
-as well|adv|æz ˈwel|NULL|також
-as well as|prep|æz ˈwel æz|NULL|також; як і
 ashamed|adj|əˈʃeɪmd|NULL|сором'язливий
+Asia|n|ˈeɪʒə|NULL|Азія
 ask|v|ɑːsk|131|питати
 asleep|adj|əˈsliːp|3106|сплячий
 aspirin|n|ˈæspərɪn|NULL|аспірин
 assistant|n|əˈsɪstənt|2849|помічник
+as well|adv|æz ˈwel|NULL|також
+as well as|prep|æz ˈwel æz|NULL|також; як і
 at|prep|æt|22|в; на
 at all|phr|æt ˈɔːl|NULL|взагалі
 at first|phr|æt ˈfɜːst|NULL|спочатку
+athlete|n|ˈæθliːt|1609|спортсмен
+athletics|n|æθˈlɛtɪks|NULL|легка атлетика
 at last|phr|æt ˈlɑːst|NULL|нарешті
 at least|phr|æt ˈliːst|NULL|принаймні
+atmosphere|n|ˈætməsfɪə|2237|атмосфера
 at once|phr|æt ˈwʌns|NULL|негайно
 at present|phr|æt ˈpreznt|NULL|наразі
 at sea|prep|ət ˈsiː|NULL|у морі
-at the same time|phr|æt ði ˈseɪm taɪm|NULL|одночасно
-athlete|n|ˈæθliːt|1609|спортсмен
-athletics|n|æθˈlɛtɪks|NULL|легка атлетика
-atmosphere|n|ˈætməsfɪə|2237|атмосфера
 attach|v|əˈtætʃ|2338|прикріплювати
 attack|n/v|əˈtæk|1545|атака; атакувати
 attempt|n/v|əˈtɛmpt|1644|спроба; намагатися
 attend|v|əˈtɛnd|1172|відвідувати
 attention|n|əˈtɛnʃn|592|увага
+at the same time|phr|æt ði ˈseɪm taɪm|NULL|одночасно
 attitude|n|ˈætɪtjuːd|1157|ставлення
 attract|v|əˈtrækt|1881|приваблювати
 attraction|n|əˈtrækʃn|3836|привабливість
 attractive|adj|əˈtræktɪv|2835|привабливий
 audience|n|ˈɔːdiəns|1078|аудиторія
+August|August|ˈɔːɡəst|NULL|серпень
 aunt|n|ɑːnt|4203|тітка
+Australia|n|ɒˈstreɪliə|NULL|Австралія
 automatically|adv|ˌɔːtəˈmætɪkli|3983|автоматично
 autumn|n|ˈɔːtəm|NULL|осінь
 available|adj|əˈveɪləbl|623|доступний
@@ -269,9 +209,9 @@ banknote|n|ˈbæŋkˌnoʊt|NULL|банкнота
 bar|n|bɑːr|994|бар; смужка
 barbecue|n|ˈbɑːrbɪkjuː|NULL|барбекю
 bare|adj|beər|3462|голий; неприкритий
-base on|v|beɪs ɒn|NULL|базувати на; ґрунтуватися на
 baseball|n|ˈbeɪsˌbɔːl|1380|бейсбол
 basement|n|ˈbeɪsmənt|3632|підвал
+base on|v|beɪs ɒn|NULL|базувати на; ґрунтуватися на
 basic|adj|ˈbeɪsɪk|1147|базовий; основний
 basin|n|ˈbeɪsɪn|NULL|миска; басейн
 basket|n|ˈbɑːskɪt|3283|кошик
@@ -372,12 +312,14 @@ brain|n|breɪn|1193|мозок
 brake|n|breɪk|4746|гальмо
 branch|n|bræntʃ|1821|гілка; філія
 brave|adj|breɪv|4909|хоробрий
+Brazil|n|brəˈzɪl|NULL|Бразилія
+Brazilian|adj|brəˈzɪliən|NULL|бразильський
 bread|n|brɛd|2131|хліб
 break|v|breɪk|1077|ламати; перерва
 break down|v|breɪk daʊn|NULL|ламатися; розпадатися
+breakfast|n|ˈbrɛkfəst|2402|сніданок
 break in|v|breɪk ɪn|NULL|спробувати зламати; втрутитися
 break up|v|ˌbreɪk ˈʌp|NULL|перерва; розпадатися
-breakfast|n|ˈbrɛkfəst|2402|сніданок
 breath|n|brɛθ|1637|дихання
 breathe|v|briːð|2284|дихати
 brick|n|brɪk|3343|цегла
@@ -406,12 +348,12 @@ burglar|n|ˈbɜːɡlər|NULL|злодій; грабіжник
 burglary|n|ˈbɜːɡləri|NULL|крадіжка; злодійство
 bury|v|ˈbɛri|2420|закопувати; поховати
 bus|n|bʌs|1463|автобус
-bus station|n|bʌs ˈsteɪʃən|NULL|автобусна станція
-bus stop|n|bʌs stɒp|NULL|автобусна зупинка
 bush|n|bʊʃ|4244|кущ
 business|n|ˈbɪznəs|247|бізнес; справа
 businessman|n|ˈbɪznɪsˌmæn|3880|бізнесмен
 businesswoman|n|ˈbɪznɪsˌwʊmən|NULL|бізнесвумен
+bus station|n|bʌs ˈsteɪʃən|NULL|автобусна станція
+bus stop|n|bʌs stɒp|NULL|автобусна зупинка
 busy|adj|ˈbɪzi|1939|зайнятий; оживлений
 but|conj|bʌt|1715|але; проте
 butcher|n|ˈbʊʧər|NULL|м'ясник
@@ -450,6 +392,8 @@ camp|n|kæmp|1192|табір
 camping|n|ˈkæmpɪŋ|NULL|кемпінг
 campsite|n|ˈkæmpˌsaɪt|NULL|табір для кемпінгу
 can|v|kæn|2973|могти; можна
+Canada|n|ˈkænədə|NULL|Канада
+Canadian|adj|kəˈneɪdiən|2661|канадський
 canal|n|kəˈnæl|NULL|канал
 cancel|v|ˈkænsəl|3951|скасовувати; анулівати
 candidate|n|ˈkændɪdət|960|кандидат
@@ -462,10 +406,10 @@ capital city|n|ˌkæpɪtəl ˈsɪti|NULL|столиця
 captain|n|ˈkæptɪn|3375|капітан
 car|n|kɑːr|290|автомобіль
 car alarm|n|ˈkɑːr əˌlɑːrm|NULL|сигналізація автомобіля
-car park|n|ˈkɑː pɑːrk|NULL|автостоянка
 card|n|kɑːrd|895|картка; карточка
 care|n|keər|910|турбота; догляд
 career|n|kəˈrɪər|741|кар'єра
+car park|n|ˈkɑː pɑːrk|NULL|автостоянка
 carpet|n|ˈkɑːrɪt|4142|килим
 carrot|n|ˈkærət|4650|морква
 carry|v|ˈkæri|488|нести; перевозити
@@ -483,6 +427,8 @@ cathedral|n|kəˈθiːdrəl|NULL|собор
 cauliflower|n|ˈkɒlɪˌflaʊər|NULL|цвітна капуста
 cause|n|kɔːz|1010|причина; справа
 cave|n|keɪv|3596|печера
+CD|n|ˌsiːˈdiː|NULL|компакт-диск
+CD-Rom|n|ˌsiːdiːˈrɒm|NULL|CD-ROM
 ceiling|n|ˈsiːlɪŋ|2662|стеля
 celebrate|v|ˈsɛlɪbreɪt|2037|святкувати
 celebration|n|ˌsɛlɪˈbreɪʃən|3022|святкування
@@ -518,8 +464,8 @@ cheap|adj|ʧiːp|1944|дешевий
 cheat|v|ʧit|4415|обманювати; шахраювати
 check|v|ʧɛk|1900|перевіряти; контролювати
 check in|v|ʧɛk ɪn|NULL|реєструватися; зайти
-check out|v|ʧɛk aʊt|NULL|виписуватися; перевіряти
 check-in|n|ˈʧɛk ɪn|NULL|реєстрація
+check out|v|ʧɛk aʊt|NULL|виписуватися; перевіряти
 cheerful|adj|ˈʧɪəfʊl|NULL|веселий; радісний
 cheers|interj|ʧɪəz|NULL|дякую; вітання
 cheese|n|ʧiːz|2122|сир
@@ -536,6 +482,8 @@ child|n|ʧaɪld|115|дитина
 childhood|n|ˈʧaɪldhʊd|2124|дитинство
 chimney|n|ˈʧɪmni|NULL|димар; комин
 chin|n|ʧɪn|3984|підборіддя
+China|n|ˈʧaɪnə|NULL|Китай
+Chinese|adj|ʧaɪˈniːz|1222|китайський
 chips|n|ʧɪps|NULL|чипси; картопля фрі
 chocolate|n|ˈʧɒklət|2659|шоколад
 choice|n|ʧɔɪs|631|вибір
@@ -586,10 +534,10 @@ college|n|ˈkɒlɪdʒ|416|коледж
 colour|n|ˈkʌlər|NULL|колір
 comb|n|koʊm|NULL|гребінець
 come|v|kʌm|70|приходити; йти
-come down|v|ˈkʌm daʊn|NULL|спускатися; знижуватися
-come on|v|ˈkʌm ɒn|NULL|давай; увімкнутися
 comedian|n|kəˈmiːdiən|NULL|комік; гуморист
+come down|v|ˈkʌm daʊn|NULL|спускатися; знижуватися
 comedy|n|ˈkɒmədi|3243|комедія
+come on|v|ˈkʌm ɒn|NULL|давай; увімкнутися
 comer|n|ˈkʌmər|NULL|прибулець; новачок
 comfort|n|ˈkʌmfət|2951|комфорт; утіха
 comfortable|adj|ˈkʌmfətəbl|1713|зручний; комфортний
@@ -700,6 +648,7 @@ customs|n|ˈkʌstəmz|NULL|митниця
 customs officer|n|ˈkʌstəmz ˈɒfɪsər|NULL|митник
 cut|v|kʌt|1505|різати; відрізати
 cut up|v|ˈkʌt ʌp|NULL|нарізати; подрібнювати
+CV|n|ˌsiːˈviː|NULL|резюме
 cycle|n|ˈsaɪkəl|2240|велосипед; цикл
 cycling|n|ˈsaɪklɪŋ|NULL|велоспорт
 cyclist|n|ˈsaɪklɪst|NULL|велосипедист
@@ -722,6 +671,7 @@ deaf|adj|dɛf|NULL|глухий
 deal|n|diːl|801|угода; справи
 dear|adj|dɪər|3365|дорогий; любий
 death|n|dɛθ|418|смерть
+December|December|dɪˈsɛmbər|NULL|грудень
 decide|v|dɪˈsaɪd|457|вирішувати
 decimal|adj|ˈdɛsɪməl|NULL|десятковий
 decision|n|dɪˈsɪʒən|480|рішення
@@ -813,6 +763,7 @@ diver|n|ˈdaɪvər|NULL|водолаз
 divide|v|dɪˈvaɪd|1956|ділити; розділяти
 diving|n|ˈdaɪvɪŋ|NULL|пірнання
 dizzy|adj|ˈdɪzi|NULL|запаморочливий; безглуздий
+DJ|n|ˌdiːˈdʒeɪ|NULL|діджей
 do|v|duː|18|робити; виконувати
 doctor|n|ˈdɒktər|571|лікар
 document|n|ˈdɒkjʊmənt|3342|документ; папір
@@ -829,6 +780,7 @@ down|adv|daʊn|1027|вниз; донизу
 download|v|ˈdaʊnˌləʊd|NULL|завантажувати; скачувати
 downstairs|adv|ˌdaʊnˈsteəz|NULL|вниз по сходах; на першому поверсі
 dozen|n|ˈdʌzən|1198|дюжина
+Dr|abbr|ˈdɒktər|NULL|доктор
 drama|n|ˈdrɑːmə|2654|драма; театр
 draw|v|drɔː|593|малювати; тягнути
 drawer|n|ˈdrɔːr|4251|ящик
@@ -855,6 +807,8 @@ dustbin|n|ˈdʌstbɪn|NULL|сміттєвий бак; кошик для сміт
 duty|n|ˈdjuːti|1765|обов'язок; мито
 duty-free|adj|ˈdjuːti friː|NULL|безмитний
 duvet|n|ˈdjuːveɪ|NULL|ковдра; пухова ковдра
+DVD|n|ˌdiːˌviːˈdiː|NULL|DVD-диск
+DVD player|n|ˌdiːˌviːˈdiː ˈpleɪər|NULL|програвач DVD
 each|adj|ˈiːtʃ|724|кожен
 ear|n|ɪər|1344|вухо
 earache|n|ˈɪəreɪk|NULL|вушна біль
@@ -920,7 +874,9 @@ escape|v|ɪˈskeɪp|4182|втікати; уникати
 especially|adv|ɪˈspɛʃəli|516|особливо; насамперед
 essay|n|ˈɛseɪ|2560|есе; нарис
 essential|adj|ɪˈsɛnʃəl|1963|необхідний; суттєвий
+Euro|n|ˈjʊərəʊ|NULL|євро; євровалюта
 euro|n|ˈjʊərəʊ|NULL|євро; європейська валюта
+Europe|n|ˈjʊərəp|NULL|Європа
 even|adv|ˈiːvən|484|навіть; рівно
 evening|n|ˈiːvnɪŋ|965|вечір
 event|n|ɪˈvɛnt|526|подія; захід
@@ -995,6 +951,7 @@ favour|n|ˈfeɪvər|NULL|послуга; прихильність
 favourite|adj|ˈfeɪvərɪt|NULL|улюблений; найбільш вподобаний
 fax|n|fæks|NULL|факс; факсимільний зв'язок
 fear|n|fɪər|1670|страх; боязнь
+February|February|ˈfɛbruəri|NULL|лютий
 fee|n|fiː|1840|плата; такса
 feed|v|fiːd|1324|годувати; живити
 feel|v|fiːl|3972|відчувати; чути
@@ -1079,11 +1036,15 @@ fortunately|adv|ˈfɔːtʃənətli|4360|на щастя; вдало
 forward|adv|ˈfɔːwəd|818|вперед; наперед
 fountain|n|ˈfaʊntɪn|NULL|фонтан; джерело
 fourth|adj|fɔːrθ|1579|четвертий
+France|n|fræns|NULL|Франція
 free|adj|friː|2875|вільний; безкоштовний
 freeze|v|friːz|2831|заморожувати; мерзнути
 freezer|n|ˈfriːzər|NULL|морозильник; холодильник
+French|adj|frɛnʧ|3099|французький
+French fries|n|ˈfrɛntʃ fraɪz|NULL|фрі; смажені картопляні смужки
 frequent|adj|ˈfriːkwənt|3300|частий; регулярний
 fresh|adj|frɛʃ|1109|свіжий; новий
+Friday|n|ˈfraɪdeɪ|NULL|п'ятниця
 fridge|n|frɪdʒ|NULL|холодильник
 friend|n|frɛnd|266|друг; приятель
 frighten|v|ˈfraɪtn|NULL|лякати; налякати
@@ -1147,21 +1108,21 @@ glasses|n|ˈɡlɑːsɪz|NULL|окуляри
 global warming|n|ˈɡloʊbəl ˈwɔːrmɪŋ|NULL|глобальне потепління
 glove|n|ɡlʌv|3121|рукавичка
 go|v/n|ɡəʊ|35|іти; хід
-go for|v phr|ɡəʊ fɔː|NULL|вибирати; прагнути
-go jogging|v|ˌɡoʊ ˈdʒɒɡɪŋ|NULL|бігати трусцою
-go off|v phr|ɡəʊ ɒf|NULL|вибухати; вимикатися
-go on|v phr|ɡəʊ ɒn|NULL|продовжувати; відбуватися
-go with|v phr|ɡəʊ wɪð|NULL|іти з; підходити до
 goal|n|ɡəʊl|682|мета; ворота
 goat|n|ɡəʊt|4726|коза
+go for|v phr|ɡəʊ fɔː|NULL|вибирати; прагнути
+go jogging|v|ˌɡoʊ ˈdʒɒɡɪŋ|NULL|бігати трусцою
 gold|n/adj|ɡəʊld|1262|золото; золотий
 golf|n|ɡɒlf|1815|гольф
 good|adj/n|ɡʊd|2280|добрий; добро
 good-looking|adj|ˈɡʊdˌlʊkɪŋ|NULL|гарний; привабливий
 goodnight|interj|ɡʊdˈnaɪt|NULL|на добраніч
 goods|n|ɡʊdz|NULL|товари
+go off|v phr|ɡəʊ ɒf|NULL|вибухати; вимикатися
+go on|v phr|ɡəʊ ɒn|NULL|продовжувати; відбуватися
 govern|v|ˈɡʌvən|3743|керувати; управляти
 government|n|ˈɡʌvənmənt|201|уряд
+go with|v phr|ɡəʊ wɪð|NULL|іти з; підходити до
 grade|n/v|ɡreɪd|1432|оцінка; класифікувати
 gram|n|ɡræm|NULL|грам
 grammar|n|ˈɡræmə|NULL|граматика
@@ -1209,13 +1170,13 @@ hall|n|hɔːl|1854|зал; коридор
 hallo|interj|həˈləʊ|NULL|привіт (варіант hello)
 hammer|n/v|ˈhæmə|NULL|молоток; забивати
 hand|n/v|hænd|2042|рука; передавати
-hand in|v phr|hænd ɪn|NULL|здавати; подавати
-hand out|v phr|hænd aʊt|NULL|роздавати
-hand-held|adj|ˈhændˌhɛld|NULL|ручний
 handbag|n|ˈhændˌbæɡ|NULL|сумка
+hand-held|adj|ˈhændˌhɛld|NULL|ручний
+hand in|v phr|hænd ɪn|NULL|здавати; подавати
 handkerchief|n|ˈhæŋkətʃɪf|NULL|носовичок
 handle|v/n|ˈhændəl|3966|обробляти; ручка
 handlebars|n|ˈhændlˌbɑːrz|NULL|руль
+hand out|v phr|hænd aʊt|NULL|роздавати
 handsome|adj|ˈhændsəm|3876|вродливий; привабливий
 handwriting|n|ˈhændˌraɪtɪŋ|NULL|почерк
 hang|v|hæŋ|870|вішати; висіти
@@ -1251,8 +1212,8 @@ here|adv|hɪə|96|тут
 hero|n|ˈhɪərəʊ|1926|герой
 hers|pron|hɜːz|3885|її (власність)
 herself|pron|hɜːˈsɛlf|793|вона сама
-hi-fi|n|ˌhaɪˈfaɪ|NULL|аудіосистема високої якості
 hide|v|haɪd|1261|ховати
+hi-fi|n|ˌhaɪˈfaɪ|NULL|аудіосистема високої якості
 high|adj/adv|haɪ|3331|високий; високо
 high jump|n|ˌhaɪ ˈdʒʌmp|NULL|стрибки у висоту
 hill|n|hɪl|2028|пагорб
@@ -1264,8 +1225,8 @@ historic|adj|hɪˈstɒrɪk|2516|історичний (значущий)
 historical|adj|hɪˈstɒrɪkəl|1480|історичний (пов'язаний з історією)
 history|n|ˈhɪstəri|351|історія
 hit|v/n|hɪt|2227|ударити; удар
-hit song|n|ˈhɪt sɔːŋ|NULL|хіт; популярна пісня
 hitch-hike|v|ˈhɪtʃˌhaɪk|NULL|автостопити
+hit song|n|ˈhɪt sɔːŋ|NULL|хіт; популярна пісня
 hobby|n|ˈhɒbi|NULL|хобі; захоплення
 hockey|n|ˈhɒki|4395|хокей
 hold|v/n|həʊld|2895|тримати; утримання
@@ -1291,8 +1252,8 @@ housewife|n|ˈhaʊsˌwaɪf|NULL|домогосподарка
 housework|n|ˈhaʊsˌwɜːk|NULL|домашня робота
 hovercraft|n|ˈhɒvəˌkrɑːft|NULL|судно на повітряній подушці
 how|adv|haʊ|76|як
-how much|phr|haʊ mʌtʃ|NULL|скільки
 however|adv/conj|haʊˈɛvə|285|однак; проте
+how much|phr|haʊ mʌtʃ|NULL|скільки
 huge|adj|hjuːdʒ|914|величезний
 human|adj/n|ˈhjuːmən|1663|людський; людина
 hunger|n|ˈhʌŋɡə|4635|голод
@@ -1302,6 +1263,7 @@ hurt|v|hɜːt|1143|боліти; поранити
 husband|n|ˈhʌzbənd|638|чоловік
 hut|n|hʌt|NULL|хатина
 hydrofoil|n|ˈhaɪdrəfɔɪl|NULL|глісер
+I|pron|aɪ|11|я
 ice|n|aɪs|1236|лід
 ice cream|n|ˈaɪs ˌkriːm|NULL|морозиво
 ice hockey|n|ˈaɪs ˌhɒki|NULL|хокей на льоду
@@ -1325,12 +1287,35 @@ in|prep|ɪn|3038|у; в
 in advance|phr|ɪn ədˈvɑːns|NULL|заздалегідь
 in any case|phr|ɪn ˈɛni keɪs|NULL|у будь-якому разі
 in case of|phr|ɪn ˈkeɪs əv|NULL|у разі
+include|v|ɪnˈkluːd|293|включати
+income|n|ˈɪnkʌm|1141|дохід
+incorrect|adj|ˌɪnkəˈrɛkt|NULL|неправильний
+increase|v/n|ɪnˈkriːs|1267|збільшувати; зростання
 in danger|phr|ɪn ˈdeɪndʒə|NULL|у небезпеці
+indeed|adv|ɪnˈdiːd|851|справді
+independent|adj|ˌɪndɪˈpɛndənt|1271|незалежний
+index|n|ˈɪndɛks|2644|індекс; покажчик
+India|n|ˈɪndiə|NULL|Індія
+Indian|adj|ˈɪndiən|2340|індійський
+individual|adj/n|ˌɪndɪˈvɪdʒuəl|981|індивідуальний; особа
+indoor|adj|ˈɪndɔː|NULL|внутрішній; домашній
+indoors|adv|ɪnˈdɔːz|NULL|у приміщенні; в будинку
+industry|n|ˈɪndəstri|552|промисловість
+inexpensive|adj|ˌɪnɛkˈspɛnsɪv|NULL|недорогий
 in fact|phr|ɪn ˈfækt|NULL|насправді
+influence|n/v|ˈɪnfluəns|1806|вплив; впливати
+inform|v|ɪnˈfɔːm|2196|інформувати
+information|n|ˌɪnfəˈmeɪʃən|315|інформація
 in front of|phr|ɪn ˈfrʌnt əv|NULL|перед; попереду
+ingredients|n|ɪnˈɡriːdiənts|NULL|інгредієнти
+inhabitant|n|ɪnˈhæbɪtənt|NULL|житель
 in half|phr|ɪn ˈhɑːf|NULL|навпіл
 in ink|phr|ɪn ˈɪŋk|NULL|чорнилом
+initial|adj/n|ɪˈnɪʃəl|1957|початковий; ініціали
+injure|v|ˈɪndʒər|3755|травмувати
+ink|n|ɪŋk|NULL|чорнило
 in love|phr|ɪn ˈlʌv|NULL|закоханий
+inn|n|ɪn|NULL|готель; заїжджий двір
 in order|phr|ɪn ˈɔːdə|NULL|у порядку
 in order to|phr|ɪn ˈɔːdə tuː|NULL|для того щоб
 in pencil|phr|ɪn ˈpɛnsəl|NULL|олівцем
@@ -1338,32 +1323,6 @@ in pieces|phr|ɪn ˈpiːsɪz|NULL|на шматки
 in place|phr|ɪn ˈpleɪs|NULL|на місці
 in private|phr|ɪn ˈpraɪvət|NULL|приватно
 in public|phr|ɪn ˈpʌblɪk|NULL|публічно
-in stock|phr|ɪn ˈstɒk|NULL|у наявності
-in the end|phr|ɪn ði ˈɛnd|NULL|в кінці кінців
-in time|phr|ɪn ˈtaɪm|NULL|вчасно
-in turn|phr|ɪn ˈtɜːn|NULL|по черзі
-in two|phr|ɪn ˈtuː|NULL|навпіл
-include|v|ɪnˈkluːd|293|включати
-income|n|ˈɪnkʌm|1141|дохід
-incorrect|adj|ˌɪnkəˈrɛkt|NULL|неправильний
-increase|v/n|ɪnˈkriːs|1267|збільшувати; зростання
-indeed|adv|ɪnˈdiːd|851|справді
-independent|adj|ˌɪndɪˈpɛndənt|1271|незалежний
-index|n|ˈɪndɛks|2644|індекс; покажчик
-individual|adj/n|ˌɪndɪˈvɪdʒuəl|981|індивідуальний; особа
-indoor|adj|ˈɪndɔː|NULL|внутрішній; домашній
-indoors|adv|ɪnˈdɔːz|NULL|у приміщенні; в будинку
-industry|n|ˈɪndəstri|552|промисловість
-inexpensive|adj|ˌɪnɛkˈspɛnsɪv|NULL|недорогий
-influence|n/v|ˈɪnfluəns|1806|вплив; впливати
-inform|v|ɪnˈfɔːm|2196|інформувати
-information|n|ˌɪnfəˈmeɪʃən|315|інформація
-ingredients|n|ɪnˈɡriːdiənts|NULL|інгредієнти
-inhabitant|n|ɪnˈhæbɪtənt|NULL|житель
-initial|adj/n|ɪˈnɪʃəl|1957|початковий; ініціали
-injure|v|ˈɪndʒər|3755|травмувати
-ink|n|ɪŋk|NULL|чорнило
-inn|n|ɪn|NULL|готель; заїжджий двір
 inquiry|n|ɪnˈkwaɪəri|3396|запит; розслідування
 insect|n|ˈɪnsɛkt|3434|комаха
 inside|adv/prep/n|ɪnˈsaɪd|3980|всередині; всередині; внутрішня сторона
@@ -1371,6 +1330,7 @@ insist|v|ɪnˈsɪst|1366|наполягати
 instance|n|ˈɪnstəns|2981|приклад; випадок
 instead|adv|ɪnˈstɛd|1069|замість
 instead of|prep phr|ɪnˈstɛd əv|NULL|замість
+in stock|phr|ɪn ˈstɒk|NULL|у наявності
 instruction|n|ɪnˈstrʌkʃən|1572|інструкція; настанова
 instructor|n|ɪnˈstrʌktə|3239|інструктор
 instrument|n|ˈɪnstrəmənt|1621|інструмент
@@ -1385,9 +1345,13 @@ interpreter|n|ɪnˈtɜːrprɪtər|NULL|перекладач
 interrupt|v|ˌɪntəˈrʌpt|3435|переривати
 interval|n|ˈɪntəvəl|4697|інтервал; пауза
 interview|n|ˈɪntərvjuː|2274|інтерв'ю
+in the end|phr|ɪn ði ˈɛnd|NULL|в кінці кінців
+in time|phr|ɪn ˈtaɪm|NULL|вчасно
 into|prep|ˈɪntuː|65|в; у
 introduce|v|ˌɪntrəˈdjuːs|1230|представляти; вводити
 introduction|n|ˌɪntrəˈdʌkʃən|2926|введення; знайомство
+in turn|phr|ɪn ˈtɜːn|NULL|по черзі
+in two|phr|ɪn ˈtuː|NULL|навпіл
 invade|v|ɪnˈveɪd|4560|вторгатися
 invasion|n|ɪnˈveɪʒən|3323|вторгнення
 invent|v|ɪnˈvɛnt|3426|винайти
@@ -1395,16 +1359,22 @@ invention|n|ɪnˈvɛnʃən|4828|винахід
 invitation|n|ˌɪnvɪˈteɪʃən|4110|запрошення
 invite|v|ɪnˈvaɪt|1610|запрошувати
 involve|v|ɪnˈvɒlv|657|включати; залучати
+Ireland|n|ˈaɪərlənd|NULL|Ірландія
+Irish|adj|ˈaɪrɪʃ|2955|ірландський
 iron|n/v|ˈaɪən|2300|залізо; прасувати
 island|n|ˈaɪlənd|1521|острів
 issue|n/v|ˈɪʃuː|1875|питання; видавати
+IT|n|ˌaɪˈtiː|NULL|інформаційні технології
 it|pron|ɪt|10|воно; це
+Italian|adj|ɪˈtæliən|2660|італійський
+Italy|n|ˈɪtəli|NULL|Італія
 item|n|ˈaɪtəm|1034|предмет; товар
 its|pron|ɪts|78|його; її (неживе)
 itself|pron|ɪtˈsɛlf|557|сам; себе
 jacket|n|ˈdʒækɪt|2287|куртка
 jail|n/v|dʒeɪl|2551|в'язниця; ув'язнювати
 jam|n|dʒæm|NULL|джем; варення
+January|January|ˈdʒænjuəri|NULL|січень
 jazz|n|dʒæz|3887|джаз
 jazz music|n|ˈdʒæz ˈmjuːzɪk|NULL|джазова музика
 jealous|adj|ˈdʒɛləs|NULL|ревнивий
@@ -1423,7 +1393,9 @@ journey|n|ˈdʒɜːrni|2431|подорож
 judge|n/v|dʒʌdʒ|1764|суддя; судити
 jug|n|dʒʌɡ|NULL|глечик
 juice|n|dʒuːs|2329|сік
+July|July|dʒuːˈlaɪ|NULL|липень
 jump|v/n|dʒʌmp|4318|стрибати; стрибок
+June|June|dʒuːn|NULL|червень
 jury|n|ˈdʒʊəri|1660|журі; присяжні
 just|adv|dʒʌst|1823|тільки; справедливий
 kangaroo|n|ˌkæŋɡəˈruː|NULL|кенгуру
@@ -1575,6 +1547,7 @@ lung|n|lʌŋ|3276|легеня
 luxury|n|ˈlʌkʃəri|NULL|розкіш
 machine|n|məˈʃiːn|1025|машина; апарат
 mad|adj|mæd|2595|божевільний; сердитий
+Madam|n|ˈmædəm|NULL|пані; мадам
 made of|v phr|meɪd ɒv|NULL|зроблений з; виготовлений з
 magazine|n|ˌmæɡəˈziːn|1004|журнал
 magic|n/adj|ˈmædʒɪk|3877|магія; чарівний
@@ -1592,6 +1565,7 @@ manager|n|ˈmænɪdʒər|880|менеджер
 manner|n|ˈmænə|1831|манера; спосіб
 many|adj/pron|ˈmɛni|99|багато; численні
 map|n|mæp|1551|карта; мапа
+March|March|mɑːrtʃ|NULL|березень
 mark|n/v|mɑːk|2143|відмітка; позначка; оцінка; позначати
 market|n|ˈmɑːkɪt|2795|ринок; базар
 marriage|n|ˈmærɪdʒ|1014|шлюб; одруження
@@ -1604,6 +1578,7 @@ math|n|mæθ|3008|математика
 mathematics|n|ˌmæθ(ə)ˈmætɪks|4302|математика; математики
 matter|n/v|ˈmætə|3769|матерія; справа; мати значення; важити
 maximum|n/adj|ˈmæksɪməm|3638|максимум; максимальний
+May|May|meɪ|NULL|травень
 maybe|adv|ˈmeɪbi|384|можливо; можливе
 me|pron|mi|61|мене; я
 meal|n|miːl|1722|їжа; страва
@@ -1645,6 +1620,7 @@ minimum|n/adj|ˈmɪnɪməm|4430|мінімум; мінімальний
 minister|n|ˈmɪnɪstə|1924|міністр
 mirror|n|ˈmɪrə|1867|дзеркало
 miserable|adj|ˈmɪzərəbəl|NULL|нещасний; жалюгідний
+Miss|n|mɪs|NULL|міс
 miss|v/n|mɪs|836|пропускати; міс
 mist|n|mɪst|NULL|туман
 mistake|n/v|mɪˈsteɪk|1436|помилка; помилятися
@@ -1654,6 +1630,7 @@ mobile phone|n|ˌmoʊbəl ˈfoʊn|NULL|мобільний телефон
 model|n|ˈmɒdəl|4527|модель
 modern|adj|ˈmɒdən|1050|сучасний
 moment|n|ˈmoʊmənt|369|момент; мить
+Monday|n|ˈmʌndi|NULL|понеділок
 money|n|ˈmʌni|233|гроші
 monkey|n|ˈmʌŋki|4610|мавпа
 month|n|mʌnθ|237|місяць
@@ -1664,10 +1641,10 @@ mosque|n|mɒsk|NULL|мечеть
 most|adv/det|moʊst|187|найбільш; більшість
 mother|n|ˈmʌðə|230|мати
 motor|n|ˈmoʊtər|3162|двигун
-motor-racing|n|ˈmoʊtər ˈreɪsɪŋ|NULL|автогонки
 motorbike|n|ˈmoʊtər.baɪk|NULL|мотоцикл
 motorcycle|n|ˈmoʊtərˌsaɪkəl|NULL|мотоцикл
 motorcycling|n|ˈmoʊtərˌsaɪklɪŋ|NULL|мотоциклетний спорт
+motor-racing|n|ˈmoʊtər ˈreɪsɪŋ|NULL|автогонки
 motorway|n|ˈmoʊtərˌweɪ|NULL|автомагістраль
 mountain|n|ˈmaʊntən|1246|гора
 mouse|n|maʊs|3336|миша
@@ -1678,6 +1655,10 @@ move|v/n|muːv|1406|рухати; переміщати; пересувати; к
 movie|n|ˈmuːvi|577|фільм; кіно
 movie star|n|ˈmuːvi stɑːr|NULL|кінозірка
 movie theatre|n|ˈmuːvi ˈθɪətə|NULL|кінотеатр
+MP3 player|n|ˌɛm piː θriː ˈpleɪər|NULL|плеєр MP3
+Mr|n|ˈmɪstə|211|пан; містер
+Mrs|n|ˈmɪsɪz|1038|пані; місіс
+Ms|n|mɪz|1275|пані; міс
 much|adv/det|mʌtʃ|298|багато; дуже
 mug|n|mʌɡ|NULL|кружка
 multiply|v|ˈmʌltɪplaɪ|NULL|множити; розмножувати
@@ -1729,16 +1710,17 @@ niece|n|niːs|NULL|племінниця
 night|n|naɪt|209|ніч
 nightclub|n|ˈnaɪtklʌb|NULL|нічний клуб
 no|adv|nəʊ|4555|ні
-no one|pron|ˈnəʊ wʌn|NULL|ніхто
 nobody|pron|ˈnəʊbɒdi|1154|ніхто
 noise|n|nɔɪz|2030|шум
 noisy|adj|ˈnɔɪzi|NULL|шумний
 none|pron|nʌn|1090|ніякий; жоден
 nonsense|n|ˈnɒnsɛns|NULL|нісенітниця
 noon|n|nuːn|3859|полудень
+no one|pron|ˈnəʊ wʌn|NULL|ніхто
 nor|conj|nɔːr|1066|і не; ані
 normal|adj|ˈnɔːməl|1221|нормальний
 north|n|nɔːθ|579|північ
+North America|n|ˌnɔːrθ əˈmɛrɪkə|NULL|Північна Америка
 northeast|n|ˌnɔːθˈiːst|4162|північний схід
 northwest|n|ˌnɔːθˈwɛst|3429|північний захід
 nose|n|noʊz|1748|ніс
@@ -1751,6 +1733,7 @@ notice|n|ˈnoʊtɪs|3621|оголошення; увага
 notice board|n|ˈnoʊtɪs bɔːrd|NULL|доска оголошень
 novel|n|ˈnɒvəl|1656|роман; новинка
 novelist|n|ˈnɒvəlɪst|NULL|романіст
+November|November|nəʊˈvɛmbər|NULL|листопад
 now|adv|naʊ|1906|зараз
 nowadays|adv|ˈnaʊədeɪz|NULL|нині; в наші дні
 nowhere|adv|ˈnoʊwɛər|2946|ніде
@@ -1763,18 +1746,22 @@ occasion|n|əˈkeɪʒən|2282|випадок; нагода
 occasional|adj|əˈkeɪʒənəl|3542|випадковий; час від часу
 occupation|n|ˌɒkjuˈpeɪʃən|3364|заняття; професія
 ocean|n|ˈoʊʃən|1856|океан
+o’clock|adv|əˈklɒk|NULL|година
+October|October|ɒkˈtəʊbər|NULL|жовтень
 of|prep|əv|4|від; про
 of course|adv|əv ˈkɔːrs|NULL|звичайно; безумовно
-of his stay, checkout|phrase|əv hɪz steɪ, ˈtʃekaʊt|NULL|під час його перебування; виїзд
 off|adv|ɒf|388|геть; з
 offer|v|ˈɒfər|2109|пропонувати
 office|n|ˈɒfɪs|342|офіс
 office block|n|ˈɒfɪs blɒk|NULL|офісний блок
 officer|n|ˈɒfɪsər|671|офіцер; чиновник
+of his stay, checkout|phrase|əv hɪz steɪ, ˈtʃekaʊt|NULL|під час його перебування; виїзд
 often|adv|ˈɒfən|275|часто
-oh dear!|interj|oʊ dɪər|NULL|о боже!
 oh!|interj|oʊ|NULL|о!
+oh dear!|interj|oʊ dɪər|NULL|о боже!
 oil|n|ɔɪl|547|олія; нафта
+O.K.|interj|ˌoʊˈkeɪ|NULL|ОК; добре
+OK|interj|ˌoʊˈkeɪ|3046|ОК
 okay|interj|ˌoʊˈkeɪ|3379|в порядку
 old|adj|oʊld|152|старий
 old-fashioned|adj|ˌoʊldˈfæʃənd|4791|старомодний
@@ -1782,23 +1769,23 @@ omelette|n|ˈɒmlɪt|NULL|омлет
 on|prep|ɒn|155|на; у
 on board|adv|ɒn ˈbɔːrd|NULL|на борту
 on business|adv|ɒn ˈbɪznɪs|NULL|у справах
+once|adv|wʌns|1191|колись; одного разу
+one|num|wʌn|839|один
+oneself|pron|ˌwʌnˈsɛlf|NULL|сам; сама; само
+one-way|adj|ˈwʌnˌweɪ|NULL|односторонній; в один кінець
 on fire|adv|ɒn ˈfaɪər|NULL|у вогні
 on foot|adv|ɒn ˈfʊt|NULL|пішки
 on holiday|adv|ɒn ˈhɒlədeɪ|NULL|у відпустці
+onion|n|ˈʌnjən|2590|цибуля
+online|adv|ˈɒnlaɪn|3522|онлайн
 on loan|adv|ɒn ˈloʊn|NULL|у користуванні
+only|adv|ˈoʊnli|329|тільки; лише
 on purpose|adv|ɒn ˈpɜːpəs|NULL|навмисно
 on request|adv|ɒn rɪˈkwɛst|NULL|за запитом
 on sale|adv|ɒn ˈseɪl|NULL|на розпродажі
 on time|adv|ɒn ˈtaɪm|NULL|вчасно
-on vacation|adv|ɒn vəˈkeɪʃən|NULL|у відпустці
-once|adv|wʌns|1191|колись; одного разу
-one|num|wʌn|839|один
-one-way|adj|ˈwʌnˌweɪ|NULL|односторонній; в один кінець
-oneself|pron|ˌwʌnˈsɛlf|NULL|сам; сама; само
-onion|n|ˈʌnjən|2590|цибуля
-online|adv|ˈɒnlaɪn|3522|онлайн
-only|adv|ˈoʊnli|329|тільки; лише
 onto|prep|ˈɒntu|929|на; на поверхню
+on vacation|adv|ɒn vəˈkeɪʃən|NULL|у відпустці
 open|adj|ˈoʊpən|582|відкритий
 opening hours|n|ˈoʊpənɪŋ ˈaʊərz|NULL|години роботи
 opera|n|ˈɒpərə|3888|опера
@@ -1822,14 +1809,14 @@ our|pron|aʊər|79|наш
 ours|pron|aʊərz|4139|наше
 ourselves|pron|ˌaʊərˈsɛlvz|1791|ми самі
 out|adv|aʊt|149|назовні
+outdoor|adj|ˈaʊtˌdɔːr|3650|зовнішній; відкритий
+outdoors|adv|ˌaʊtˈdɔːrz|NULL|на вулиці
 out of|prep|ˌaʊt əv|NULL|з; із
 out of date|adj|ˌaʊt əv ˈdeɪt|NULL|застарілий
 out of doors|adv|ˌaʊt əv ˈdɔːrz|NULL|на вулиці
 out of order|adj|ˌaʊt əv ˈɔːrdər|NULL|не працює; порушено порядок
 out of stock|adj|ˌaʊt əv ˈstɒk|NULL|відсутній у наявності
 out of work|adj|ˌaʊt əv ˈwɜːrk|NULL|безробітний
-outdoor|adj|ˈaʊtˌdɔːr|3650|зовнішній; відкритий
-outdoors|adv|ˌaʊtˈdɔːrz|NULL|на вулиці
 outside|prep|ˌaʊtˈsaɪd|2072|зовні
 oven|n|ˈʌvən|2943|духовка
 over|prep|ˈoʊvər|182|над; понад
@@ -1838,8 +1825,6 @@ overtake|v|ˌoʊvərˈteɪk|NULL|обганяти
 owe|v|oʊ|3004|боргувати
 own|v|oʊn|1125|власний; володіти
 owner|n|ˈoʊnər|1024|власник
-o’clock|adv|əˈklɒk|NULL|година
-p.m.|abbr|piː ˈɛm|NULL|після полудня
 pack|v|pæk|2589|пакувати
 packet|n|ˈpækɪt|NULL|пакет; упаковка
 page|n|peɪdʒ|709|сторінка
@@ -1861,11 +1846,11 @@ parking lot|n|ˈpɑːrkɪŋ lɒt|NULL|стоянка для автомобілі
 parking space|n|ˈpɑːrkɪŋ speɪs|NULL|місце для паркування
 parliament|n|ˈpɑːrləmənt|NULL|парламент
 part|n|pɑːrt|4741|частина
-part time|adv|ˌpɑːrt ˈtaɪm|NULL|неповний робочий день
-part-time|adj|ˌpɑːrtˈtaɪm|NULL|неповний; частковий
 particular|adj|pərˈtɪkjʊlər|2569|особливий; специфічний
 partly|adv|ˈpɑːrtli|2847|частково
 partner|n|ˈpɑːrtnər|1052|партнер
+part time|adv|ˌpɑːrt ˈtaɪm|NULL|неповний робочий день
+part-time|adj|ˌpɑːrtˈtaɪm|NULL|неповний; частковий
 party|n|ˈpɑːrti|352|свято; партія
 pass|v|pɑːs|2278|передавати; проходити
 passenger|n|ˈpæsɪndʒər|2097|пасажир
@@ -1887,10 +1872,10 @@ pear|n|peər|NULL|груша
 pedestrian|n|pəˈdɛstrɪən|NULL|пішохід
 peel|v|piːl|3955|чистити; лущити
 pen|n|pen|3618|ручка
-pen-friend|n|ˈpenˌfrɛnd|NULL|листовний друг
 pence|n|pens|NULL|пенси
 pencil|n|ˈpɛnsəl|4464|олівець
 pencil case|n|ˈpɛnsəl keɪs|NULL|пенал
+pen-friend|n|ˈpenˌfrɛnd|NULL|листовний друг
 penknife|n|ˈpenˌnaɪf|NULL|складний ніж
 penny|n|ˈpeni|NULL|пенні
 pension|n|ˈpɛnʃən|3818|пенсія
@@ -1959,6 +1944,7 @@ pleasure|n|ˈplɛʒər|1896|задоволення
 plenty|n|ˈplɛnti|2061|достаток; багато
 plug|n|plʌɡ|NULL|вилка; пробка
 plug in|v|ˈplʌɡ ɪn|NULL|вставити вилку
+p.m.|abbr|piː ˈɛm|NULL|після полудня
 pocket|n|ˈpɒkɪt|1629|кишеня
 pocket money|n|ˈpɒkɪt ˈmʌni|NULL|кишенькові гроші
 poem|n|ˈpoʊɪm|2517|вірш
@@ -1966,9 +1952,9 @@ poet|n|ˈpoʊɪt|2947|поет
 poetry|n|ˈpoʊɪtri|2984|поезія
 point|n|pɔɪnt|605|точка; значення
 police|n|pəˈlis|469|поліція
+policeman|n|pəˈlisˌmæn|4807|поліцейський (чоловік)
 police officer|n|pəˈlis ˈɒfɪsər|NULL|поліцейський
 police station|n|pəˈlis ˈsteɪʃən|NULL|поліцейська дільниця
-policeman|n|pəˈlisˌmæn|4807|поліцейський (чоловік)
 policewoman|n|pəˈlisˌwʊmən|NULL|поліцейська (жінка)
 polite|adj|pəˈlaɪt|NULL|ввічливий
 political|adj|pəˈlɪtɪkəl|278|політичний
@@ -1986,11 +1972,11 @@ positive|adj|ˈpɒzɪtɪv|1053|позитивний
 possibility|n|ˌpɒsəˈbɪlɪti|1199|можливість
 possible|adj|ˈpɒsəbl|460|можливий
 post|v|poʊst|4157|відправляти поштою
-post office|n|ˈpoʊst ˈɒfɪs|NULL|пошта; поштове відділення
 postage|n|ˈpoʊstɪdʒ|NULL|поштовий збір
 postcard|n|ˈpoʊstˌkɑːrd|NULL|листівка
 poster|n|ˈpoʊstər|3871|плакат
 postman|n|ˈpoʊstmæn|NULL|поштар
+post office|n|ˈpoʊst ˈɒfɪs|NULL|пошта; поштове відділення
 pot|n|pɒt|2255|горщик; каструля
 potato|n|pəˈteɪtəʊ|2273|картопля
 pound|n|paʊnd|4826|фунт
@@ -2214,8 +2200,8 @@ ruin|v|ˈruːɪn|4237|руйнувати
 rule|n|ruːl|2226|правило; закон
 ruler|n|ˈruːlər|NULL|лінійка; правитель
 run|v|rʌn|1257|бігати
-run out of|v|rʌn aʊt əv|NULL|закінчуватися; залишатися без
 running|n|ˈrʌnɪŋ|4730|біг
+run out of|v|rʌn aʊt əv|NULL|закінчуватися; залишатися без
 sad|adj|sæd|2164|сумний
 safe|adj|seɪf|1062|безпечний
 safety|n|ˈseɪfti|1135|безпека
@@ -2234,6 +2220,7 @@ sand|n|sænd|2224|пісок
 sandwich|n|ˈsænwɪdʒ|3564|сандвіч
 satisfactory|adj|ˌsætɪsˈfæktəri|NULL|задовільний
 satisfied|adj|ˈsætɪsfaɪd|NULL|задоволений
+Saturday|n|ˈsætərdeɪ|NULL|субота
 saucer|n|ˈsɔːsər|NULL|блюдце
 sausage|n|ˈsɒsɪdʒ|NULL|ковбаса; сосиска
 save|v|seɪv|735|економити; рятувати
@@ -2272,6 +2259,7 @@ sell|v|sɛl|444|продавати
 send|v|sɛnd|405|відправляти
 sensible|adj|ˈsɛnsəbl|NULL|розумний; практичний
 sentence|n|ˈsɛntəns|2053|речення; вирок
+September|September|sɛpˈtɛmbər|NULL|вересень
 series|n|ˈsɪəriːz|719|серія
 serious|adj|ˈsɪəriəs|756|серйозний
 servant|n|ˈsɜːrvənt|3975|слуга
@@ -2342,6 +2330,7 @@ sing|v|sɪŋ|1016|співати
 single|adj|ˈsɪŋɡl|633|одиночний; неодружений
 single room|n|ˌsɪŋɡl ˈruːm|NULL|одномісний номер
 sink|v|sɪŋk|4064|тонути; раковина (для миття посуду)
+Sir|n|sɜːr|NULL|сер (звернення)
 sister|n|ˈsɪstər|826|сестра
 sit|v|sɪt|269|сидіти
 site|n|saɪt|533|місце; сайт
@@ -2380,7 +2369,6 @@ snowfall|n|ˈsnoʊˌfɔːl|NULL|снігопад
 snowman|n|ˈsnoʊˌmæn|NULL|сніговик
 snowstorm|n|ˈsnoʊˌstɔːrm|NULL|снігова буря
 so|adv|səʊ|196|так; отже
-so-so|adj|ˌsəʊˈsəʊ|NULL|так собі; не дуже
 soap|n|soʊp|4389|мило
 social|adj|ˈsəʊʃəl|320|соціальний
 society|n|səˈsaɪəti|508|суспільство
@@ -2406,15 +2394,19 @@ sore|adj|sɔːr|NULL|болючий
 sore throat|n|ˌsɔːr ˈθroʊt|NULL|ангіна; болить горло
 sorry|adj|ˈsɒri|1209|вибачте; шкода
 sort|n|sɔːt|4374|вид; сортувати
+so-so|adj|ˌsəʊˈsəʊ|NULL|так собі; не дуже
 sound|n|saʊnd|883|звук
 soup|n|suːp|3021|суп
 sour|adj|ˈsaʊər|NULL|кислий
 south|n|saʊθ|637|південь
+South America|n|ˌsaʊθ əˈmɛrɪkə|NULL|Південна Америка
 southeast|n|ˌsaʊθˈiːst|3744|південний схід
 southwest|n|ˌsaʊθˈwɛst|3598|південний захід
 souvenir|n|ˌsuːvəˈnɪər|NULL|сувенір
 space|n|speɪs|522|простір; космос
 spade|n|speɪd|NULL|лопата
+Spain|n|speɪn|NULL|Іспанія
+Spanish|adj|ˈspænɪʃ|2225|іспанський
 spare|adj|speər|4639|запасний; вільний
 speak|v|spiːk|336|говорити
 special|adj|ˈspɛʃəl|521|спеціальний; особливий
@@ -2446,8 +2438,8 @@ standard|adj|ˈstændərd|1783|стандартний
 star|n|stɑːr|4278|зірка
 start|v|stɑːrt|1540|починати
 state|n|steɪt|846|стан; держава
-state school|n|ˌsteɪt ˈskuːl|NULL|державна школа
 statement|n|ˈsteɪtmənt|924|заява; висловлювання
+state school|n|ˌsteɪt ˈskuːl|NULL|державна школа
 station|n|ˈsteɪʃən|844|станція
 statue|n|ˈstætʃuː|3908|статую
 stay|v|steɪ|4427|залишатися; перебувати
@@ -2498,10 +2490,11 @@ suit|v|suːt|3197|підходити; костюм
 suitable|adj|ˈsuːtəbl|4811|підхожий; відповідний
 suitcase|n|ˈsuːtˌkeɪs|NULL|валіза
 sum|n|sʌm|3878|сума
-sum up|v|ˌsʌm ˈʌp|NULL|підсумовувати
 summer|n|ˈsʌmər|619|літо
+sum up|v|ˌsʌm ˈʌp|NULL|підсумовувати
 sun|n|sʌn|1239|сонце
 sunbathe|v|ˈsʌnˌbeɪð|NULL|засмагати
+Sunday|n|ˈsʌndeɪ|NULL|неділя
 sunlight|n|ˈsʌnˌlaɪt|3928|сонячне світло
 sunny|adj|ˈsʌni|4921|сонячно
 sunrise|n|ˈsʌnˌraɪz|NULL|схід сонця
@@ -2534,8 +2527,8 @@ switch on|v|ˌswɪtʃ ˈɒn|NULL|увімкнути
 system|n|ˈsɪstəm|191|система
 table|n|ˈteɪbl|540|стіл
 table-cloth|n|ˈteɪblˌklɒθ|NULL|скатертина
-table-tennis|n|ˈteɪbl ˌtɛnɪs|NULL|настільний теніс
 tablet|n|ˈtæblət|NULL|таблетка; планшет
+table-tennis|n|ˈteɪbl ˌtɛnɪs|NULL|настільний теніс
 take|v|teɪk|63|брати
 take away|v|ˌteɪk əˈweɪ|NULL|забирати; віднімати
 take exercise|v|ˌteɪk ˈɛksəsaɪz|NULL|займатися спортом
@@ -2578,8 +2571,8 @@ text|n|tɛkst|1296|текст
 text message|n|ˈtɛkst ˌmɛsɪdʒ|NULL|текстове повідомлення
 than|conj|ðæn|712|ніж
 thank|v|θæŋk|498|дозувати
-thank you|interj|ˈθæŋk juː|NULL|дякую
 thanks|interj|θæŋks|1671|дякую
+thank you|interj|ˈθæŋk juː|NULL|дякую
 that|pron|ðæt|903|те; той
 theatre|n|ˈθɪətər|NULL|театр
 theft|n|θɛft|NULL|крадіжка
@@ -2615,6 +2608,7 @@ throw away|v|ˌθroʊ əˈweɪ|NULL|викинути
 thumb|n|θʌm|3785|великий палець
 thunder|n|ˈθʌndər|NULL|грім
 thunderstorm|n|ˈθʌndərˌstɔːrm|NULL|гроза
+Thursday|n|ˈθɜːzdeɪ|NULL|четвер
 tick|n|tɪk|NULL|галочка; кліщ
 ticket|n|ˈtɪkɪt|1585|квиток
 tidy|adj|ˈtaɪdi|NULL|охайний
@@ -2694,18 +2688,21 @@ trust|v|trʌst|2253|довіряти
 truth|n|truːθ|853|правда
 try|v|traɪ|127|намагатися
 try on|v|ˌtraɪ ˈɒn|NULL|приміряти
+T-shirt|n|ˈtiːˌʃɜːrt|3521|футболка
 tube|n|tuːb|2543|трубка; метро
+Tuesday|n|ˈtjuːzdeɪ|NULL|вівторок
 tune|n|tuːn|3940|мелодія
 tunnel|n|ˈtʌnl|3385|тунель
 turkey|n|ˈtɜːrki|3775|індичка
 turn|v|tɜːrn|1177|повертати
 turn down|v|ˌtɜːrn ˈdaʊn|NULL|зменшити; відмовити
+turning|n|ˈtɜːrnɪŋ|NULL|поворот
 turn into|v|ˌtɜːrn ˈɪntuː|NULL|перетворитися на
 turn off|v|ˌtɜːrn ˈɒf|NULL|вимкнути
 turn on|v|ˌtɜːrn ˈɒn|NULL|увімкнути
 turn out|v|ˌtɜːrn ˈaʊt|NULL|виявитися; закінчитися
 turn up|v|ˌtɜːrn ˈʌp|NULL|з'явитися; підвищити
-turning|n|ˈtɜːrnɪŋ|NULL|поворот
+TV|n|ˌtiːˈviː|797|телевізор
 twice|adv|ˈtwaɪs|1417|двічі
 twin|adj|twɪn|2398|близнюк
 type|v|taɪp|591|тип; друкувати
@@ -2728,12 +2725,12 @@ unless|conj|ʌnˈlɛs|1339|якщо не
 until|prep|ʌnˈtɪl|1375|до; аж до
 unusual|adj|ʌnˈjuːʒʊəl|2054|незвичайний
 up|adv|ʌp|456|вгору
-up to|prep|ˌʌp tu|NULL|до; до рівня
-up to date|adj|ˌʌp tu ˈdeɪt|NULL|сучасний; актуальний
 update|v|ˈʌpdeɪt|4859|оновлювати
 upon|prep|əˈpɒn|694|на; на основі
 upset|adj|ʌpˈsɛt|4387|засмучений; збентежений
 upstairs|adv|ˌʌpˈsteərz|4428|нагору; на верхньому поверсі
+up to|prep|ˌʌp tu|NULL|до; до рівня
+up to date|adj|ˌʌp tu ˈdeɪt|NULL|сучасний; актуальний
 urgent|adj|ˈɜːrdʒənt|NULL|терміновий
 us|pron|ʌs|113|нас
 use|v|juːz|429|використовувати
@@ -2783,20 +2780,21 @@ ward|n|wɔːd|NULL|палата; район
 warm|adj|wɔːrm|3630|теплий
 warn|v|wɔːrn|1786|попереджати
 wash|v|wɒʃ|2162|мити
-wash up|v|ˌwɒʃ ˈʌp|NULL|мивати посуд
 wash-basin|n|ˈwɒʃˌbeɪsn|NULL|умивальник
 washing|n|ˈwɒʃɪŋ|NULL|прання
 washing machine|n|ˈwɒʃɪŋ məˈʃiːn|NULL|пральна машина
 washing up|n|ˈwɒʃɪŋ ʌp|NULL|миття посуду
+wash up|v|ˌwɒʃ ˈʌp|NULL|мивати посуд
 waste|v|weɪst|3074|гаємо; марнувати
 wastepaper basket|n|ˈweɪstpeɪpər ˌbɑːskɪt|NULL|кошик для сміття
 watch|v|wɒtʃ|2468|дивитися; спостерігати
 water|n|ˈwɔːtər|227|вода
-water skiing|n|ˌwɔːtər ˈskiːɪŋ|NULL|водні лижі
 waterfall|n|ˈwɔːtəfɔːl|NULL|водоспад
+water skiing|n|ˌwɔːtər ˈskiːɪŋ|NULL|водні лижі
 wave|n|weɪv|2641|хвиля; махати
 waves|n|weɪvz|NULL|хвилі
 way|n|weɪ|4090|шлях; спосіб
+WC|n|ˌdʌbəljuːˈsiː|NULL|туалет
 we|pron|wiː|24|ми
 weak|adj|wiːk|2086|слабкий
 wear|v|weər|519|носити; одягати
@@ -2806,6 +2804,7 @@ weather|n|ˈwɛðər|1623|погода
 web|n|wɛb|4269|веб; мережа
 website|n|ˈwɛbˌsaɪt|NULL|веб-сайт
 wedding|n|ˈwɛdɪŋ|2195|весілля
+Wednesday|n|ˈwɛnzdeɪ|NULL|середа
 week|n|wiːk|188|тиждень
 weekday|n|ˈwiːkdeɪ|NULL|будній день
 weekend|n|ˌwiːkˈɛnd|1197|вихідні
@@ -2815,9 +2814,10 @@ weight|n|weɪt|957|вага
 welcome|v|ˈwɛlkəm|3680|вітати; ласкаво просимо
 welfare|n|ˈwɛlfeər|1947|добробут; соціальне забезпечення
 well|adv|wɛl|644|добре
+Well done!|interj|ˌwɛl ˈdʌn|NULL|Молодець!; Добре зроблено!
 well known|adj|ˌwɛl ˈnoʊn|NULL|відомий
-well made|adj|ˌwɛl ˈmeɪd|NULL|добре зроблений
 well-known|adj|ˌwɛlˈnoʊn|4446|відомий
+well made|adj|ˌwɛl ˈmeɪd|NULL|добре зроблений
 well-made|adj|ˌwɛlˈmeɪd|NULL|добре виготовлений
 west|n|wɛst|665|захід
 wet|adj|wɛt|2491|мокрий
@@ -2833,10 +2833,10 @@ which|pron|wɪtʃ|58|який; яка
 whichever|pron|wɪtʃˈɛvər|NULL|який би не; будь-який
 while, whilst|conj|waɪl, waɪlst|NULL|поки; в той час як
 white|adj|waɪt|2740|білий
-who, whom|pron|huː, hu:m|NULL|хто; кого
 whoever|pron|huːˈɛvər|4283|хто б не; будь-хто
 whole|adj|hoʊl|2243|цілий; весь
 whose|pron|huːz|528|чий
+who, whom|pron|huː, hu:m|NULL|хто; кого
 why|adv|waɪ|158|чому
 wide|adj|waɪd|944|широкий
 width|n|wɪdθ|NULL|ширина
