@@ -1,3 +1,6 @@
+5-dict-caregories:
+	node process_categories.js "../../generated/vocabulary-all.csv" "../../generated" > "../../generated/categories.csv" && cat "../../generated/categories.csv"
+
 4-merge-dict-weights:
 	./merge-dict-weight.sh "../../generated/vocabulary-all.csv" "../../data/5000-words-rank.csv"
 
