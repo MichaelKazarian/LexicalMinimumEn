@@ -281,3 +281,4 @@ traffic lights;n;ˈtræfɪk laɪts;світлофор
     taxi driver;n;ˈtæksi ˌdraɪvər;водій таксі
     teacher;n;ˈtiːʧər;вчитель
     unemployed;adj;ˌʌnɪmˈplɔɪd;безробітний
+arithmetic;n;əˈrɪθmətɪk;NULL;арифметика

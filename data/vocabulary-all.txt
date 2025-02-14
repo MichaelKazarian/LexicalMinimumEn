@@ -2688,7 +2688,7 @@ trust;v;trʌst;довіряти
 truth;n;truːθ;правда
 try;v;traɪ;намагатися
 try on;v;ˌtraɪ ˈɒn;приміряти
-T-shirt;n;ˈtiːˌʃɜːrt;T-шкіра
+T-shirt;n;ˈtiːˌʃɜːrt;футболка
 tube;n;tuːb;трубка;метро
 Tuesday;n;ˈtjuːzdeɪ;вівторок
 tune;n;tuːn;мелодія

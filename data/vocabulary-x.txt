@@ -2304,7 +2304,7 @@ mum; n; mʌm; мама
     swing;v;swɪŋ;гойдатися;качатися
     switch;v;swɪtʃ;перемикати
     system;n;ˈsɪstəm;система
-    T-shirt;n;ˈtiːˌʃɜːrt;T-шкіра
+    T-shirt;n;ˈtiːˌʃɜːrt;футболка
     table-cloth;n;ˈteɪblˌklɒθ;скатертина
     table-tennis;n;ˈteɪbl ˌtɛnɪs;настільний теніс
     table;n;ˈteɪbl;стіл
