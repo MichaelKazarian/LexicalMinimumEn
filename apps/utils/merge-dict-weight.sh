@@ -41,7 +41,7 @@ awk -F'|' '!seen[$1]++' > weights_sorted.txt
 # Виконання об'єднання (dict_sorted.txt як основний). Use with $output_lex_min
 join -t'|' -1 1 -2 1 -a 1 -o '1.1,1.2,1.3,2.2,1.4' dict_sorted.txt weights_sorted.txt | \
 sed 's/||/|NULL|/g' | \
-sort -t'|' -k1,1 > $output_lex_min
+sort -t'|' -k1,1 -f > $output_lex_min
 #sort -t'|' -k4,4n -k1,1 # Сортування за рейтингом
 
 # Видалення тимчасових файлів
