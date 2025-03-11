@@ -1,3 +1,5 @@
+6-categories-combine:
+	node categories_combine.js
 5-dict-caregories:
 	node process_categories.js "../../generated/output_lex_min.csv" "../../generated" > "../../generated/categories.csv" && cat "../../generated/categories.csv"
 
