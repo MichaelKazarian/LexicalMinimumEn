@@ -1,0 +1,331 @@
+#+TITLE: Word Dolphin REST API
+#+AUTHOR: Michael та Grok
+#+DATE: 2025-03-11
+
+* Опис проєкту
+Розробка REST API для додатку *Word Dolphin* — Android-програми для вивчення слів.
+- Мета: сервер на *Go*, який віддає JSON у форматі Word Dolphin на основі файлів `translations.csv` і `categories.csv`.
+- Особливість: Michael планує вивчати Go в процесі створення цього проєкту.
+- Уточнення: Кожен JSON-файл називається за словом (наприклад, `go with.json`, `get around.json`), без розширення позначає саме слово.
+
+* Основні файли
+** translations.csv
+- Основне джерело даних.
+- Формат: [слово]|[частина мови]|[фонетика]|[число]|[переклад]|[приклад]|[переклад прикладу].
+- Приклад із кількома перекладами та прикладами (розділені "/"):
+  #+BEGIN_EXAMPLE
+  go with|v phr|ɡəʊ wɪð|NULL|іти з; підходити до|Does this shirt go with these pants?/She decided to go with the flow.|Чи підходить ця сорочка до цих штанів?/Вона вирішила йти за течією.
+  #+END_EXAMPLE
+
+** categories.csv
+- Додатковий файл для уточнення даних і структурування за категоріями.
+- Формат: [слово]|[частина мови]|[фонетика]|[NULL]|[переклад] для слів, плюс заголовки типу `Category: Cardinal numbers`.
+- Приклад:
+  #+BEGIN_EXAMPLE
+  one|n|wʌn|NULL|один
+  #+END_EXAMPLE
+
+* План реалізації
+1. *Генерація JSON*:
+   - Одноразова обробка `translations.csv` і `categories.csv`.
+   - Створення окремих JSON-файлів для кожного слова у папці `data/` (наприклад, `data/go with.json`).
+2. *Сервер на Go*:
+   - Завантаження всіх JSON-файлів із папки `data/` при запуску.
+   - Ендпоінт: `GET /word/{word}` для повернення JSON для слова.
+3. *Інтеграція з Word Dolphin*:
+   - Android-додаток робить HTTP-запити до сервера (наприклад, через `HttpURLConnection` чи Retrofit).
+4. *Можливе розширення*:
+   - Додавання ендпоінту `GET /category/{category}` для слів за категоріями.
+
+* Останній приклад JSON із Word Dolphin
+Оновлений приклад для файлу `go with.json` на основі `translations.csv`:
+#+BEGIN_SRC json
+{
+  "IS_LEARNED": false,
+  "IS_LEARNING": false,
+  "IS_PROBLEM": false,
+  "IS_STARRED": false,
+  "LAST_SCORE": 0,
+  "MEANING_CHECK_DATE": "2025-03-11",
+  "MEANING_SCORE": 100,
+  "UUID": 1646937600000000000,
+  "WORD_NOTE": "",
+  "PRONOUNCES": [
+    {"memo": "UK|US", "ipa": "ɡəʊ wɪð"}
+  ],
+  "TRANSLATIONS": [
+    {
+      "translation": "іти з",
+      "note": "Чи підходить ця сорочка до цих штанів?",
+      "samples": ["Does this shirt go with these pants?"]
+    },
+    {
+      "translation": "підходити до",
+      "note": "Вона вирішила йти за течією.",
+      "samples": ["She decided to go with the flow."]
+    }
+  ],
+  "AUDIO_SAMPLES": [],
+  "SAMPLE_LIST": [
+    "Does this shirt go with these pants?",
+    "She decided to go with the flow."
+  ]
+}
+#+END_SRC
+- *TRANSLATIONS*: Переклади (поле 4, розділені "; ") розбиті на об’єкти, приклади (поле 5, розділені "/") як `samples`, переклади прикладів (поле 6, розділені "/") як `note`.
+- *SAMPLE_LIST*: Усі приклади в одному списку.
+- *PRONOUNCES*: Фонетика з `translations.csv`.
+
+* Код на Go
+** Генерація JSON (generate.go)
+#+BEGIN_SRC go
+package main
+
+import (
+	"encoding/csv"
+	"encoding/json"
+	"fmt"
+	"os"
+	"strings"
+	"time"
+)
+
+type WordDolphin struct {
+	IsLearned        bool          `json:"IS_LEARNED"`
+	IsLearning       bool          `json:"IS_LEARNING"`
+	IsProblem        bool          `json:"IS_PROBLEM"`
+	IsStarred        bool          `json:"IS_STARRED"`
+	LastScore        int           `json:"LAST_SCORE"`
+	MeaningCheckDate string        `json:"MEANING_CHECK_DATE"`
+	MeaningScore     int           `json:"MEANING_SCORE"`
+	UUID             int64         `json:"UUID"`
+	WordNote         string        `json:"WORD_NOTE"`
+	Pronounces       []Pronounce   `json:"PRONOUNCES"`
+	Translations     []Translation `json:"TRANSLATIONS"`
+	AudioSamples     []AudioSample `json:"AUDIO_SAMPLES"`
+	SampleList       []string      `json:"SAMPLE_LIST"`
+}
+
+type Translation struct {
+	Translation string   `json:"translation"`
+	Note        string   `json:"note"`
+	Samples     []string `json:"samples"`
+}
+
+type Pronounce struct {
+	Memo string `json:"memo"`
+	IPA  string `json:"ipa"`
+}
+
+type AudioSample struct {
+	Comment  string `json:"comment"`
+	FileName string `json:"FILE_NAME"`
+	URL      string `json:"url"`
+	Name     string `json:"name"`
+}
+
+func main() {
+	words := make(map[string]WordDolphin)
+
+	// Читаємо translations.csv
+	transFile, err := os.Open("../../data/translations.csv")
+	if err != nil {
+		fmt.Println("Помилка з translations.csv:", err)
+		return
+	}
+	defer transFile.Close()
+
+	transReader := csv.NewReader(transFile)
+	transReader.Comma = '|'
+	transRecords, _ := transReader.ReadAll()
+	for i, record := range transRecords {
+		if len(record) == 7 {
+			translationsList := strings.Split(record[4], "; ")
+			samplesList := strings.Split(record[5], "/")
+			exampleTranslationsList := strings.Split(record[6], "/")
+			var translations []Translation
+			var allSamples []string
+
+			for j := 0; j < len(translationsList); j++ {
+				sample := ""
+				exampleTranslation := ""
+				if j < len(samplesList) && samplesList[j] != "NULL" && samplesList[j] != "" {
+					sample = samplesList[j]
+					allSamples = append(allSamples, sample)
+				}
+				if j < len(exampleTranslationsList) && exampleTranslationsList[j] != "NULL" && exampleTranslationsList[j] != "" {
+					exampleTranslation = exampleTranslationsList[j]
+				}
+				translations = append(translations, Translation{
+					Translation: translationsList[j],
+					Note:        exampleTranslation,
+					Samples:     sample != "" ? []string{sample} : []string{},
+				})
+			}
+
+			words[record[0]] = WordDolphin{
+				IsLearned:        false,
+				IsLearning:       false,
+				IsProblem:        false,
+				IsStarred:        false,
+				LastScore:        0,
+				MeaningCheckDate: "2025-03-11",
+				MeaningScore:     100,
+				UUID:             time.Now().UnixNano() + int64(i),
+				WordNote:         "",
+				Pronounces:       []Pronounce{{Memo: "UK|US", IPA: record[2]}},
+				Translations:     translations,
+				AudioSamples:     []AudioSample{},
+				SampleList:       allSamples,
+			}
+		}
+	}
+
+	// Уточнення з categories.csv
+	catFile, err := os.Open("../../categories.csv")
+	if err != nil {
+		fmt.Println("Помилка з categories.csv:", err)
+		return
+	}
+	defer catFile.Close()
+
+	catReader := csv.NewReader(catFile)
+	catReader.Comma = '|'
+	catRecords, _ := catReader.ReadAll()
+	for _, record := range catRecords {
+		if len(record) == 5 && !strings.HasPrefix(record[0], "Category:") {
+			if w, ok := words[record[0]]; ok {
+				w.Pronounces = []Pronounce{{Memo: "UK|US", IPA: record[2]}}
+				if len(w.Translations) > 0 {
+					w.Translations[0].Translation = record[4]
+				}
+				words[record[0]] = w
+			}
+		}
+	}
+
+	// Створюємо папку й зберігаємо окремі JSON-файли
+	if err := os.MkdirAll("data", 0755); err != nil {
+		fmt.Println("Помилка створення папки:", err)
+		return
+	}
+	for word, data := range words {
+		wordJSON, _ := json.MarshalIndent(data, "", "  ")
+		filename := fmt.Sprintf("data/%s.json", word)
+		if err := os.WriteFile(filename, wordJSON, 0644); err != nil {
+			fmt.Printf("Помилка запису %s: %v\n", filename, err)
+			return
+		}
+	}
+
+	fmt.Println("JSON-файли згенеровано в папці data/")
+}
+#+END_SRC
+
+** Сервер на Go (main.go)
+#+BEGIN_SRC go
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"log"
+	"net/http"
+	"os"
+	"path/filepath"
+	"strings"
+
+	"github.com/gorilla/mux"
+)
+
+type WordDolphin struct {
+	IsLearned        bool          `json:"IS_LEARNED"`
+	IsLearning       bool          `json:"IS_LEARNING"`
+	IsProblem        bool          `json:"IS_PROBLEM"`
+	IsStarred        bool          `json:"IS_STARRED"`
+	LastScore        int           `json:"LAST_SCORE"`
+	MeaningCheckDate string        `json:"MEANING_CHECK_DATE"`
+	MeaningScore     int           `json:"MEANING_SCORE"`
+	UUID             int64         `json:"UUID"`
+	WordNote         string        `json:"WORD_NOTE"`
+	Pronounces       []Pronounce   `json:"PRONOUNCES"`
+	Translations     []Translation `json:"TRANSLATIONS"`
+	AudioSamples     []AudioSample `json:"AUDIO_SAMPLES"`
+	SampleList       []string      `json:"SAMPLE_LIST"`
+}
+
+type Translation struct {
+	Translation string   `json:"translation"`
+	Note        string   `json:"note"`
+	Samples     []string `json:"samples"`
+}
+
+type Pronounce struct {
+	Memo string `json:"memo"`
+	IPA  string `json:"ipa"`
+}
+
+type AudioSample struct {
+	Comment  string `json:"comment"`
+	FileName string `json:"FILE_NAME"`
+	URL      string `json:"url"`
+	Name     string `json:"name"`
+}
+
+var words map[string]WordDolphin
+
+func loadData() {
+	words = make(map[string]WordDolphin)
+	files, err := filepath.Glob("data/*.json")
+	if err != nil {
+		log.Fatal("Помилка сканування папки data:", err)
+	}
+	for _, file := range files {
+		data, err := os.ReadFile(file)
+		if err != nil {
+			log.Printf("Помилка читання %s: %v", file, err)
+			continue
+		}
+		var wordData WordDolphin
+		if err := json.Unmarshal(data, &wordData); err != nil {
+			log.Printf("Помилка парсингу %s: %v", file, err)
+			continue
+		}
+		word := strings.TrimSuffix(filepath.Base(file), ".json")
+		words[word] = wordData
+	}
+	fmt.Printf("Завантажено %d слів із папки data/\n", len(words))
+}
+
+func getWord(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	word := vars["word"]
+	if data, ok := words[word]; ok {
+		w.Header().Set("Content-Type", "application/json")
+		json.NewEncoder(w).Encode(data)
+	} else {
+		http.Error(w, "Слово не знайдено", http.StatusNotFound)
+	}
+}
+
+func main() {
+	loadData()
+	router := mux.NewRouter()
+	router.HandleFunc("/word/{word}", getWord).Methods("GET")
+	fmt.Println("Сервер запущено на :8080")
+	log.Fatal(http.ListenAndServe(":8080", router))
+}
+#+END_SRC
+
+* Нотатки
+- *Go навчання*: Michael освоює Go під час проєкту, тому код простий і готовий до тестування.
+- *Інтеграція*: Word Dolphin надсилатиме HTTP-запити до `GET /word/{word}` (наприклад, `GET /word/go with`).
+- *Розширення*: Ендпоінт `/category/{category}` можна додати пізніше для категорій.
+- *Формат файлів*: Кожен JSON-файл у `data/` називається за словом (наприклад, `go with.json`), як у Word Dolphin.
+
+* Статус
+- Код готовий до тестування:
+  - Згенерувати JSON-файли: `go run generate.go`.
+  - Запустити сервер: `go run main.go` (після `go get github.com/gorilla/mux`).
+- Чекаємо, коли Michael повернеться до проєкту.
+  
