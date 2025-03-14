@@ -590,7 +590,7 @@ answer ; n/v ; ˈænsər ; відповідь, відповідати
     cut;v;kʌt;різати;відрізати
     CV;n;ˌsiːˈviː;резюме
     cycle;n;ˈsaɪkəl;велосипед;цикл
-    of his stay, checkout;phrase;əv hɪz steɪ, ˈtʃekaʊt;під час його перебування, виїзд
+    checkout; n.; ˈtʃekaʊt; каса (в магазині), перевірка
     recorder;n;rɪˈkɔːdər;магнітофон;рекордер
     dad;n;dæd;тато;батько
     daddy;n;ˈdædi;татко;папа
@@ -2585,9 +2585,11 @@ mum; n; mʌm; мама
     wherever;adv;wɛrˈɛvər;де б не;в будь-якому місці
     which;pron;wɪtʃ;який;яка
     whichever;pron;wɪtʃˈɛvər;який би не;будь-який
-    while, whilst;conj;waɪl, waɪlst;поки;в той час як
+    while;conj;waɪl;поки;в той час як
+    whilst;conj;waɪlst;поки;в той час як
     white;adj;waɪt;білий
-    who, whom;pron;huː, hu:m;хто;кого
+    who;pron;huː;хто;кого
+    whom;pron;hu:m;хто;кого
     whoever;pron;huːˈɛvər;хто б не;будь-хто
     whole;adj;hoʊl;цілий;весь
     whose;pron;huːz;чий

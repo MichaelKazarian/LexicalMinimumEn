@@ -1,4 +1,5 @@
 import csv
+import argparse
 from collections import defaultdict
 
 # Читання CSV файлу
@@ -7,12 +8,13 @@ def read_csv(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         reader = csv.reader(f, delimiter='|')
         for row in reader:
-            # print(row)
-            word, pos, phon, freq, trans, examples, ex_trans = row
-            letter = word[0].upper()
-            examples = examples.split('/')
-            ex_trans = ex_trans.split('/')
-            data[letter].append((word, pos, phon, trans, examples, ex_trans))
+            # Перевіряємо, чи рядок має достатньо колонок
+            if len(row) >= 7:
+                word, pos, phon, freq, trans, examples, ex_trans = row[:7]
+                letter = word[0].upper()
+                examples = examples.split('/')
+                ex_trans = ex_trans.split('/')
+                data[letter].append((word, pos, phon, trans, examples, ex_trans))
     return data
 
 # Генерація спискового формату
@@ -48,13 +50,22 @@ def generate_table_format(data, output_file):
                 examples_full = " ".join(f"{ex} ({ex_t})" for ex, ex_t in zip(examples, ex_trans))
                 f.write(f"| {left_col:<50} | {examples_full:<85} |\n")
 
-# Основна функція
+# Основна функція з аргументами командного рядка
 def main():
-    file_path = "../../data/translations.csv"
-    data = read_csv(file_path)
-    generate_list_format(data, "../../out/LexicalMinimum_list.org")
-    generate_table_format(data, "../../out/LexicalMinimum_table.org")
-    print("Готово! Створено LexicalMinimum_list.org та LexicalMinimum_table.org")
+    # Налаштування аргументів командного рядка
+    parser = argparse.ArgumentParser(description="Генерація Org-файлів із CSV словника")
+    parser.add_argument('--input', type=str, required=True, help="Шлях до вхідного CSV файлу")
+    parser.add_argument('--list-output', type=str, required=True, help="Шлях до вихідного спискового Org-файлу")
+    parser.add_argument('--table-output', type=str, required=True, help="Шлях до вихідного табличного Org-файлу")
+    
+    # Парсинг аргументів
+    args = parser.parse_args()
+    
+    # Читання та обробка
+    data = read_csv(args.input)
+    generate_list_format(data, args.list_output)
+    generate_table_format(data, args.table_output)
+    print(f"Готово! Створено {args.list_output} та {args.table_output}")
 
 if __name__ == "__main__":
     main()

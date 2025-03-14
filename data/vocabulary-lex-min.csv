@@ -446,7 +446,7 @@ certain|adj|ˈsɜːtən|578|впевнений; конкретний
 certificate|n|səˈtɪfɪkət|NULL|сертифікат
 chain|n|ʧeɪn|1819|ланцюг
 chair|n|ʧeər|949|стілець
-chalk|n|ʧɔːk|NULL|ковйолок
+chalk|n|ʧɔːk|NULL|крейда
 challenge|n|ˈʧæləndʒ|1779|виклик; завдання
 challenging|adj|ˈʧælɪndʒɪŋ|NULL|викличний
 champion|n|ˈʧæmpɪən|2777|чемпіон
@@ -466,6 +466,7 @@ check|v|ʧɛk|1900|перевіряти; контролювати
 check in|v|ʧɛk ɪn|NULL|реєструватися; зайти
 check-in|n|ˈʧɛk ɪn|NULL|реєстрація
 check out|v|ʧɛk aʊt|NULL|виписуватися; перевіряти
+checkout|n|ˈtʃekaʊt|NULL|перевірка; каса; виїзд
 cheerful|adj|ˈʧɪəfʊl|NULL|веселий; радісний
 cheers|interj|ʧɪəz|NULL|дякую; вітання
 cheese|n|ʧiːz|2122|сир
@@ -1755,7 +1756,6 @@ offer|v|ˈɒfər|2109|пропонувати
 office|n|ˈɒfɪs|342|офіс
 office block|n|ˈɒfɪs blɒk|NULL|офісний блок
 officer|n|ˈɒfɪsər|671|офіцер; чиновник
-of his stay, checkout|phrase|əv hɪz steɪ, ˈtʃekaʊt|NULL|під час його перебування; виїзд
 often|adv|ˈɒfən|275|часто
 oh!|interj|oʊ|NULL|о!
 oh dear!|interj|oʊ dɪər|NULL|о боже!
@@ -2831,12 +2831,14 @@ where|adv|wɛər|190|де
 wherever|adv|wɛrˈɛvər|3746|де б не; в будь-якому місці
 which|pron|wɪtʃ|58|який; яка
 whichever|pron|wɪtʃˈɛvər|NULL|який би не; будь-який
-while, whilst|conj|waɪl, waɪlst|NULL|поки; в той час як
+while|conj|waɪl|NULL|поки; в той час як
+whilst|conj|waɪlst|NULL|поки; в той час як
 white|adj|waɪt|2740|білий
 whoever|pron|huːˈɛvər|4283|хто б не; будь-хто
 whole|adj|hoʊl|2243|цілий; весь
 whose|pron|huːz|528|чий
-who, whom|pron|huː, hu:m|NULL|хто; кого
+who|pron|huː|NULL|хто; кого
+whom|pron|hu:m|NULL|хто; кого
 why|adv|waɪ|158|чому
 wide|adj|waɪd|944|широкий
 width|n|wɪdθ|NULL|ширина

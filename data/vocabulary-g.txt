@@ -590,7 +590,6 @@ cut up; v.; kʌt ʌp; розрізати на шматки
 cut; v., n.; kʌt; різати; розріз
 CV; n.; siːˈviː; резюме
 cycle; n., v.; ˈsaɪkl; велосипед; їздити на велосипеді
-of his stay; phr.; ɒv hɪz steɪ; під час його перебування
 checkout; n.; ˈtʃekaʊt; каса (в магазині), перевірка
 recorder; n.; rɪˈkɔːrdər; реєстратор, диктофон
 dad; n.; dæd; тато
@@ -2586,9 +2585,11 @@ where; adv., conj.; weər; де
 wherever; adv., conj.; werˈevər; де завгодно
 which; det., pron.; wɪtʃ; який
 whichever; det., pron.; wɪtʃˈevər; який завгодно
-while, whilst; conj.; waɪl, waɪlst; тоді як
+while; conj.; waɪl; тоді як
+whilst; conj.; waɪlst; тоді як
 white; adj., n.; waɪt; білий
-who, whom; pron.; huː, huːm; хто, кому
+who; pron.; huː; хто, кому
+whom; pron.; huːm; хто, кому
 whoever; pron.; huːˈevər; хто б не
 whole; adj.; həʊl; цілий
 whose; pron.; huːz; чий
