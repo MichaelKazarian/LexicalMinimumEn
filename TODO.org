@@ -15,16 +15,12 @@
     - Оптимізація Michael’а: літери як заголовки першого рівня (* A, * B), без * Lexical Minimum.
     - Слова з перекладами в одному рядку, приклади з відступом.
     - Слова жирним шрифтом (*слово*).
-    - Налаштування для A5 через #+ATTR_ODT:
-      - :page-size "A5" :margin-top "5mm" :margin-bottom "5mm" :margin-left "5mm" :margin-right "5mm".
-      - :style 'font-size: 10pt; line-height: 1.15;'.
     - Приклад:
       #+BEGIN_EXAMPLE
       #+TITLE: Lexical Minimum
       #+AUTHOR: Michael Kazarian
       #+LANGUAGE: en
       #+OPTIONS: toc:nil num:nil
-      #+ATTR_ODT: :page-size "A5" :margin-top "5mm" :margin-bottom "5mm" :margin-left "5mm" :margin-right "5mm" :style 'font-size: 10pt; line-height: 1.15;'
       * A
           *attend* [əˈtɛnd] (v) відвідувати
           - She attends every meeting. (Вона відвідує кожне засідання.)
@@ -38,38 +34,42 @@
     *** Варіант 2: Табличний (для A4)
     - Таблиці без заголовків стовпців: перший — слово з перекладами, другий — приклади.
     - Слова жирним шрифтом (*слово*).
-    - Налаштування для A4 через #+ATTR_ODT:
-      - :page-size "A4" :margin-top "10mm" :margin-bottom "10mm" :margin-left "15mm" :margin-right "15mm".
-      - :style 'font-size: 11pt; line-height: 1.2;'.
     - Приклад:
       #+BEGIN_EXAMPLE
       #+TITLE: Lexical Minimum
       #+AUTHOR: Michael Kazarian
       #+LANGUAGE: en
       #+OPTIONS: toc:nil num:nil
-      #+ATTR_ODT: :page-size "A4" :margin-top "10mm" :margin-bottom "10mm" :margin-left "15mm" :margin-right "15mm" :style 'font-size: 11pt; line-height: 1.2;'
-      * Lexical Minimum
-      ** A
+
+      * A
+      | <l4>                                                | <l6>                                                                                 |
       | *attend* [əˈtɛnd] (v) відвідувати                   | She attends every meeting. (Вона відвідує кожне засідання.)                           |
       | *attention* [əˈtɛnʃn] (n) увага                     | Pay attention to the details. (Звертайте увагу на деталі.)                            |
       | *at the same time* [æt ði ˈseɪm taɪm] (phr) одночасно | They arrived at the same time. (Вони прибули одночасно.)                              |
       #+END_EXAMPLE
     - Переваги: Структурований, підходить для друку.
 
-  ** Оновлення від Michael’а
-  - Використання #+ATTR_ODT для кастомізації розміру сторінки, полів і шрифтів.
-  - Оптимізація спискового варіанту: прибрано * Lexical Minimum, літери — першого рівня.
-  - Додано жирний шрифт для слів (*слово*) у обох форматах.
-
-  ** Завдання на завтра
-  - Michael обдумує обидва формати та параметри #+ATTR_ODT.
-  - Визначити:
-    - Чи підходять розміри шрифтів (10pt для A5, 11pt для A4) і поля.
-    - Чи потрібні додаткові стилі (наприклад, курсив для фонетики).
-    - Остаточний вибір форматів для генерації повного словника.
-  - Підготувати скрипт для генерації обох версій із translations.csv після рішення.
-
   ** Нотатки
   - Дата: 13 березня 2025 (сьогодні), пам’ятка на 14 березня 2025.
   - Приклади: attend, attention, at the same time.
   - Чекаємо feedback від Michael’а для наступних кроків.
+
+ ** Приклади
+Фрагмент словника translations.csv. Поля розділяються символом |. Прикладів використання слова може бути декілька, тоді вони розділяються символом "/". Відповідно прикладам символом "/" розділяються переклади прикладів. розглянемо приклад average|n/adj|ˈævərɪdʒ|3679|середній; середнє|The average temperature is 20 degrees./What's the average?|Середня температура - 20 градусів./Яке середнє?. Прикладу The average temperature is 20 degrees. відповідає переклад "Середня температура - 20 градусів.", а прикладу "What's the average?" переклад Яке середнє?
+available|adj|əˈveɪləbl|623|доступний|Is the product available in stores?|Чи доступний товар у магазинах?
+average|n/adj|ˈævərɪdʒ|3679|середній; середнє|The average temperature is 20 degrees./What's the average?|Середня температура - 20 градусів./Яке середнє?
+avoid|v|əˈvɔɪd|911|уникати|Try to avoid making mistakes.|Спробуйте уникнути помилок.
+awake|adj/v|əˈweɪk|4699|несплячий; прокидатися|He's awake now./He awoke early.|Він зараз не спить./Він прокинувся рано.
+away|adv|əˈweɪ|738|геть; далеко|He went away for the weekend.|Він поїхав на вихідні.
+awful|adj|ˈɔːfl|3304|жахливий|It was an awful experience.|Це було жахливе переживання.
+baby|n|ˈbeɪbi|589|немовля; малюк|She has a new baby.|У неї новонароджений малюк.
+back|adv|bæk|1877|назад|Come back soon.|Повернися скоро.
+background|n|ˈbækɡraʊnd|1409|фон; минуле|The mountains formed a beautiful background./What's your background?|Гори створювали красивий фон./Яке у вас минуле?
+backpack|n|ˈbækpæk|NULL|рюкзак|He carried all his belongings in a backpack.|Він носив усі свої речі в рюкзаку.
+backwards|adv|ˈbækwərdz|NULL|назад; у зворотному напрямку|He walked backwards.|Він ішов назад.
+bad|adj|bæd|283|поганий|It's a bad idea.|Це погана ідея.
+bag|n|bæɡ|1011|сумка; мішок|She packed her clothes in a bag.|Вона поклала свої речі в сумку.
+baggage|n|ˈbæɡɪdʒ|NULL|багаж|Please collect your baggage at the carousel.|Будь ласка, заберіть свій багаж з каруселі.
+
+  ** Що потрібно
+  - Підготувати скрипт для генерації обох версій із translations.csv
