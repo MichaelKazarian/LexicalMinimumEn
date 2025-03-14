@@ -29,7 +29,7 @@ address|n/v|əˈdres|1820|адреса; звертатися|Write down your add
 admire|v|ədˈmaɪər|3305|захоплюватися|I admire her dedication to her work.|Я захоплююся її відданістю роботі.
 admission|n|ədˈmɪʃn|3057|допуск; визнання|Admission to the event is free./He made an admission of guilt.|Вхід на захід безкоштовний./Він зробив визнання провини.
 admit|v|ədˈmɪt|1093|визнавати; допускати|He admitted he was wrong./They admitted us into the club.|Він визнав, що помилився./Вони допустили нас до клубу.
-adult|n/adj|ˈædʌlt|972|дорослий; дорослий|Only adults can enter this area./The movie is for adult audiences.|Тільки дорослі можуть входити в цю зону./Фільм для дорослої аудиторії.
+adult|n/adj|ˈædʌlt|972|дорослий|Only adults can enter this area./The movie is for adult audiences.|Тільки дорослі можуть входити в цю зону./Фільм для дорослої аудиторії.
 advanced|adj|ədˈvænst|2824|просунутий|He took an advanced course in physics.|Він відвідував просунутий курс з фізики.
 advantage|n|ədˈvæntɪdʒ|1308|перевага|Having a car is a big advantage here.|Мати автомобіль тут велика перевага.
 adventure|n|ədˈventʃər|2885|пригода|They went on an adventure in the mountains.|Вони вирушили на пригоду в гори.
@@ -446,7 +446,7 @@ certain|adj|ˈsɜːtən|578|впевнений; конкретний|He was cert
 certificate|n|səˈtɪfɪkət|NULL|сертифікат|He received a certificate for completing the course.|Він отримав сертифікат за завершення курсу.
 chain|n|ʧeɪn|1819|ланцюг|She wore a gold chain around her neck.|Вона носила золотий ланцюг на шиї.
 chair|n|ʧeər|949|стілець|Please take a chair and sit down.|Будь ласка, візьміть стілець і сядьте.
-chalk|n|ʧɔːk|NULL|ковйолок|The teacher wrote on the board with chalk.|Вчитель писав на дошці крейдою.
+chalk|n|ʧɔːk|NULL|крейда|The teacher wrote on the board with chalk.|Вчитель писав на дошці крейдою.
 challenge|n|ˈʧæləndʒ|1779|виклик; завдання|This project presents a real challenge.|Цей проект ставить справжній виклик.
 challenging|adj|ˈʧælɪndʒɪŋ|NULL|викличний|It was a very challenging task.|Це було дуже викличне завдання.
 champion|n|ˈʧæmpɪən|2777|чемпіон|He became the world champion.|Він став чемпіоном світу.
@@ -466,6 +466,7 @@ check|v|ʧɛk|1900|перевіряти; контролювати|Please check t
 check in|v|ʧɛk ɪn|NULL|реєструватися; зайти|We need to check in at the hotel.|Нам потрібно зареєструватися в готелі.
 check-in|n|ˈʧɛk ɪn|NULL|реєстрація|Check-in starts at 3 PM.|Реєстрація починається о 15:00.
 check out|v|ʧɛk aʊt|NULL|виписуватися; перевіряти|Can you check out the noise?|Чи можете ви перевірити звук?
+checkout|n|ˈtʃekaʊt|NULL|перевірка; каса; виїзд|This checkout should be fast./You pay at the checkout./Checkout is at 11 AM.|Ця перевірка має бути швидкою./Ви платите на касі./Виїзд о 11 ранку.
 cheerful|adj|ˈʧɪəfʊl|NULL|веселий; радісний|She has a very cheerful disposition.|У неї дуже веселий характер.
 cheers|interj|ʧɪəz|NULL|дякую; вітання|Cheers for the help!|Дякую за допомогу!
 cheese|n|ʧiːz|2122|сир|He loves cheese on his pizza.|Він любить сир на своїй піці.
@@ -1122,7 +1123,7 @@ go off|v phr|ɡəʊ ɒf|NULL|вибухати; вимикатися|The alarm we
 go on|v phr|ɡəʊ ɒn|NULL|продовжувати; відбуватися|Please go on with your story./What's going on here?|Будь ласка, продовжуйте свою історію./Що тут відбувається?
 govern|v|ˈɡʌvən|3743|керувати; управляти|The country is governed by a president.|Країною керує президент.
 government|n|ˈɡʌvənmənt|201|уряд|The government announced new policies.|Уряд оголосив нові політики.
-go with|v phr|ɡəʊ wɪð|NULL|іти з; підходити до|Does this shirt go with these pants?/She decided to go with the flow.|Чи підходить ця сорочка до цих штанів?/Вона вирішила йти за течією.
+go with|v phr|ɡəʊ wɪð|NULL|підходити до; іти з|Does this shirt go with these pants?/She decided to go with the flow.|Чи підходить ця сорочка до цих штанів?/Вона вирішила йти за течією.
 grade|n/v|ɡreɪd|1432|оцінка; класифікувати|He got an A grade./Grades are used to classify students.|Він отримав оцінку А./Оцінки використовуються для класифікації студентів.
 gram|n|ɡræm|NULL|грам|She measured the flour in grams.|Вона вимірювала борошно в грамах.
 grammar|n|ˈɡræmə|NULL|граматика|He's studying English grammar.|Він вивчає англійську граматику.
@@ -1165,7 +1166,7 @@ hair|n|heə|603|волосся|She has long, beautiful hair.|У неї довг�
 haircut|n|ˈheəˌkʌt|NULL|стрижка|He got a new haircut today.|Він сьогодні зробив нову стрижку.
 hairdresser|n|ˈheəˌdresə|NULL|перукар|She went to the hairdresser to dye her hair.|Вона пішла до перукаря, щоб пофарбувати волосся.
 hairdryer|n|ˈheəˌdraɪə|NULL|фен|Use the hairdryer to dry your hair.|Використовуй фен, щоб висушити волосся.
-half|n/adj|hɑːf|1636|половина; напів-|He ate half the pizza./It's half price.|Він з'їв половину піци./Це по півціни.
+half|n/adj|hɑːf|1636|половина; напів|He ate half the pizza./It's half price.|Він з'їв половину піци./Це по півціни.
 hall|n|hɔːl|1854|зал; коридор|The concert was held in the main hall.|Концерт відбувся у головному залі.
 hallo|interj|həˈləʊ|NULL|привіт (варіант hello)|Hallo, how are you?|Привіт, як справи?
 hammer|n/v|ˈhæmə|NULL|молоток; забивати|He hit the nail with a hammer./He hammered the nail into the wall.|Він вдарив цвях молотком./Він забив цвях у стіну.
@@ -1424,14 +1425,14 @@ knee|n|niː|1497|коліно|He hurt his knee playing football.|Він пошк
 kneel|v|niːl|4986|стояти на колінах|She knelt down to pray.|Вона стала на коліна, щоб помолитися.
 knife|n|naɪf|2261|ніж|He cut the bread with a sharp knife.|Він різав хліб гострим ножем.
 knit|v|nɪt|NULL|в'язати|She learned to knit scarves.|Вона навчилася в'язати шарфи.
-knock|v/n|nɒk|2105|стукати; стук|Knock before you enter./There was a knock at the door.|Постукайте перед тим, як увійти./Був стук у двері.
+knock|v/n|nɒk|2105|стукати; стук|Knock before you enter./There was a knock at the door.|Постукайте перед тим, як увійти./У двері постукали.
 knock down|v phr|nɒk daʊn|NULL|збивати; зносити|The bulldozer knocked down the old building.|Бульдозер зніс старий будинок.
 knock out|v phr|nɒk aʊt|NULL|нокаутувати; вибивати|He was knocked out in the first round./Knock out the old nail.|Він був нокаутований у першому раунді./Вибий старий цвях.
 know|v|nəʊ|47|знати|Do you know the answer?|Ти знаєш відповідь?
 knowledge|n|ˈnɒlɪdʒ|842|знання|His knowledge on the subject is vast.|Його знання про цю тему дуже великі.
 laboratory|n|ləˈbɒrətəri|3156|лабораторія|She works in a chemistry laboratory.|Вона працює в хімічній лабораторії.
 labourer|n|ˈleɪbərə|NULL|робітник|He's a hard-working labourer.|Він старанний робітник.
-lack|n/v|læk|1990|нестача; не вистачати|There's a lack of interest./They lack the necessary skills.|Існує нестача інтересу./Вони не мають необхідних навичок.
+lack|n/v|læk|1990|нестача; не вистачати|There's a lack of interest./They lack the necessary skills.|Є нестача інтересу./Вони не мають необхідних навичок.
 ladder|n|ˈlædə|4556|драбина|He climbed up the ladder to reach the roof.|Він піднявся по драбині, щоб дістатися до даху.
 lady|n|ˈleɪdi|1526|леді; жінка|The lady at the counter was very helpful.|Жінка за стійкою була дуже корисною.
 lake|n|leɪk|2204|озеро|They went fishing at the lake.|Вони ходили на рибалку на озеро.
@@ -1506,7 +1507,7 @@ litre|n|ˈliːtə|NULL|літр|He bought two litres of milk.|Він купив 
 litter|n/v|ˈlɪtə|NULL|сміття; засмічувати|Don't litter, use the bin./The park was littered with trash.|Не смітіть, використовуйте сміттєвий бак./Парк був засмічений сміттям.
 little|adj/det|ˈlɪtəl|848|маленький; небагато|That's a little problem./I have little time.|Це невелика проблема./У мене мало часу.
 live|v/adj|lɪv|2076|жити; живий|Where do you live?/He's still live.|Де ти живеш?/Він ще живий.
-living|adj/n|ˈlɪvɪŋ|2078|живий; життя|He's a living legend./The cost of living is high.|Він живий легенда./Вартість життя висока.
+living|adj/n|ˈlɪvɪŋ|2078|живий; життя|He's a living legend./The cost of living is high.|Він жива легенда./Вартість життя висока.
 living room|n|ˈlɪvɪŋ ruːm|NULL|вітальня|They all gathered in the living room.|Всі зібралися у вітальні.
 living-room|n|ˈlɪvɪng ruːm|NULL|вітальня|The TV is in the living-room.|Телевізор знаходиться у вітальні.
 load|v/n|ləʊd|2961|завантажувати; вантаж|Load the dishwasher./The truck carries a heavy load.|Завантаж посудомийну машину./Вантажівка перевозить важкий вантаж.
@@ -1514,7 +1515,7 @@ loaf|n|ləʊf|NULL|буханець; хліб|He bought a loaf of bread.|Він 
 loan|n/v|ləʊn|1711|позика; позичати|He took out a loan for the car./Can you loan me some money?|Він взяв позику на машину./Чи можеш ти позичити мені грошей?
 local|adj/n|ˈləʊkəl|424|місцевий; локальний|It's a local tradition./He's a local.|Це місцевий звичай./Він місцевий.
 location|n|ləʊˈkeɪʃən|1439|місце; локація|What's the location of the meeting?|Яке місце зустрічі?
-lock|v/n|lɒk|3801|замикати; замок|Lock the door when you leave./He forgot the key to the lock.|Замкни двері, коли підеш./Він забув ключ від замка.
+lock|v/n|lɒk|3801|замикати; замок|Lock the door when you leave./He forgot the key to the lock.|Замикайте двері, коли йдете./Він забув ключ від замка.
 locker|n|ˈlɒkə|NULL|шафка; локер|Put your bag in the locker.|Поклади свою сумку в шафку.
 lonely|adj|ˈləʊnli|4041|самотній|She felt lonely after moving to a new city.|Вона почувалася самотньою після переїзду в нове місто.
 long|adj/adv|lɒŋ|1845|довгий; довго|He has long hair./We talked for a long time.|У нього довге волосся./Ми розмовляли довго.
@@ -1530,13 +1531,13 @@ lorry|n|ˈlɒri|NULL|вантажівка|A lorry blocked the road.|Вантаж
 lose|v|luːz|284|втрачати; програвати|I lose my keys often./They lost the game.|Я часто втрачаю ключі./Вони програли гру.
 lost property|n|ˌlɒst ˈprɒpərti|NULL|загублені речі|He checked the lost property for his wallet.|Він перевірив загублені речі на предмет свого гаманця.
 lost property office|n|lɒst ˈprɒpəti ˈɒfɪs|NULL|бюро знахідок|They went to the lost property office to find her bag.|Вони пішли до бюро знахідок, щоб знайти її сумку.
-lot|n|lɒt|239|багато; доля|He has a lot of friends./She bought a lot in the new development.|У нього багато друзів./Вона купила ділянку в новому розвитку.
+lot|n|lɒt|239|багато; доля|He has a lot of friends./She bought a lot in the new development.|У нього багато друзів./Вона купила ділянку в новобудові.
 loud|adj|laʊd|3867|гучний|The music was too loud.|Музика була занадто гучною.
 lounge|n|laʊndʒ|NULL|вітальня; хол|They relaxed in the lounge.|Вони відпочивали у вітальні.
 love|v/n|lʌv|580|любити; любов|I love this book./He found true love.|Я люблю цю книгу./Він знайшов справжню любов.
 lovely|adj|ˈlʌvli|3312|чудовий; милий|It's a lovely day.|Це чудовий день.
 low|adj|ləʊ|4866|низький|The table is too low.|Стіл занадто низький.
-lower|v/adj|ˈləʊər|2068|знижувати; нижчий|Lower the volume./The lower shelf is easier to reach.|Знизь гучність./Нижня полиця легше дістати.
+lower|v/adj|ˈləʊər|2068|знижувати; нижчий|Lower the volume./The lower shelf is easier to reach.|Знизь гучність./До нижньої полиці легше дістатися.
 luck|n|lʌk|2406|удача|Good luck with your exam!|Удачі на іспиті!
 lucky|adj|ˈlʌki|2145|щасливий|He's a lucky guy.|Він щасливий хлопець.
 luggage|n|ˈlʌɡɪdʒ|NULL|багаж|He packed his luggage for the trip.|Він упакував свій багаж для подорожі.
@@ -1546,11 +1547,11 @@ lunchtime|n|ˈlʌntʃtaɪm|NULL|час обіду|Let's meet at lunchtime.|Да�
 lung|n|lʌŋ|3276|легеня|He injured his lung in the accident.|Він пошкодив легеню в аварії.
 luxury|n|ˈlʌkʃəri|NULL|розкіш|They stayed in a luxury hotel.|Вони зупинилися в розкішному готелі.
 machine|n|məˈʃiːn|1025|машина; апарат|The washing machine broke down.|Пральна машина зламалася.
-mad|adj|mæd|2595|божевільний; сердитий|He was mad about the news./She's mad at him.|Він був божевільний від новин./Вона сердита на нього.
+mad|adj|mæd|2595|божевільний; сердитий|He was mad about the news./She's mad at him.|Він був божевільний від цієї новини./Вона сердита на нього.
 Madam|n|ˈmædəm|NULL|пані; мадам|May I help you, Madam?|Чи можу я допомогти вам, пані?
 made of|v phr|meɪd ɒv|NULL|зроблений з; виготовлений з|This table is made of wood.|Цей стіл зроблений з дерева.
 magazine|n|ˌmæɡəˈziːn|1004|журнал|She subscribed to a fashion magazine.|Вона підписалася на модний журнал.
-magic|n/adj|ˈmædʒɪk|3877|магія; чарівний|The show was full of magic./It's a magic trick.|Шоу було повне магії./Це чарівний трюк.
+magic|n/adj|ˈmædʒɪk|3877|магія; чарівний|The prince was turned into a frog by magic./It's a magic trick.|Чари перетворили принца у жабу./Це чарівний трюк.
 magnificent|adj|mæɡˈnɪfɪsənt|NULL|величний; чудовий|The view from the mountain was magnificent.|Вид з гори був величним.
 mail|n/v|meɪl|2531|пошта; відправляти поштою|The mail arrived late./I'll mail the letter tomorrow.|Пошта прийшла пізно./Я відправлю лист завтра.
 main|adj|meɪn|891|головний; основний|The main reason is time.|Основна причина - час.
@@ -1571,9 +1572,9 @@ market|n|ˈmɑːkɪt|2795|ринок; базар|They went to the local market.|
 marriage|n|ˈmærɪdʒ|1014|шлюб; одруження|They celebrated their marriage.|Вони відсвяткували свій шлюб.
 marry|v|ˈmæri|1340|одружитися; вийти заміж|They plan to marry next summer.|Вони планують одружитися наступного літа.
 master|n/v|ˈmɑːstər|1897|майстер; господар; оволодіти; опанувати|He's a master chef./She mastered the language quickly.|Він майстер-кухар./Вона швидко опанувала мову.
-match|n/v|mætʃ|2704|матч; збіг; підходити; відповідати|The match was exciting./This tie matches your shirt.|Матч був захоплюючим./Цей краватка підходить до твоєї сорочки.
+match|n/v|mætʃ|2704|матч; збіг; підходити; відповідати|The match was exciting./This tie matches your shirt.|Матч був захоплюючим./Ця краватка підходить до твоєї сорочки.
 mate|n|meɪt|4102|товариш; партнер|He's my best mate.|Він мій найкращий товариш.
-material|n/adj|məˈtɪərɪəl|642|матеріал; матеріальний|The dress is made of silk material./He has material needs.|Сукня зроблена з шовкового матеріалу./У нього є матеріальні потреби.
+material|n/adj|məˈtɪərɪəl|642|матеріал; матеріальний|We use only natural materials./He has material needs.|Ми використовуємо тільки натуральні матеріали./У нього є матеріальні потреби.
 math|n|mæθ|3008|математика|I'm good at math.|Я добре знаю математику.
 mathematics|n|ˌmæθ(ə)ˈmætɪks|4302|математика; математики|She's studying mathematics at university.|Вона вивчає математику в університеті.
 matter|n/v|ˈmætə|3769|матерія; справа; мати значення; важити|Dark matter is a mystery./It's a private matter./Does it matter to you?|Темна матерія - це загадка./Це приватна справа./Це має для тебе значення?
@@ -1731,31 +1732,30 @@ notepaper|n|ˈnoʊtˌpeɪpər|NULL|папір для нотаток|She wrote he
 nothing|pron|ˈnʌθɪŋ|316|нічого|There's nothing in the fridge.|У холодильнику нічого немає.
 notice|n|ˈnoʊtɪs|3621|оголошення; увага|There's a notice about the meeting on the door./Did you notice anything strange?|На дверях є оголошення про зустріч./Чи ти помітив щось дивне?
 notice board|n|ˈnoʊtɪs bɔːrd|NULL|доска оголошень|Check the notice board for updates on the event.|Перевір доску оголошень на оновлення щодо події.
-novel|n|ˈnɒvəl|1656|роман; новинка|I'm reading a fascinating novel by Tolstoy./This gadget is a novel idea.|Я читаю захоплюючий роман Толстого./Це гаджет - нова новинка.
+novel|n|ˈnɒvəl|1656|роман; новинка|This science-fiction novel is very interesting./What a novel idea!|Цей фантастичний роман дуже цiкавий./Яка новітня ідея!
 novelist|n|ˈnɒvəlɪst|NULL|романіст|He is one of the greatest novelists of our time.|Він один з найбільших романістів нашого часу.
 November|November|nəʊˈvɛmbər|NULL|листопад|My birthday is in November.|Мій день народження в листопаді.
 now|adv|naʊ|1906|зараз|What are you doing now?|Що ти робиш зараз?
-nowadays|adv|ˈnaʊədeɪz|NULL|нині; в наші дні|People work from home more often nowadays.|Люди частіше працюють з дому нині.
+nowadays|adv|ˈnaʊədeɪz|NULL|нині; в наші дні|People work from home more often nowadays.|Сьогодні люди все частіше працюють з дому.
 nowhere|adv|ˈnoʊwɛər|2946|ніде|We searched everywhere but found it nowhere.|Ми шукали скрізь, але ніде не знайшли.
 number|n|ˈnʌmbər|204|число; номер|Can you give me your phone number?/The number of students increased.|Чи можете ви дати мені ваш номер телефону?/Кількість студентів зросла.
 nurse|n|nɜːrs|1889|медсестра; няня|The nurse took my blood pressure./She works as a nanny for three children.|Медсестра виміряла мені тиск./Вона працює нянею для трьох дітей.
 nut|n|nʌt|3216|горіх|I'm allergic to nuts.|Я алергік на горіхи.
 object|n|ˈɒbdʒɪkt|4338|об'єкт; предмет|That object in the sky is a plane./She picked up the object from the floor.|Той об'єкт у небі - це літак./Вона підняла предмет з підлоги.
 obvious|adj|ˈɒbviəs|1700|очевидний; явний|It's obvious that he's lying.|Очевидно, що він бреше.
-occasion|n|əˈkeɪʒən|2282|випадок; нагода|It was a special occasion.|Це був особливий випадок./I'll take any occasion to celebrate./Я використаю будь-яку нагоду для святкування.
-occasional|adj|əˈkeɪʒənəl|3542|випадковий; час від часу|He makes occasional visits to the city.|Він робить випадкові візити до міста./We meet occasionally./Ми зустрічаємося час від часу.
+occasion|n|əˈkeɪʒən|2282|випадок; нагода|It was a special occasion./I'll take any occasion to celebrate.|Це був особливий випадок./Я використаю будь-яку нагоду для святкування.
+occasional|adj|əˈkeɪʒənəl|3542|випадковий; час від часу|He makes occasional visits to the city./We meet occasionally.|Він робить випадкові візити до міста./Ми зустрічаємося час від часу.
 occupation|n|ˌɒkjuˈpeɪʃən|3364|заняття; професія|What is your occupation?/Her primary occupation is painting.|Яка у вас професія?/Її основне заняття - живопис.
 ocean|n|ˈoʊʃən|1856|океан|They sailed across the ocean.|Вони пливли через океан.
 o’clock|adv|əˈklɒk|NULL|година|It's five o'clock.|Зараз п'ять годин.
 October|October|ɒkˈtəʊbər|NULL|жовтень|My birthday is in October.|Мій день народження у жовтні.
 of|prep|əv|4|від; про|A friend of mine is coming over./She wrote a book about her life.|Один з моїх друзів прийде./Вона написала книгу про своє життя.
 of course|adv|əv ˈkɔːrs|NULL|звичайно; безумовно|Of course, I'll help you.|Звичайно, я допоможу тобі.
-off|adv|ɒf|388|геть; з|Please take your shoes off.|Будь ласка, зніми взуття./The meeting is off.|Зустріч скасована.
+off|adv|ɒf|388|геть; з|Please take your shoes off./The meeting is off.|Будь ласка, зніми взуття./Зустріч скасована.
 offer|v|ˈɒfər|2109|пропонувати|He offered to help with the move.|Він запропонував допомогти з переїздом.
 office|n|ˈɒfɪs|342|офіс|She works in an office downtown.|Вона працює в офісі в центрі міста.
 office block|n|ˈɒfɪs blɒk|NULL|офісний блок|The new office block is very modern.|Новий офісний блок дуже сучасний.
 officer|n|ˈɒfɪsər|671|офіцер; чиновник|The police officer helped direct traffic./He's a high-ranking officer in the government.|Поліцейський офіцер допомагав регулювати рух./Він високопоставлений чиновник в уряді.
-of his stay, checkout|phrase|əv hɪz steɪ, ˈtʃekaʊt|NULL|під час його перебування; виїзд|The hotel bill includes all charges of his stay.|Рахунок за готель включає всі витрати під час його перебування./Checkout is at 11 AM.|Виїзд о 11 ранку.
 often|adv|ˈɒfən|275|часто|I often go to the gym.|Я часто ходжу в спортзал.
 oh!|interj|oʊ|NULL|о!|Oh! That's surprising.|О! Це дивно.
 oh dear!|interj|oʊ dɪər|NULL|о боже!|Oh dear! I've forgotten my keys.|О боже! Я забув ключі.
@@ -1939,7 +1939,7 @@ player|n|ˈpleɪər|514|гравець; програвач|He's the best player 
 playground|n|ˈpleɪɡraʊnd|NULL|ігровий майданчик|The children are playing at the playground.|Діти грають на ігровому майданчику.
 playing cards|n|ˈpleɪɪŋ kɑːdz|NULL|гральні карти|Let's play a game with these playing cards.|Давай зіграємо в гру цими гральними картами.
 pleasant|adj|ˈplɛzənt|3810|приємний|It's a pleasant day for a walk.|Це приємний день для прогулянки.
-please|adv/interj|pliːz|4125|будь ласка|Please, pass the salt./Please!|Будь ласка, передайте сіль./Будь ласка!
+please|adv/interj|pliːz|4125|будь ласка|Please, pass the salt.|Будь ласка, передайте сіль.
 pleasure|n|ˈplɛʒər|1896|задоволення|It's a pleasure to meet you.|Мені приємно з вами познайомитися.
 plenty|n|ˈplɛnti|2061|достаток; багато|We have plenty of time before the movie starts./There's plenty of food for everyone.|У нас достатньо часу до початку фільму./Є багато їжі для всіх.
 plug|n|plʌɡ|NULL|вилка; пробка|The plug is not working./He pulled out the plug.|Вилка не працює./Він витягнув пробку.
@@ -2130,7 +2130,7 @@ regular|adj|ˈrɛɡjʊlər|1377|регулярний; постійний|She tak
 relation|n|rɪˈleɪʃən|1122|відношення; родич|The relation between the two concepts is unclear./She's my distant relation.|Відношення між двома концепціями неясне./Вона мій далекий родич.
 relationship|n|rɪˈleɪʃənʃɪp|487|відносини|They have a good working relationship.|У них хороші робочі відносини.
 relative|n|ˈrɛlətɪv|3180|родич; відносний|He visited his relatives over the holidays./The concept is relative to the situation.|Він відвідував родичів під час свят./Концепція відносна до ситуації.
-relaxation|n|ˌriːlækˈseɪʃən|NULL|відпочинок; релаксація|She enjoys yoga for relaxation./The spa provides relaxation services.|Вона займається йогою для відпочинку./Спа надає послуги релаксації.
+relaxation|n|ˌriːlækˈseɪʃən|NULL|відпочинок; релаксація|Listening to music is my favourite relaxation./The spa provides relaxation services.|Слухати музику - мій улюблений відпочинок./Спа надає послуги релаксації.
 relaxed|adj|rɪˈlækst|NULL|розслаблений|He seemed very relaxed after his vacation.|Після відпустки він виглядав дуже розслабленим.
 reliable|adj|rɪˈlaɪəbl|3535|надійний|This car is very reliable.|Ця машина дуже надійна.
 religion|n|rɪˈlɪdʒən|1390|релігія|Freedom of religion is important.|Свобода релігії важлива.
@@ -2225,7 +2225,7 @@ saucer|n|ˈsɔːsər|NULL|блюдце|She placed the cup on the saucer.|Вон�
 sausage|n|ˈsɒsɪdʒ|NULL|ковбаса; сосиска|He grilled sausages for the barbecue./I'll have a sausage roll.|Він смажив ковбаси на барбекю./Я візьму сосиску в тісті.
 save|v|seɪv|735|економити; рятувати|Save energy by turning off the lights./The firefighters saved the family from the burning house.|Економте енергію, вимикаючи світло./Пожежники врятували сім'ю з палаючого будинку.
 say|v|seɪ|19|говорити|What did you say?|Що ти сказав?
-scene|n|siːn|739|сцена; вид|The crime scene was secured by the police./The view from the mountain was a breathtaking scene.|Місце злочину було забезпечене поліцією./Вид з гори був захоплюючим видовищем.
+scene|n|siːn|739|сцена; вид|The crime scene was secured by the police./The view from the mountain was a breathtaking scene.|Місце злочину охороняли поліцейські./Вид з гори був захоплюючим видовищем.
 scenery|n|ˈsiːnəri|NULL|пейзаж; декорації|The scenery in the countryside is beautiful./The play's scenery was impressive.|Пейзаж у сільській місцевості дуже красивий./Декорації до вистави були вражаючими.
 school|n|skuːl|125|школа|He goes to school every day.|Він ходить до школи щодня.
 science|n|ˈsaɪəns|892|наука|She has a degree in science.|У неї є ступінь з науки.
@@ -2269,7 +2269,7 @@ session|n|ˈsɛʃən|1553|сесія; засідання|The training session wa
 set|v|sɛt|867|встановлювати; належати|Set the table for dinner./This book is set in the future.|Накрий стіл до вечері./Ця книга відбувається в майбутньому.
 set free|v|ˌsɛt ˈfriː|NULL|звільнити|The prisoners were set free after the amnesty.|В'язнів було звільнено після амністії.
 set off|v|ˌsɛt ˈɒf|NULL|відправитися; викликати|They set off early in the morning./The remarks set off a heated debate.|Вони відправилися рано вранці./Заяви викликали гарячу дискусію.
-set out|v|ˌsɛt ˈaʊt|NULL|вирушити; викласти|We set out for the beach at dawn./He set out his ideas in a clear manner.|Ми вирушили на пляж на світанку./Він виклав свої ідеї чітко.
+set out|v|ˌsɛt ˈaʊt|NULL|вирушити; викласти|We set out for the beach at dawn./He set out his ideas in a clear manner.|Ми вирушили на пляж на світанку./Він чітко виклав свої ідеї.
 set up|v|ˌsɛt ˈʌp|NULL|організувати; налаштувати|They set up a charity event./Can you help me set up my new computer?|Вони організували благодійний захід./Чи можеш допомогти мені налаштувати мій новий комп'ютер?
 several|adj|ˈsɛvrəl|311|кілька|She's read several books on the subject.|Вона прочитала кілька книг на цю тему.
 sew|v|soʊ|NULL|шити|She learned to sew her own clothes.|Вона навчилася шити власний одяг.
@@ -2320,7 +2320,7 @@ signpost|n|ˈsaɪnˌpoʊst|NULL|вказівник; стовп з дорожні
 silence|n|ˈsaɪləns|1833|тиша|The silence in the room was uncomfortable.|Тиша в кімнаті була незручною.
 silent|adj|ˈsaɪlənt|2179|тихий; мовчазний|The forest was silent at night./He remained silent throughout the meeting.|Ліс був тихим вночі./Він залишався мовчазним протягом усієї зустрічі.
 silk|n|sɪlk|4009|шовк|She wore a dress made of silk.|Вона носила сукню з шовку.
-silly|adj|ˈsɪli|4047|дурний; глупий|That was a silly thing to say./Don't be so silly!|Це було дурне сказати./Не будь таким глупим!
+silly|adj|ˈsɪli|4047|дурний|Don't worry about such a silly thing.|Не переймайся через таку дурницю.
 silver|n|ˈsɪlvər|2461|срібло|The necklace was made of pure silver.|Намисто було зроблене з чистого срібла.
 similar|adj|ˈsɪmələr|721|подібний|These two paintings are very similar.|Ці дві картини дуже подібні.
 simple|adj|ˈsɪmpl|764|простий|The instructions are simple to follow.|Інструкції прості для виконання.
@@ -2378,7 +2378,7 @@ sofa|n|ˈsəʊfə|4833|диван|Let's sit on the sofa.|Давай сядемо
 soft|adj|sɒft|1381|м'який|The pillow is soft.|Подушка м'яка.
 soft drink|n|ˈsɒft drɪŋk|NULL|безалкогольний напій|I'd like a soft drink, please.|Будь ласка, я хотів би безалкогольний напій.
 software|n|ˈsɒftˌweər|1586|програмне забезпечення|This software helps with data analysis.|Це програмне забезпечення допомагає з аналізом даних.
-soil|n|sɔɪl|1805|ґрунт; земля|The soil here is very fertile./He wiped the dirt off his hands on the soil.|Ґрунт тут дуже родючий./Він витер бруд з рук на землі.
+soil|n|sɔɪl|1805|ґрунт; земля|The soil here is very fertile./He wiped the dirt off his hands on the soil.|Ґрунт тут дуже родючий./Він витер бруд з рук об землю.
 soldier|n|ˈsəʊldʒər|1006|солдат|He served as a soldier in the army.|Він служив солдатом в армії.
 solid|adj|ˈsɒlɪd|2027|твердий; міцний|This table is made of solid wood./They have a solid relationship.|Цей стіл зроблений з твердого дерева./У них міцні стосунки.
 some|adj|sʌm|60|деякий; кілька|She bought some fruits./I've seen some of his work.|Вона купила деякі фрукти./Я бачив кілька його робіт.
@@ -2387,13 +2387,13 @@ someone|pron|ˈsʌmwʌn|420|хтось|Is someone at the door?|Чи хтось �
 something|pron|ˈsʌmθɪŋ|143|щось|Something smells delicious.|Щось пахне дуже смачно.
 sometimes|adv|ˈsʌmtaɪmz|446|іноді|Sometimes, I like to read before bed.|Іноді мені подобається читати перед сном.
 somewhere|adv|ˈsʌmwɛər|1597|десь|Let's go somewhere quiet.|Давай підемо кудись тихо.
-son|n|sʌn|482|син|My son is starting school next year.|Мій син починає школу наступного року.
+son|n|sʌn|482|син|My son is starting school next year.|Мій син починає вчитися у школі наступного року.
 song|n|sɒŋ|854|пісня|She sang a beautiful song.|Вона заспівала красиву пісню.
 soon|adv|suːn|2503|скоро|He'll be back soon.|Він скоро повернеться.
-sore|adj|sɔːr|NULL|болючий|My muscles are sore from the workout.|Мої м'язи болючі після тренування.
+sore|adj|sɔːr|NULL|болючий|My muscles are sore from the workout.|Мої м'язи болять після тренування.
 sore throat|n|ˌsɔːr ˈθroʊt|NULL|ангіна; болить горло|I have a sore throat, can't speak much./My throat is sore.|У мене ангіна, не можу багато говорити./У мене болить горло.
 sorry|adj|ˈsɒri|1209|вибачте; шкода|I'm sorry for the misunderstanding./It's sorry to hear about your loss.|Вибачте за непорозуміння./Шкода чути про вашу втрату.
-sort|n|sɔːt|4374|вид; сортувати|What sort of music do you like?/Please sort these documents by date.|Який вид музики тобі подобається?/Будь ласка, сортуй ці документи за датою.
+sort|n|sɔːt|4374|вид; сортувати|What sort of music do you like?/Please sort these documents by date.|Який вид музики тобі подобається?/Будь ласка, відсортуй ці документи за датою.
 so-so|adj|ˌsəʊˈsəʊ|NULL|так собі; не дуже|How was the movie? - It was so-so./I feel so-so today.|Як тобі фільм? - Так собі./Сьогодні я почуваюся не дуже.
 sound|n|saʊnd|883|звук|The sound of the waves was soothing.|Звук хвиль був заспокійливим.
 soup|n|suːp|3021|суп|She made vegetable soup for dinner.|Вона приготувала овочевий суп на вечерю.
@@ -2485,7 +2485,7 @@ success|n|səkˈsɛs|778|успіх|His new business was a success.|Його н�
 such|adj|sʌtʃ|349|такий; подібний|I've never seen such a beautiful garden./They are such good friends.|Я ніколи не бачив такого красивого саду./Вони такі хороші друзі.
 sudden|adj|ˈsʌdən|4930|раптовий|He left in a sudden rush.|Він раптово пішов у поспіху.
 sugar|n|ˈʃʊɡər|1600|цукор|Can you pass the sugar, please?|Чи можете передати цукор, будь ласка?
-suggest|v|səˈdʒɛst|431|пропонувати; наводити думку|I suggest we leave early./The evidence suggests he was there.|Я пропоную виїхати рано./Докази наводять думку, що він там був.
+suggest|v|səˈdʒɛst|431|пропонувати; радити; натякати|I suggest we leave early./He suggests that we should change the route.|Я пропоную виїхати рано./Він натякає, що нам варто змінити маршрут.
 suit|v|suːt|3197|підходити; костюм|This color suits you well./He's wearing a suit for the interview.|Цей колір тобі підходить./Він одягнений у костюм для співбесіди.
 suitable|adj|ˈsuːtəbl|4811|підходящий; відповідний|Is this a suitable time to discuss it?/We need a suitable location for the event.|Це підходящий час для обговорення?/Нам потрібне відповідне місце для заходу.
 suitcase|n|ˈsuːtˌkeɪs|NULL|валіза|He packed his suitcase for the trip.|Він упакував свою валізу для поїздки.
@@ -2573,7 +2573,7 @@ than|conj|ðæn|712|ніж|She's taller than her brother.|Вона вища, н�
 thank|v|θæŋk|498|дозувати|Thank him for his help.|Подякуй йому за допомогу.
 thanks|interj|θæŋks|1671|дякую|Thanks for your help!|Дякую за допомогу!
 thank you|interj|ˈθæŋk juː|NULL|дякую|Thank you for coming.|Дякую, що прийшли.
-that|pron|ðæt|903|те; той|That's my book./I like that one better.|Це моя книга./Мені подобається той більше.
+that|pron|ðæt|903|те; той|That's my book./I like that one better.|Це моя книга./Той мені подобається більше.
 theatre|n|ˈθɪətər|NULL|театр|We're going to the theatre tonight.|Ми йдемо в театр сьогодні ввечері.
 theft|n|θɛft|NULL|крадіжка|The theft of the painting was quickly discovered.|Крадіжка картини була швидко виявлена.
 their|pron|ðɛər|36|їхній|Their house is on the corner.|Їхній будинок на куті.
@@ -2678,7 +2678,7 @@ travel agent|n|ˈtrævəl ˌeɪdʒənt|NULL|туристичне агентст�
 traveller's cheque|n|ˈtrævələrz ʧɛk|NULL|дорожній чек|He paid with traveller's cheques.|Він заплатив дорожніми чеками.
 traveller’s cheque|n|ˌtrævlərz ˈʧɛk|NULL|дорожній чек|She prefers to use traveller's cheques for extra security.|Вона воліє використовувати дорожні чеки для додаткової безпеки.
 tree|n|triː|596|дерево|The tree in the garden is blooming.|Дерево в саду цвіте.
-trip|n|trɪp|964|подорож; поход|We're planning a trip to Italy./The camping trip was fun.|Ми плануємо подорож до Італії./Поход на кемпінг був веселим.
+trip|n|trɪp|964|подорож|We're planning a trip to Italy.|Ми плануємо подорож до Італії.
 trouble|n|ˈtrʌbl|4757|проблема; неприємність|He's having trouble with his car./Sorry for the trouble.|У нього проблеми з машиною./Вибач за неприємності.
 trousers|n|ˈtraʊzərz|NULL|штани|He bought a new pair of trousers for the meeting.|Він купив нові штани на зустріч.
 truck|n|trʌk|1244|вантажівка|The truck delivered the furniture.|Вантажівка доставила меблі.
@@ -2729,7 +2729,7 @@ update|v|ˈʌpdeɪt|4859|оновлювати|Please update the software.|Буд
 upon|prep|əˈpɒn|694|на; на основі|Once upon a time.../She acted upon her instincts.|Колись давно.../Вона діяла на основі своїх інстинктів.
 upset|adj|ʌpˈsɛt|4387|засмучений; збентежений|He was upset about the news.|Він був засмучений новинами.
 upstairs|adv|ˌʌpˈsteərz|4428|нагору; на верхньому поверсі|She went upstairs to her room.|Вона піднялася нагору до своєї кімнати.
-up to|prep|ˌʌp tu|NULL|до; до рівня|The water came up to my knees./It's up to you to decide.|Вода дійшла до моїх колін./Це до тебе вирішувати.
+up to|prep|ˌʌp tu|NULL|до; аж до; залежить від|The water came up to my knees./It's up to you.|Вода дійшла до моїх колін./Це залежить від тебе.
 up to date|adj|ˌʌp tu ˈdeɪt|NULL|сучасний; актуальний|Make sure your information is up to date.|Переконайся, що твоя інформація актуальна.
 urgent|adj|ˈɜːrdʒənt|NULL|терміновий|This is an urgent matter.|Це термінова справа.
 us|pron|ʌs|113|нас|Come with us.|Іди з нами.
@@ -2776,7 +2776,7 @@ wall|n|wɔːl|572|стіна|He hung the picture on the wall.|Він повіс�
 wallet|n|ˈwɒlɪt|NULL|гаманець|I've lost my wallet.|Я втратив свій гаманець.
 want|v|wɒnt|83|хотіти|What do you want for dinner?|Що ти хочеш на вечерю?
 war|n|wɔːr|350|війна|The war affected many lives.|Війна вплинула на багато життів.
-ward|n|wɔːd|NULL|палата; район|He's in the hospital ward for observation./She lives in the eastern ward of the city.|Він у лікарняній палаті для спостереження./Вона живе в східному районі міста.
+ward|n|wɔːd|NULL|палата; район|He's in the hospital ward for observation./She lives in the eastern ward of the city.|Він у лікарняній палаті під наглядом./Вона живе в східному районі міста.
 warm|adj|wɔːrm|3630|теплий|It's a warm day today.|Сьогодні теплий день.
 warn|v|wɔːrn|1786|попереджати|They warned us about the storm.|Вони попередили нас про бурю.
 wash|v|wɒʃ|2162|мити|She needs to wash her hands.|Їй потрібно помити руки.
@@ -2826,17 +2826,19 @@ whatever|pron|wɒtˈɛvər|777|чого б не; будь-що|Whatever you deci
 wheel|n|wiːl|2012|колесо|The wheel of the bike is flat.|Колесо велосипеда спущене.
 wheelchair|n|ˈwiːlˌtʃeər|4660|інвалідний візок|He uses a wheelchair to get around.|Він використовує інвалідний візок для пересування.
 when|adv|wɛn|136|коли|When does the movie start?|Коли починається фільм?
-whenever|adv|wɛnˈɛvər|2334|коли б не; кожного разу; коли|Call me whenever you need help./She visits whenever she's in town.|Дзвони мені, коли б тобі не знадобилася допомога./Вона відвідує, коли б не була в місті.
+whenever|adv|wɛnˈɛvər|2334|коли б не; кожного разу; коли|Call me whenever you need help./She visits whenever she's in town.|Дзвони мені, коли б тобі не знадобилася допомога./Вона відвідує, коли вона в місті.
 where|adv|wɛər|190|де|Where did you put my keys?|Де ти поклав мої ключі?
-wherever|adv|wɛrˈɛvər|3746|де б не; в будь-якому місці|You can sit wherever you want./I'll follow you wherever you go.|Ти можеш сісти де б ти не хотів./Я піду за тобою в будь-яке місце, куди ти підеш.
+wherever|adv|wɛrˈɛvər|3746|де б не; в будь-якому місці|You can sit wherever you want./I'll follow you wherever you go.|Ти можеш сісти де хочеш./Я піду за тобою, куди б ти не пішов.
 which|pron|wɪtʃ|58|який; яка|Which book should I read first?|Яку книгу мені читати першою?
 whichever|pron|wɪtʃˈɛvər|NULL|який би не; будь-який|You can take whichever path you prefer.|Ти можеш вибрати будь-який шлях, який тобі більше подобається.
-while, whilst|conj|waɪl, waɪlst|NULL|поки; в той час як|Read a book while you wait./Whilst you were out, someone called.|Читай книгу, поки чекаєш./Поки ти був у від'їзді, хтось дзвонив.
+while|conj|waɪl|NULL|поки; в той час як|Read a book while you wait.|Читай книгу, поки чекаєш.
+whilst|conj|waɪlst|NULL|поки; в той час як|Whilst you were out, someone called.|Поки ти був у від'їзді, хтось дзвонив.
 white|adj|waɪt|2740|білий|Her dress is white.|Її сукня біла.
-whoever|pron|huːˈɛvər|4283|хто б не; будь-хто|Whoever finishes first wins the prize./Whoever you choose, make sure they are qualified.|Хто б не закінчив першим, виграє приз./Будь-хто, кого ти обереш, переконайся, що вони кваліфіковані.
+whoever|pron|huːˈɛvər|4283|хто б не; будь-хто|Whoever he is, he's wise./Whoever comes first gets a prize.|Хто б він не був, він мудрий./Будь-хто, хто прийде першим, отримає приз.
 whole|adj|hoʊl|2243|цілий; весь|She ate the whole cake./The whole family came.|Вона з'їла цілий торт./Приїхала вся сім'я.
 whose|pron|huːz|528|чий|Whose jacket is this?|Чий це піджак?
-who, whom|pron|huː, hu:m|NULL|хто; кого|Who is coming to the party?/Whom did you see there?|Хто приходить на вечірку?/Кого ти там бачив?
+who|pron|huː|NULL|хто; кого|Who is coming to the party?|Хто приходить на вечірку?
+whom|pron|hu:m|NULL|хто; кого|Whom did you see there?|Кого ти там бачив?
 why|adv|waɪ|158|чому|Why did you decide to move?|Чому ти вирішив переїхати?
 wide|adj|waɪd|944|широкий|The river is very wide here.|Тут річка дуже широка.
 width|n|wɪdθ|NULL|ширина|What's the width of the room?|Яка ширина кімнати?
@@ -2857,7 +2859,7 @@ within|prep|wɪˈðɪn|4900|всередині; протягом|Stay within the
 without|prep|wɪˈðaʊt|219|без|He left without saying goodbye.|Він пішов без прощання.
 witness|n|ˈwɪtnəs|3000|свідок|The police interviewed several witnesses.|Поліція опитала кількох свідків.
 woman|n|ˈwʊmən|111|жінка|She is a very intelligent woman.|Вона дуже розумна жінка.
-wonder|v|ˈwʌndər|2657|дивуватися; задаватися питанням|I wonder if he'll come./She wondered how to solve the problem.|Я задаюся питанням, чи він прийде./Вона дивувалася, як вирішити проблему.
+wonder|v|ˈwʌndər|2657|дивуватися; цікавитися|I wonder if he'll come./She wondered how to solve the problem.|Я задаюся питанням, чи він прийде./Вона цікавилася, як вирішити проблему.
 wonderful|adj|ˈwʌndəfʊl|1412|чудовий|It was a wonderful evening.|Це був чудовий вечір.
 wood|n|wʊd|1242|дерево; ліс|The table is made of wood./They went for a walk in the wood.|Стіл зроблений з дерева./Вони пішли гуляти в ліс.
 wooden|adj|ˈwʊdn|2535|дерев'яний|He has a wooden chair.|У нього є дерев'яний стілець.
@@ -2875,7 +2877,7 @@ wrap|v|ræp|2107|загортати|Wrap the gift in paper.|Загорни по�
 write out|v|ˌraɪt ˈaʊt|NULL|вписати; написати повністю|Please write out the full address./He wrote out his thoughts in a letter.|Будь ласка, вписати повну адресу./Він написав свої думки в листі повністю.
 wrong|adj|rɒŋ|3901|неправильний|You've got the wrong number.|У вас неправильний номер.
 year|n|jɪər|54|рік|She's been working here for three years.|Вона працює тут три роки.
-yearly|adv|ˈjɪərli|NULL|щорічно|They meet yearly for a conference.|Вони зустрічаються щорічно на конференцію.
+yearly|adv|ˈjɪərli|NULL|щорічно|They meet yearly for a conference.|Вони збираються щорічно на конференцію.
 yellow|adj|ˈjɛloʊ|1675|жовтий|The flowers are bright yellow.|Квіти яскраво-жовті.
 yes|interj|jɛs|259|так|Yes, I agree with you.|Так, я згоден з тобою.
 yesterday|adv|ˈjɛstədeɪ|1514|вчора|I saw him yesterday.|Я бачив його вчора.
