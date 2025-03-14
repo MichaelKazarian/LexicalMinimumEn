@@ -1,0 +1,75 @@
+* Пам’ятка на завтра (14 березня 2025)
+  #+OPTIONS: num:nil
+  #+TITLE: Lexical Minimum Progress
+
+  ** Контекст
+  - Працюємо над форматуванням словника у форматі Org для експорту в ODT/PDF.
+  - Джерело даних: [слово]|[частина мови]|[фонетика]|[число]|[переклад]|[приклад]|[переклад прикладу].
+  - Мета: два варіанти словника:
+    - Списковий — для смартфона (A5).
+    - Табличний — для друку на A4.
+
+  ** Досягнуте
+  - Узгоджено два формати:
+    *** Варіант 1: Списковий (для смартфона)
+    - Оптимізація Michael’а: літери як заголовки першого рівня (* A, * B), без * Lexical Minimum.
+    - Слова з перекладами в одному рядку, приклади з відступом.
+    - Слова жирним шрифтом (*слово*).
+    - Налаштування для A5 через #+ATTR_ODT:
+      - :page-size "A5" :margin-top "5mm" :margin-bottom "5mm" :margin-left "5mm" :margin-right "5mm".
+      - :style 'font-size: 10pt; line-height: 1.15;'.
+    - Приклад:
+      #+BEGIN_EXAMPLE
+      #+TITLE: Lexical Minimum
+      #+AUTHOR: Michael Kazarian
+      #+LANGUAGE: en
+      #+OPTIONS: toc:nil num:nil
+      #+ATTR_ODT: :page-size "A5" :margin-top "5mm" :margin-bottom "5mm" :margin-left "5mm" :margin-right "5mm" :style 'font-size: 10pt; line-height: 1.15;'
+      * A
+          *attend* [əˈtɛnd] (v) відвідувати
+          - She attends every meeting. (Вона відвідує кожне засідання.)
+          *attention* [əˈtɛnʃn] (n) увага
+          - Pay attention to the details. (Звертайте увагу на деталі.)
+          *at the same time* [æt ði ˈseɪm taɪm] (phr) одночасно
+          - They arrived at the same time. (Вони прибули одночасно.)
+      #+END_EXAMPLE
+    - Переваги: Компактний, зручний для прокручування на смартфоні.
+
+    *** Варіант 2: Табличний (для A4)
+    - Таблиці без заголовків стовпців: перший — слово з перекладами, другий — приклади.
+    - Слова жирним шрифтом (*слово*).
+    - Налаштування для A4 через #+ATTR_ODT:
+      - :page-size "A4" :margin-top "10mm" :margin-bottom "10mm" :margin-left "15mm" :margin-right "15mm".
+      - :style 'font-size: 11pt; line-height: 1.2;'.
+    - Приклад:
+      #+BEGIN_EXAMPLE
+      #+TITLE: Lexical Minimum
+      #+AUTHOR: Michael Kazarian
+      #+LANGUAGE: en
+      #+OPTIONS: toc:nil num:nil
+      #+ATTR_ODT: :page-size "A4" :margin-top "10mm" :margin-bottom "10mm" :margin-left "15mm" :margin-right "15mm" :style 'font-size: 11pt; line-height: 1.2;'
+      * Lexical Minimum
+      ** A
+      | *attend* [əˈtɛnd] (v) відвідувати                   | She attends every meeting. (Вона відвідує кожне засідання.)                           |
+      | *attention* [əˈtɛnʃn] (n) увага                     | Pay attention to the details. (Звертайте увагу на деталі.)                            |
+      | *at the same time* [æt ði ˈseɪm taɪm] (phr) одночасно | They arrived at the same time. (Вони прибули одночасно.)                              |
+      #+END_EXAMPLE
+    - Переваги: Структурований, підходить для друку.
+
+  ** Оновлення від Michael’а
+  - Використання #+ATTR_ODT для кастомізації розміру сторінки, полів і шрифтів.
+  - Оптимізація спискового варіанту: прибрано * Lexical Minimum, літери — першого рівня.
+  - Додано жирний шрифт для слів (*слово*) у обох форматах.
+
+  ** Завдання на завтра
+  - Michael обдумує обидва формати та параметри #+ATTR_ODT.
+  - Визначити:
+    - Чи підходять розміри шрифтів (10pt для A5, 11pt для A4) і поля.
+    - Чи потрібні додаткові стилі (наприклад, курсив для фонетики).
+    - Остаточний вибір форматів для генерації повного словника.
+  - Підготувати скрипт для генерації обох версій із translations.csv після рішення.
+
+  ** Нотатки
+  - Дата: 13 березня 2025 (сьогодні), пам’ятка на 14 березня 2025.
+  - Приклади: attend, attention, at the same time.
+  - Чекаємо feedback від Michael’а для наступних кроків.
