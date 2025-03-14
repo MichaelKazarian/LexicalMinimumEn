@@ -1,5 +1,11 @@
+8-org-cat:
+	python3 categories_to-org.py
+
+7-org-gen:
+	python3 LexicalMinimumOrgGen.py
+
 6-categories-combine:
-	node categories_combine.js
+	node categories_combine.js > ../../generated/categories-translations.csv
 5-dict-caregories:
 	node process_categories.js "../../generated/output_lex_min.csv" "../../generated" > "../../generated/categories.csv" && cat "../../generated/categories.csv"
 

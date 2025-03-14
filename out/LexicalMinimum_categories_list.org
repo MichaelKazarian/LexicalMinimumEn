@@ -1,0 +1,3222 @@
+#+TITLE: Lexical Minimum by Categories
+#+AUTHOR: Michael Kazarian
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+
+* Affixes
+  The words in the alphabetical list may be extended by the use of one or more of these affixes
+* Cardinal numbers
+    *one* [wʌn] (n) один
+    - One ticket, please. (Один квиток, будь ласка.)
+    *two* [tuː] (n) два
+    *three* [θriː] (n) три
+    *four* [fɔːr] (n) чотири
+    *five* [faɪv] (n) п'ять
+    *six* [sɪks] (n) шість
+    *seven* [ˈsɛvn] (n) сім
+    *eight* [eɪt] (n) вісім
+    *nine* [naɪn] (n) дев'ять
+    *ten* [tɛn] (n) десять
+* Clothes and Accessories
+    *T-shirt* [ˈtiːˌʃɜːrt] (n) футболка
+    - He wore a white T-shirt and jeans. (Він носив білу футболку і джинси.)
+    *backpack* [ˈbækpæk] (n) рюкзак
+    - He carried all his belongings in a backpack. (Він носив усі свої речі в рюкзаку.)
+    *belt* [bɛlt] (n) пояс; ремінь
+    - He tightened his belt. (Він затягнув свій ремінь.)
+    *blouse* [blaʊz] (n) блузка
+    - She matched her skirt with a new blouse. (Вона підібрала спідницю з новою блузкою.)
+    *boot* [buːt] (n) чобіт; бутс
+    - He put on his boots before going out. (Він взув чоботи перед виходом.)
+    *button* [ˈbʌtən] (n) кнопка; ґудзик
+    - He pressed the button to start the machine. (Він натиснув кнопку, щоб запустити машину.)
+    *cap* [kæp] (n) ковпак; кришка
+    - He put on his baseball cap. (Він одягнув бейсболку.)
+    *cloth* [klɔθ] (n) тканина; матеріал
+    - She bought some cloth for sewing. (Вона купила трохи тканини для шиття.)
+    *collar* [ˈkɒlər] (n) комір; нашийник
+    - He fixed the collar of his shirt. (Він поправив комір своєї сорочки.)
+    *costume* [ˈkɒstjuːm] (n) костюм; маскарадний костюм
+    - She wore a beautiful costume to the party. (Вона одягла гарний костюм на вечірку.)
+    *cotton* [ˈkɒtən] (n) бавовна; ватне волокно
+    - This shirt is made of cotton. (Ця сорочка зроблена з бавовни.)
+    *dress* [dres] (n) сукня; одяг
+    - She bought a beautiful red dress. (Вона купила гарну червону сукню.)
+    *dry cleaning* [ˈdraɪ ˈkliːnɪŋ] (n) хімчистка
+    - She picked up her dry cleaning. (Вона забрала свої речі з хімчистки.)
+    *earring* [ˈɪərɪŋ] (n) сережка
+    - She bought a new pair of earrings. (Вона купила нову пару сережок.)
+    *fashion* [ˈfæʃən] (n) мода; стиль
+    - She loves fashion. (Вона обожнює моду.)
+    *fasten* [ˈfɑːsən] (v) закріплювати; прикріплювати
+    - Fasten your seatbelt. (Пристебніть ремінь безпеки.)
+    *fit* [fɪt] (adj) підходящий; здоровий
+    - He is very fit. (Він у чудовій фізичній формі.)
+    *fold* [fəʊld] (v) складати; згинати
+    - He folded the paper. (Він склав папір.)
+    *glasses* [ˈɡlɑːsɪz] (n) окуляри
+    - He wears glasses for reading. (Він носить окуляри для читання.)
+    *glove* [ɡlʌv] (n) рукавичка
+    - She put on her gloves before going out. (Вона одягнула рукавички перед виходом.)
+    *go with* [ɡəʊ wɪð] (v phr) іти з; підходити до
+    - Does this shirt go with these pants? (Чи підходить ця сорочка до цих штанів?)
+    - She decided to go with the flow. (Вона вирішила йти за течією.)
+    *handbag* [ˈhændˌbæɡ] (n) сумка
+    - She carries everything in her handbag. (Вона носить усе в своїй сумці.)
+    *handkerchief* [ˈhæŋkətʃɪf] (n) носовичок
+    - She pulled out a handkerchief to wipe her nose. (Вона дістала носовичок, щоб витерти ніс.)
+    *hat* [hæt] (n) капелюх
+    - He wore a hat to protect from the sun. (Він одягнув капелюх, щоб захиститися від сонця.)
+    *jacket* [ˈdʒækɪt] (n) куртка
+    - He wore a lightweight jacket. (Він одягнув легку куртку.)
+    *jeans* [dʒiːnz] (n) джинси
+    - He wore his favorite jeans. (Він одягнув свої улюблені джинси.)
+    *jewellery* [ˈdʒuːəlri] (n) коштовності; прикраси
+    - She inherited some beautiful jewellery. (Вона успадкувала красиві коштовності.)
+    *knit* [nɪt] (v) в'язати
+    - She learned to knit scarves. (Вона навчилася в'язати шарфи.)
+    *laundry* [ˈlɔːndri] (n) пральня; прання
+    - I need to do the laundry. (Мені потрібно випрати одяг.)
+    *leather* [ˈleðə] (n) шкіра
+    - This jacket is made of leather. (Ця куртка зроблена зі шкіри.)
+    *lipstick* [ˈlɪpˌstɪk] (n) помада
+    - She chose a bright red lipstick. (Вона вибрала яскраво-червону помаду.)
+    *make-up* [ˈmeɪkʌp] (n) макіяж; косметика
+    - She applied her make-up before the event. (Вона нанесла макіяж перед заходом.)
+    *match* [mætʃ] (n/v) матч; збіг; підходити; відповідати
+    - The match was exciting. (Матч був захоплюючим.)
+    - This tie matches your shirt. (Ця краватка підходить до твоєї сорочки.)
+    *material* [məˈtɪərɪəl] (n/adj) матеріал; матеріальний
+    - We use only natural materials. (Ми використовуємо тільки натуральні матеріали.)
+    - He has material needs. (У нього є матеріальні потреби.)
+    *old-fashioned* [ˌoʊldˈfæʃənd] (adj) старомодний
+    - She has an old-fashioned taste in music. (У неї старомодний смак до музики.)
+    *pants* [pænts] (n) штани; трусики
+    - He wore black pants to the meeting. (Він одягнув чорні штани на зустріч.)
+    *pattern* [ˈpætərn] (n) візерунок; модель
+    - The dress has a beautiful floral pattern. (Сукня має красивий квітковий візерунок.)
+    *perfume* [ˈpɜːrfjuːm] (n) парфум; духи
+    - She wears a light floral perfume. (Вона носить легкі квіткові парфуми.)
+    *plastic* [ˈplæstɪk] (n) пластик
+    - This bottle is made of plastic. (Ця пляшка зроблена з пластику.)
+    *pocket* [ˈpɒkɪt] (n) кишеня
+    - He put his keys in his pocket. (Він поклав ключі в кишеню.)
+    *pullover* [ˈpʊlˌoʊvər] (n) светр
+    - He wore a warm pullover in the cold weather. (Він одягнув теплий светр у холодну погоду.)
+    *put on* [pʊt ɒn] (v) одягнути; увімкнути
+    - Put on your jacket, it's cold outside. (Одягни свою куртку, на вулиці холодно.)
+    - Put on the lights. (Увімкни світло.)
+    *pyjamas* [pɪˈdʒɑːməz] (n) піжама
+    - She changed into her pyjamas before bed. (Вона переодягнулася в піжаму перед сном.)
+    *raincoat* [ˈreɪnkoʊt] (n) плащ
+    - Don't forget your raincoat, it might rain. (Не забудь плащ, може піти дощ.)
+    *shirt* [ʃɜːrt] (n) сорочка
+    - He wore a white shirt to the meeting. (Він одягнув білу сорочку на зустріч.)
+    *shoe* [ʃuː] (n) взуття
+    - She bought new shoes for the event. (Вона купила нове взуття на захід.)
+    *shorts* [ʃɔːrts] (n) шорти
+    - It's too hot for jeans, I'll wear shorts. (Занадто жарко для джинсів, одягну шорти.)
+    *silk* [sɪlk] (n) шовк
+    - She wore a dress made of silk. (Вона носила сукню з шовку.)
+    *size* [saɪz] (n) розмір
+    - What size do you wear? (Якого розміру ви носите?)
+    *skirt* [skɜːrt] (n) спідниця
+    - She wore a long skirt. (Вона носила довгу спідницю.)
+    *sleeve* [sliːv] (n) рукав
+    - She rolled up her sleeves to wash the dishes. (Вона закатала рукава, щоб мити посуд.)
+    *socks* [sɒks] (n) шкарпетки
+    - She bought new socks for the winter. (Вона купила нові шкарпетки на зиму.)
+    *suit* [suːt] (v) підходити; костюм
+    - This color suits you well. (Цей колір тобі підходить.)
+    - He's wearing a suit for the interview. (Він одягнений у костюм для співбесіди.)
+    *sweater* [ˈswɛtər] (n) светр
+    - He put on a warm sweater. (Він одягнув теплий светр.)
+    *sweatshirt* [ˈswɛtˌʃɜːrt] (n) свитшот
+    - She bought a new sweatshirt for the gym. (Вона купила новий свитшот для спортзалу.)
+    *swimming* [ˈswɪmɪŋ] (n/v) плавання; плавати
+    - Swimming is a great exercise. (Плавання - це чудова вправа.)
+    - I love swimming in the lake. (Я люблю плавати в озері.)
+    *swimsuit* [ˈswɪmˌsuːt] (n) купальник
+    - She bought a new swimsuit for the beach vacation. (Вона купила новий купальник для відпустки на пляжі.)
+    *take off* [ˌteɪk ˈɒf] (v) знімати; злітати
+    - Take off your shoes at the door. (Зніми взуття біля дверей.)
+    - The plane will take off soon. (Літак скоро злетить.)
+    *tie* [taɪ] (v) зав'язувати; краватка
+    - Can you help me tie my shoes? (Чи можеш ти допомогти мені зав'язати шнурки?)
+    - He wore a red tie. (Він носив червону краватку.)
+    *tights* [taɪts] (n) колготки
+    - She wore black tights with her dress. (Вона носила чорні колготки до своєї сукні.)
+    *tracksuit* [ˈtrækˌsuːt] (n) спортивний костюм
+    - She bought a new tracksuit for her morning runs. (Вона купила новий спортивний костюм для ранкових пробіжок.)
+    *trainers* [ˈtreɪnərz] (n) кросівки
+    - I need new trainers for running. (Мені потрібні нові кросівки для бігу.)
+    *trousers* [ˈtraʊzərz] (n) штани
+    - He bought a new pair of trousers for the meeting. (Він купив нові штани на зустріч.)
+    *try on* [ˌtraɪ ˈɒn] (v) приміряти
+    - Can I try on this jacket? (Чи можу я приміряти цю куртку?)
+    *umbrella* [ʌmˈbrɛlə] (n) парасолька
+    - Don't forget your umbrella, it might rain. (Не забудь парасольку, може піти дощ.)
+    *underpants* [ˈʌndərˌpænts] (n) трусики
+    - He grabbed a clean pair of underpants. (Він взяв чисті трусики.)
+    *uniform* [ˈjuːnɪfɔːrm] (n) форма; однострій
+    - All students must wear the school uniform. (Усі учні повинні носити шкільну форму.)
+    *wear* [weər] (v) носити; одягати
+    - She likes to wear colorful dresses. (Вона любить носити яскраві сукні.)
+    *wool* [wʊl] (n) вовна
+    - She knitted a scarf from wool. (Вона зв'язала шарф з вовни.)
+* Colours
+    *black* [blæk] (adj) чорний
+    - She wore a black dress. (Вона одягнула чорну сукню.)
+    *blue* [bluː] (adj) синій
+    - The sky was a clear blue. (Небо було чистим синім.)
+    *brown* [braʊn] (adj) коричневий
+    - She has beautiful brown hair. (У неї красиве коричневе волосся.)
+    *gold* [ɡəʊld] (n/adj) золото; золотий
+    - The ring was made of gold. (Кільце було зроблене із золота.)
+    - She has a gold medal. (У неї є золота медаль.)
+    *green* [ɡriːn] (adj/n) зелений; зелений колір
+    - The leaves are green. (Листя зелене.)
+    - She likes the color green. (Вона любить зелений колір.)
+    *grey* [ɡreɪ] (adj/n) сірий; сірий колір
+    - The sky turned grey before the rain. (Небо стало сірим перед дощем.)
+    - I prefer grey over black. (Я віддаю перевагу сірому над чорним.)
+    *orange* [ˈɒrɪndʒ] (adj) помаранчевий
+    - She wore an orange dress to the party. (Вона одягла помаранчеву сукню на вечірку.)
+    *pink* [pɪŋk] (adj) рожевий
+    - She wore a pink dress to the party. (Вона одягнула рожеву сукню на вечірку.)
+    *purple* [ˈpɜːrpl] (adj) фіолетовий
+    - The flowers in the garden are purple. (Квіти в саду фіолетові.)
+    *red* [rɛd] (adj) червоний
+    - His car is bright red. (Його машина яскраво-червона.)
+    *silver* [ˈsɪlvər] (n) срібло
+    - The necklace was made of pure silver. (Намисто було зроблене з чистого срібла.)
+    *white* [waɪt] (adj) білий
+    - Her dress is white. (Її сукня біла.)
+    *yellow* [ˈjɛloʊ] (adj) жовтий
+    - The flowers are bright yellow. (Квіти яскраво-жовті.)
+* Communications and Technology
+    *CD-Rom* [ˌsiːdiːˈrɒm] (n) CD-ROM
+    - The game was on a CD-Rom. (Гра була на CD-Rom.)
+    *CD* [ˌsiːˈdiː] (n) компакт-диск
+    - He put a CD in the player. (Він вставив компакт-диск у програвач.)
+    *DVD* [ˌdiːˌviːˈdiː] (n) DVD-диск
+    - I bought a movie on DVD. (Я купив фільм на DVD.)
+    *it* [ɪt] (pron) воно; це
+    - It's raining outside. (Надворі дощ.)
+    - It was a great movie. (Це був чудовий фільм.)
+    *access* [ˈækses] (n/v) доступ; отримувати доступ
+    - You need access to the database. (Тобі потрібен доступ до бази даних.)
+    - He accessed the information easily. (Він легко отримав доступ до інформації.)
+    *address* [əˈdres] (n/v) адреса; звертатися
+    - Write down your address here. (Запишіть тут свою адресу.)
+    - He addressed the crowd with a speech. (Він звернувся до натовпу з промовою.)
+    *airmail* [ˈeərmeɪl] (n) авіапошта
+    - The letter was sent by airmail. (Лист було відправлено авіапоштою.)
+    *by post* [baɪ poʊst] (adv) по пошті
+    - Send it by post tomorrow. (Відправ це поштою завтра.)
+    *calculator* [ˈkælkjʊleɪtər] (n) калькулятор
+    - He used a calculator for the math problem. (Він використав калькулятор для математичної задачі.)
+    *call back* [ˌkɔːl ˈbæk] (v) передзвонити
+    - Can you call me back tomorrow? (Чи можете ви передзвонити мені завтра?)
+    *call* [kɔːl] (v) дзвонити; називати
+    - I'll call you later. (Я зателефоную тобі пізніше.)
+    - They call him Jack. (Вони називають його Джек.)
+    *chat room* [ˈʧæt ruːm] (n) чат-кімната
+    - They met in an online chat room. (Вони зустрілися в онлайн чат-кімнаті.)
+    *chat* [ʧæt] (v) балакати; спілкуватися
+    - They like to chat about their day. (Вони люблять балакати про свій день.)
+    *click* [klɪk] (v) клацати; натиснути
+    - Click on the link to open the page. (Клацніть по посиланню, щоб відкрити сторінку.)
+    *computer* [kəmˈpjuːtər] (n) комп'ютер
+    - He's good with computers. (Він добре розуміється на комп'ютерах.)
+    *connect* [kəˈnɛkt] (v) з'єднувати; приєднувати
+    - Connect the cables to the TV. (З'єднайте кабелі з телевізором.)
+    *connection* [kəˈnɛkʃən] (n) зв'язок; з'єднання
+    - The internet connection is slow. (Інтернет-зв'язок повільний.)
+    *delete* [dɪˈliːt] (v) видаляти
+    - Delete that file now. (Видали той файл зараз.  )
+    *dial up* [ˌdaɪəl ˈʌp] (v) набирати номер
+    - He had to dial up to access the internet. (Йому довелося набирати номер, щоб підключитися до інтернету.  )
+    *dial* [ˈdaɪəl] (v) набирати; крутити
+    - He dialed the wrong number. (Він набрав неправильний номер.)
+    - She dialed her friend's number quickly. (Вона швидко набрала номер подруги.  )
+    *digital* [ˈdɪdʒɪtəl] (adj) цифровий
+    - He bought a digital camera. (Він купив цифрову камеру.)
+    - Digital technology is advancing fast. (Цифрові технології швидко розвиваються.  )
+    *directory* [dɪˈrɛktəri] (n) довідник; каталог
+    - Look up his number in the directory. (Знайди його номер у довіднику.  )
+    *disc* [dɪsk] (n) диск; платівка
+    - He bought a new music disc. (Він купив нову музичну платівку.  )
+    *disk* [dɪsk] (n) диск; магнітний диск
+    - He saved the document on a floppy disk. (Він зберіг документ на дискеті.)
+    *download* [ˈdaʊnˌləʊd] (v) завантажувати; скачувати
+    - I need to download this file before the meeting. (Мені потрібно завантажити цей файл перед зустріччю.)
+    *electronic* [ˌɪlɛkˈtrɒnɪk] (adj) електронний
+    - She bought an electronic device. (Вона купила електронний пристрій.)
+    *email* [ˈiːmeɪl] (n) електронна пошта
+    - I sent you an email. (Я надіслав тобі електронного листа.)
+    *engaged* [ɪnˈɡeɪdʒd] (adj) зайнятий; заручений
+    - She is engaged to be married. (Вона заручена.)
+    *enter* [ˈɛntər] (v) входити; вписувати
+    - He entered the room. (Він увійшов до кімнати.)
+    *envelope* [ˈɛnvələʊp] (n) конверт; обгортка
+    - She put the letter in an envelope. (Вона поклала лист у конверт.)
+    *equipment* [ɪˈkwɪpmənt] (n) обладнання; екіпірування
+    - The lab has modern equipment. (Лабораторія має сучасне обладнання.)
+    *fax* [fæks] (n) факс; факсимільний зв'язок
+    - Send me a fax. (Надішли мені факс.)
+    *hang up* [ˌhæŋ ˈʌp] (v) покласти трубку
+    - She hung up the phone after the conversation. (Вона поклала трубку після розмови.)
+    *headline* [ˈhɛdˌlaɪn] (n) заголовок
+    - The headline of the newspaper was shocking. (Заголовок газети був шокуючим.)
+    *homepage* [ˈhəʊmˌpeɪdʒ] (n) головна сторінка
+    - Check the homepage for updates. (Перевірте головну сторінку для оновлень.)
+    *internet* [ˈɪntəˌnɛt] (n) інтернет
+    - She uses the internet for research. (Вона використовує інтернет для досліджень.)
+    *invent* [ɪnˈvɛnt] (v) винайти
+    - He invented a new type of engine. (Він винайшов новий тип двигуна.)
+    *invention* [ɪnˈvɛnʃən] (n) винахід
+    - His latest invention will change the industry. (Його останній винахід змінить галузь.)
+    *keyboard* [ˈkiːbɔːrd] (n) клавіатура
+    - She types quickly on her keyboard. (Вона швидко друкує на клавіатурі.)
+    *laptop* [ˈlæpˌtɒp] (n) ноутбук
+    - He left his laptop at home. (Він залишив свій ноутбук вдома.)
+    *laser* [ˈleɪzə] (n) лазер
+    - The laser pointer was used for the presentation. (Лазерний вказівник використовувався для презентації.)
+    *machine* [məˈʃiːn] (n) машина; апарат
+    - The washing machine broke down. (Пральна машина зламалася.)
+    *message* [ˈmɛsɪdʒ] (n) повідомлення; послання
+    - I received a message from him this morning. (Я отримав повідомлення від нього сьогодні вранці.)
+    *mobile phone* [ˌmoʊbəl ˈfoʊn] (n) мобільний телефон
+    - I forgot my mobile phone at home. (Я забув свій мобільний телефон вдома.)
+    *mouse mat* [ˈmaʊs mæt] (n) килимок для миші
+    - He bought a new mouse mat for his desk. (Він купив новий килимок для миші для свого столу.)
+    *mouse* [maʊs] (n) миша
+    - The cat chased the mouse around the house. (Кіт гнався за мишою по будинку.)
+    *network* [ˈnɛtwɜːk] (n) мережа
+    - He's working on expanding his professional network. (Він працює над розширенням своєї професійної мережі.)
+    *online* [ˈɒnlaɪn] (adv) онлайн
+    - I bought the tickets online. (Я купив квитки онлайн.)
+    *operator* [ˈɒpəreɪtər] (n) оператор
+    - The telephone operator connected the call. (Телефонний оператор з'єднав дзвінок.)
+    - He works as a machine operator. (Він працює оператором машини.)
+    *parcel* [ˈpɑːsəl] (n) посилка; пакет
+    - A parcel arrived for you this morning. (Для вас сьогодні вранці прибула посилка.)
+    *password* [ˈpæswɜːrd] (n) пароль
+    - Enter your password to log in. (Введіть свій пароль для входу.)
+    *phone* [foʊn] (n) телефон
+    - She answered the phone quickly. (Вона швидко відповіла на телефонний дзвінок.)
+    *postage* [ˈpoʊstɪdʒ] (n) поштовий збір
+    - The postage for this package is quite high. (Поштовий збір за цей пакет досить високий.)
+    *postcard* [ˈpoʊstˌkɑːrd] (n) листівка
+    - She sent a postcard from Paris. (Вона відправила листівку з Парижа.)
+    *print* [prɪnt] (v) друкувати
+    - They'll print the document tomorrow. (Вони надрукують документ завтра.)
+    *printer* [ˈprɪntər] (n) принтер
+    - The printer is out of ink. (В принтері закінчилася чорнило.)
+    *program* [ˈprəʊɡræm] (n) програма
+    - He's working on a new computer program. (Він працює над новою комп'ютерною програмою.)
+    *reply* [rɪˈplaɪ] (v) відповідати
+    - He didn't reply to my email. (Він не відповів на мій електронний лист.)
+    *ring up* [rɪŋ ʌp] (v) дзвонити
+    - Ring me up when you get home. (Зателефонуй мені, коли дійдеш додому.)
+    *ring* [rɪŋ] (n) кільце; дзвоник
+    - She wears a beautiful ring. (Вона носить красиве кільце.)
+    - The phone's ring woke me up. (Дзвінок телефону мене розбудив.)
+    *screen* [skriːn] (n) екран
+    - The movie will be shown on the big screen. (Фільм буде показаний на великому екрані.)
+    *software* [ˈsɒftˌweər] (n) програмне забезпечення
+    - This software helps with data analysis. (Це програмне забезпечення допомагає з аналізом даних.)
+    *switch off* [ˌswɪtʃ ˈɒf] (v) вимкнути
+    - Please switch off the lights when you leave. (Будь ласка, вимкни світло, коли підеш.)
+    *switch on* [ˌswɪtʃ ˈɒn] (v) увімкнути
+    - Can you switch on the TV? (Чи можеш ти увімкнути телевізор?)
+    *telephone* [ˈtɛlɪˌfoʊn] (n) телефон
+    - Can I use your telephone? (Чи можу я скористатися вашим телефоном?)
+    *text message* [ˈtɛkst ˌmɛsɪdʒ] (n) текстове повідомлення
+    - I'll send you a text message. (Я відправлю тобі текстове повідомлення.)
+    *text* [tɛkst] (n) текст
+    - This is the text of the article. (Це текст статті.)
+    *turn off* [ˌtɜːrn ˈɒf] (v) вимкнути
+    - Please turn off the lights when you leave. (Будь ласка, вимкни світло, коли підеш.)
+    *turn on* [ˌtɜːrn ˈɒn] (v) увімкнути
+    - Can you turn on the heater? (Чи можеш ти увімкнути обігрівач?)
+* Continents
+    *Africa* [ˈæfrɪkə] (n) Африка
+    - Africa is home to many diverse cultures. (Африка є домом для багатьох різних культур.)
+    *Antarctica* [ænˈtɑːrktɪkə] (n) Антарктида
+    - Antarctica is the coldest continent. (Антарктика - найхолодніший континент.)
+    *Asia* [ˈeɪʒə] (n) Азія
+    - Asia is the largest continent. (Азія - найбільший континент.)
+    *Australia* [ɒˈstreɪliə] (n) Австралія
+    - He moved to Australia last year. (Він переїхав до Австралії минулого року.)
+    *Europe* [ˈjʊrəp] (n) Європа
+    - France is in Europe. (Франція знаходиться в Європі.)
+    *North America* [nɔːrθ əˈmɛrɪkə] (n) Північна Америка
+    - He's planning a trip to North America. (Він планує поїздку до Північної Америки.)
+    *South America* [saʊθ əˈmɛrɪkə] (n) Південна Америка
+    - He's planning a trip to South America. (Він планує поїздку до Південної Америки.)
+* Countries, languages and nationalities
+    *Brazil* [brəˈzɪl] (n) Бразилія
+    - He traveled all over Brazil. (Він подорожував по всій Бразилії.)
+    *Brazilian* [brəˈzɪliən] (adj) бразильський
+    - She loves Brazilian music. (Вона любить бразильську музику.)
+    *Canada* [ˈkænədə] (n) Канада
+    - She moved to Canada last year. (Вона переїхала до Канади минулого року.)
+    *Canadian* [kəˈneɪdiən] (adj) канадський
+    - He loves Canadian maple syrup. (Він любить канадський кленовий сироп.)
+    *China* [ˈtʃaɪnə] (n) Китай
+    - I've always wanted to visit China. (Я завжди хотів відвідати Китай.)
+    *Chinese* [ˌtʃaɪˈniːz] (adj) китайський
+    - We had Chinese food for dinner. (Ми їли китайську їжу на вечерю.)
+    *France* [fræns] (n) Франція
+    - She traveled to France last summer. (Вона подорожувала до Франції минулого літа.)
+    *French* [frɛntʃ] (adj) французький
+    - She loves French cuisine. (Вона любить французьку кухню.)
+    *Germany* [ˈdʒɜːrməni] (n) Німеччина
+    *German* [ˈdʒɜːrmən] (adj) німецький
+    *India* [ˈɪndiə] (n) Індія
+    - He traveled to India last year. (Він подорожував до Індії минулого року.)
+    *Indian* [ˈɪndiən] (adj) індійський
+    - She cooked an Indian dish for dinner. (Вона приготувала індійську страву на вечерю.)
+    *Ireland* [ˈaɪərlənd] (n) Ірландія
+    - He's planning a trip to Ireland. (Він планує поїздку до Ірландії.)
+    *Irish* [ˈaɪrɪʃ] (adj) ірландський
+    - She loves Irish music. (Вона любить ірландську музику.)
+    *Italy* [ˈɪtəli] (n) Італія
+    - She's traveling to Italy next month. (Вона подорожує до Італії наступного місяця.)
+    *Italian* [ɪˈtæliən] (adj) італійський
+    - We had an Italian dinner. (У нас була італійська вечеря.)
+    *Poland* [ˈpoʊlənd] (n) Польща
+    *Polish* [ˈpoʊlɪʃ] (adj) польський
+    *Spain* [speɪn] (n) Іспанія
+    - She's traveling to Spain next month. (Вона подорожує до Іспанії наступного місяця.)
+    *Spanish* [ˈspænɪʃ] (adj) іспанський
+    - He's learning Spanish at school. (Він вивчає іспанську в школі.)
+    *Ukraine* [juːˈkreɪn] (n) Україна
+    *Ukrainian* [juːˈkreɪniən] (adj) український
+    *United Kingdom* [juːˈnaɪtɪd ˈkɪŋdəm] (n) Великобританія
+    *British* [ˈbrɪtɪʃ] (adj) британський
+    *United States* [juːˈnaɪtɪd steɪts] (n) США
+    *American* [əˈmɛrɪkən] (adj) американський
+* Days of the week
+    *Monday* [ˈmʌndeɪ] (n) понеділок
+    - We have a meeting on Monday. (У нас зустріч у понеділок.)
+    *Tuesday* [ˈtjuːzdeɪ] (n) вівторок
+    - Our meeting is on Tuesday. (Наша зустріч у вівторок.)
+    *Wednesday* [ˈwɛnzdeɪ] (n) середа
+    - Our meeting is on Wednesday. (Наша зустріч у середу.)
+    *Thursday* [ˈθɜːrzdeɪ] (n) четвер
+    - Our meeting is scheduled for Thursday. (Наша зустріч запланована на четвер.)
+    *Friday* [ˈfraɪdeɪ] (n) п'ятниця
+    - Let's meet on Friday. (Давай зустрінемося в п'ятницю.)
+    *Saturday* [ˈsætərdeɪ] (n) субота
+    - Let's meet on Saturday. (Давай зустрінемося в суботу.)
+    *Sunday* [ˈsʌndeɪ] (n) неділя
+    - We usually have a family dinner on Sunday. (Ми зазвичай маємо сімейну вечерю в неділю.)
+* Education
+    *it* [ɪt] (pron) воно; це
+    - It's raining outside. (Надворі дощ.)
+    - It was a great movie. (Це був чудовий фільм.)
+    *absent* [ˈæbsənt] (adj) відсутній
+    - He was absent from the meeting. (Він був відсутній на зборах.)
+    *advanced* [ədˈvænst] (adj) просунутий
+    - He took an advanced course in physics. (Він відвідував просунутий курс з фізики.)
+    *arithmetic* [əˈrɪθmətɪk] (n) арифметика
+    - He's not very good at arithmetic. (Він не дуже добре розуміється на арифметиці.)
+    *art* [ɑːt] (n) мистецтво
+    - Art has many forms. (Мистецтво має багато форм.)
+    *bell* [bɛl] (n) дзвін; дзвоник
+    - The bell rang for lunch. (Прозвучав дзвоник на обід.)
+    *biology* [baɪˈɒlədʒi] (n) біологія
+    - She majors in biology. (Вона спеціалізується на біології.)
+    *blackboard* [ˈblækbɔːd] (n) дошка
+    - The teacher wrote on the blackboard. (Вчитель писав на дошці.)
+    *board* [bɔːd] (n) дошка; рада
+    - He wrote on the whiteboard. (Він писав на білі дошці.)
+    *break up* [ˌbreɪk ˈʌp] (v) перерва; розпадатися
+    - They decided to break up after a year. (Вони вирішили розірвати стосунки через рік.)
+    *break* [breɪk] (v) ламати; перерва
+    - He accidentally broke the vase. (Він випадково розбив вазу.)
+    - Let's take a break. (Давай зробимо перерву.)
+    *certificate* [səˈtɪfɪkət] (n) сертифікат
+    - He received a certificate for completing the course. (Він отримав сертифікат за завершення курсу.)
+    *chemistry* [ˈkɛmɪstri] (n) хімія
+    - She's majoring in chemistry. (Вона спеціалізується на хімії.)
+    *class* [klæs] (n) клас; урок
+    - He's in the top class of his school. (Він у найкращому класі своєї школи.)
+    *classroom* [ˈklæsˌruːm] (n) класна кімната
+    - The students gathered in the classroom. (Учні зібралися в класній кімнаті.)
+    *college* [ˈkɒlɪdʒ] (n) коледж
+    - He's attending college in Boston. (Він навчається в коледжі в Бостоні.)
+    *composition* [ˌkɒmpəˈzɪʃən] (n) композиція; твір
+    - She wrote a composition about her summer. (Вона написала твір про своє літо.)
+    *corridor* [ˈkɒrɪdɔːr] (n) коридор
+    - The corridor is very long. (Коридор дуже довгий.)
+    *course* [kɔːs] (n) курс; страва
+    - I'm taking a cooking course. (Я відвідую кулінарні курси.)
+    *curriculum* [kəˈrɪkjʊləm] (n) навчальна програма
+    - The school has a new curriculum. (У школі нова навчальна програма.)
+    *degree* [dɪˈɡriː] (n) ступінь; градус
+    - She has a law degree. (Вона має юридичний ступінь.)
+    - It's 30 degrees outside. (На вулиці 30 градусів.  )
+    *desk* [dɛsk] (n) стіл; письмовий стіл
+    - He sat at his desk. (Він сидів за своїм столом.)
+    - The teacher's desk was covered with books. (Учительський письмовий стіл був вкритий книгами.  )
+    *dictionary* [ˈdɪkʃənəri] (n) словник
+    - Look up the word in the dictionary. (Знайди це слово в словнику.  )
+    *diploma* [dɪˈpləʊmə] (n) диплом
+    - She received her diploma last year. (Вона отримала диплом минулого року.  )
+    *drama* [ˈdrɑːmə] (n) драма; театр
+    - She loves watching drama movies. (Вона любить дивитися драматичні фільми.)
+    *economics* [ˌiːkəˈnɒmɪks] (n) економіка; економічна наука
+    - He studied economics at university. (Він вивчав економіку в університеті.)
+    *educate* [ˈɛdʒʊkeɪt] (v) виховувати; навчати
+    - Schools educate children. (Школи навчають дітей.)
+    *elementary* [ˌɛlɪˈmɛntəri] (adj) початковий; елементарний
+    - He speaks elementary French. (Він говорить французькою на початковому рівні.)
+    *essay* [ˈɛseɪ] (n) есе; нарис
+    - He wrote an essay about history. (Він написав есе про історію.)
+    *geography* [dʒiˈɒɡrəfi] (n) географія
+    - She's majoring in geography. (Вона спеціалізується на географії.)
+    *handwriting* [ˈhændˌraɪtɪŋ] (n) почерк
+    - Her handwriting is very neat. (Її почерк дуже акуратний.)
+    *history* [ˈhɪstəri] (n) історія
+    - He's very interested in history. (Він дуже цікавиться історією.)
+    *homework* [ˈhəʊmwɜːk] (n) домашнє завдання
+    - I need to do my homework. (Мені потрібно зробити домашнє завдання.)
+    *instructor* [ɪnˈstrʌktə] (n) інструктор
+    - The ski instructor was very patient. (Інструктор з лиж дуже терплячий.)
+    *intermediate* [ˌɪntəˈmiːdiət] (adj/n) середній; проміжний
+    - He's at an intermediate level in Spanish. (Він на середньому рівні іспанської.)
+    - The intermediate stage was challenging. (Проміжний етап був складним.)
+    *laboratory* [ləˈbɒrətəri] (n) лабораторія
+    - She works in a chemistry laboratory. (Вона працює в хімічній лабораторії.)
+    *languages* [ˈlæŋɡwɪdʒɪz] (n) мови
+    - He speaks several languages fluently. (Він вільно говорить кількома мовами.)
+    *lesson* [ˈlɛsən] (n) урок
+    - I have a piano lesson after school. (У мене урок фортепіано після школи.)
+    *mark* [mɑːk] (n/v) відмітка; позначка; оцінка; позначати
+    - He got a good mark. (Він отримав хорошу оцінку.)
+    - Mark the spot on the map. (Познач місце на карті.)
+    *math* [mæθ] (n) математика
+    - I'm good at math. (Я добре знаю математику.)
+    *mathematics* [ˌmæθ(ə)ˈmætɪks] (n) математика; математики
+    - She's studying mathematics at university. (Вона вивчає математику в університеті.)
+    *music* [ˈmjuːzɪk] (n) музика
+    - Listening to music helps me relax. (Слухання музики допомагає мені розслабитися.)
+    *nature studies* [ˈneɪtʃər ˈstʌdiz] (n) природознавство
+    - He's taking a course in nature studies. (Він проходить курс природознавства.)
+    *notice board* [ˈnoʊtɪs bɔːrd] (n) доска оголошень
+    - Check the notice board for updates on the event. (Перевір доску оголошень на оновлення щодо події.)
+    *pencil case* [ˈpɛnsəl keɪs] (n) пенал
+    - He keeps his pens and pencils in a pencil case. (Він зберігає свої ручки та олівці в пеналі.)
+    *photography* [fəˈtɒɡrəfi] (n) фотографія (як мистецтво або наука)
+    - He studied photography at university. (Він вивчав фотографію в університеті.)
+    *physics* [ˈfɪzɪks] (n) фізика
+    - Physics explains how the universe works. (Фізика пояснює, як працює Всесвіт.)
+    *primary school* [ˌpraɪməri ˈskuːl] (n) початкова школа
+    - He started at a primary school last year. (Він почав ходити до початкової школи минулого року.)
+    *qualification* [ˌkwɒlɪfɪˈkeɪʃən] (n) кваліфікація
+    - He has the right qualifications for the job. (У нього є відповідна кваліфікація для цієї роботи.)
+    *qualify* [ˈkwɒlɪfaɪ] (v) кваліфікувати; відповідати вимогам
+    - She qualified for the finals. (Вона кваліфікувалася до фіналу.)
+    - This experience qualifies him for the position. (Цей досвід відповідає вимогам посади.)
+    *register* [ˈrɛdʒɪstər] (v) реєструвати
+    - Please register for the course online. (Будь ласка, зареєструйся на курс онлайн.)
+    *school* [skuːl] (n) школа
+    - He goes to school every day. (Він ходить до школи щодня.)
+    *science* [ˈsaɪəns] (n) наука
+    - She has a degree in science. (У неї є ступінь з науки.)
+    *secondary* [ˈsɛkəndəri] (adj) другорядний; середня
+    - This is a secondary issue. (Це другорядне питання.)
+    - She teaches at a secondary school. (Вона викладає в середній школі.)
+    *state school* [ˌsteɪt ˈskuːl] (n) державна школа
+    - He attends a state school. (Він ходить до державної школи.)
+    *study* [ˈstʌdi] (v) вивчати
+    - She likes to study languages. (Вона любить вивчати мови.)
+    *subject* [ˈsʌbdʒɪkt] (n) предмет; тема
+    - Math is my favorite subject. (Математика - мій улюблений предмет.)
+    - Let's change the subject. (Давай змінимо тему.)
+    *technology* [tɛkˈnɒlədʒi] (n) технологія
+    - Advances in technology have changed our lives. (Прогрес у технологіях змінив наше життя.)
+* Entertainment and Media
+    *CD-Rom* [ˌsiːdiːˈrɒm] (n) CD-ROM
+    - The game was on a CD-Rom. (Гра була на CD-Rom.)
+    *CD* [ˌsiːˈdiː] (n) компакт-диск
+    - He put a CD in the player. (Він вставив компакт-диск у програвач.)
+    *DJ* [ˌdiːˈdʒeɪ] (n) діджей
+    - The DJ played great music at the party. (Діджей поставив чудову музику на вечірці.)
+    *DVD* [ˌdiːˌviːˈdiː] (n) DVD-диск
+    - I bought a movie on DVD. (Я купив фільм на DVD.)
+    *MP3 player* [ˌɛm piː θriː ˈpleɪər] (n) плеєр MP3
+    - He listens to music on his MP3 player during his commute. (Він слухає музику на своєму плеєрі MP3 під час поїздки на роботу.)
+    *act* [ækt] (n/v) дія; діяти
+    - The play was in three acts. (П'єса складалася з трьох актів.)
+    - He acted quickly. (Він діяв швидко.)
+    *action* [ˈækʃn] (n) дія; дію
+    - His action saved many lives. (Його дія врятувала багато життів.)
+    *actor* [ˈæktər] (n) актор
+    - He is a famous Hollywood actor. (Він відомий голлівудський актор.)
+    *admission* [ədˈmɪʃn] (n) допуск; визнання
+    - Admission to the event is free. (Вхід на захід безкоштовний.)
+    - He made an admission of guilt. (Він зробив визнання провини.)
+    *adventure* [ədˈventʃər] (n) пригода
+    - They went on an adventure in the mountains. (Вони вирушили на пригоду в гори.)
+    *advert* [ˈædvɜːt] (n) реклама
+    - The advert was very catchy. (Реклама була дуже запам'ятовуючою.)
+    *advertisement* [ədˈvɜːtɪsmənt] (n) реклама
+    - The advertisement appeared in several magazines. (Реклама з'явилася в декількох журналах.)
+    *article* [ˈɑːtɪkl] (n) стаття
+    - I read an interesting article today. (Я сьогодні прочитав цікаву статтю.)
+    *audience* [ˈɔːdiəns] (n) аудиторія
+    - The audience loved the show. (Аудиторія полюбила шоу.)
+    *ballet* [ˈbæleɪ] (n) балет
+    - She performed in a ballet last night. (Вона виступала в балеті вчора ввечері.)
+    *band* [bænd] (n) група; оркестр
+    - The band played lively music. (Група грала жваву музику.)
+    *book* [bʊk] (n) книга
+    - He bought a new book at the store. (Він купив нову книгу в магазині.)
+    *camera* [ˈkæmərə] (n) камера; фотоапарат
+    - She took photos with her new camera. (Вона робила фото новим фотоапаратом.)
+    *cartoon* [kɑːrˈtuːn] (n) мультфільм; карикатура
+    - Children love watching cartoons. (Діти люблять дивитися мультфільми.)
+    *cassette* [kəˈsɛt] (n) касета
+    - He found an old cassette in the attic. (Він знайшов стару касету на горищі.)
+    *channel* [ˈʧænəl] (n) канал; прохід
+    - He changed the channel on the TV. (Він змінив канал на телевізорі.)
+    *cinema* [ˈsɪnəmə] (n) кінотеатр
+    - Let's go to the cinema tonight. (Давай підемо в кінотеатр сьогодні ввечері.)
+    *circus* [ˈsɜːkəs] (n) цирк
+    - The circus is in town this week. (Цирк у місті цього тижня.)
+    *classical music* [ˌklæsɪkəl ˈmjuːzɪk] (n) класична музика
+    - She listens to classical music to relax. (Вона слухає класичну музику, щоб розслабитися.)
+    *comedian* [kəˈmiːdiən] (n) комік; гуморист
+    - The comedian had the audience in stitches. (Комік змусив аудиторію сміятися до сліз.)
+    *comedy* [ˈkɒmədi] (n) комедія
+    - We watched a comedy last night. (Ми дивилися комедію вчора ввечері.)
+    *comic* [ˈkɒmɪk] (n) комікс; гумористичний
+    - He reads comic books every weekend. (Він читає комікси кожні вихідні.)
+    *commercial* [kəˈmɜːʃəl] (adj) комерційний; рекламний
+    - This is a commercial product. (Це комерційний продукт.)
+    *concert* [ˈkɒnsɜːt] (n) концерт
+    - The band is playing a concert tonight. (Група дає концерт сьогодні ввечері.)
+    *costume* [ˈkɒstjuːm] (n) костюм; маскарадний костюм
+    - She wore a beautiful costume to the party. (Вона одягла гарний костюм на вечірку.)
+    *dance* [dɑːns] (v) танцювати
+    - They love to dance together. (Вони люблять танцювати разом.  )
+    *deejay* [ˈdiːdʒeɪ] (n) діджей
+    - The deejay played great music. (Діджей грав чудову музику.  )
+    *disc* [dɪsk] (n) диск; платівка
+    - He bought a new music disc. (Він купив нову музичну платівку.  )
+    *disco* [ˈdɪskoʊ] (n) дискотека
+    - They went to a disco last night. (Вони пішли на дискотеку минулої ночі.  )
+    *display* [dɪˈspleɪ] (v) показувати; виставляти
+    - The museum displays ancient artifacts. (Музей виставляє стародавні артефакти.)
+    *documentary* [ˌdɒkjʊˈmɛntəri] (n) документальний фільм
+    - We watched a fascinating documentary about space. (Ми подивилися захопливий документальний фільм про космос.)
+    *drama* [ˈdrɑːmə] (n) драма; театр
+    - She loves watching drama movies. (Вона любить дивитися драматичні фільми.)
+    *entrance* [ˈɛntrəns] (n) вхід; в'їзд
+    - The entrance is on the left. (Вхід знаходиться ліворуч.)
+    *exhibition* [ˌɛksɪˈbɪʃən] (n) виставка; ексгібіція
+    - We visited an art exhibition. (Ми відвідали художню виставку.)
+    *exit* [ˈɛksɪt] (n) вихід
+    - The exit is on the right. (Вихід праворуч.)
+    *festival* [ˈfɛstɪvəl] (n) фестиваль; свято
+    - The city hosts a music festival. (Місто проводить музичний фестиваль.)
+    *film maker* [ˈfɪlmˌmeɪkər] (n) режисер; кінотворець
+    - He is a famous film maker. (Він відомий режисер.)
+    *film star* [ˈfɪlm stɑːr] (n) кіноактор; зірка кіно
+    - She is a popular film star. (Вона популярна кіноакторка.)
+    *film* [fɪlm] (n) фільм; кінострічка
+    - We watched an old film. (Ми подивилися старий фільм.)
+    *folk music* [ˈfoʊlk ˈmjuːzɪk] (n) фольклорна музика
+    - She loves folk music. (Вона любить фольклорну музику.)
+    *headline* [ˈhɛdˌlaɪn] (n) заголовок
+    - The headline of the newspaper was shocking. (Заголовок газети був шокуючим.)
+    *hero* [ˈhɪərəʊ] (n) герой
+    - He's considered a national hero. (Він вважається національним героєм.)
+    *hit song* [ˈhɪt sɔːŋ] (n) хіт; популярна пісня
+    - That song was a major hit last summer. (Та пісня була великим хітом минулого літа.)
+    *interval* [ˈɪntəvəl] (n) інтервал; пауза
+    - There will be a short interval between acts. (Буде коротка пауза між актами.)
+    *interview* [ˈɪntərvjuː] (n) інтерв'ю
+    - She has an interview for the job tomorrow. (У неї інтерв'ю на роботу завтра.)
+    *jazz music* [ˈdʒæz ˈmjuːzɪk] (n) джазова музика
+    - He enjoys listening to jazz music. (Він любить слухати джазову музику.)
+    *journalist* [ˈdʒɜːnəlɪst] (n) журналіст
+    - He's a well-known journalist. (Він відомий журналіст.)
+    *magazine* [ˌmæɡəˈziːn] (n) журнал
+    - She subscribed to a fashion magazine. (Вона підписалася на модний журнал.)
+    *magic* [ˈmædʒɪk] (n/adj) магія; чарівний
+    - The prince was turned into a frog by magic. (Чари перетворили принца у жабу.)
+    - It's a magic trick. (Це чарівний трюк.)
+    *music* [ˈmjuːzɪk] (n) музика
+    - Listening to music helps me relax. (Слухання музики допомагає мені розслабитися.)
+    *news* [njuːz] (n) новини
+    - Did you hear the latest news? (Чи чули ви останні новини?)
+    *newspaper* [ˈnjuːzˌpeɪpər] (n) газета
+    - I read the news in the newspaper every morning. (Я читаю новини в газеті кожного ранку.)
+    *opera* [ˈɒpərə] (n) опера
+    - We went to see an opera last night. (Вчора ввечері ми ходили на оперу.)
+    *orchestra* [ˈɔːrkɪstrə] (n) оркестр
+    - The orchestra performed a beautiful symphony. (Оркестр виконав прекрасну симфонію.)
+    *perform* [pərˈfɔːrm] (v) виконувати; представляти
+    - The band will perform on stage tonight. (Гурт виступить на сцені сьогодні ввечері.)
+    *performance* [pərˈfɔːrməns] (n) виступ; продуктивність
+    - Her performance in the play was outstanding. (Її виступ у виставі був видатним.)
+    *play* [pleɪ] (v) грати
+    - Children love to play outside. (Діти люблять грати на вулиці.)
+    *poem* [ˈpoʊɪm] (n) вірш
+    - She wrote a beautiful poem. (Вона написала чудовий вірш.)
+    *pop music* [ˈpɒp ˈmjuːzɪk] (n) поп-музика
+    - Pop music is very popular among teenagers. (Поп-музика дуже популярна серед підлітків.)
+    *programme* [ˈprəʊɡræm] (n) програма
+    - The theatre has an interesting programme tonight. (У театрі сьогодні цікава програма.)
+    *quiz* [kwɪz] (n) вікторина
+    - We had a quiz on history last week. (У нас була вікторина з історії минулого тижня.)
+    *recording* [rɪˈkɔːdɪŋ] (n) запис
+    - The recording of the concert was excellent. (Запис концерту був відмінним.)
+    *review* [rɪˈvjuː] (n) огляд; відгук
+    - The book got positive reviews. (Книга отримала позитивні відгуки.)
+    - He wrote a review of the new movie. (Він написав огляд нового фільму.)
+    *rock music* [ˈrɒk ˈmjuːzɪk] (n) рок-музика
+    - He loves listening to rock music. (Він любить слухати рок-музику.)
+    *romantic* [rəʊˈmæntɪk] (adj) романтичний
+    - They had a romantic dinner by candlelight. (У них був романтичний вечеря при свічках.)
+    *row* [roʊ] (n) ряд; сварка
+    - We sat in the front row. (Ми сиділи в передньому ряду.)
+    - They had a row about the money. (У них була сварка через гроші.)
+    *scene* [siːn] (n) сцена; вид
+    - The crime scene was secured by the police. (Місце злочину охороняли поліцейські.)
+    - The view from the mountain was a breathtaking scene. (Вид з гори був захоплюючим видовищем.)
+    *screen* [skriːn] (n) екран
+    - The movie will be shown on the big screen. (Фільм буде показаний на великому екрані.)
+    *series* [ˈsɪəriːz] (n) серія
+    - I watch this TV series every week. (Я дивлюся цей телесеріал щотижня.)
+    *stage* [steɪdʒ] (n) сцена; етап
+    - She performed on stage. (Вона виступала на сцені.)
+    - The project is in its final stage. (Проект на фінальному етапі.)
+    *star* [stɑːr] (n) зірка
+    - She wishes on the first star she sees at night. (Вона загадує бажання на першу зірку, яку бачить вночі.)
+    *studio* [ˈstjuːdiəʊ] (n) студія
+    - They recorded their new album in the studio. (Вони записали свій новий альбом у студії.)
+    *television* [ˈtɛlɪˌvɪʒən] (n) телевізор
+    - We watch television in the evening. (Ми дивимося телевізор ввечері.)
+    *thriller* [ˈθrɪlər] (n) трилер
+    - I love watching a good thriller movie. (Я люблю дивитися гарний трилер.)
+    *venue* [ˈvɛnjuː] (n) місце проведення
+    - The concert venue was packed. (Місце проведення концерту було заповнене.)
+    *video* [ˈvɪdiəʊ] (n) відео
+    - They watched a video online. (Вони дивилися відео онлайн.)
+* Environment
+    *bottle bank* [ˈbɒtl bæŋk] (n) контейнер для збору пляшок
+    - Recycle your glass in the bottle bank. (Переробляйте скло в контейнері для пляшок.)
+    *climate change* [ˈklaɪmət ʧeɪndʒ] (n) зміна клімату
+    - Climate change is a global issue. (Зміна клімату - це глобальна проблема.)
+    *gas* [ɡæs] (n) газ
+    - They use gas for heating. (Вони використовують газ для опалення.)
+    *litter* [ˈlɪtə] (n/v) сміття; засмічувати
+    - Don't litter, use the bin. (Не смітіть, використовуйте сміттєвий бак.)
+    - The park was littered with trash. (Парк був засмічений сміттям.)
+    *petrol* [ˈpɛtrəl] (n) бензин
+    - We need to buy petrol before the trip. (Нам потрібно купити бензин перед поїздкою.)
+    *pollution* [pəˈluːʃən] (n) забруднення
+    - Air pollution is a major issue in big cities. (Забруднення повітря - велика проблема у великих містах.)
+    *public transport* [ˌpʌblɪk ˈtrænspɔːrt] (n) громадський транспорт
+    - Using public transport reduces pollution. (Використання громадського транспорту зменшує забруднення.)
+    *recycle* [ˌriːˈsaɪkəl] (v) переробляти
+    - We should recycle plastic bottles. (Ми повинні переробляти пластикові пляшки.)
+    *recycled* [ˈriːˌsaɪkəld] (adj) перероблений
+    - This paper is made from recycled materials. (Цей папір зроблений з перероблених матеріалів.)
+    *recycling* [ˈriːˌsaɪklɪŋ] (n) переробка
+    - Recycling helps the environment. (Переробка допомагає довкіллю.)
+    *rubbish* [ˈrʌbɪʃ] (n) сміття
+    - Please take out the rubbish. (Будь ласка, винеси сміття.)
+    *traffic* [ˈtræfɪk] (n) рух; транспортний потік
+    - The traffic was heavy during rush hour. (Рух був інтенсивним під час пікової години.)
+* Food and Drink
+    *French fries* [ˈfrɛntʃ fraɪz] (n) фрі; смажені картопляні смужки
+    - He ordered French fries with his meal. (Він замовив картоплю фрі до свого обіду.)
+    *apple* [ˈæpl] (n) яблуко
+    - An apple a day keeps the doctor away. (Одне яблуко в день тримає лікаря подалі.)
+    *bake* [beɪk] (v) випікати; печи
+    - She baked a cake for the party. (Вона випікала торт на вечірку.)
+    *banana* [bəˈnænə] (n) банан
+    - He ate a ripe banana for breakfast. (Він з'їв стиглий банан на сніданок.)
+    *barbecue* [ˈbɑːrbɪkjuː] (n) барбекю
+    - We had a barbecue in the backyard. (Ми влаштували барбекю на задньому дворі.)
+    *bean* [biːn] (n) боб; квасоля
+    - She added beans to the soup. (Вона додала боби до супу.)
+    *biscuit* [ˈbɪskɪt] (n) печиво
+    - She offered me a biscuit with tea. (Вона запропонувала мені печиво до чаю.)
+    *bitter* [ˈbɪtər] (adj) гіркий
+    - The medicine tasted bitter. (Ліки мали гіркий смак.)
+    *boil* [bɔɪl] (v) кип'ятити; варити
+    - Boil water for the pasta. (Кип'ятіть воду для пасти.)
+    *bowl* [boʊl] (n) миска; чаша
+    - She ate cereal from a bowl. (Вона їла пластівці з миски.)
+    *bread* [brɛd] (n) хліб
+    - Fresh bread was on the table. (На столі був свіжий хліб.)
+    *breakfast* [ˈbrɛkfəst] (n) сніданок
+    - We had pancakes for breakfast. (Ми їли млинці на сніданок.)
+    *buffet* [ˈbʌfeɪ] (n) буфет; самообслуговування
+    - The hotel offers a breakfast buffet. (Готель пропонує сніданок у вигляді шведського столу.)
+    *butter* [ˈbʌtər] (n) масло
+    - She spread butter on her toast. (Вона намастила масло на свій тост.)
+    *cabbage* [ˈkæbɪdʒ] (n) капуста
+    - We had cabbage soup for dinner. (У нас була капустяна юшка на вечерю.)
+    *cake* [keɪk] (n) торт; пиріг
+    - She baked chocolate cake. (Вона спекла шоколадний торт.)
+    *can* [kæn] (v) могти; можна
+    - I can swim very well. (Я вмію добре плавати.)
+    *candy* [ˈkændi] (n) цукерки
+    - He bought some candy for the kids. (Він купив цукерок для дітей.)
+    *canteen* [kænˈtiːn] (n) їдальня; буфет
+    - They ate lunch in the school canteen. (Вони обідали в шкільній їдальні.)
+    *carrot* [ˈkærət] (n) морква
+    - She added carrots to the stew. (Вона додала моркву до рагу.)
+    *cauliflower* [ˈkɒlɪˌflaʊər] (n) цвітна капуста
+    - She made cauliflower soup for dinner. (Вона приготувала суп з цвітної капусти на вечерю.)
+    *celery* [ˈsɛləri] (n) селера
+    - She chopped celery for the salad. (Вона нарізала селеру для салату.)
+    *cereal* [ˈsɪəriəl] (n) злаки; каша
+    - She eats cereal for breakfast. (Вона їсть злаки на сніданок.)
+    *cheese* [ʧiːz] (n) сир
+    - He loves cheese on his pizza. (Він любить сир на своїй піці.)
+    *chicken* [ˈʧɪkɪn] (n) курка; курятина
+    - We had chicken for dinner. (У нас була курятина на вечерю.)
+    *chips* [ʧɪps] (n) чипси; картопля фрі
+    - He ordered chips with his burger. (Він замовив картоплю фрі до свого бургера.)
+    *chocolate* [ˈʧɒklət] (n) шоколад
+    - She loves dark chocolate. (Вона любить темний шоколад.)
+    *cocoa* [ˈkoʊkoʊ] (n) какао
+    - He made hot cocoa for everyone. (Він приготував гаряче какао для всіх.)
+    *coconut* [ˈkoʊkənʌt] (n) кокос
+    - She used coconut in her recipe. (Вона використовувала кокос у своєму рецепті.)
+    *coffee* [ˈkɒfi] (n) кава
+    - Would you like some coffee? (Чи хочете ви кави?)
+    *cola* [ˈkəʊlə] (n) кола
+    - She prefers drinking cola. (Вона віддає перевагу колі.)
+    *cook* [kʊk] (v) готувати; варити
+    - I like to cook Italian food. (Я люблю готувати італійську їжу.)
+    *cooker* [ˈkʊkər] (n) плита; кухонна піч
+    - The cooker is broken. (Плита зламалася.)
+    *cookie* [ˈkʊki] (n) печиво; кекс
+    - Would you like a cookie? (Хочете печиво?)
+    *corn* [kɔːn] (n) кукурудза
+    - Corn is a staple food in many countries. (Кукурудза є основною їжею у багатьох країнах.)
+    *cream* [kriːm] (n) вершки; крем
+    - I like to put cream in my coffee. (Я люблю додавати вершки в каву.)
+    *cucumber* [ˈkjuːkʌmbər] (n) огірок
+    - I like to eat cucumbers in salads. (Я люблю їсти огірки в салатах.)
+    *cup* [kʌp] (n) чашка
+    - I need a cup of coffee. (Мені потрібна чашка кави.)
+    *curry* [ˈkʌri] (n) каррі; соус каррі
+    - I love Indian curry. (Я люблю індійське каррі.)
+    *dessert* [dɪˈzɜːrt] (n) десерт
+    - We had ice cream for dessert. (На десерт у нас було морозиво.  )
+    *diet* [ˈdaɪət] (n) дієта; харчування
+    - She follows a healthy diet. (Вона дотримується здорової дієти.)
+    - His diet consists mainly of vegetables. (Його харчування складається переважно з овочів.  )
+    *dinner* [ˈdɪnər] (n) вечеря
+    - We had pasta for dinner. (На вечерю у нас була паста.)
+    - They invited us to dinner. (Вони запросили нас на вечерю.  )
+    *dish* [dɪʃ] (n) страва; посуд
+    - She prepared a delicious Italian dish for dinner. (Вона приготувала смачну італійську страву на вечерю.)
+    *drink* [drɪŋk] (v) пити
+    - He drank a glass of water. (Він випив склянку води.)
+    *duck* [dʌk] (n) качка
+    - The duck swam in the pond. (Качка плавала в ставку.)
+    *eat* [it] (v) їсти
+    - She eats an apple every morning. (Вона їсть яблуко щоранку.)
+    *egg* [ɛɡ] (n) яйце
+    - I had an egg for breakfast. (Я з’їв яйце на сніданок.)
+    *fish* [fɪʃ] (n) риба
+    - He caught a big fish. (Він спіймав велику рибу.)
+    *flour* [ˈflaʊər] (n) борошно
+    - I need flour to bake bread. (Мені потрібно борошно, щоб спекти хліб.)
+    *fork* [fɔːk] (n) вилка; розвилка
+    - She picked up her fork to eat. (Вона взяла вилку, щоб їсти.)
+    *fresh* [frɛʃ] (adj) свіжий; новий
+    - We bought some fresh vegetables. (Ми купили свіжих овочів.)
+    *fruit juice* [ˈfruːt dʒuːs] (n) фруктовий сік
+    - He drank a glass of fruit juice. (Він випив склянку фруктового соку.)
+    *fruit* [fruːt] (n) фрукт; плід
+    - She ate a piece of fruit for dessert. (Вона з'їла шматочок фрукта на десерт.)
+    *fry* [fraɪ] (v) смажити; обсмажувати
+    - Fry the eggs until they're golden. (Смажте яйця, доки вони не стануть золотистими.)
+    *frying pan* [ˈfraɪɪŋ pæn] (n) сковорода
+    - She heated the frying pan for pancakes. (Вона нагріла сковороду для млинців.)
+    *glass* [ɡlɑːs] (n) скло; склянка
+    - The window is made of glass. (Вікно зроблене зі скла.)
+    - Can I have a glass of water? (Чи можу я отримати склянку води?)
+    *grape* [ɡreɪp] (n) виноград
+    - She ate some grapes for a snack. (Вона з'їла кілька виноградів як перекус.)
+    *grill* [ɡrɪl] (v/n) гриль; смажити на грилі
+    - We'll use the grill for cooking. (Ми будемо використовувати гриль для приготування.)
+    - Grill the vegetables for a smoky flavor. (Засмажте овочі для димного смаку.)
+    *honey* [ˈhʌni] (n) мед
+    - She likes to sweeten her tea with honey. (Вона любить підсолоджувати чай медом.)
+    *hot* [hɒt] (adj) гарячий
+    - The coffee is too hot to drink. (Кава занадто гаряча, щоб її пити.)
+    *hungry* [ˈhʌŋɡri] (adj) голодний
+    - I'm very hungry right now. (Зараз я дуже голодний.)
+    *ice cream* [ˈaɪs ˌkriːm] (n) морозиво
+    - Let's have some ice cream on this hot day. (Давайте з'їмо морозиво в цей спекотний день.)
+    *ingredients* [ɪnˈɡriːdiənts] (n) інгредієнти
+    - Check the ingredients on the label. (Перевірте інгредієнти на етикетці.)
+    *jam* [dʒæm] (n) джем; варення
+    - She spread some jam on her toast. (Вона намастила джем на свій тост.)
+    *jug* [dʒʌɡ] (n) глечик
+    - She poured the milk into a jug. (Вона налила молоко в глечик.)
+    *juice* [dʒuːs] (n) сік
+    - He drank a glass of orange juice. (Він випив склянку апельсинового соку.)
+    *knife* [naɪf] (n) ніж
+    - He cut the bread with a sharp knife. (Він різав хліб гострим ножем.)
+    *lamb* [læm] (n) ягня; баранина
+    - They served roast lamb for dinner. (На вечерю подали смажену баранину.)
+    *lemon* [ˈlɛmən] (n) лимон
+    - She squeezed a lemon into her tea. (Вона видавила лимон у свій чай.)
+    *lemonade* [ˌlɛməˈneɪd] (n) лимонад
+    - Would you like some lemonade? (Чи хочеш ти лимонаду?)
+    *lettuce* [ˈlɛtɪs] (n) салат
+    - She put some lettuce in the salad. (Вона додала трохи салату в салат.)
+    *loaf* [ləʊf] (n) буханець; хліб
+    - He bought a loaf of bread. (Він купив буханець хліба.)
+    *lunch* [lʌntʃ] (n) обід
+    - We had lunch at noon. (Ми обідали опівдні.)
+    *meat* [miːt] (n) м'ясо
+    - She doesn't eat meat. (Вона не їсть м'ясо.)
+    *melon* [ˈmɛlən] (n) диня
+    - The melon was very sweet. (Диня була дуже солодка.)
+    *menu* [ˈmɛnjuː] (n) меню
+    - Can you bring me the menu, please? (Можете принести меню, будь ласка?)
+    *microwave* [ˈmaɪkrəweɪv] (n) мікрохвильовка
+    - I'll heat up the leftovers in the microwave. (Я розігрію залишки їжі в мікрохвильовці.)
+    *milk* [mɪlk] (n) молоко
+    - Would you like milk in your coffee? (Чи бажаєте ви молока в каву?)
+    *mineral water* [ˈmɪnərəl ˈwɔːtə] (n) мінеральна вода
+    - I prefer to drink mineral water. (Я віддаю перевагу пити мінеральну воду.)
+    *mushroom* [ˈmʌʃruːm] (n) гриб
+    - She added some mushrooms to the stew. (Вона додала кілька грибів до рагу.)
+    *mustard* [ˈmʌstəd] (n) гірчиця
+    - He likes his sandwich with mustard. (Він любить свій сендвіч з гірчицею.)
+    *oil* [ɔɪl] (n) олія; нафта
+    - She cooks with olive oil. (Вона готує з оливковою олією.)
+    - The country is rich in oil. (Країна багата на нафту.)
+    *omelette* [ˈɒmlɪt] (n) омлет
+    - I'd like an omelette for breakfast. (Я б хотів омлет на сніданок.)
+    *onion* [ˈʌnjən] (n) цибуля
+    - She chopped an onion for the soup. (Вона нарізала цибулю для супу.)
+    *orange* [ˈɒrɪndʒ] (adj) помаранчевий
+    - She wore an orange dress to the party. (Вона одягла помаранчеву сукню на вечірку.)
+    *pan* [pæn] (n) сковорода
+    - Heat the oil in a large pan. (Нагрійте олію у великій сковороді.)
+    *pasta* [ˈpæstə] (n) макарони
+    - I cooked pasta for dinner. (Я приготував макарони на вечерю.)
+    *pastry* [ˈpeɪstri] (n) випічка; кондитерські вироби
+    - She bought some delicious pastries from the bakery. (Вона купила смачну випічку в пекарні.)
+    *pea* [piː] (n) горох
+    - She added peas to the soup. (Вона додала горох у суп.)
+    *peanut* [ˈpiːnʌt] (n) арахіс
+    - He is allergic to peanuts. (Він має алергію на арахіс.)
+    *pear* [peər] (n) груша
+    - I ate a juicy pear for breakfast. (Я з'їв соковиту грушу на сніданок.)
+    *pepper* [ˈpɛpər] (n) перець
+    - He added salt and pepper to the soup. (Він додав сіль та перець у суп.)
+    *pie* [paɪ] (n) пиріг
+    - She baked an apple pie. (Вона спекла яблучний пиріг.)
+    *pizza* [ˈpiːtsə] (n) піца
+    - We ordered a large pizza for dinner. (Ми замовили велику піцу на вечерю.)
+    *plate* [pleɪt] (n) тарілка
+    - Please pass me that plate. (Будь ласка, передай мені ту тарілку.)
+    *potato* [pəˈteɪtəʊ] (n) картопля
+    - We had roasted potatoes for dinner. (Ми їли запечену картоплю на вечерю.)
+    *recipe* [ˈrɛsɪpi] (n) рецепт
+    - Can you share the recipe for this cake? (Чи можете ви поділитися рецептом цього торта?)
+    *refreshments* [rɪˈfrɛʃmənts] (n) освіжаючі напої; закуски
+    - Refreshments will be served after the meeting. (Освіжаючі напої та закуски будуть подані після зустрічі.)
+    *rice* [raɪs] (n) рис
+    - We had chicken with rice for dinner. (Ми їли курку з рисом на вечерю.)
+    *roast* [roʊst] (v) запікати
+    - She roasted the chicken for dinner. (Вона запікала курку на вечерю.)
+    *roll* [roʊl] (v) котитися; сукати
+    - The ball began to roll down the hill. (Куля почала котитися вниз по схилу.)
+    - She rolled the dough into a ball. (Вона скатала тісто в кулю.)
+    *salad* [ˈsæləd] (n) салат
+    - She made a fresh salad for lunch. (Вона приготувала свіжий салат на обід.)
+    *salt* [sɔːlt] (n) сіль
+    - Can you pass the salt, please? (Чи можете передати сіль, будь ласка?)
+    *sandwich* [ˈsænwɪdʒ] (n) сандвіч
+    - He made himself a ham sandwich. (Він зробив собі сандвіч з шинкою.)
+    *saucer* [ˈsɔːsər] (n) блюдце
+    - She placed the cup on the saucer. (Вона поставила чашку на блюдце.)
+    *sausage* [ˈsɒsɪdʒ] (n) ковбаса; сосиска
+    - He grilled sausages for the barbecue. (Він смажив ковбаси на барбекю.)
+    - I'll have a sausage roll. (Я візьму сосиску в тісті.)
+    *slice* [slaɪs] (n) шматок; нарізати
+    - Can I have a slice of cake? (Чи можу я взяти шматок торта?)
+    - Slice the bread thinly. (Наріж хліб тонкими скибками.)
+    *snack* [snæk] (n) перекус
+    - I usually have a snack in the afternoon. (Я зазвичай перекушую в післяобідній час.)
+    *soft drink* [ˈsɒft drɪŋk] (n) безалкогольний напій
+    - I'd like a soft drink, please. (Будь ласка, я хотів би безалкогольний напій.)
+    *soup* [suːp] (n) суп
+    - She made vegetable soup for dinner. (Вона приготувала овочевий суп на вечерю.)
+    *sour* [ˈsaʊər] (adj) кислий
+    - This lemon is very sour. (Цей лимон дуже кислий.)
+    *spinach* [ˈspɪnɪtʃ] (n) шпинат
+    - Spinach is good for your health. (Шпинат корисний для здоров'я.)
+    *spoon* [spuːn] (n) ложка
+    - Can you pass me a spoon? (Чи можете передати мені ложку?)
+    *steak* [steɪk] (n) стейк
+    - I'll have the steak, medium-rare. (Я візьму стейк, середньо-слабкого прожарювання.)
+    *strawberry* [ˈstrɔːbəri] (n) полуниця
+    - She made a pie with fresh strawberries. (Вона приготувала пиріг зі свіжою полуницею.)
+    *sugar* [ˈʃʊɡər] (n) цукор
+    - Can you pass the sugar, please? (Чи можете передати цукор, будь ласка?)
+    *sweet* [swiːt] (adj) солодкий
+    - This cake is too sweet for me. (Цей торт для мене занадто солодкий.)
+    *taste* [teɪst] (v) смакувати
+    - Taste this soup and tell me if it needs more salt. (Спробуй цей суп і скажи, чи потрібно додати більше солі.)
+    *tea* [tiː] (n) чай
+    - Would you like some tea? (Чи хочеш ти чаю?)
+    *thirsty* [ˈθɜːsti] (adj) спраглий
+    - After the long walk, I'm very thirsty. (Після довгої прогулянки я дуже спраглий.)
+    *toast* [toʊst] (n) тост
+    - I like my toast with butter. (Мені подобається тост з маслом.)
+    *tomato* [təˈmeɪtoʊ] (n) помідор
+    - She made a salad with fresh tomatoes. (Вона зробила салат зі свіжими помідорами.)
+    *turkey* [ˈtɜːrki] (n) індичка
+    - We're having turkey for dinner. (На вечерю у нас індичка.)
+    *vanilla* [vəˈnɪlə] (n) ваніль
+    - I like vanilla ice cream. (Мені подобається ванільне морозиво.)
+    *vegetable* [ˈvɛdʒtəbl] (n) овоч
+    - Eat your vegetables. (Їж овочі.)
+    *vegetarian* [ˌvɛdʒəˈteəriən] (adj) вегетаріанець
+    - She's been a vegetarian for years. (Вона вегетаріанка вже багато років.)
+* Health Medicine and Exercise
+    *accident* [ˈæksɪdənt] (n) нещасний випадок
+    - The accident caused a traffic jam. (Аварія спричинила затор на дорозі.)
+    *ache* [eɪk] (n/v) біль; боліти
+    - He felt an ache in his back. (Він відчував біль у спині.)
+    - My head aches. (Моя голова болить.)
+    *ambulance* [ˈæmbjʊləns] (n) швидка допомога
+    - An ambulance arrived quickly. (Швидка допомога приїхала швидко.)
+    *ankle* [ˈæŋkl] (n) щиколотка
+    - He sprained his ankle playing football. (Він підвернув щиколотку, граючи у футбол.)
+    *appointment* [əˈpɔɪntmənt] (n) призначення; зустріч
+    - I have an appointment at 3 PM. (У мене є призначення на 15:00.)
+    *aspirin* [ˈæspərɪn] (n) аспірин
+    - He took an aspirin for his headache. (Він прийняв аспірин від головного болю.)
+    *balance* [ˈbæləns] (n) баланс; рівновага
+    - He has a good sense of balance. (У нього добре відчуття рівноваги.)
+    *bandage* [ˈbændɪdʒ] (n) бинт
+    - She wrapped the wound with a bandage. (Вона обмотала рану бинтом.)
+    *bend* [bɛnd] (v) гнути; згинати
+    - She bent the wire into a shape. (Вона зігнула дріт у форму.)
+    *bleed* [bliːd] (v) кровоточити
+    - His cut started to bleed. (Його поріз почав кровоточити.)
+    *blood* [blʌd] (n) кров
+    - He donated blood at the hospital. (Він здав кров у лікарні.)
+    *bone* [boʊn] (n) кістка
+    - The dog buried the bone in the yard. (Собака закопав кістку у дворі.)
+    *break* [breɪk] (v) ламати; перерва
+    - He accidentally broke the vase. (Він випадково розбив вазу.)
+    - Let's take a break. (Давай зробимо перерву.)
+    *breath* [brɛθ] (n) дихання
+    - He took a deep breath before diving. (Він зробив глибокий вдих перед зануренням.)
+    *breathe* [briːð] (v) дихати
+    - It's hard to breathe in this polluted air. (Важко дихати в цьому забрудненому повітрі.)
+    *chemist* [ˈkɛmɪst] (n) хімік; аптекар
+    - He's a chemist working on new compounds. (Він хімік, який працює над новими сполуками.)
+    *chin* [ʧɪn] (n) підборіддя
+    - He has a strong chin. (У нього сильне підборіддя.)
+    *clean* [cliːn] (adj) чистий
+    - The room was very clean. (Кімната була дуже чистою.)
+    *cold* [kəʊld] (adj) холодний
+    - It's very cold outside today. (Сьогодні дуже холодно на вулиці.)
+    *cough* [kɒf] (n) кашель
+    - He has a bad cough. (У нього сильний кашель.)
+    *cut* [kʌt] (v) різати; відрізати
+    - She cut her finger with a knife. (Вона порізала палець ножем.)
+    *damage* [ˈdæmɪdʒ] (n) шкода; пошкодження
+    - The storm caused severe damage. (Буря спричинила сильні пошкодження.  )
+    *dentist* [ˈdɛntɪst] (n) стоматолог
+    - I have an appointment with the dentist. (У мене запис до стоматолога.  )
+    *diet* [ˈdaɪət] (n) дієта; харчування
+    - She follows a healthy diet. (Вона дотримується здорової дієти.)
+    - His diet consists mainly of vegetables. (Його харчування складається переважно з овочів.  )
+    *dressing* [ˈdresɪŋ] (n) заправка; соус
+    - She added some dressing to the salad. (Вона додала трохи заправки до салату.)
+    *earache* [ˈɪəreɪk] (n) вушна біль
+    - He has an earache from the cold. (У нього болить вухо через холод.)
+    *emergency* [ɪˈmɜːrdʒənsi] (n) надзвичайна ситуація; невідкладність
+    - Call 911 in an emergency. (Дзвони 911 у надзвичайній ситуації.)
+    *faint* [feɪnt] (v) знепритомніти; втрачати свідомість
+    - She fainted from the heat. (Вона знепритомніла від спеки.)
+    *feel better* [ˌfiːl ˈbɛtər] (v) почуватися краще
+    - I hope you feel better soon. (Сподіваюся, ти скоро почуватимешся краще.)
+    *fever* [ˈfiːvər] (n) лихоманка; гарячка
+    - He has a high fever. (У нього висока температура.)
+    *flu* [fluː] (n) грип
+    - He has the flu. (Він хворіє на грип.)
+    *get better* [ˌɡɛt ˈbɛtər] (v) видужувати
+    - He's getting better after his illness. (Він видужує після хвороби.)
+    *go jogging* [ˌɡoʊ ˈdʒɒɡɪŋ] (v) бігати трусцою
+    - I go jogging every morning. (Я бігаю трусцою кожного ранку.)
+    *gym* [dʒɪm] (n) спортзал
+    - I go to the gym three times a week. (Я ходжу в спортзал три рази на тиждень.)
+    *headache* [ˈhɛdˌeɪk] (n) головний біль
+    - I have a terrible headache. (У мене жахливий головний біль.)
+    *hospital* [ˈhɒspɪtəl] (n) лікарня
+    - He was taken to the hospital after the accident. (Після аварії його відвезли до лікарні.)
+    *hurt* [hɜːt] (v) боліти; поранити
+    - My leg hurts. (У мене болить нога.)
+    - He hurt his arm playing football. (Він поранив руку, граючи у футбол.)
+    *ill* [ɪl] (adj) хворий
+    - She's been ill for a week now. (Вона вже тиждень хвора.)
+    *illness* [ˈɪlnəs] (n) хвороба
+    - He recovered from his illness quickly. (Він швидко одужав від своєї хвороби.)
+    *injure* [ˈɪndʒər] (v) травмувати
+    - He was injured in the accident. (Він був травмований в аварії.)
+    *keep fit* [ˌkiːp ˈfɪt] (v) тримати себе в формі
+    - He keeps fit by running every day. (Він тримає себе в формі, бігаючи щодня.)
+    *knee* [niː] (n) коліно
+    - He hurt his knee playing football. (Він пошкодив коліно, граючи у футбол.)
+    *medicine* [ˈmɛdɪsɪn] (n) медицина; ліки
+    - He's studying medicine. (Він вивчає медицину.)
+    - Take your medicine. (Прийми свої ліки.)
+    *operate* [ˈɒpəreɪt] (v) оперувати; керувати
+    - The surgeon will operate tomorrow. (Хірург буде оперувати завтра.)
+    - Can you operate this machine? (Чи можете ви керувати цим пристроєм?)
+    *operation* [ˌɒpəˈreɪʃən] (n) операція; діяльність
+    - He had an operation on his knee. (Він мав операцію на коліні.)
+    - The company's operation expanded globally. (Діяльність компанії розширилася по всьому світу.)
+    *pain* [peɪn] (n) біль
+    - He felt a sharp pain in his back. (Він відчув гострий біль у спині.)
+    *painful* [ˈpeɪnfʊl] (adj) болючий
+    - The injury was quite painful. (Травма була досить болючою.)
+    *patient* [ˈpeɪʃənt] (n) пацієнт; терплячий
+    - The doctor examined the patient carefully. (Лікар уважно оглянув пацієнта.)
+    *pharmacy* [ˈfɑːrməsi] (n) аптека
+    - I bought some medicine at the pharmacy. (Я купив ліки в аптеці.)
+    *pill* [pɪl] (n) таблетка
+    - She took a pill for her headache. (Вона прийняла таблетку від головного болю.)
+    *prescription* [prɪˈskrɪpʃən] (n) рецепт
+    - He filled his prescription at the pharmacy. (Він забрав свій рецепт в аптеці.)
+    *recover* [rɪˈkʌvər] (v) відновлювати; повертатися
+    - He's recovering from the flu. (Він відновлюється після грипу.)
+    - They hope to recover the lost documents. (Вони сподіваються повернути втрачені документи.)
+    *run* [rʌn] (v) бігати
+    - She likes to run in the morning. (Вона любить бігати вранці.)
+    *shoulder* [ˈʃoʊldər] (n) плече
+    - She carried her bag on her shoulder. (Вона несла сумку на плечі.)
+    *sick* [sɪk] (adj) хворий
+    - He stayed home because he was sick. (Він залишився вдома, бо був хворий.)
+    *skin* [skɪn] (n) шкіра
+    - Her skin is very sensitive. (У неї дуже чутлива шкіра.)
+    *sore throat* [ˌsɔːr ˈθroʊt] (n) ангіна; болить горло
+    - I have a sore throat, can't speak much. (У мене ангіна, не можу багато говорити.)
+    - My throat is sore. (У мене болить горло.)
+    *stomach ache* [ˈstʌmək eɪk] (n) боль у животі
+    - I've got a stomach ache from eating too much. (У мене болить живіт від переїдання.)
+    *stress* [strɛs] (n) стрес; напруга
+    - He's under a lot of stress at work. (Він відчуває багато стресу на роботі.)
+    - The bridge can't handle that much stress. (Міст не витримає такої напруги.)
+    *swim* [swɪm] (v) плавати
+    - Do you like to swim in the sea? (Тобі подобається плавати в морі?)
+    *tablet* [ˈtæblət] (n) таблетка; планшет
+    - He took a tablet for his headache. (Він прийняв таблетку від головного болю.)
+    - She uses her tablet for work. (Вона використовує свій планшет для роботи.)
+    *take exercise* [ˌteɪk ˈɛksəsaɪz] (v) займатися спортом
+    - It's important to take exercise regularly. (Важливо регулярно займатися спортом.)
+    *temperature* [ˈtɛmpərətʃər] (n) температура
+    - The temperature is dropping tonight. (Температура знижується сьогодні вночі.)
+    *thumb* [θʌm] (n) великий палець
+    - He hurt his thumb while playing. (Він поранив великий палець під час гри.)
+    *toes* [toʊz] (n) пальці ніг
+    - My toes are cold. (Мої пальці ніг холодні.)
+    *toothache* [ˈtuːθˌeɪk] (n) зубний біль
+    - She has a terrible toothache. (У неї жахливий зубний біль.)
+    *walk* [wɔːk] (v) ходити; прогулянка
+    - Let's go for a walk in the park. (Давай прогуляємося в парку.)
+    - He likes to walk to work. (Йому подобається ходити на роботу пішки.)
+    *worse* [wɜːrs] (adj) гірший
+    - His condition got worse. (Його стан погіршився.)
+    *wound* [wuːnd] (n) рана
+    - He got a wound on his leg. (Він отримав рану на нозі.)
+* Hobbies and Leisure
+    *barbecue* [ˈbɑːrbɪkjuː] (n) барбекю
+    - We had a barbecue in the backyard. (Ми влаштували барбекю на задньому дворі.)
+    *camera* [ˈkæmərə] (n) камера; фотоапарат
+    - She took photos with her new camera. (Вона робила фото новим фотоапаратом.)
+    *camp* [kæmp] (n) табір
+    - They set up camp near the river. (Вони розбили табір біля річки.)
+    *camping* [ˈkæmpɪŋ] (n) кемпінг
+    - We went camping in the mountains. (Ми ходили в кемпінг у горах.)
+    *campsite* [ˈkæmpˌsaɪt] (n) табір для кемпінгу
+    - The campsite had great facilities. (Табір для кемпінгу мав зручності.)
+    *chess* [ʧɛs] (n) шахи
+    - They played chess all evening. (Вони грали в шахи весь вечір.)
+    *club* [klʌb] (n) клуб
+    - She's a member of the book club. (Вона член книжкового клубу.)
+    *collect* [kəˈlɛkt] (v) збирати; колекціонувати
+    - He likes to collect stamps. (Він любить збирати марки.)
+    *collection* [kəˈlɛkʃən] (n) колекція; збір
+    - His collection of books is impressive. (Його колекція книг вражає.)
+    *computer* [kəmˈpjuːtər] (n) комп'ютер
+    - He's good with computers. (Він добре розуміється на комп'ютерах.)
+    *cruise* [kruːz] (n) круїз; подорож
+    - We went on a cruise around the Mediterranean. (Ми вирушили в круїз Середземним морем.)
+    *dancing* [ˈdænsɪŋ] (n) танці
+    - Dancing makes me happy. (Танці роблять мене щасливим.  )
+    *doll* [dɒl] (n) лялька
+    - She gave her little sister a new doll. (Вона подарувала молодшій сестрі нову ляльку.)
+    *drawing* [ˈdrɔːɪŋ] (n) малювання
+    - Her drawing skills are impressive. (Її навички малювання вражають.)
+    *facilities* [fəˈsɪlɪtiz] (n) обладнання; умови
+    - The hotel has great facilities. (Готель має чудові умови.)
+    *fan* [fæn] (n) вентилятор; фанат
+    - He is a big football fan. (Він великий фанат футболу.)
+    *fiction* [ˈfɪkʃən] (n) вигадка; художня література
+    - I enjoy reading fiction. (Я люблю читати художню літературу.)
+    *fit* [fɪt] (adj) підходящий; здоровий
+    - He is very fit. (Він у чудовій фізичній формі.)
+    *gallery* [ˈɡæləri] (n) галерея
+    - We visited an art gallery in the city. (Ми відвідали художню галерею в місті.)
+    *guitar* [ɡɪˈtɑː] (n) гітара
+    - He plays the guitar beautifully. (Він чудово грає на гітарі.)
+    *hang out* [ˌhæŋ ˈaʊt] (v) тусити; проводити час
+    - They like to hang out at the park. (Вони люблять тусити в парку.)
+    *hire* [ˈhaɪə] (v/n) наймати; оренда
+    - They hired a new employee. (Вони найняли нового працівника.)
+    - The car is available for hire. (Машина доступна для оренди.)
+    *jogging* [ˈdʒɒɡɪŋ] (n) біг підтюпцем
+    - Jogging is good for health. (Біг підтюпцем корисний для здоров'я.)
+    *join in* [ˌdʒɔɪn ˈɪn] (v) приєднуватися
+    - Everyone is welcome to join in the fun. (Усі запрошуються приєднатися до веселощів.)
+    *keen on* [ˌkiːn ˈɒn] (adj) захоплюватися; любити
+    - She's keen on swimming. (Вона захоплюється плаванням.)
+    *keep* [kiːp] (v) зберігати; тримати
+    - Keep this secret. (Зберігай цю таємницю.)
+    - Can you keep the dog for a while? (Чи можете ви потримати собаку на якийсь час?)
+    *member* [ˈmɛmbə] (n) член; учасник
+    - She's a member of the club. (Вона член клубу.)
+    *model* [ˈmɒdəl] (n) модель
+    - She's a successful fashion model. (Вона успішна модель.)
+    *museum* [mjuˈziːəm] (n) музей
+    - They spent the afternoon at the history museum. (Вони провели післяобідній час в історичному музеї.)
+    *music* [ˈmjuːzɪk] (n) музика
+    - Listening to music helps me relax. (Слухання музики допомагає мені розслабитися.)
+    *opening hours* [ˈoʊpənɪŋ ˈaʊərz] (n) години роботи
+    - What are the opening hours of the museum? (Які години роботи музею?)
+    *painting* [ˈpeɪntɪŋ] (n) малювання
+    - His favorite hobby is painting. (Його улюблене хобі — малювання.)
+    *picnic* [ˈpɪknɪk] (n) пікнік
+    - We had a picnic by the river. (Ми влаштували пікнік біля річки.)
+    *playground* [ˈpleɪɡraʊnd] (n) ігровий майданчик
+    - The children are playing at the playground. (Діти грають на ігровому майданчику.)
+    *playing cards* [ˈpleɪɪŋ kɑːdz] (n) гральні карти
+    - Let's play a game with these playing cards. (Давай зіграємо в гру цими гральними картами.)
+    *quiz* [kwɪz] (n) вікторина
+    - We had a quiz on history last week. (У нас була вікторина з історії минулого тижня.)
+    *sculpture* [ˈskʌlptʃər] (n) скульптура
+    - The sculpture in the park is very beautiful. (Скульптура в парку дуже красива.)
+    *sightseeing* [ˈsaɪtˌsiːɪŋ] (n) екскурсія
+    - We spent the day sightseeing in the city. (Ми провели день, оглядаючи визначні місця міста.)
+    *slide* [slaɪd] (n) гірка
+    - The children played on the slide. (Діти грали на гірці.)
+    *sunbathe* [ˈsʌnˌbeɪð] (v) засмагати
+    - They like to sunbathe on the beach. (Вони люблять засмагати на пляжі.)
+    *swings* [swɪŋz] (n) гойдалки
+    - The park has several swings for kids. (У парку є кілька гойдалок для дітей.)
+    *tent* [tɛnt] (n) намет
+    - We set up our tent in the campsite. (Ми встановили намет на кемпінгу.)
+* House and Home
+    *DVD* [ˌdiːˌviːˈdiː] (n) DVD-диск
+    - I bought a movie on DVD. (Я купив фільм на DVD.)
+    *TV* [ˌtiːˈviː] (n) телевізор
+    - He watches TV every evening. (Він дивиться телевізор кожного вечора.)
+    *accommodation* [əˌkɒməˈdeɪʃn] (n) житло; розміщення
+    - We found suitable accommodation for the weekend. (Ми знайшли підходяще житло на вихідні.)
+    *address* [əˈdres] (n/v) адреса; звертатися
+    - Write down your address here. (Запишіть тут свою адресу.)
+    - He addressed the crowd with a speech. (Він звернувся до натовпу з промовою.)
+    *air-conditioning* [ˈeər kənˌdɪʃənɪŋ] (n) кондиціонування повітря
+    - The room has air-conditioning. (У кімнаті є кондиціонування повітря.)
+    *alarm clock* [əˈlɑːrm klɒk] (n) будильник
+    - I set my alarm clock for 7 AM. (Я налаштував свій будильник на 7 ранку.)
+    *alarm* [əˈlɑːrm] (n/v) тривога; сповіщати
+    - The alarm went off at 6 AM. (Тривога спрацювала о 6 ранку.)
+    - He alarmed everyone with the news. (Він сповістив усіх новинами.)
+    *antique* [ænˈtiːk] (n/adj) антикваріат; антикварний
+    - She collects antique furniture. (Вона збирає антикварні меблі.)
+    - The ring is antique. (Цей перстень антикварний.)
+    *apartment* [əˈpɑːtmənt] (n) квартира
+    - They live in a small apartment. (Вони живуть у маленькій квартирі.)
+    *armchair* [ˈɑːmtʃeə] (n) крісло
+    - She sat in the comfortable armchair. (Вона сиділа в зручному кріслі.)
+    *balcony* [ˈbælkəni] (n) балкон
+    - They enjoyed the view from the balcony. (Вони насолоджувалися видом з балкона.)
+    *basement* [ˈbeɪsmənt] (n) підвал
+    - The old house had a damp basement. (Старий будинок мав вологий підвал.)
+    *basin* [ˈbeɪsɪn] (n) миска; басейн
+    - She washed her face in the basin. (Вона вмилася у мисці.)
+    *bath* [bɑːθ] (n) ванна
+    - She took a long bath to relax. (Вона прийняла довгу ванну, щоб розслабитися.)
+    *bathroom* [ˈbɑːθruːm] (n) ванна кімната
+    - The bathroom is on the right. (Ванна кімната праворуч.)
+    *bed* [bɛd] (n) ліжко
+    - She went to bed early. (Вона лягла спати рано.)
+    *bedroom* [ˈbɛdrʊm] (n) спальня
+    - The bedroom overlooks the garden. (Спальня виходить у сад.)
+    *bell* [bɛl] (n) дзвін; дзвоник
+    - The bell rang for lunch. (Прозвучав дзвоник на обід.)
+    *bin* [bɪn] (n) сміттєве відро
+    - Throw the trash in the bin. (Кинь сміття у відро.)
+    *blanket* [ˈblæŋkɪt] (n) ковдра
+    - She wrapped herself in a warm blanket. (Вона загорнулася в теплу ковдру.)
+    *blind* [blaɪnd] (adj) сліпий
+    - He is blind in one eye. (Він сліпий на одне око.)
+    *block* [blɒk] (n) блок; квартал
+    - The store is around the next block. (Магазин за наступним кварталом.)
+    *board* [bɔːd] (n) дошка; рада
+    - He wrote on the whiteboard. (Він писав на білі дошці.)
+    *bookshelf* [ˈbʊkʃɛlf] (n) книжкова полиця
+    - The books were neatly arranged on the bookshelf. (Книги були акуратно розставлені на книжковій полиці.)
+    *brick* [brɪk] (n) цегла
+    - The house is made of red brick. (Будинок побудований з червоної цегли.)
+    *brush* [brʌʃ] (n) щітка
+    - Use this brush to paint the wall. (Використовуйте цю щітку для фарбування стіни.)
+    *bucket* [ˈbʌkɪt] (n) відро
+    - He carried water in a bucket. (Він ніс воду у відрі.)
+    *bulb* [bʌlb] (n) цибулина; лампочка
+    - Change the light bulb, it's burned out. (Замініть лампочку, вона перегоріла.)
+    *candle* [ˈkændl] (n) свічка
+    - She lit a candle for the ambiance. (Вона запалила свічку для атмосфери.)
+    *carpet* [ˈkɑːrɪt] (n) килим
+    - They replaced the old carpet with a new one. (Вони замінили старий килим на новий.)
+    *cassette player* [kəˈsɛt ˈpleɪər] (n) магнітофон
+    - She listened to her favorite music on a cassette player. (Вона слухала свою улюблену музику на магнітофоні.)
+    *ceiling* [ˈsiːlɪŋ] (n) стеля
+    - The ceiling was painted white. (Стеля була пофарбована в білий колір.)
+    *cellar* [ˈsɛlər] (n) підвал
+    - The wine is stored in the cellar. (Вино зберігається в підвалі.)
+    *central heating* [ˈsɛntrəl ˈhiːtɪŋ] (n) центральне опалення
+    - Their house has central heating. (У них у будинку є центральне опалення.)
+    *chair* [ʧeər] (n) стілець
+    - Please take a chair and sit down. (Будь ласка, візьміть стілець і сядьте.)
+    *channel* [ˈʧænəl] (n) канал; прохід
+    - He changed the channel on the TV. (Він змінив канал на телевізорі.)
+    *chest of drawers* [ˌʧɛst əv ˈdrɔːrz] (n) комод
+    - She keeps her clothes in the chest of drawers. (Вона зберігає одяг у комоді.)
+    *chimney* [ˈʧɪmni] (n) димар; комин
+    - Smoke was coming out of the chimney. (З комина виходив дим.)
+    *cloakroom* [ˈkləʊkruːm] (n) гардероб
+    - Leave your coat in the cloakroom. (Залиште своє пальто в гардеробі.)
+    *clock* [klɒk] (n) годинник
+    - The clock on the wall showed it was late. (Годинник на стіні показував, що вже пізно.)
+    *coal* [koʊl] (n) вугілля
+    - The power plant runs on coal. (Електростанція працює на вугіллі.)
+    *computer* [kəmˈpjuːtər] (n) комп'ютер
+    - He's good with computers. (Він добре розуміється на комп'ютерах.)
+    *cooker* [ˈkʊkər] (n) плита; кухонна піч
+    - The cooker is broken. (Плита зламалася.)
+    *corridor* [ˈkɒrɪdɔːr] (n) коридор
+    - The corridor is very long. (Коридор дуже довгий.)
+    *cottage* [ˈkɒtɪdʒ] (n) котедж; садиба
+    - They live in a small cottage by the sea. (Вони живуть у маленькому котеджі біля моря.)
+    *cupboard* [ˈkʌbəd] (n) шафа; буфет
+    - I put the dishes in the cupboard. (Я поставив посуд у шафу.)
+    *curtain* [ˈkɜːtn] (n) занавіска; штора
+    - Please close the curtains. (Будь ласка, зачини штори.)
+    *cushion* [ˈkʊʃən] (n) подушка; м'яка підкладка
+    - The sofa has soft cushions. (На дивані м'які подушки.)
+    *desk* [dɛsk] (n) стіл; письмовий стіл
+    - He sat at his desk. (Він сидів за своїм столом.)
+    - The teacher's desk was covered with books. (Учительський письмовий стіл був вкритий книгами.  )
+    *digital* [ˈdɪdʒɪtəl] (adj) цифровий
+    - He bought a digital camera. (Він купив цифрову камеру.)
+    - Digital technology is advancing fast. (Цифрові технології швидко розвиваються.  )
+    *dining room dish* [ˌdaɪnɪŋ ruːm dɪʃ] (n) страва для їдальні
+    - The chef prepared a special dining room dish. (Шеф-кухар приготував особливу страву для їдальні.  )
+    *dishwasher* [ˈdɪʃˌwɒʃər] (n) посудомийна машина
+    - We bought a new dishwasher to make cleaning up easier. (Ми купили нову посудомийну машину, щоб полегшити прибирання.)
+    *door* [dɔːr] (n) двері
+    - She knocked on the door before entering. (Вона постукала у двері перед тим, як увійти.)
+    *downstairs* [ˌdaʊnˈsteəz] (adv) вниз по сходах; на першому поверсі
+    - She went downstairs to get some coffee. (Вона спустилася вниз, щоб взяти каву.)
+    *drawer* [ˈdrɔːr] (n) ящик
+    - She put the keys in the top drawer. (Вона поклала ключі у верхній ящик.)
+    *dustbin* [ˈdʌstbɪn] (n) сміттєвий бак; кошик для сміття
+    - He threw the paper in the dustbin. (Він викинув папір у сміттєвий бак.)
+    *duvet* [ˈdjuːveɪ] (n) ковдра; пухова ковдра
+    - She covered herself with a warm duvet. (Вона накрилася теплою ковдрою.)
+    *electric* [ɪˈlɛktrɪk] (adj) електричний
+    - We use an electric heater in winter. (Взимку ми використовуємо електричний обігрівач.)
+    *entrance* [ˈɛntrəns] (n) вхід; в'їзд
+    - The entrance is on the left. (Вхід знаходиться ліворуч.)
+    *fan* [fæn] (n) вентилятор; фанат
+    - He is a big football fan. (Він великий фанат футболу.)
+    *fence* [fɛns] (n) паркан; огорожа
+    - There is a white fence around the house. (Навколо будинку є білий паркан.)
+    *flat* [flæt] (adj) плоский; рівний
+    - The road is completely flat. (Дорога абсолютно рівна.)
+    *flatmate* [ˈflætˌmeɪt] (n) сусід по квартирі
+    - My flatmate is very friendly. (Мій сусід по квартирі дуже дружелюбний.)
+    *floor* [flɔːr] (n) підлога; поверх
+    - She cleaned the floor. (Вона прибрала підлогу.)
+    *freezer* [ˈfriːzər] (n) морозильник; холодильник
+    - The ice cream is in the freezer. (Морозиво в морозильнику.)
+    *fridge* [frɪdʒ] (n) холодильник
+    - Put the milk back in the fridge. (Поверни молоко в холодильник.)
+    *frying pan* [ˈfraɪɪŋ pæn] (n) сковорода
+    - She heated the frying pan for pancakes. (Вона нагріла сковороду для млинців.)
+    *furnished* [ˈfɜːnɪʃt] (adj) мебльований; обставлений
+    - The apartment is fully furnished. (Квартира повністю мебльована.)
+    *furniture* [ˈfɜːnɪtʃər] (n) меблі; обстановка
+    - They bought new furniture for the living room. (Вони купили нові меблі для вітальні.)
+    *garage* [ˈɡærɑːʒ] (n) гараж
+    - He parked the car in the garage. (Він поставив машину в гараж.)
+    *garden* [ˈɡɑːrdən] (n) сад
+    - She loves to work in her garden. (Вона любить працювати в своєму саду.)
+    *gas* [ɡæs] (n) газ
+    - They use gas for heating. (Вони використовують газ для опалення.)
+    *gate* [ɡeɪt] (n) ворота
+    - Open the gate to let the car through. (Відкрийте ворота, щоб пропустити машину.)
+    *grill* [ɡrɪl] (v/n) гриль; смажити на грилі
+    - We'll use the grill for cooking. (Ми будемо використовувати гриль для приготування.)
+    - Grill the vegetables for a smoky flavor. (Засмажте овочі для димного смаку.)
+    *ground* [ɡraʊnd] (n) земля; ґрунт
+    - The ball hit the ground. (М'яч вдарився об землю.)
+    - This plant prefers rich ground. (Ця рослина віддає перевагу багатому ґрунту.)
+    *hall* [hɔːl] (n) зал; коридор
+    - The concert was held in the main hall. (Концерт відбувся у головному залі.)
+    *handle* [ˈhændəl] (v/n) обробляти; ручка
+    - Can you handle this task? (Чи можете ви впоратися з цим завданням?)
+    - The door has a broken handle. (У дверей зламана ручка.)
+    *heat* [hiːt] (n/v) тепло; нагрівати
+    - The heat from the sun was intense. (Тепло від сонця було інтенсивним.)
+    - Heat the soup before serving. (Розігрійте суп перед подачею.)
+    *hedge* [hɛdʒ] (n) жива огорожа
+    - The garden is surrounded by a hedge. (Сад оточений живою огорожею.)
+    *hi-fi* [ˌhaɪˈfaɪ] (n) аудіосистема високої якості
+    - He enjoys listening to music on his hi-fi system. (Йому подобається слухати музику на своїй системі hi-fi.)
+    *house* [haʊs] (n) будинок
+    - They bought a new house in the suburbs. (Вони купили новий будинок у передмісті.)
+    *housewife* [ˈhaʊsˌwaɪf] (n) домогосподарка
+    - She's a housewife and manages the household. (Вона домогосподарка і керує домом.)
+    *housework* [ˈhaʊsˌwɜːk] (n) домашня робота
+    - He helps with the housework on weekends. (Він допомагає з домашньою роботою у вихідні.)
+    *iron* [ˈaɪən] (n/v) залізо; прасувати
+    - The bridge is made of iron. (Міст зроблений із заліза.)
+    - She irons her clothes every Sunday. (Вона прасує свій одяг кожної неділі.)
+    *jug* [dʒʌɡ] (n) глечик
+    - She poured the milk into a jug. (Вона налила молоко в глечик.)
+    *kettle* [ˈkɛtəl] (n) чайник
+    - Put the kettle on for tea. (Постав чайник для чаю.)
+    *kitchen* [ˈkɪtʃɪn] (n) кухня
+    - She's cooking dinner in the kitchen. (Вона готує вечерю на кухні.)
+    *ladder* [ˈlædə] (n) драбина
+    - He climbed up the ladder to reach the roof. (Він піднявся по драбині, щоб дістатися до даху.)
+    *lamp* [læmp] (n) лампа
+    - She turned on the lamp for reading. (Вона ввімкнула лампу для читання.)
+    *landlady* [ˈlændˌleɪdi] (n) господиня; власниця будинку
+    - The landlady came to collect the rent. (Господиня прийшла забрати орендну плату.)
+    *landlord* [ˈlændˌlɔːd] (n) господар; власник будинку
+    - I need to speak with my landlord about repairs. (Мені потрібно поговорити з господарем про ремонт.)
+    *laptop* [ˈlæpˌtɒp] (n) ноутбук
+    - He left his laptop at home. (Він залишив свій ноутбук вдома.)
+    *laundry* [ˈlɔːndri] (n) пральня; прання
+    - I need to do the laundry. (Мені потрібно випрати одяг.)
+    *lavatory* [ˈlævətəri] (n) туалет
+    - The lavatory is down the hall. (Туалет знаходиться в кінці коридору.)
+    *lawn* [lɔːn] (n) газон
+    - The lawn needs mowing. (Газон потрібно підстригти.)
+    *lift* [lɪft] (v/n) піднімати; ліфт
+    - Can you lift this box? (Чи можете ви підняти цю коробку?)
+    - Take the lift to the fifth floor. (Сядьте на ліфт до п'ятого поверху.)
+    *light* [laɪt] (n/adj) світло; легкий
+    - Turn on the light. (Увімкніть світло.)
+    - This bag is very light. (Ця сумка дуже легка.)
+    *living-room* [ˈlɪvɪŋ ruːm] (n) вітальня
+    - The TV is in the living-room. (Телевізор знаходиться у вітальні.)
+    *lock* [lɒk] (v/n) замикати; замок
+    - Lock the door when you leave. (Замикайте двері, коли йдете.)
+    - He forgot the key to the lock. (Він забув ключ від замка.)
+    *lounge* [laʊndʒ] (n) вітальня; хол
+    - They relaxed in the lounge. (Вони відпочивали у вітальні.)
+    *machine* [məˈʃiːn] (n) машина; апарат
+    - The washing machine broke down. (Пральна машина зламалася.)
+    *microwave* [ˈmaɪkrəweɪv] (n) мікрохвильовка
+    - I'll heat up the leftovers in the microwave. (Я розігрію залишки їжі в мікрохвильовці.)
+    *mirror* [ˈmɪrə] (n) дзеркало
+    - She checked her hair in the mirror. (Вона перевірила своє волосся в дзеркалі.)
+    *mug* [mʌɡ] (n) кружка
+    - She drank her coffee from a large mug. (Вона пила каву з великої кружки.)
+    *neighbour* [ˈneɪbər] (n) сусід
+    - Our neighbour is very friendly. (Наш сусід дуже дружелюбний.)
+    *oil* [ɔɪl] (n) олія; нафта
+    - She cooks with olive oil. (Вона готує з оливковою олією.)
+    - The country is rich in oil. (Країна багата на нафту.)
+    *oven* [ˈʌvən] (n) духовка
+    - She baked the cake in the oven. (Вона спекла торт у духовці.)
+    *pan* [pæn] (n) сковорода
+    - Heat the oil in a large pan. (Нагрійте олію у великій сковороді.)
+    *path* [pɑːθ] (n) стежка; шлях
+    - We walked along the forest path. (Ми йшли лісовою стежкою.)
+    *pillow* [ˈpɪləʊ] (n) подушка
+    - I need a soft pillow to sleep well. (Мені потрібна м’яка подушка, щоб добре спати.)
+    *pipe* [paɪp] (n) труба
+    - Water flows through the pipe. (Вода тече через трубу.)
+    *plant* [plɑːnt] (n) рослина
+    - She has a collection of rare plants. (У неї є колекція рідкісних рослин.)
+    *plug in* [ˈplʌɡ ɪn] (v) вставити вилку
+    - Can you plug in the charger? (Чи можеш ти вставити вилку зарядного пристрою?)
+    *plug* [plʌɡ] (n) вилка; пробка
+    - The plug is not working. (Вилка не працює.)
+    - He pulled out the plug. (Він витягнув пробку.)
+    *property* [ˈprɒpərti] (n) власність; майно
+    - He invested in real estate property. (Він інвестував у нерухоме майно.)
+    - The property of the material is its durability. (Властивість матеріалу - його міцність.)
+    *radio* [ˈreɪdiəʊ] (n) радіо
+    - Turn on the radio, please. (Будь ласка, увімкни радіо.)
+    *refrigerator* [rɪˈfrɪdʒəreɪtər] (n) холодильник
+    - Put the milk back in the refrigerator. (Поклади молоко назад у холодильник.)
+    *rent* [rɛnt] (v) орендувати
+    - They decided to rent an apartment. (Вони вирішили орендувати квартиру.)
+    *repair* [rɪˈpeər] (v) ремонтувати
+    - The mechanic will repair the car. (Механік відремонтує машину.)
+    *roof* [ruːf] (n) дах
+    - The cat climbed onto the roof. (Кіт заліз на дах.)
+    *room* [ruːm] (n) кімната
+    - Please clean your room. (Будь ласка, приберіть свою кімнату.)
+    *roommate* [ˈruːmˌmeɪt] (n) сусід по кімнаті
+    - I share an apartment with my roommate. (Я ділю квартиру з сусідом по кімнаті.)
+    *rubbish* [ˈrʌbɪʃ] (n) сміття
+    - Please take out the rubbish. (Будь ласка, винеси сміття.)
+    *seat* [siːt] (n) сидіння
+    - Please take your seat. (Будь ласка, займіть своє сидіння.)
+    *sheet* [ʃiːt] (n) аркуш; простирадло
+    - Please bring me an extra sheet for the bed. (Будь ласка, принеси мені ще одне простирадло для ліжка.)
+    - He handed out sheets of paper. (Він роздав аркуші паперу.)
+    *shelf* [ʃɛlf] (n) полиця
+    - The books are on the top shelf. (Книги на верхній полиці.)
+    *shower* [ˈʃaʊər] (n) душ
+    - She takes a shower every morning. (Вона приймає душ кожного ранку.)
+    *sink* [sɪŋk] (v) тонути; раковина (для миття посуду)
+    - The ship began to sink. (Корабель почав тонути.)
+    - Wash the dishes in the sink. (Мий посуд у раковині.)
+    *sitting room* [ˈsɪtɪŋ ruːm] (n) вітальня
+    - We usually watch TV in the sitting room. (Ми зазвичай дивимося телевізор у вітальні.)
+    *sofa* [ˈsəʊfə] (n) диван
+    - Let's sit on the sofa. (Давай сядемо на диван.)
+    *stairs* [stɛərz] (n) сходи
+    - Go up the stairs to the second floor. (Піднімайся сходами на другий поверх.)
+    *step* [stɛp] (n) крок; ступінь
+    - Take a step back. (Зроби крок назад.)
+    - He's on the first step of his career. (Він на першій сходинці своєї кар'єри.)
+    *surround* [səˈraʊnd] (v) оточувати
+    - The garden is surrounded by a wall. (Сад оточений стіною.)
+    *switch* [swɪtʃ] (v) перемикати
+    - Switch the channel to see what else is on. (Переключи канал, щоб подивитися, що ще є.)
+    *table-cloth* [ˈteɪblˌklɒθ] (n) скатертина
+    - She spread a beautiful table-cloth for the occasion. (Вона постелила красиву скатертину для цього випадку.)
+    *table* [ˈteɪbl] (n) стіл
+    - Set the table for dinner. (Накрий стіл до вечері.)
+    *tap* [tæp] (n) краник; кран
+    - Turn off the tap when you're done. (Закрий кран, коли закінчиш.)
+    *telephone* [ˈtɛlɪˌfoʊn] (n) телефон
+    - Can I use your telephone? (Чи можу я скористатися вашим телефоном?)
+    *television* [ˈtɛlɪˌvɪʒən] (n) телевізор
+    - We watch television in the evening. (Ми дивимося телевізор ввечері.)
+    *toilet* [ˈtɔɪlət] (n) туалет
+    - The toilet is down the hall. (Туалет вниз по коридору.)
+    *tool* [tuːl] (n) інструмент
+    - He needs a tool to fix the bike. (Йому потрібен інструмент, щоб полагодити велосипед.)
+    *towel* [ˈtaʊəl] (n) рушник
+    - Can you hand me a towel? (Чи можеш передати мені рушник?)
+    *tower* [ˈtaʊər] (n) вежа
+    - The Eiffel Tower is iconic. (Ейфелева вежа є іконічною.)
+    *toy* [tɔɪ] (n) іграшка
+    - The child loves playing with his new toy. (Дитина любить гратися зі своєю новою іграшкою.)
+    *upstairs* [ˌʌpˈsteərz] (adv) нагору; на верхньому поверсі
+    - She went upstairs to her room. (Вона піднялася нагору до своєї кімнати.)
+    *vase* [veɪz] (n) ваза
+    - She put the flowers in a vase. (Вона поставила квіти у вазу.)
+    *video* [ˈvɪdiəʊ] (n) відео
+    - They watched a video online. (Вони дивилися відео онлайн.)
+    *video recorder* [ˈvɪdiəʊ rɪˈkɔːdər] (n) відеомагнітофон
+    - We used to record TV shows with a video recorder. (Ми раніше записували телепередачі на відеомагнітофон.)
+    *videotape* [ˈvɪdiəʊteɪp] (n) відеокасета
+    - He found an old videotape in the attic. (Він знайшов стару відеокасету на горищі.)
+    *wall* [wɔːl] (n) стіна
+    - He hung the picture on the wall. (Він повісив картину на стіну.)
+    *wash-basin* [ˈwɒʃˌbeɪsn] (n) умивальник
+    - There's a small wash-basin in the bathroom. (У ванній є маленький умивальник.)
+    *washing* [ˈwɒʃɪŋ] (n) прання
+    - The washing is still on the line. (Прання все ще на мотузці.)
+    *wastepaper basket* [ˈweɪstpeɪpər ˌbɑːskɪt] (n) кошик для сміття
+    - Throw the paper in the wastepaper basket. (Кинь папір у кошик для сміття.)
+    *WC* [ˌdʌbəljuːˈsiː] (n) туалет
+    - The WC is down the hall. (Туалет знаходиться в кінці коридору.)
+    *window* [ˈwɪndəʊ] (n) вікно
+    - Open the window, please. (Будь ласка, відкрий вікно.)
+* Language
+    *advanced* [ədˈvænst] (adj) просунутий
+    - He took an advanced course in physics. (Він відвідував просунутий курс з фізики.)
+    *answer* [ˈænsər] (n/v) відповідь; відповідати
+    - What's the answer to this question? (Яка відповідь на це питання?)
+    - He answered quickly. (Він відповів швидко.)
+    *argue* [ˈɑːɡjuː] (v) сперечатися
+    - They argue about politics all the time. (Вони постійно сперечаються про політику.)
+    *ask* [ɑːsk] (v) питати
+    - Can I ask you a question? (Чи можу я задати вам питання?)
+    *beginner* [bɪˈɡɪnər] (n) початківець
+    - He's a beginner in chess. (Він початківець у шахах.)
+    *chat* [ʧæt] (v) балакати; спілкуватися
+    - They like to chat about their day. (Вони люблять балакати про свій день.)
+    *communicate* [kəˈmjuːnɪkeɪt] (v) спілкуватися
+    - They communicate well in English. (Вони добре спілкуються англійською.)
+    *communication* [kəˌmjuːnɪˈkeɪʃən] (n) комунікація; спілкування
+    - Good communication is key in any relationship. (Гарна комунікація є ключовою в будь-яких стосунках.)
+    *elementary* [ˌɛlɪˈmɛntəri] (adj) початковий; елементарний
+    - He speaks elementary French. (Він говорить французькою на початковому рівні.)
+    *email* [ˈiːmeɪl] (n) електронна пошта
+    - I sent you an email. (Я надіслав тобі електронного листа.)
+    *grammar* [ˈɡræmə] (n) граматика
+    - He's studying English grammar. (Він вивчає англійську граматику.)
+    *intermediate* [ˌɪntəˈmiːdiət] (adj/n) середній; проміжний
+    - He's at an intermediate level in Spanish. (Він на середньому рівні іспанської.)
+    - The intermediate stage was challenging. (Проміжний етап був складним.)
+    *interpret* [ɪnˈtɜːprɪt] (v) тлумачити; перекладати
+    - Can you interpret this sentence? (Чи можете ви перекласти це речення?)
+    *joke* [dʒəʊk] (n/v) жарт; жартувати
+    - He told a funny joke. (Він розповів смішний жарт.)
+    - They like to joke around. (Вони люблять жартувати.)
+    *letter* [ˈlɛtər] (n) лист; буква
+    - She wrote a letter to her friend. (Вона написала листа другу.)
+    - The word starts with the letter 'A'. (Слово починається з букви 'А'.)
+    *mean* [miːn] (v/adj) означати; середній; жорстокий
+    - What does this word mean? (Що означає це слово?)
+    - He's of mean height. (Він середнього зросту.)
+    - That was a mean thing to do. (Це було жорстоко.)
+    *meaning* [ˈmiːnɪŋ] (n) значення
+    - What's the meaning of life? (Яке значення життя?)
+    *mention* [ˈmɛnʃən] (v/n) згадувати; згадка
+    - Don't mention it. (Не згадуй про це.)
+    - There was no mention of the event. (Не було згадки про подію.)
+    *message* [ˈmɛsɪdʒ] (n) повідомлення; послання
+    - I received a message from him this morning. (Я отримав повідомлення від нього сьогодні вранці.)
+    *pronounce* [prəˈnaʊns] (v) вимовляти
+    - Can you pronounce this word? (Чи можете ви вимовити це слово?)
+    *pronunciation* [prəˌnʌnsiˈeɪʃən] (n) вимова
+    - His pronunciation needs improvement. (Йому потрібно покращити вимову.)
+    *question* [ˈkwɛstʃən] (n) питання
+    - Can I ask you a question? (Чи можу я задати вам питання?)
+    *say* [seɪ] (v) говорити
+    - What did you say? (Що ти сказав?)
+    *sentence* [ˈsɛntəns] (n) речення; вирок
+    - This sentence is quite long. (Це речення досить довге.)
+    - He was given a harsh sentence. (Йому винесли суворий вирок.)
+    *shout* [ʃaʊt] (v) кричати
+    - He shouted for help when he saw the fire. (Він кричав про допомогу, коли побачив вогонь.)
+    *speak* [spiːk] (v) говорити
+    - Can you speak louder, please? (Чи можете говорити голосніше, будь ласка?)
+    *talk* [tɔːk] (v) говорити
+    - Can we talk about this later? (Чи можемо ми поговорити про це пізніше?)
+    *tell* [tɛl] (v) розповідати; говорити
+    - Can you tell me the time? (Чи можете ви сказати мені час?)
+    - Tell me a story. (Розкажи мені історію.)
+    *translate* [trænsˈleɪt] (v) перекладати
+    - Can you translate this sentence into French? (Чи можеш ти перекласти це речення французькою?)
+    *translation* [trænsˈleɪʃən] (n) переклад
+    - The translation of the book took months. (Переклад книги зайняв місяці.)
+    *vocabulary* [vəˈkæbjʊləri] (n) словниковий запас
+    - Learning new words expands your vocabulary. (Вивчення нових слів розширює ваш словниковий запас.)
+    *word* [wɜːd] (n) слово
+    - Can you define this word? (Чи можеш ти визначити це слово?)
+* Months of the year
+    *January* [ˈdʒænjuəri] (n) січень
+    - My birthday is in January. (Мій день народження в січні.)
+    *February* [ˈfɛbruəri] (n) лютий
+    - February is the shortest month. (Лютий – найкоротший місяць.)
+    *March* [mɑːrtʃ] (n) березень
+    - Spring starts in March. (Весна починається в березні.)
+    *April* [ˈeɪprəl] (n) квітень
+    - April is known for its showers. (Квітень відомий своїми дощами.)
+    *May* [meɪ] (n) травень
+    - Flowers bloom in May. (Квіти розквітають у травні.)
+    *June* [dʒuːn] (n) червень
+    - Summer starts in June. (Літо починається в червні.)
+    *July* [dʒuːˈlaɪ] (n) липень
+    - They're getting married in July. (Вони одружуються в липні.)
+    *August* [ˈɔːɡəst] (n) серпень
+    - We're going on vacation in August. (Ми їдемо у відпустку в серпні.)
+    *September* [sɛpˈtɛmbər] (n) вересень
+    - My birthday is in September. (Мій день народження у вересні.)
+    *October* [ɑːkˈtoʊbər] (n) жовтень
+    - My birthday is in October. (Мій день народження у жовтні.)
+    *November* [noʊˈvɛmbər] (n) листопад
+    - My birthday is in November. (Мій день народження в листопаді.)
+    *December* [dɪˈsɛmbər] (n) грудень
+    - Christmas is in December. (Різдво у грудні.  )
+* Ordinal numbers
+    *first* [fɜːrst] (adj) перший
+    - She won first place. (Вона зайняла перше місце.)
+    *second* [ˈsɛkənd] (adj) другий
+    - He finished in second place. (Він фінішував на другому місці.)
+    *third* [θɜːrd] (adj) третій
+    - He finished in third place. (Він фінішував на третьому місці.)
+    *fourth* [fɔːrθ] (adj) четвертий
+    - This is her fourth attempt. (Це її четверта спроба.)
+    *fifth* [fɪfθ] (adj) п'ятий
+    *sixth* [sɪksθ] (adj) шостий
+    *seventh* [ˈsɛvnθ] (adj) сьомий
+    *eighth* [eɪtθ] (adj) восьмий
+    *ninth* [naɪnθ] (adj) дев'ятий
+    *tenth* [tɛnθ] (adj) десятий
+* Personal Feelings, and Experiences (Adjectives)
+    *able* [ˈeɪbəl] (adj) здатний; спроможний
+    - She is able to speak four languages. (Вона здатна говорити чотирма мовами.)
+    *afraid* [əˈfreɪd] (adj) наляканий
+    - She was afraid of the dark. (Вона боялася темряви.)
+    *amazed* [əˈmeɪzd] (adj) вражений
+    - I was amazed by the performance. (Я був вражений виступом.)
+    *amazing* [əˈmeɪzɪŋ] (adj) вражаючий
+    - The view from the top was amazing. (Вид з вершини був вражаючим.)
+    *amusing* [əˈmjuːzɪŋ] (adj) забавний
+    - The movie was amusing. (Фільм був забавним.)
+    *angry* [ˈæŋɡri] (adj) сердитий
+    - She was angry about the delay. (Вона була сердита через затримку.)
+    *annoyed* [əˈnɔɪd] (adj) роздратований
+    - I was annoyed by the noise. (Я був роздратований шумом.)
+    *anxious* [ˈæŋkʃəs] (adj) тривожний
+    - He was anxious about the exam. (Він був тривожний через іспит.)
+    *ashamed* [əˈʃeɪmd] (adj) сором'язливий
+    - He felt ashamed of his behavior. (Він відчував сором за свою поведінку.)
+    *awful* [ˈɔːfl] (adj) жахливий
+    - It was an awful experience. (Це було жахливе переживання.)
+    *bored* [bɔːrd] (adj) нудьгуючий; засмучений
+    - She was bored during the lecture. (Вона нудьгувала під час лекції.)
+    *boring* [ˈbɔːrɪŋ] (adj) нудний
+    - The movie was incredibly boring. (Фільм був неймовірно нудним.)
+    *bossy* [ˈbɒsi] (adj) начальницький
+    - She can be very bossy at times. (Вона іноді може бути дуже начальницькою.)
+    *brave* [breɪv] (adj) хоробрий
+    - It was brave of her to speak out. (Було хоробро з її боку виступити.)
+    *brilliant* [ˈbrɪljənt] (adj) блискучий; геніальний
+    - He had a brilliant idea for the campaign. (У нього була геніальна ідея для кампанії.)
+    *calm* [kɑːm] (adj) спокійний
+    - The lake was calm and peaceful. (Озеро було спокійним і мирним.)
+    *challenging* [ˈʧælɪndʒɪŋ] (adj) викличний
+    - It was a very challenging task. (Це було дуже викличне завдання.)
+    *cheerful* [ˈʧɪəfʊl] (adj) веселий; радісний
+    - She has a very cheerful disposition. (У неї дуже веселий характер.)
+    *clever* [ˈklɛvər] (adj) розумний; кмітливий
+    - He's a very clever child. (Він дуже розумна дитина.)
+    *confident* [ˈkɒnfɪdənt] (adj) впевнений
+    - She's very confident in her abilities. (Вона дуже впевнена у своїх здібностях.)
+    *crazy* [ˈkreɪzi] (adj) божевільний; шалений
+    - That idea is crazy! (Ця ідея божевільна!)
+    *cruel* [ˈkruːəl] (adj) жорстокий
+    - He was a cruel man. (Він був жорстокою людиною.)
+    *curious* [ˈkjʊərɪəs] (adj) цікавий; допитливий
+    - She is a very curious child. (Вона дуже допитлива дитина.)
+    *delighted* [dɪˈlaɪtɪd] (adj) радісний; задоволений
+    - She was delighted with the gift. (Вона була рада подарунку.  )
+    *depressed* [dɪˈprɛst] (adj) депресивний
+    - She felt depressed after losing her job. (Вона почувалася депресивною після втрати роботи.  )
+    *difficult* [ˈdɪfɪkəlt] (adj) складний; важкий
+    - This is a difficult task. (Це складне завдання.)
+    - He found the exam very difficult. (Він вважав іспит дуже важким.  )
+    *disappointed* [ˌdɪsəˈpɔɪntɪd] (adj) розчарований
+    - She was disappointed with the results. (Вона була розчарована результатами.  )
+    *dizzy* [ˈdɪzi] (adj) запаморочливий; безглуздий
+    - I feel dizzy after spinning around. (У мене паморочиться в голові після обертання.)
+    *easy* [ˈiːzi] (adj) легкий; простий
+    - The test was easy. (Тест був легким.)
+    *embarrassed* [ɪmˈbærəst] (adj) засоромлений; незручний
+    - She felt embarrassed about her mistake. (Вона почувалася засоромленою через свою помилку.)
+    *embarrassing* [ɪmˈbærəsɪŋ] (adj) незручний; соромливий
+    - It was an embarrassing situation. (Це була незручна ситуація.)
+    *excited* [ɪkˈsaɪtɪd] (adj) збуджений; захоплений
+    - She was excited about her trip. (Вона була в захваті від своєї подорожі.)
+    *exciting* [ɪkˈsaɪtɪŋ] (adj) захоплюючий; цікавий
+    - The movie was very exciting. (Фільм був дуже захоплюючий.)
+    *fantastic* [fænˈtæstɪk] (adj) фантастичний; чудовий
+    - The view is fantastic! (Вид просто фантастичний!)
+    *fit* [fɪt] (adj) підходящий; здоровий
+    - He is very fit. (Він у чудовій фізичній формі.)
+    *fond* [fɒnd] (adj) ніжний; прихильний
+    - She is fond of cats. (Вона любить котів.)
+    *frightened* [ˈfraɪtənd] (adj) переляканий
+    - She was frightened by the loud noise. (Вона була перелякана гучним шумом.)
+    *funny* [ˈfʌni] (adj) смішний; кумедний
+    - That movie was really funny. (Той фільм був дуже смішним.)
+    *generous* [ˈdʒɛnərəs] (adj) щедрий
+    - He's known for his generous donations. (Він відомий своїми щедрими пожертвами.)
+    *gentle* [ˈdʒɛntl] (adj) лагідний; ніжний
+    - She has a very gentle touch. (У неї дуже ніжний дотик.)
+    *glad* [ɡlæd] (adj) радий
+    - I'm glad to see you. (Я радий бачити тебе.)
+    *guilty* [ˈɡɪlti] (adj) винний
+    - He felt guilty about lying. (Він відчував себе винним через брехню.)
+    *happy* [ˈhæpi] (adj) щасливий
+    - She was happy with the results. (Вона була щаслива з результатами.)
+    *hard* [hɑːd] (adj/adv) важкий; важко
+    - This problem is hard. (Ця проблема важка.)
+    - He worked hard all day. (Він важко працював весь день.)
+    *healthy* [ˈhɛlθi] (adj) здоровий
+    - She follows a healthy diet. (Вона дотримується здорового харчування.)
+    *intelligent* [ɪnˈtɛlɪdʒənt] (adj) розумний; інтелігентний
+    - He's an intelligent student. (Він розумний студент.)
+    *jealous* [ˈdʒɛləs] (adj) ревнивий
+    - She was jealous of her sister's success. (Вона була ревнивою до успіху своєї сестри.)
+    *keen* [kiːn] (adj) гострий; захоплений
+    - He has a keen interest in science. (У нього гострий інтерес до науки.)
+    - She's keen on learning new things. (Вона захоплюється вивченням нових речей.)
+    *lazy* [ˈleɪzi] (adj) лінивий
+    - He's too lazy to do any work. (Він занадто лінивий, щоб працювати.)
+    *lucky* [ˈlʌki] (adj) щасливий
+    - He's a lucky guy. (Він щасливий хлопець.)
+    *mad* [mæd] (adj) божевільний; сердитий
+    - He was mad about the news. (Він був божевільний від цієї новини.)
+    - She's mad at him. (Вона сердита на нього.)
+    *merry* [ˈmɛri] (adj) веселий; радісний
+    - He's always in a merry mood during the holidays. (Він завжди у веселому настрої під час свят.)
+    *miserable* [ˈmɪzərəbəl] (adj) нещасний; жалюгідний
+    - He felt miserable after losing the game. (Він почувався нещасним після програшу в грі.)
+    *negative* [ˈnɛɡətɪv] (adj) негативний
+    - He has a very negative attitude. (У нього дуже негативне ставлення.)
+    *nervous* [ˈnɜːvəs] (adj) нервовий
+    - I'm nervous about the exam. (Я нервую через іспит.)
+    *noisy* [ˈnɔɪzi] (adj) шумний
+    - The children were being very noisy. (Діти були дуже шумними.)
+    *normal* [ˈnɔːməl] (adj) нормальний
+    - Everything is back to normal now. (Все повернулося до нормального стану.)
+    *old-fashioned* [ˌoʊldˈfæʃənd] (adj) старомодний
+    - She has an old-fashioned taste in music. (У неї старомодний смак до музики.)
+    *ordinary* [ˈɔːrdənəri] (adj) звичайний
+    - It was just an ordinary day at work. (Це був просто звичайний робочий день.)
+    *original* [əˈrɪdʒənəl] (adj) оригінальний
+    - This is the original painting by the artist. (Це оригінальна картина художника.)
+    *patient* [ˈpeɪʃənt] (n) пацієнт; терплячий
+    - The doctor examined the patient carefully. (Лікар уважно оглянув пацієнта.)
+    *personal* [ˈpɜːrsənəl] (adj) особистий
+    - This is my personal opinion. (Це моя особиста думка.)
+    *pleasant* [ˈplɛzənt] (adj) приємний
+    - It's a pleasant day for a walk. (Це приємний день для прогулянки.)
+    *positive* [ˈpɒzɪtɪv] (adj) позитивний
+    - His attitude is always positive. (Його ставлення завжди позитивне.)
+    *punctual* [ˈpʌŋktʃuəl] (adj) пунктуальний
+    - She's always punctual for meetings. (Вона завжди пунктуальна на зустрічах.)
+    *realistic* [ˌrɪəˈlɪstɪk] (adj) реалістичний
+    - The plan seems realistic. (План виглядає реалістичним.)
+    *reasonable* [ˈriːzənəbl] (adj) розумний; доступний
+    - His request seems reasonable. (Його прохання здається розумним.)
+    - The price is quite reasonable. (Ціна досить доступна.)
+    *relaxed* [rɪˈlækst] (adj) розслаблений
+    - He seemed very relaxed after his vacation. (Після відпустки він виглядав дуже розслабленим.)
+    *reliable* [rɪˈlaɪəbl] (adj) надійний
+    - This car is very reliable. (Ця машина дуже надійна.)
+    *rich* [rɪtʃ] (adj) багатий
+    - He became rich through investments. (Він став багатим завдяки інвестиціям.)
+    - The soil here is rich in nutrients. (Грунт тут багатий на поживні речовини.)
+    *rude* [ruːd] (adj) грубий; нечемний
+    - It's rude to interrupt someone while they're speaking. (Грубо переривати когось під час розмови.)
+    - He was very rude to the waiter. (Він був дуже нечемним до офіціанта.)
+    *sad* [sæd] (adj) сумний
+    - She was sad after hearing the news. (Вона була сумна після того, як почула новини.)
+    *satisfied* [ˈsætɪsfaɪd] (adj) задоволений
+    - She was satisfied with the results. (Вона була задоволена результатами.)
+    *serious* [ˈsɪəriəs] (adj) серйозний
+    - This is a serious matter. (Це серйозна справа.)
+    *skilled* [skɪld] (adj) кваліфікований
+    - He's a skilled carpenter. (Він кваліфікований тесля.)
+    *slim* [slɪm] (adj) стрункий
+    - She looks very slim in that dress. (Вона виглядає дуже стрункою в цій сукні.)
+    *smart* [smɑːrt] (adj) розумний; елегантний
+    - She's very smart, she'll figure it out. (Вона дуже розумна, вона розбереться.)
+    - He looked smart in his new suit. (Він виглядав елегантно в своєму новому костюмі.)
+    *special* [ˈspɛʃəl] (adj) спеціальний; особливий
+    - This is a special occasion. (Це особливий випадок.)
+    - They have a special offer today. (Сьогодні у них спеціальна пропозиція.)
+    *strange* [streɪndʒ] (adj) дивний; незвичайний
+    - It's a strange coincidence. (Це дивне збіг.)
+    - She had a strange feeling. (У неї було незвичайне відчуття.)
+    *strong* [strɒŋ] (adj) сильний; міцний
+    - She's very strong for her age. (Вона дуже сильна для свого віку.)
+    - This coffee is too strong for me. (Ця кава для мене занадто міцна.)
+    *stupid* [ˈstjuːpɪd] (adj) дурний
+    - It was a stupid mistake to make. (Це була дурна помилка.)
+    *sure* [ʃʊər] (adj) впевнений; точно
+    - Are you sure about this? (Ти впевнений у цьому?)
+    - He's sure to come. (Він точно прийде.)
+    *surprised* [səˈpraɪzd] (adj) здивований
+    - I was surprised to hear the news. (Я був здивований, почувши новини.)
+    *terrible* [ˈtɛrəbl] (adj) жахливий
+    - The weather was terrible yesterday. (Погода була жахливою вчора.)
+    *tired* [ˈtaɪərd] (adj) втомлений
+    - I'm so tired after work. (Я такий втомлений після роботи.)
+    *true* [truː] (adj) правдивий
+    - Is it true that you're moving? (Чи правда, що ви переїжджаєте?)
+    *typical* [ˈtɪpɪkəl] (adj) типовий
+    - This is a typical day for me. (Це типовий день для мене.)
+    *unable* [ʌnˈeɪbl] (adj) нездатний
+    - He was unable to attend the meeting. (Він був нездатний прийти на зустріч.)
+    *unusual* [ʌnˈjuːʒʊəl] (adj) незвичайний
+    - It's unusual to see snow here in May. (Незвично бачити сніг тут у травні.)
+    *well* [wɛl] (adv) добре
+    - He performed well in the exam. (Він добре впорався з іспитом.)
+    *wonderful* [ˈwʌndəfʊl] (adj) чудовий
+    - It was a wonderful evening. (Це був чудовий вечір.)
+* Places: Buildings
+    *apartment block* [əˈpɑːrtmənt blɒk] (n) блок квартир
+    - Her apartment is in the new block. (Її квартира знаходиться в новому блоці.)
+    *bank* [bæŋk] (n) банк
+    - He deposited money in the bank. (Він поклав гроші в банк.)
+    *block of flats* [blɒk əv ˈflæts] (n) блок квартир
+    - They live in a block of flats. (Вони живуть у блоці квартир.)
+    *bookshop* [ˈbʊkʃɒp] (n) книгарня
+    - She loves to spend time in bookshops. (Вона любить проводити час у книгарнях.)
+    *cafe* [ˈkæfeɪ] (n) кафе
+    - Let's meet at the cafe on the corner. (Зустрінемося в кафе на розі.)
+    *castle* [ˈkæsəl] (n) замок
+    - They visited a medieval castle. (Вони відвідали середньовічний замок.)
+    *cathedral* [kəˈθiːdrəl] (n) собор
+    - The cathedral had beautiful stained glass windows. (Собор мав красиві вітражі.)
+    *church* [ʧɜːʧ] (n) церква
+    - They went to church on Sunday. (Вони пішли до церкви в неділю.)
+    *cinema* [ˈsɪnəmə] (n) кінотеатр
+    - Let's go to the cinema tonight. (Давай підемо в кінотеатр сьогодні ввечері.)
+    *clinic* [ˈklɪnɪk] (n) клініка
+    - She works at a dental clinic. (Вона працює в стоматологічній клініці.)
+    *club* [klʌb] (n) клуб
+    - She's a member of the book club. (Вона член книжкового клубу.)
+    *college* [ˈkɒlɪdʒ] (n) коледж
+    - He's attending college in Boston. (Він навчається в коледжі в Бостоні.)
+    *cottage* [ˈkɒtɪdʒ] (n) котедж; садиба
+    - They live in a small cottage by the sea. (Вони живуть у маленькому котеджі біля моря.)
+    *department* [dɪˈpɑːtmənt] (n) відділ; департамент
+    - She works in the sales department. (Вона працює у відділі продажів.  )
+    *factory* [ˈfæktəri] (n) фабрика; завод
+    - He works in a car factory. (Він працює на автомобільному заводі.)
+    *gallery* [ˈɡæləri] (n) галерея
+    - We visited an art gallery in the city. (Ми відвідали художню галерею в місті.)
+    *garage* [ˈɡærɑːʒ] (n) гараж
+    - He parked the car in the garage. (Він поставив машину в гараж.)
+    *guest-house* [ˈɡɛstˌhaʊs] (n) гостьовий будинок
+    - They stayed at a guest-house during their trip. (Вони зупинилися в гостьовому будинку під час подорожі.)
+    *hospital* [ˈhɒspɪtəl] (n) лікарня
+    - He was taken to the hospital after the accident. (Після аварії його відвезли до лікарні.)
+    *hotel* [həʊˈtɛl] (n) готель
+    - We booked a room in a hotel near the beach. (Ми забронювали номер у готелі біля пляжу.)
+    *house* [haʊs] (n) будинок
+    - They bought a new house in the suburbs. (Вони купили новий будинок у передмісті.)
+    *kiosk* [ˈkiːɒsk] (n) кіоск
+    - She bought a magazine at the kiosk. (Вона купила журнал у кіоску.)
+    *library* [ˈlaɪbrəri] (n) бібліотека
+    - She spends a lot of time in the library. (Вона проводить багато часу в бібліотеці.)
+    *mosque* [mɒsk] (n) мечеть
+    - We visited a beautiful mosque on our trip. (Ми відвідали красиву мечеть під час нашої подорожі.)
+    *museum* [mjuˈziːəm] (n) музей
+    - They spent the afternoon at the history museum. (Вони провели післяобідній час в історичному музеї.)
+    *office block* [ˈɒfɪs blɒk] (n) офісний блок
+    - The new office block is very modern. (Новий офісний блок дуже сучасний.)
+    *palace* [ˈpæləs] (n) палац
+    - The king lives in a grand palace. (Король живе у величному палаці.)
+    *police station* [pəˈlis ˈsteɪʃən] (n) поліцейська дільниця
+    - Report the incident at the nearest police station. (Повідомте про інцидент у найближчій поліцейській дільниці.)
+    *post office* [ˈpoʊst ˈɒfɪs] (n) пошта; поштове відділення
+    - I need to go to the post office to send this parcel. (Мені потрібно піти на пошту, щоб відправити цю посилку.)
+    *prison* [ˈprɪzn] (n) в'язниця
+    - He was sent to prison for his crimes. (Його відправили до в'язниці за його злочини.)
+    *ruin* [ˈruːɪn] (v) руйнувати
+    - The storm could ruin the crops. (Буря може зруйнувати врожай.)
+    - He ruined his chances by being late. (Він зруйнував свої шанси, запізнившись.)
+    *school* [skuːl] (n) школа
+    - He goes to school every day. (Він ходить до школи щодня.)
+    *shop* [ʃɒp] (n) магазин
+    - Let's go to the shop for some groceries. (Давай підемо до магазину за продуктами.)
+    *sports centre* [ˈspɔːrts ˌsɛntər] (n) спортивний центр
+    - They're building a new sports centre. (Вони будують новий спортивний центр.)
+    *stadium* [ˈsteɪdiəm] (n) стадіон
+    - The concert is at the stadium. (Концерт відбудеться на стадіоні.)
+    *store* [stɔːr] (n) магазин; склад
+    - There's a new furniture store downtown. (У центрі міста відкрився новий меблевий магазин.)
+    - They keep supplies in the store. (Вони зберігають запаси на складі.)
+    *supermarket* [ˈsuːpərˌmɑːrkɪt] (n) супермаркет
+    - I'll go to the supermarket after work. (Я піду до супермаркету після роботи.)
+    *swimming pool* [ˈswɪmɪŋ puːl] (n) басейн
+    - Let's go to the swimming pool tomorrow. (Давай завтра підемо до басейну.)
+    *theatre* [ˈθɪətər] (n) театр
+    - We're going to the theatre tonight. (Ми йдемо в театр сьогодні ввечері.)
+    *tower* [ˈtaʊər] (n) вежа
+    - The Eiffel Tower is iconic. (Ейфелева вежа є іконічною.)
+    *university* [ˌjuːnɪˈvɜːrsɪti] (n) універсітет
+    - She's studying at a university in London. (Вона вчиться в університеті в Лондоні.)
+* Places: Countryside
+    *area* [ˈeəriə] (n) район; область
+    - This is a residential area. (Це житловий район.)
+    *bay* [beɪ] (n) затока
+    - The bay offered a beautiful view. (Затока пропонувала чудовий вид.)
+    *beach* [biːʧ] (n) пляж
+    - We walked along the beach at sunset. (Ми гуляли по пляжу на заході сонця.)
+    *canal* [kəˈnæl] (n) канал
+    - The canal runs through the city. (Канал проходить через місто.)
+    *cliff* [klɪf] (n) скеля; урвище
+    - They stood on the edge of the cliff. (Вони стояли на краю скелі.)
+    *desert* [ˈdɛzərt] (n) пустеля
+    - The Sahara is the largest desert in the world. (Сахара — найбільша пустеля у світі.  )
+    *earth* [ɜːθ] (n) земля; планета
+    - The Earth orbits the sun. (Земля обертається навколо Сонця.)
+    *farm* [fɑːm] (n) ферма; господарство
+    - They live on a farm. (Вони живуть на фермі.)
+    *field* [fiːld] (n) поле; ділянка
+    - The cows are in the field. (Корови на полі.)
+    *forest* [ˈfɒrɪst] (n) ліс; лісова місцевість
+    - We went for a walk in the forest. (Ми пішли на прогулянку в ліс.)
+    *harbour* [ˈhɑːbə] (n) гавань
+    - The ships are docked in the harbour. (Кораблі стоять у гавані.)
+    *hill* [hɪl] (n) пагорб
+    - They climbed to the top of the hill. (Вони піднялися на вершину пагорба.)
+    *island* [ˈaɪlənd] (n) острів
+    - They spent their vacation on a small island. (Вони провели відпустку на маленькому острові.)
+    *lake* [leɪk] (n) озеро
+    - They went fishing at the lake. (Вони ходили на рибалку на озеро.)
+    *land* [lænd] (n/v) земля; приземлятися
+    - He owns a lot of land. (Він володіє багатьма землями.)
+    - The plane will land soon. (Літак скоро приземлиться.)
+    *mountain* [ˈmaʊntən] (n) гора
+    - They climbed the highest mountain in the region. (Вони піднялися на найвищу гору в регіоні.)
+    *ocean* [ˈoʊʃən] (n) океан
+    - They sailed across the ocean. (Вони пливли через океан.)
+    *path* [pɑːθ] (n) стежка; шлях
+    - We walked along the forest path. (Ми йшли лісовою стежкою.)
+    *port* [pɔːrt] (n) порт
+    - The ship docked at the port. (Корабель пришвартувався в порту.)
+    *quay* [kiː] (n) пристань
+    - The ship was moored at the quay. (Корабель був пришвартований біля пристані.)
+    *railway* [ˈreɪlweɪ] (n) залізниця
+    - They traveled by railway. (Вони подорожували залізницею.)
+    *rainforest* [ˈreɪnˌfɒrɪst] (n) тропічний ліс
+    - They're working to protect the rainforest. (Вони працюють над захистом тропічного лісу.)
+    *region* [ˈriːdʒən] (n) регіон; область
+    - This region is known for its wine. (Цей регіон відомий своїми винами.)
+    *river* [ˈrɪvər] (n) річка
+    - They went fishing in the river. (Вони ходили ловити рибу в річці.)
+    *rock* [rɒk] (n) скеля; камінь
+    - They climbed the rock to see the view. (Вони піднялися на скелю, щоб побачити вид.)
+    - He threw a rock into the water. (Він кинув камінь у воду.)
+    *sand* [sænd] (n) пісок
+    - Children were playing in the sand. (Діти гралися в піску.)
+    *scenery* [ˈsiːnəri] (n) пейзаж; декорації
+    - The scenery in the countryside is beautiful. (Пейзаж у сільській місцевості дуже красивий.)
+    - The play's scenery was impressive. (Декорації до вистави були вражаючими.)
+    *sea* [siː] (n) море
+    - We're planning a trip to the sea. (Ми плануємо поїздку до моря.)
+    *seaside* [ˈsiːˌsaɪd] (n) узбережжя
+    - They spent their vacation at the seaside. (Вони провели відпустку на узбережжі.)
+    *sky* [skaɪ] (n) небо
+    - The sky was clear and blue. (Небо було чистим і синім.)
+    *soil* [sɔɪl] (n) ґрунт; земля
+    - The soil here is very fertile. (Ґрунт тут дуже родючий.)
+    - He wiped the dirt off his hands on the soil. (Він витер бруд з рук об землю.)
+    *stream* [striːm] (n) потік; струмок
+    - We followed the stream through the forest. (Ми йшли вздовж потоку через ліс.)
+    - The stream of people never ended. (Струмок людей не закінчувався.)
+    *valley* [ˈvæli] (n) долина
+    - The village lies in a beautiful valley. (Село розташоване в прекрасній долині.)
+    *village* [ˈvɪlɪdʒ] (n) село
+    - They live in a small village. (Вони живуть у маленькому селі.)
+    *waterfall* [ˈwɔːtəfɔːl] (n) водоспад
+    - The waterfall was spectacular. (Водоспад був видовищним.)
+    *wood* [wʊd] (n) дерево; ліс
+    - The table is made of wood. (Стіл зроблений з дерева.)
+    - They went for a walk in the wood. (Вони пішли гуляти в ліс.)
+* Places: Town and City
+    *airport* [ˈeərpɔːrt] (n) аеропорт
+    - We met at the airport. (Ми зустрілися в аеропорту.)
+    *bridge* [brɪdʒ] (n) міст
+    - They crossed the river via the bridge. (Вони перейшли річку через міст.)
+    *bus station* [bʌs ˈsteɪʃən] (n) автобусна станція
+    - Meet me at the bus station. (Зустрінемося на автобусній станції.)
+    *bus stop* [bʌs stɒp] (n) автобусна зупинка
+    - The bus stop is just around the corner. (Автобусна зупинка за рогом.)
+    *car park* [ˈkɑː pɑːrk] (n) автостоянка
+    - The car park was full. (Автостоянка була заповнена.)
+    *city centre* [ˌsɪti ˈsɛntər] (n) центр міста
+    - The city centre is very busy. (Центр міста дуже жвавий.)
+    *comer* [ˈkʌmər] (n) прибулець; новачок
+    - She's a new comer to the city. (Вона новачок у місті.)
+    *crossing* [ˈkrɒsɪŋ] (n) перехід; перехрестя
+    - The pedestrian crossing is over there. (Пішохідний перехід там.)
+    *crossroads* [ˈkrɒsroʊdz] (n) перехрестя
+    - We met at the crossroads. (Ми зустрілися на перехресті.)
+    *fountain* [ˈfaʊntɪn] (n) фонтан; джерело
+    - The water in the fountain sparkled. (Вода у фонтані блищала.)
+    *market* [ˈmɑːkɪt] (n) ринок; базар
+    - They went to the local market. (Вони пішли на місцевий ринок.)
+    *motorway* [ˈmoʊtərˌweɪ] (n) автомагістраль
+    - We took the motorway to get there quickly. (Ми скористалися автомагістраллю, щоб швидко туди дістатися.)
+    *park* [pɑːrk] (n) парк
+    - We went for a walk in the park. (Ми пішли на прогулянку в парк.)
+    *pavement* [ˈpeɪvmənt] (n) тротуар
+    - She tripped on the uneven pavement. (Вона спіткнулася на нерівному тротуарі.)
+    *petrol station* [ˈpɛtrəl ˈsteɪʃən] (n) заправна станція
+    - We stopped at a petrol station for fuel. (Ми зупинилися на заправній станції, щоб заправитися.)
+    *playground* [ˈpleɪɡraʊnd] (n) ігровий майданчик
+    - The children are playing at the playground. (Діти грають на ігровому майданчику.)
+    *road* [roʊd] (n) дорога
+    - The road was closed due to construction. (Дорога була закрита через будівництво.)
+    *roundabout* [ˈraʊndəbaʊt] (n) кругове перехрестя
+    - Take the second exit at the roundabout. (Візьми другий виїзд на круговому перехресті.)
+    *route* [ruːt] (n) маршрут
+    - This is the best route to the airport. (Це найкращий маршрут до аеропорту.)
+    *shopping centre* [ˈʃɒpɪŋ ˌsɛntər] (n) торговий центр
+    - They met at the shopping centre. (Вони зустрілися в торговому центрі.)
+    *signpost* [ˈsaɪnˌpoʊst] (n) вказівник; стовп з дорожніми знаками
+    - The signpost showed the way to the village. (Вказівник показував дорогу до села.)
+    *square* [skwɛər] (n) площа; квадрат
+    - Meet me at the main square. (Зустрінемося на головній площі.)
+    - Draw a square on the paper. (Намалюй квадрат на папері.)
+    *station* [ˈsteɪʃən] (n) станція
+    - We'll meet at the train station. (Зустрінемося на залізничній станції.)
+    *subway* [ˈsʌbweɪ] (n) метро; підземний перехід
+    - We took the subway to get downtown. (Ми скористалися метро, щоб дістатися до центру міста.)
+    - There's a subway under the road. (Там є підземний перехід під дорогою.)
+    *taxi rank* [ˈtæksi ræŋk] (n) стоянка таксі
+    - There's a taxi rank just outside the station. (Стоянка таксі знаходиться прямо біля вокзалу.)
+    *tunnel* [ˈtʌnl] (n) тунель
+    - The train went through the tunnel. (Поїзд пройшов через тунель.)
+    *turning* [ˈtɜːrnɪŋ] (n) поворот
+    - Take the next turning on the right. (Поверни на наступному повороті праворуч.)
+    *underground* [ˈʌndərˌɡraʊnd] (adj) підземний
+    - The city has an extensive underground rail system. (У міста є розгалужена підземна залізниця.)
+    *zoo* [zuː] (n) зоопарк
+    - Let's take the kids to the zoo this weekend. (Давайте в цей вихідний поведемо дітей у зоопарк.)
+* Seasons of the year
+    *spring* [sprɪŋ] (n) весна
+    - Spring is my favorite season. (Весна - моя улюблена пора року.)
+    *summer* [ˈsʌmər] (n) літо
+    - We're planning a trip for the summer. (Ми плануємо поїздку на літо.)
+    *autumn* [ˈɔːtəm] (n) осінь
+    - Autumn is my favorite season. (Осінь - моя улюблена пора року.)
+    *winter* [ˈwɪntər] (n) зима
+    - Winter is my favorite season. (Зима - моя улюблена пора року.)
+* Services
+    *bank* [bæŋk] (n) банк
+    - He deposited money in the bank. (Він поклав гроші в банк.)
+    *cafe* [ˈkæfeɪ] (n) кафе
+    - Let's meet at the cafe on the corner. (Зустрінемося в кафе на розі.)
+    *cinema* [ˈsɪnəmə] (n) кінотеатр
+    - Let's go to the cinema tonight. (Давай підемо в кінотеатр сьогодні ввечері.)
+    *dentist* [ˈdɛntɪst] (n) стоматолог
+    - I have an appointment with the dentist. (У мене запис до стоматолога.  )
+    *doctor* [ˈdɒktər] (n) лікар
+    - She visited the doctor for a check-up. (Вона відвідала лікаря для огляду.)
+    *dry cleaner* [ˌdraɪ ˈkliːnər] (n) хімчистка
+    - I took my suit to the dry cleaner. (Я відніс свій костюм у хімчистку.)
+    *gallery* [ˈɡæləri] (n) галерея
+    - We visited an art gallery in the city. (Ми відвідали художню галерею в місті.)
+    *garage* [ˈɡærɑːʒ] (n) гараж
+    - He parked the car in the garage. (Він поставив машину в гараж.)
+    *guest-house* [ˈɡɛstˌhaʊs] (n) гостьовий будинок
+    - They stayed at a guest-house during their trip. (Вони зупинилися в гостьовому будинку під час подорожі.)
+    *hairdresser* [ˈheəˌdresə] (n) перукар
+    - She went to the hairdresser to dye her hair. (Вона пішла до перукаря, щоб пофарбувати волосся.)
+    *hotel* [həʊˈtɛl] (n) готель
+    - We booked a room in a hotel near the beach. (Ми забронювали номер у готелі біля пляжу.)
+    *library* [ˈlaɪbrəri] (n) бібліотека
+    - She spends a lot of time in the library. (Вона проводить багато часу в бібліотеці.)
+    *museum* [mjuˈziːəm] (n) музей
+    - They spent the afternoon at the history museum. (Вони провели післяобідній час в історичному музеї.)
+    *post office* [ˈpoʊst ˈɒfɪs] (n) пошта; поштове відділення
+    - I need to go to the post office to send this parcel. (Мені потрібно піти на пошту, щоб відправити цю посилку.)
+    *restaurant* [ˈrɛstərɒnt] (n) ресторан
+    - We're going to a new restaurant tonight. (Ми йдемо в новий ресторан сьогодні ввечері.)
+    *sports centre* [ˈspɔːrts ˌsɛntər] (n) спортивний центр
+    - They're building a new sports centre. (Вони будують новий спортивний центр.)
+    *swimming pool* [ˈswɪmɪŋ puːl] (n) басейн
+    - Let's go to the swimming pool tomorrow. (Давай завтра підемо до басейну.)
+    *theatre* [ˈθɪətər] (n) театр
+    - We're going to the theatre tonight. (Ми йдемо в театр сьогодні ввечері.)
+* Shopping
+    *advertise* [ˈædvətaɪz] (v) рекламувати
+    - They decided to advertise their new product. (Вони вирішили рекламувати свій новий продукт.)
+    *assistant* [əˈsɪstənt] (n) помічник
+    - She works as an assistant to the manager. (Вона працює помічником менеджера.)
+    *bill* [bɪl] (n) рахунок; банкнота
+    - The bill came to $50. (Рахунок склав 50 доларів.)
+    *book* [bʊk] (n) книга
+    - He bought a new book at the store. (Він купив нову книгу в магазині.)
+    *buy* [baɪ] (v) купувати
+    - I need to buy some groceries. (Мені потрібно купити продукти.)
+    *cash* [kæʃ] (n) готівка
+    - He paid in cash. (Він заплатив готівкою.)
+    *change* [ʧeɪndʒ] (v) змінювати; міняти
+    - She decided to change her job. (Вона вирішила змінити роботу.)
+    *cheap* [ʧiːp] (adj) дешевий
+    - This is a cheap alternative. (Це дешева альтернатива.)
+    *cheque* [ʧɛk] (n) чек
+    - He wrote a cheque for the bill. (Він виписав чек на рахунок.)
+    *choose* [ʧuːz] (v) вибирати; обирати
+    - Please choose what you want to eat. (Будь ласка, оберіть, що ви хочете їсти.)
+    *collect* [kəˈlɛkt] (v) збирати; колекціонувати
+    - He likes to collect stamps. (Він любить збирати марки.)
+    *complain* [kəmˈpleɪn] (v) скаржитися
+    - He likes to complain about everything. (Він любить скаржитися на все.)
+    *cost* [kɒst] (v) коштувати
+    - How much does it cost? (Скільки це коштує?)
+    *credit card* [ˈkrɛdɪt kɑːrd] (n) кредитна картка
+    - I paid with my credit card. (Я заплатив кредитною карткою.)
+    *customer* [ˈkʌstəmər] (n) клієнт; покупець
+    - The customer is always right. (Клієнт завжди правий.)
+    *dear* [dɪər] (adj) дорогий; любий
+    - She is very dear to me. (Вона мені дуже дорога.)
+    - Dear friend, how are you? (Любий друже, як справи?  )
+    *deposit* [dɪˈpɒzɪt] (n) депозит; застава
+    - I put a deposit on the apartment. (Я вніс депозит за квартиру.)
+    - You need to pay a deposit for the rental car. (Вам потрібно внести заставу за оренду автомобіля.  )
+    *exchange* [ɪksˈtʃeɪndʒ] (v) обмінювати; замінювати
+    - They exchanged gifts. (Вони обмінялися подарунками.)
+    *expensive* [ɪkˈspɛnsɪv] (adj) дорогий; вартісний
+    - This watch is very expensive. (Цей годинник дуже дорогий.)
+    *hire* [ˈhaɪə] (v/n) наймати; оренда
+    - They hired a new employee. (Вони найняли нового працівника.)
+    - The car is available for hire. (Машина доступна для оренди.)
+    *inexpensive* [ˌɪnɛkˈspɛnsɪv] (adj) недорогий
+    - This restaurant offers inexpensive meals. (Цей ресторан пропонує недорогі страви.)
+    *luxury* [ˈlʌkʃəri] (n) розкіш
+    - They stayed in a luxury hotel. (Вони зупинилися в розкішному готелі.)
+    *money* [ˈmʌni] (n) гроші
+    - She doesn't have enough money for the trip. (У неї недостатньо грошей на поїздку.)
+    *order* [ˈɔːrdər] (n) замовлення; порядок
+    - I placed an order for a new laptop. (Я зробив замовлення на новий ноутбук.)
+    *pay* [peɪ] (v) платити
+    - I need to pay the electricity bill. (Мені потрібно сплатити рахунок за електроенергію.)
+    *price* [praɪs] (n) ціна
+    - What's the price of this item? (Яка ціна цього товару?)
+    *reasonable* [ˈriːzənəbl] (adj) розумний; доступний
+    - His request seems reasonable. (Його прохання здається розумним.)
+    - The price is quite reasonable. (Ціна досить доступна.)
+    *receipt* [rɪˈsiːt] (n) чек; квитанція
+    - Keep the receipt for your records. (Збережи чек для своїх записів.)
+    - I need a receipt for this purchase. (Мені потрібна квитанція за цю покупку.)
+    *reduce* [rɪˈdjuːs] (v) зменшувати
+    - We need to reduce waste. (Нам потрібно зменшити відходи.)
+    *reduced* [rɪˈdjuːst] (adj) знижений
+    - The price is reduced during the sale. (Ціна знижена під час розпродажу.)
+    *rent* [rɛnt] (v) орендувати
+    - They decided to rent an apartment. (Вони вирішили орендувати квартиру.)
+    *reserve* [rɪˈzɜːv] (v) резервувати; зберігати
+    - Can you reserve a table for us? (Чи можете ви зарезервувати для нас стіл?)
+    - He reserves his best work for special occasions. (Він зберігає свою найкращу роботу для особливих випадків.)
+    *return* [rɪˈtɜːn] (v) повертатися
+    - When will you return from your trip? (Коли ти повернешся з поїздки?)
+    *save* [seɪv] (v) економити; рятувати
+    - Save energy by turning off the lights. (Економте енергію, вимикаючи світло.)
+    - The firefighters saved the family from the burning house. (Пожежники врятували сім'ю з палаючого будинку.)
+    *sell* [sɛl] (v) продавати
+    - They sell fresh bread every morning. (Вони продають свіжий хліб кожного ранку.)
+* Sport
+    *athlete* [ˈæθliːt] (n) спортсмен
+    - He's an Olympic athlete. (Він олімпійський спортсмен.)
+    *athletics* [æθˈlɛtɪks] (n) легка атлетика
+    - She competes in athletics. (Вона змагається в легкій атлетиці.)
+    *ball* [bɔːl] (n) м'яч; кулька
+    - They played with a ball in the park. (Вони грали м'ячем у парку)
+    *baseball* [ˈbeɪsˌbɔːl] (n) бейсбол
+    - They played baseball all afternoon. (Вони грали в бейсбол весь день.)
+    *basketball* [ˈbɑːskɪtˌbɔːl] (n) баскетбол
+    - They played basketball after school. (Вони грали в баскетбол після школи.)
+    *bat* [bæt] (n) кажан; бита
+    - A bat flew out of the cave. (Кажан вилетів з печери.)
+    *boxing* [ˈbɒksɪŋ] (n) бокс
+    - He's training for his next boxing match. (Він тренується для наступного боксерського матчу.)
+    *champion* [ˈʧæmpɪən] (n) чемпіон
+    - He became the world champion. (Він став чемпіоном світу.)
+    *changing room* [ˈʧeɪndʒɪŋ ruːm] (n) роздягальня
+    - The changing rooms are over there. (Роздягальні там.)
+    *climbing* [ˈklaɪmɪŋ] (n) скелелазіння
+    - Climbing is his favorite sport. (Скелелазіння - його улюблений вид спорту.)
+    *coach* [koʊtʃ] (n) тренер; автобус (особливо далекого прямування)
+    - He's the coach of the football team. (Він тренер футбольної команди.)
+    - We took a coach to the city. (Ми взяли автобус до міста.)
+    *compete* [kəmˈpiːt] (v) змагатися; конкурувати
+    - They will compete in the championships. (Вони змагатимуться на чемпіонаті.)
+    *competition* [ˌkɒmpəˈtɪʃən] (n) конкурс; змагання
+    - She entered the writing competition. (Вона взяла участь у конкурсі на письмо.)
+    *court* [kɔːt] (n) суд; двір
+    - The case will be heard in court. (Справа буде розглядатися в суді.)
+    *cycling* [ˈsaɪklɪŋ] (n) велоспорт
+    - She enjoys cycling on weekends. (Вона любить займатися велоспортом на вихідних.  )
+    *dancing* [ˈdænsɪŋ] (n) танці
+    - Dancing makes me happy. (Танці роблять мене щасливим.  )
+    *diving* [ˈdaɪvɪŋ] (n) пірнання
+    - Scuba diving is a popular activity in tropical areas. (Підводне плавання з аквалангом – популярне заняття в тропічних регіонах.)
+    *enter* [ˈɛntər] (v) входити; вписувати
+    - He entered the room. (Він увійшов до кімнати.)
+    *fishing* [ˈfɪʃɪŋ] (n) риболовля
+    - They enjoy fishing in the lake. (Вони люблять риболовлю на озері.)
+    *fitness* [ˈfɪtnəs] (n) фізична форма; здоров'я
+    - She goes to a fitness club. (Вона ходить у фітнес-клуб.)
+    *football* [ˈfʊtbɔːl] (n) футбол; американський футбол
+    - They played football in the park. (Вони грали у футбол у парку.)
+    *game* [ɡeɪm] (n) гра; матч
+    - They're playing a new video game. (Вони грають у нову відео гру.)
+    *goal* [ɡəʊl] (n) мета; ворота
+    - His goal is to travel the world. (Його мета - подорожувати світом.)
+    - He scored a goal. (Він забив гол.)
+    *golf* [ɡɒlf] (n) гольф
+    - He plays golf on weekends. (Він грає в гольф на вихідних.)
+    *gym* [dʒɪm] (n) спортзал
+    - I go to the gym three times a week. (Я ходжу в спортзал три рази на тиждень.)
+    *high jump* [ˌhaɪ ˈdʒʌmp] (n) стрибки у висоту
+    - She won the gold medal in high jump. (Вона виграла золоту медаль у стрибках у висоту.)
+    *hit* [hɪt] (v/n) ударити; удар
+    - He hit the ball. (Він вдарив по м'ячу.)
+    - The hit was unexpected. (Удар був несподіваним.)
+    *hockey* [ˈhɒki] (n) хокей
+    - He plays hockey every weekend. (Він грає в хокей кожні вихідні.)
+    *horse-riding* [ˈhɔːrs ˌraɪdɪŋ] (n) верхова їзда
+    - She takes lessons in horse-riding. (Вона бере уроки верхової їзди.)
+    *ice hockey* [ˈaɪs ˌhɒki] (n) хокей на льоду
+    - He's a fan of ice hockey. (Він фанат хокею на льоду.)
+    *instructor* [ɪnˈstrʌktə] (n) інструктор
+    - The ski instructor was very patient. (Інструктор з лиж дуже терплячий.)
+    *jogging* [ˈdʒɒɡɪŋ] (n) біг підтюпцем
+    - Jogging is good for health. (Біг підтюпцем корисний для здоров'я.)
+    *join in* [ˌdʒɔɪn ˈɪn] (v) приєднуватися
+    - Everyone is welcome to join in the fun. (Усі запрошуються приєднатися до веселощів.)
+    *kick* [kɪk] (v) бити ногою
+    - He kicked the ball into the goal. (Він бив по м'ячу в ворота.)
+    *locker* [ˈlɒkə] (n) шафка; локер
+    - Put your bag in the locker. (Поклади свою сумку в шафку.)
+    *long jump* [ˌlɒŋ ˈdʒʌmp] (n) стрибки у довжину
+    - He won the gold medal in the long jump. (Він виграв золоту медаль у стрибках у довжину.)
+    *match* [mætʃ] (n/v) матч; збіг; підходити; відповідати
+    - The match was exciting. (Матч був захоплюючим.)
+    - This tie matches your shirt. (Ця краватка підходить до твоєї сорочки.)
+    *motor-racing* [ˈmoʊtər ˈreɪsɪŋ] (n) автогонки
+    - He's a fan of motor-racing. (Він фанат автогонок.)
+    *motorcycling* [ˈmoʊtərˌsaɪklɪŋ] (n) мотоциклетний спорт
+    - Motorcycling is his favorite sport. (Мотоциклетний спорт - його улюблений вид спорту.)
+    *net* [nɛt] (n) сітка
+    - The fisherman cast his net into the sea. (Рибак кинув свою сітку в море.)
+    *point* [pɔɪnt] (n) точка; значення
+    - Meet me at the point where the rivers join. (Зустрінемося в точці, де зливаються річки.)
+    - What's the point of this exercise? (Яке значення цієї вправи?)
+    *practice* [ˈpræktɪs] (n) практика
+    - Practice makes perfect. (Практика веде до досконалості.)
+    *practise* [ˈpræktɪs] (v) практикувати
+    - He needs to practise his guitar more. (Йому потрібно більше практикувати гру на гітарі.)
+    *prize* [praɪz] (n) приз
+    - She won first prize in the competition. (Вона виграла перший приз у змаганні.)
+    *race track* [ˈreɪs træk] (n) трек для перегонів
+    - The race track was crowded with spectators. (Трек для перегонів був заповнений глядачами.)
+    *race* [reɪs] (n) гонка; раса
+    - He's training for the race next month. (Він тренується до гонки наступного місяця.)
+    - This policy affects people of all races. (Ця політика впливає на людей усіх рас.)
+    *racing* [ˈreɪsɪŋ] (n) гонки
+    - He's into car racing. (Він захоплюється автогонками.)
+    *racket* [ˈrækɪt] (n) ракетка
+    - She bought a new tennis racket. (Вона купила нову ракетку для тенісу.)
+    *reserve* [rɪˈzɜːv] (v) резервувати; зберігати
+    - Can you reserve a table for us? (Чи можете ви зарезервувати для нас стіл?)
+    - He reserves his best work for special occasions. (Він зберігає свою найкращу роботу для особливих випадків.)
+    *riding* [ˈraɪdɪŋ] (n) верхова їзда
+    - Riding is her favorite sport. (Верхова їзда - її улюблений вид спорту.)
+    *rugby* [ˈrʌɡbi] (n) регбі
+    - He plays rugby every weekend. (Він грає в регбі кожні вихідні.)
+    *running* [ˈrʌnɪŋ] (n) біг
+    - Running is good exercise. (Біг - це хороша вправа.)
+    *sail* [seɪl] (v) плавати під вітрилом
+    - They decided to sail to the island. (Вони вирішили пливти на острів під вітрилом.)
+    *sailing* [ˈseɪlɪŋ] (n) вітрильний спорт
+    - Sailing is his favorite sport. (Вітрильний спорт - його улюблений вид спорту.)
+    *score* [skɔːr] (n) рахунок; бал
+    - The score was 3-1 at halftime. (Рахунок був 3-1 на перерві.)
+    - He got a high score on the test. (Він отримав високий бал на тесті.)
+    *season* [ˈsiːzn] (n) сезон
+    - Autumn is my favorite season. (Осінь - мій улюблений сезон.)
+    *shoot* [ʃuːt] (v) стріляти
+    - He learned to shoot at a young age. (Він навчився стріляти в юному віці.)
+    *shorts* [ʃɔːrts] (n) шорти
+    - It's too hot for jeans, I'll wear shorts. (Занадто жарко для джинсів, одягну шорти.)
+    *skateboard* [ˈskeɪtˌbɔːrd] (n) скейтборд
+    - He rides his skateboard to school. (Він їздить до школи на скейтборді.)
+    *skiing* [ˈskiːɪŋ] (n) лижний спорт
+    - She's very good at skiing. (Вона дуже добре катається на лижах.)
+    *squash* [skwɒʃ] (n) кабачок; гра в сквош
+    - She made a salad with squash. (Вона приготувала салат з кабачком.)
+    - Do you play squash? (Ти граєш у сквош?)
+    *stadium* [ˈsteɪdiəm] (n) стадіон
+    - The concert is at the stadium. (Концерт відбудеться на стадіоні.)
+    *surfing* [ˈsɜːrfɪŋ] (n) серфінг
+    - He's into surfing during the summer. (Влітку він захоплюється серфінгом.)
+    *swimming* [ˈswɪmɪŋ] (n/v) плавання; плавати
+    - Swimming is a great exercise. (Плавання - це чудова вправа.)
+    - I love swimming in the lake. (Я люблю плавати в озері.)
+    *table-tennis* [ˈteɪbl ˌtɛnɪs] (n) настільний теніс
+    - They play table-tennis in their free time. (Вони грають у настільний теніс у вільний час.)
+    *take part* [ˌteɪk ˈpɑːrt] (v) брати участь
+    - Will you take part in the competition? (Чи будеш ти брати участь у змаганні?)
+    *team* [tiːm] (n) команда
+    - Our team won the match. (Наша команда виграла матч.)
+    *tennis* [ˈtɛnɪs] (n) теніс
+    - Do you play tennis? (Ти граєш у теніс?)
+    *track suit* [ˈtræk ˌsuːt] (n) спортивний костюм
+    - He changed into his track suit for exercise. (Він переодягнувся у спортивний костюм для тренування.)
+    *track* [træk] (n) слід; колія
+    - The animal left tracks in the snow. (Тварина залишила сліди в снігу.)
+    - The train runs on this track. (Поїзд їздить цією колією.)
+    *train* [treɪn] (n) поїзд
+    - The train to London leaves at noon. (Поїзд до Лондона відправляється опівдні.)
+    *trainer* [ˈtreɪnər] (n) тренер
+    - He hired a personal trainer. (Він найняв особистого тренера.)
+    *volleyball* [ˈvɒlibɔːl] (n) волейбол
+    - They played volleyball on the beach. (Вони грали у волейбол на пляжі.)
+    *water skiing* [ˌwɔːtər ˈskiːɪŋ] (n) водні лижі
+    - He tried water skiing for the first time. (Він вперше спробував кататися на водних лижах.)
+* The Natural World
+    *animal* [ˈænɪməl] (n) тварина
+    - The zoo has many exotic animals. (У зоопарку багато екзотичних тварин.)
+    *autumn* [ˈɔːtəm] (n) осінь
+    - Autumn is my favorite season. (Осінь - моя улюблена пора року.)
+    *beach* [biːʧ] (n) пляж
+    - We walked along the beach at sunset. (Ми гуляли по пляжу на заході сонця.)
+    *bird* [bɜːd] (n) птах
+    - A bird sang sweetly outside. (Птах співав солодко зовні.)
+    *branch* [bræntʃ] (n) гілка; філія
+    - The branch broke under the weight of the snow. (Гілка зламалася під вагою снігу.)
+    *bush* [bʊʃ] (n) кущ
+    - The garden is full of flowering bushes. (Сад повний квітучих кущів.)
+    *cave* [keɪv] (n) печера
+    - They explored the cave with flashlights. (Вони досліджували печеру з ліхтарями.)
+    *cliff* [klɪf] (n) скеля; урвище
+    - They stood on the edge of the cliff. (Вони стояли на краю скелі.)
+    *climate* [ˈklaɪmət] (n) клімат
+    - The climate here is very mild. (Тут дуже м'який клімат.)
+    *coal* [koʊl] (n) вугілля
+    - The power plant runs on coal. (Електростанція працює на вугіллі.)
+    *coast* [koʊst] (n) узбережжя; берег
+    - They walked along the coast. (Вони гуляли вздовж узбережжя.)
+    *continent* [ˈkɒntɪnənt] (n) континент
+    - Africa is the second largest continent. (Африка - другий за розміром континент.)
+    *countryside* [ˈkʌntrisaɪd] (n) сільська місцевість; природа
+    - I love walking in the countryside. (Я люблю гуляти в сільській місцевості.)
+    *desert* [ˈdɛzərt] (n) пустеля
+    - The Sahara is the largest desert in the world. (Сахара — найбільша пустеля у світі.  )
+    *dolphin* [ˈdɒlfɪn] (n) дельфін
+    - Dolphins are very intelligent animals. (Дельфіни – дуже розумні тварини.)
+    *duck* [dʌk] (n) качка
+    - The duck swam in the pond. (Качка плавала в ставку.)
+    *earth* [ɜːθ] (n) земля; планета
+    - The Earth orbits the sun. (Земля обертається навколо Сонця.)
+    *elephant* [ˈɛlɪfənt] (n) слон
+    - An elephant is a large animal. (Слон – це велика тварина.)
+    *environment* [ɪnˈvaɪrənmənt] (n) середовище; навколишнє середовище
+    - We must protect the environment. (Ми повинні захищати довкілля.)
+    *fall* [fɔːl] (n) падіння; осінь (американський варіант)
+    - The leaves fall in autumn. (Листя опадає восени.)
+    *fall* [fɔːl] (v) падати; впасти
+    - The leaves fall in autumn. (Листя опадає восени.)
+    *farmland* [ˈfɑːrmˌlænd] (n) сільськогосподарські угіддя
+    - The farmland is very fertile. (Сільськогосподарські угіддя дуже родючі.)
+    *field* [fiːld] (n) поле; ділянка
+    - The cows are in the field. (Корови на полі.)
+    *fish* [fɪʃ] (n) риба
+    - He caught a big fish. (Він спіймав велику рибу.)
+    *flood* [flʌd] (n) повінь; затоплення
+    - The flood destroyed many homes. (Повінь зруйнувала багато будинків.)
+    *flower* [ˈflaʊər] (n) квітка
+    - She received flowers for her birthday. (Вона отримала квіти на день народження.)
+    *forest* [ˈfɒrɪst] (n) ліс; лісова місцевість
+    - We went for a walk in the forest. (Ми пішли на прогулянку в ліс.)
+    *freeze* [friːz] (v) заморожувати; мерзнути
+    - Freeze the leftovers for later. (Заморозьте залишки на потім.)
+    *giraffe* [dʒɪˈræf] (n) жираф
+    - We saw giraffes at the zoo. (Ми побачили жирафів у зоопарку.)
+    *hill* [hɪl] (n) пагорб
+    - They climbed to the top of the hill. (Вони піднялися на вершину пагорба.)
+    *lake* [leɪk] (n) озеро
+    - They went fishing at the lake. (Вони ходили на рибалку на озеро.)
+    *land* [lænd] (n/v) земля; приземлятися
+    - He owns a lot of land. (Він володіє багатьма землями.)
+    - The plane will land soon. (Літак скоро приземлиться.)
+    *leaf* [liːf] (n) листок; листя
+    - A leaf fell from the tree. (З дерева впав листок.)
+    *lion* [ˈlaɪən] (n) лев
+    - The lion is the king of the jungle. (Лев - це король джунглів.)
+    *mice* [maɪs] (n) миші
+    - We have a problem with mice in the house. (У нас проблема з мишами в будинку.)
+    *monkey* [ˈmʌŋki] (n) мавпа
+    - The monkeys at the zoo were very playful. (Мавпи в зоопарку були дуже грайливі.)
+    *moon* [muːn] (n) місяць
+    - The moon was full last night. (Вчора ввечері була повна місяць.)
+    *mountain* [ˈmaʊntən] (n) гора
+    - They climbed the highest mountain in the region. (Вони піднялися на найвищу гору в регіоні.)
+    *mouse* [maʊs] (n) миша
+    - The cat chased the mouse around the house. (Кіт гнався за мишою по будинку.)
+    *nature* [ˈneɪʧər] (n) природа
+    - She loves to spend time in nature. (Вона любить проводити час на природі.)
+    *planet* [ˈplænɪt] (n) планета
+    - Mars is the fourth planet from the sun. (Марс - четверта планета від сонця.)
+    *plant* [plɑːnt] (n) рослина
+    - She has a collection of rare plants. (У неї є колекція рідкісних рослин.)
+    *pollution* [pəˈluːʃən] (n) забруднення
+    - Air pollution is a major issue in big cities. (Забруднення повітря - велика проблема у великих містах.)
+    *rabbit* [ˈræbɪt] (n) кролик
+    - She has a pet rabbit. (У неї є домашній кролик.)
+    *rainforest* [ˈreɪnˌfɒrɪst] (n) тропічний ліс
+    - They're working to protect the rainforest. (Вони працюють над захистом тропічного лісу.)
+    *range* [reɪndʒ] (n) діапазон; гряда
+    - The price range is quite broad. (Діапазон цін досить широкий.)
+    - The mountain range is beautiful. (Гряда гір дуже красива.)
+    *river* [ˈrɪvər] (n) річка
+    - They went fishing in the river. (Вони ходили ловити рибу в річці.)
+    *rock* [rɒk] (n) скеля; камінь
+    - They climbed the rock to see the view. (Вони піднялися на скелю, щоб побачити вид.)
+    - He threw a rock into the water. (Він кинув камінь у воду.)
+    *sand* [sænd] (n) пісок
+    - Children were playing in the sand. (Діти гралися в піску.)
+    *scenery* [ˈsiːnəri] (n) пейзаж; декорації
+    - The scenery in the countryside is beautiful. (Пейзаж у сільській місцевості дуже красивий.)
+    - The play's scenery was impressive. (Декорації до вистави були вражаючими.)
+    *shark* [ʃɑːrk] (n) акула
+    - We saw a shark while diving. (Ми побачили акулу під час дайвінгу.)
+    *sky* [skaɪ] (n) небо
+    - The sky was clear and blue. (Небо було чистим і синім.)
+    *soil* [sɔɪl] (n) ґрунт; земля
+    - The soil here is very fertile. (Ґрунт тут дуже родючий.)
+    - He wiped the dirt off his hands on the soil. (Він витер бруд з рук об землю.)
+    *spring* [sprɪŋ] (n) весна
+    - Spring is my favorite season. (Весна - моя улюблена пора року.)
+    *star* [stɑːr] (n) зірка
+    - She wishes on the first star she sees at night. (Вона загадує бажання на першу зірку, яку бачить вночі.)
+    *stone* [stoʊn] (n) камінь
+    - He threw a stone into the pond. (Він кинув камінь у ставок.)
+    *summer* [ˈsʌmər] (n) літо
+    - We're planning a trip for the summer. (Ми плануємо поїздку на літо.)
+    *sun* [sʌn] (n) сонце
+    - The sun sets in the west. (Сонце заходить на заході.)
+    *sunlight* [ˈsʌnˌlaɪt] (n) сонячне світло
+    - Plants need sunlight to grow. (Рослини потребують сонячного світла для росту.)
+    *sunrise* [ˈsʌnˌraɪz] (n) схід сонця
+    - I love watching the sunrise. (Я люблю спостерігати за сходом сонця.)
+    *sunset* [ˈsʌnˌsɛt] (n) захід сонця
+    - The sunset was beautiful last night. (Захід сонця був красивий вчора ввечері.)
+    *sunshine* [ˈsʌnˌʃaɪn] (n) сонячне світло; сонячний день
+    - The room is filled with sunshine. (Кімната наповнена сонячним світлом.)
+    - We had a day of sunshine. (У нас був сонячний день.)
+    *tiger* [ˈtaɪɡər] (n) тигр
+    - The tiger is a majestic animal. (Тигр - величне тварина.)
+    *tree* [triː] (n) дерево
+    - The tree in the garden is blooming. (Дерево в саду цвіте.)
+    *valley* [ˈvæli] (n) долина
+    - The village lies in a beautiful valley. (Село розташоване в прекрасній долині.)
+    *waterfall* [ˈwɔːtəfɔːl] (n) водоспад
+    - The waterfall was spectacular. (Водоспад був видовищним.)
+    *waves* [weɪvz] (n) хвилі
+    - The waves were high today. (Хвилі були високими сьогодні.)
+    *wild* [waɪld] (adj) дикий
+    - The forest is full of wild animals. (Ліс повний диких тварин.)
+    *wildlife* [ˈwaɪldˌlaɪf] (n) дикі тварини; дикі природи
+    - The park is dedicated to protecting wildlife. (Парк присвячений захисту дикої природи.)
+    *winter* [ˈwɪntər] (n) зима
+    - Winter is my favorite season. (Зима - моя улюблена пора року.)
+    *zebra* [ˈziːbrə] (n) зебра
+    - We saw a zebra at the zoo. (Ми бачили зебру в зоопарку.)
+* Travel and Transport
+    *abroad* [əˈbrɔːd] (adv) за кордоном
+    - He studied abroad for a year. (Він навчався за кордоном рік.)
+    *accommodation* [əˌkɒməˈdeɪʃn] (n) житло; розміщення
+    - We found suitable accommodation for the weekend. (Ми знайшли підходяще житло на вихідні.)
+    *airline* [ˈeərlaɪn] (n) авіакомпанія
+    - Which airline are you flying with? (З якою авіакомпанією ви летите?)
+    *airport* [ˈeərpɔːrt] (n) аеропорт
+    - We met at the airport. (Ми зустрілися в аеропорту.)
+    *ambulance* [ˈæmbjʊləns] (n) швидка допомога
+    - An ambulance arrived quickly. (Швидка допомога приїхала швидко.)
+    *announcement* [əˈnaʊnsmənt] (n) оголошення
+    - The announcement was made at noon. (Оголошення було зроблено опівдні.)
+    *arrival* [əˈraɪvl] (n) прибуття
+    - The arrival of the train was delayed. (Прибуття поїзда було затримано.)
+    *arrive* [əˈraɪv] (v) прибувати
+    - They arrived at the party late. (Вони прибули на вечірку пізно.)
+    *at sea* [ət ˈsiː] (prep) у морі
+    - He's been at sea for months. (Він уже місяці у морі.)
+    *backpack* [ˈbækpæk] (n) рюкзак
+    - He carried all his belongings in a backpack. (Він носив усі свої речі в рюкзаку.)
+    *bag* [bæɡ] (n) сумка; мішок
+    - She packed her clothes in a bag. (Вона поклала свої речі в сумку.)
+    *baggage* [ˈbæɡɪdʒ] (n) багаж
+    - Please collect your baggage at the carousel. (Будь ласка, заберіть свій багаж з каруселі.)
+    *bicycle* [ˈbaɪsɪkəl] (n) велосипед
+    - She rides her bicycle to work. (Вона їздить на велосипеді на роботу.)
+    *bike* [baɪk] (n) велосипед; мотоцикл
+    - He prefers his bike for short trips. (Він віддає перевагу своєму велосипеду для коротких поїздок.)
+    *board* [bɔːd] (n) дошка; рада
+    - He wrote on the whiteboard. (Він писав на білі дошці.)
+    *boarding pass* [ˈbɔːdɪŋ pɑːs] (n) посадковий талон
+    - Don't forget your boarding pass at check-in. (Не забудьте свій посадковий талон під час реєстрації.)
+    *boat* [boʊt] (n) човен; лодка
+    - They rowed across the lake in a boat. (Вони перепливли озеро на човні.)
+    *border* [ˈbɔːrdər] (n) кордон
+    - They crossed the border into France. (Вони перетнули кордон з Францією.)
+    *brochure* [ˈbroʊʃər] (n) брошура
+    - He picked up a brochure about the tour. (Він взяв брошуру про тур.)
+    *bus station* [bʌs ˈsteɪʃən] (n) автобусна станція
+    - Meet me at the bus station. (Зустрінемося на автобусній станції.)
+    *bus stop* [bʌs stɒp] (n) автобусна зупинка
+    - The bus stop is just around the corner. (Автобусна зупинка за рогом.)
+    *bus* [bʌs] (n) автобус
+    - The bus arrives at 8 AM. (Автобус прибуває о 8 ранку.)
+    *by air* [baɪ ˈeər] (prep) повітрям
+    - They sent the package by air. (Вони відправили пакунок повітрям.)
+    *by land* [baɪ ˈlænd] (prep) сухопутним шляхом
+    - They traveled by land to the coast. (Вони подорожували сушею до узбережжя.)
+    *by rail* [baɪ ˈreɪl] (prep) залізницею
+    - We went to the city by rail. (Ми поїхали до міста залізницею.)
+    *by road* [baɪ ˈroʊd] (prep) автомобільним шляхом
+    - They delivered the goods by road. (Вони доставили товари автомобільним шляхом.)
+    *by sea* [baɪ ˈsiː] (prep) морем
+    - The cargo was shipped by sea. (Вантаж був відправлений морем.)
+    *cab* [kæb] (n) таксі; кабріолет
+    - She took a cab to the airport. (Вона взяла таксі до аеропорту.)
+    *cabin* [ˈkæbɪn] (n) каюта; хатина
+    - They stayed in a cozy cabin. (Вони зупинилися в затишній хатині.)
+    *canal* [kəˈnæl] (n) канал
+    - The canal runs through the city. (Канал проходить через місто.)
+    *capital city* [ˌkæpɪtəl ˈsɪti] (n) столиця
+    - Tokyo is the capital city of Japan. (Токіо - столиця Японії.)
+    *car alarm* [ˈkɑːr əˌlɑːrm] (n) сигналізація автомобіля
+    - The car alarm went off in the middle of the night. (Сигналізація автомобіля спрацювала серед ночі.)
+    *car park* [ˈkɑː pɑːrk] (n) автостоянка
+    - The car park was full. (Автостоянка була заповнена.)
+    *car* [kɑːr] (n) автомобіль
+    - She bought a new car last month. (Вона купила новий автомобіль минулого місяця.)
+    *case* [keɪs] (n) випадок; справа
+    - In any case, we need to be prepared. (У будь-якому випадку, ми повинні бути готові.)
+    *catch* [kætʃ] (v) ловити; захоплювати
+    - He tried to catch the ball. (Він намагався зловити м'яч.)
+    *change* [ʧeɪndʒ] (v) змінювати; міняти
+    - She decided to change her job. (Вона вирішила змінити роботу.)
+    *charter* [ˈʧɑːrtər] (v) орендувати (транспорт)
+    - They chartered a plane for the trip. (Вони орендували літак для поїздки.)
+    *check in* [ʧɛk ɪn] (v) реєструватися; зайти
+    - We need to check in at the hotel. (Нам потрібно зареєструватися в готелі.)
+    *check out* [ʧɛk aʊt] (v) виписуватися; перевіряти
+    - Can you check out the noise? (Чи можете ви перевірити звук?)
+    *check-in* [ˈʧɛk ɪn] (n) реєстрація
+    - Check-in starts at 3 PM. (Реєстрація починається о 15:00.)
+    *coach* [koʊtʃ] (n) тренер; автобус (особливо далекого прямування)
+    - He's the coach of the football team. (Він тренер футбольної команди.)
+    - We took a coach to the city. (Ми взяли автобус до міста.)
+    *confirm* [kənˈfɜːm] (v) підтверджувати
+    - Please confirm your reservation. (Будь ласка, підтвердіть вашу бронь.)
+    *consul* [ˈkɒnsəl] (n) консул
+    - He met with the consul for advice. (Він зустрівся з консулом за порадою.)
+    *crossing* [ˈkrɒsɪŋ] (n) перехід; перехрестя
+    - The pedestrian crossing is over there. (Пішохідний перехід там.)
+    *crossroads* [ˈkrɒsroʊdz] (n) перехрестя
+    - We met at the crossroads. (Ми зустрілися на перехресті.)
+    *currency* [ˈkʌrənsi] (n) валюта
+    - What is the currency of Japan? (Яка валюта в Японії?)
+    *customs officer* [ˈkʌstəmz ˈɒfɪsər] (n) митник
+    - The customs officer checked my passport. (Митник перевірив мій паспорт.)
+    *customs* [ˈkʌstəmz] (n) митниця
+    - We had to go through customs when we arrived in the country. (Ми повинні були пройти митний контроль, коли прибули в країну.)
+    *cycle* [ˈsaɪkəl] (n) велосипед; цикл
+    - He rides his cycle to work. (Він їздить на велосипеді на роботу.)
+    - The water cycle is essential for life. (Водний цикл є необхідним для життя.  )
+    *cyclist* [ˈsaɪklɪst] (n) велосипедист
+    - The cyclist won the race. (Велосипедист виграв гонку.  )
+    *deck* [dɛk] (n) палуба; колода
+    - They stood on the ship's deck. (Вони стояли на палубі корабля.)
+    - Shuffle the deck of cards. (Перетасуйте колоду карт.  )
+    *delay* [dɪˈleɪ] (n) затримка
+    - The flight has a delay. (Рейс має затримку.  )
+    *deliver* [dɪˈlɪvər] (v) доставляти; народжувати
+    - They deliver packages daily. (Вони доставляють пакунки щодня.)
+    - She delivered a healthy baby. (Вона народила здорову дитину.  )
+    *depart* [dɪˈpɑːrt] (v) виїжджати; відбуватися
+    - The train departs at noon. (Поїзд відправляється опівдні.)
+    - The ceremony will depart from tradition. (Церемонія відійде від традиції.  )
+    *departure* [dɪˈpɑːtʃər] (n) від'їзд; відхід
+    - His departure was unexpected. (Його від'їзд був несподіваним.  )
+    *destination* [ˌdɛstɪˈneɪʃən] (n) місце призначення
+    - Paris is a popular tourist destination. (Париж – популярне місце призначення для туристів.  )
+    *direction* [dɪˈrɛkʃən] (n) напрямок; керування
+    - She walked in the wrong direction. (Вона пішла в неправильному напрямку.)
+    - He is responsible for the direction of the project. (Він відповідає за керування проєктом.  )
+    *document* [ˈdɒkjʊmənt] (n) документ; папір
+    - Please sign this document before submitting it. (Будь ласка, підпишіть цей документ перед поданням.)
+    *dollar* [ˈdɒlər] (n) долар
+    - I paid ten dollars for this book. (Я заплатив десять доларів за цю книгу.)
+    *double room* [ˌdʌbl ˈruːm] (n) двомісний номер
+    - We booked a double room for the weekend. (Ми забронювали двомісний номер на вихідні.)
+    *drive* [draɪv] (v) водити; їхати
+    - She can drive a car. (Вона вміє водити машину.)
+    *driving licence* [ˌdraɪvɪŋ ˈlaɪsəns] (n) водійське посвідчення
+    - You need a driving licence to rent a car. (Вам потрібне водійське посвідчення, щоб орендувати авто.)
+    *due* [djuː] (adj) належний; очікуваний
+    - The payment is due tomorrow. (Платіж належить сплатити завтра.)
+    *duty-free* [ˈdjuːti friː] (adj) безмитний
+    - They bought duty-free goods at the airport. (Вони купили безмитні товари в аеропорту.)
+    *embassy* [ˈɛmbəsi] (n) посольство
+    - We went to the embassy for a visa. (Ми пішли в посольство за візою.)
+    *euro* [ˈjʊərəʊ] (n) євро; європейська валюта
+    - He exchanged dollars for euros. (Він обміняв долари на євро.)
+    *exchange rate* [ɪksˈtʃeɪndʒ reɪt] (n) обмінний курс
+    - The exchange rate is high today. (Сьогодні високий обмінний курс.)
+    *facilities* [fəˈsɪlɪtiz] (n) обладнання; умови
+    - The hotel has great facilities. (Готель має чудові умови.)
+    *fare* [feər] (n) плата за проїзд; тариф
+    - The bus fare is too high. (Вартість проїзду в автобусі занадто висока.)
+    *ferry* [ˈfɛri] (n) пором
+    - We took a ferry to the island. (Ми сіли на пором до острова.)
+    *flight* [flaɪt] (n) політ; рейс
+    - Our flight was delayed. (Наш рейс затримали.)
+    *fly* [flaɪ] (v) літати; мчати
+    - Birds fly in the sky. (Птахи літають у небі.)
+    *foreign* [ˈfɒrən] (adj) іноземний; закордонний
+    - She speaks several foreign languages. (Вона говорить кількома іноземними мовами.)
+    *fuel* [ˈfjuːəl] (n) паливо; горюче
+    - The car needs more fuel. (Машині потрібно більше палива.)
+    *gate* [ɡeɪt] (n) ворота
+    - Open the gate to let the car through. (Відкрийте ворота, щоб пропустити машину.)
+    *guest-house* [ˈɡɛstˌhaʊs] (n) гостьовий будинок
+    - They stayed at a guest-house during their trip. (Вони зупинилися в гостьовому будинку під час подорожі.)
+    *guest* [ɡɛst] (n) гість
+    - We have guests coming over tonight. (Сьогодні ввечері до нас приходять гості.)
+    *guide* [ɡaɪd] (n/v) гід; керувати
+    - He works as a tour guide. (Він працює гідом.)
+    - Guide me through the process. (Проведи мене через цей процес.)
+    *guidebook* [ˈɡaɪdˌbʊk] (n) путівник
+    - We bought a guidebook for the city. (Ми купили путівник по місту.)
+    *handlebars* [ˈhændlˌbɑːrz] (n) руль
+    - He gripped the handlebars tightly while cycling. (Він міцно тримався за руль під час їзди на велосипеді.)
+    *harbour* [ˈhɑːbə] (n) гавань
+    - The ships are docked in the harbour. (Кораблі стоять у гавані.)
+    *helicopter* [ˈhɛlɪˌkɒptə] (n) гелікоптер
+    - They arrived by helicopter. (Вони прибули на гелікоптері.)
+    *hitch-hike* [ˈhɪtʃˌhaɪk] (v) автостопити
+    - They decided to hitch-hike across the country. (Вони вирішили автостопити через країну.)
+    *hotel* [həʊˈtɛl] (n) готель
+    - We booked a room in a hotel near the beach. (Ми забронювали номер у готелі біля пляжу.)
+    *hovercraft* [ˈhɒvəˌkrɑːft] (n) судно на повітряній подушці
+    - They traveled across the channel by hovercraft. (Вони перетнули протоку на судні на повітряній подушці.)
+    *hydrofoil* [ˈhaɪdrəfɔɪl] (n) глісер
+    - The journey was faster on the hydrofoil. (Подорож була швидшою на глісері.)
+    *immigration* [ˌɪmɪˈɡreɪʃən] (n) імміграція
+    - The immigration process can be complex. (Процес імміграції може бути складним.)
+    *inn* [ɪn] (n) готель; заїжджий двір
+    - They stayed at a quaint inn. (Вони зупинилися в затишному готелі.)
+    *interpret* [ɪnˈtɜːprɪt] (v) тлумачити; перекладати
+    - Can you interpret this sentence? (Чи можете ви перекласти це речення?)
+    *jet* [dʒɛt] (n) реактивний літак; струмінь
+    - They traveled by jet. (Вони подорожували на реактивному літаку.)
+    - The water came out in a jet. (Вода вийшла потоком.)
+    *journey* [ˈdʒɜːrni] (n) подорож
+    - Their journey took three days. (Їхня подорож тривала три дні.)
+    *land* [lænd] (n/v) земля; приземлятися
+    - He owns a lot of land. (Він володіє багатьма землями.)
+    - The plane will land soon. (Літак скоро приземлиться.)
+    *lorry* [ˈlɒri] (n) вантажівка
+    - A lorry blocked the road. (Вантажівка заблокувала дорогу.)
+    *lost property* [ˌlɒst ˈprɒpərti] (n) загублені речі
+    - He checked the lost property for his wallet. (Він перевірив загублені речі на предмет свого гаманця.)
+    *luggage* [ˈlʌɡɪdʒ] (n) багаж
+    - He packed his luggage for the trip. (Він упакував свій багаж для подорожі.)
+    *map* [mæp] (n) карта; мапа
+    - He looked at the map to find his way. (Він дивився на карту, щоб знайти дорогу.)
+    *motorbike* [ˈmoʊtər.baɪk] (n) мотоцикл
+    - He rides his motorbike to work. (Він їздить на роботу на своєму мотоциклі.)
+    *motorcycle* [ˈmoʊtərˌsaɪkəl] (n) мотоцикл
+    - She bought a new motorcycle last year. (Вона купила новий мотоцикл минулого року.)
+    *motorway* [ˈmoʊtərˌweɪ] (n) автомагістраль
+    - We took the motorway to get there quickly. (Ми скористалися автомагістраллю, щоб швидко туди дістатися.)
+    *nationality* [ˌnæʃəˈnælɪti] (n) національність
+    - What's your nationality? (Яка у вас національність?)
+    *on board* [ɒn ˈbɔːrd] (adv) на борту
+    - Everyone is on board now. (Всі зараз на борту.)
+    *on business* [ɒn ˈbɪznɪs] (adv) у справах
+    - He's here on business. (Він тут у справах.)
+    *on foot* [ɒn ˈfʊt] (adv) пішки
+    - We went to the store on foot. (Ми пішли до магазину пішки.)
+    *on holiday* [ɒn ˈhɒlədeɪ] (adv) у відпустці
+    - They are on holiday in Italy. (Вони у відпустці в Італії.)
+    *on time* [ɒn ˈtaɪm] (adv) вчасно
+    - The train arrived on time. (Поїзд прибув вчасно.)
+    *on vacation* [ɒn vəˈkeɪʃən] (adv) у відпустці
+    - They are on vacation in Hawaii. (Вони у відпустці на Гаваях.)
+    *operator* [ˈɒpəreɪtər] (n) оператор
+    - The telephone operator connected the call. (Телефонний оператор з'єднав дзвінок.)
+    - He works as a machine operator. (Він працює оператором машини.)
+    *overnight* [ˌoʊvərˈnaɪt] (adv) на ніч
+    - We stayed overnight at a hotel. (Ми зупинилися на ніч у готелі.)
+    *overtake* [ˌoʊvərˈteɪk] (v) обганяти
+    - He managed to overtake the slow car. (Він зміг обігнати повільну машину.)
+    *parking lot* [ˈpɑːrkɪŋ lɒt] (n) стоянка для автомобілів
+    - The parking lot was full of cars. (Стоянка для автомобілів була заповнена машинами.)
+    *parking space* [ˈpɑːrkɪŋ speɪs] (n) місце для паркування
+    - I found a parking space near the entrance. (Я знайшов місце для паркування біля входу.)
+    *passenger* [ˈpæsɪndʒər] (n) пасажир
+    - The bus can hold up to fifty passengers. (Автобус може вмістити до п'ятдесяти пасажирів.)
+    *passport* [ˈpæspɔːrt] (n) паспорт
+    - Don't forget to bring your passport. (Не забудьте взяти свій паспорт.)
+    *path* [pɑːθ] (n) стежка; шлях
+    - We walked along the forest path. (Ми йшли лісовою стежкою.)
+    *petrol pump* [ˈpɛtrəl pʌmp] (n) бензоколонка
+    - The petrol pump is out of service. (Бензоколонка не працює.)
+    *petrol station* [ˈpɛtrəl ˈsteɪʃən] (n) заправна станція
+    - We stopped at a petrol station for fuel. (Ми зупинилися на заправній станції, щоб заправитися.)
+    *petrol* [ˈpɛtrəl] (n) бензин
+    - We need to buy petrol before the trip. (Нам потрібно купити бензин перед поїздкою.)
+    *pilot* [ˈpaɪlət] (n) пілот
+    - The pilot landed the plane safely. (Пілот безпечно посадив літак.)
+    *platform* [ˈplætfɔːrm] (n) платформа
+    - The train will arrive on platform three. (Поїзд прибуде на платформу три.)
+    *railroad* [ˈreɪlˌroʊd] (n) залізниця
+    - The railroad connects two cities. (Залізниця з'єднує два міста.)
+    *railway* [ˈreɪlweɪ] (n) залізниця
+    - They traveled by railway. (Вони подорожували залізницею.)
+    *reception* [rɪˈsɛpʃən] (n) прийом; рецепція
+    - The reception of the signal is poor. (Прийом сигналу поганий.)
+    - Ask at the reception for your key. (Запитай ключі на рецепції.)
+    *reservation* [ˌrɛzərˈveɪʃən] (n) бронювання; резервація
+    - He made a reservation for dinner. (Він зробив бронювання на вечерю.)
+    - They live on a Native American reservation. (Вони живуть на індіанській резервації.)
+    *reserve* [rɪˈzɜːv] (v) резервувати; зберігати
+    - Can you reserve a table for us? (Чи можете ви зарезервувати для нас стіл?)
+    - He reserves his best work for special occasions. (Він зберігає свою найкращу роботу для особливих випадків.)
+    *return* [rɪˈtɜːn] (v) повертатися
+    - When will you return from your trip? (Коли ти повернешся з поїздки?)
+    *ride* [raɪd] (v) їхати верхи; кататися
+    - She likes to ride horses. (Вона любить їздити верхи.)
+    - Let's ride the roller coaster. (Давай покатаємося на американських гірках.)
+    *road sign* [ˈroʊd saɪn] (n) дорожній знак
+    - Pay attention to the road signs. (Звертай увагу на дорожні знаки.)
+    *roundabout* [ˈraʊndəbaʊt] (n) кругове перехрестя
+    - Take the second exit at the roundabout. (Візьми другий виїзд на круговому перехресті.)
+    *route* [ruːt] (n) маршрут
+    - This is the best route to the airport. (Це найкращий маршрут до аеропорту.)
+    *sail* [seɪl] (v) плавати під вітрилом
+    - They decided to sail to the island. (Вони вирішили пливти на острів під вітрилом.)
+    *scooter* [ˈskuːtər] (n) скутер
+    - He rides his scooter to work. (Він їздить на роботу на скутері.)
+    *seat belt* [ˈsiːt belt] (n) ремінь безпеки
+    - Always wear your seat belt for safety. (Завжди носіть ремінь безпеки для безпеки.)
+    *ship* [ʃɪp] (n) корабель
+    - The ship sails at noon. (Корабель відпливає опівдні.)
+    *sightseeing* [ˈsaɪtˌsiːɪŋ] (n) екскурсія
+    - We spent the day sightseeing in the city. (Ми провели день, оглядаючи визначні місця міста.)
+    *signpost* [ˈsaɪnˌpoʊst] (n) вказівник; стовп з дорожніми знаками
+    - The signpost showed the way to the village. (Вказівник показував дорогу до села.)
+    *single room* [ˌsɪŋɡl ˈruːm] (n) одномісний номер
+    - I'll book a single room for my stay. (Я забронюю одномісний номер для свого перебування.)
+    *speed* [spiːd] (n) швидкість
+    - The speed limit here is 50 km (Тут обмеження швидкості 50 км)
+    - h. (год.)
+    *subway* [ˈsʌbweɪ] (n) метро; підземний перехід
+    - We took the subway to get downtown. (Ми скористалися метро, щоб дістатися до центру міста.)
+    - There's a subway under the road. (Там є підземний перехід під дорогою.)
+    *suitcase* [ˈsuːtˌkeɪs] (n) валіза
+    - He packed his suitcase for the trip. (Він упакував свою валізу для поїздки.)
+    *take off* [ˌteɪk ˈɒf] (v) знімати; злітати
+    - Take off your shoes at the door. (Зніми взуття біля дверей.)
+    - The plane will take off soon. (Літак скоро злетить.)
+    *taxi rank* [ˈtæksi ræŋk] (n) стоянка таксі
+    - There's a taxi rank just outside the station. (Стоянка таксі знаходиться прямо біля вокзалу.)
+    *taxi* [ˈtæksi] (n) таксі
+    - We took a taxi to the airport. (Ми взяли таксі до аеропорту.)
+    *terminal* [ˈtɜːmɪnəl] (n) термінал
+    - The airport terminal was crowded. (Аеропортівський термінал був переповнений.)
+    *tire* [ˈtaɪər] (n) шина
+    - The tire on my car is flat. (Шина на моїй машині спущена.)
+    *tour* [tuər] (n) тур; екскурсія
+    - They're going on a tour of Europe. (Вони вирушають у тур по Європі.)
+    - We joined a city tour. (Ми приєдналися до екскурсії по місту.)
+    *tourist* [ˈtʊərɪst] (n) турист
+    - The city is full of tourists in summer. (Влітку місто переповнене туристами.)
+    *traffic jam* [ˈtræfɪk dʒæm] (n) пробка
+    - We were stuck in a traffic jam for hours. (Ми застрягли в пробці на кілька годин.)
+    *traffic lights* [ˈtræfɪk laɪts] (n) світлофор
+    - The intersection is controlled by traffic lights. (Перехрестя регулюється світлофорами.)
+    *traffic* [ˈtræfɪk] (n) рух; транспортний потік
+    - The traffic was heavy during rush hour. (Рух був інтенсивним під час пікової години.)
+    *train* [treɪn] (n) поїзд
+    - The train to London leaves at noon. (Поїзд до Лондона відправляється опівдні.)
+    *tram* [træm] (n) трамвай
+    - The tram is an efficient way to get around the city. (Трамвай - це ефективний спосіб пересування містом.)
+    *translate* [trænsˈleɪt] (v) перекладати
+    - Can you translate this sentence into French? (Чи можеш ти перекласти це речення французькою?)
+    *translation* [trænsˈleɪʃən] (n) переклад
+    - The translation of the book took months. (Переклад книги зайняв місяці.)
+    *traveller’s cheque* [ˌtrævlərz ˈʧɛk] (n) дорожній чек
+    - She prefers to use traveller's cheques for extra security. (Вона воліє використовувати дорожні чеки для додаткової безпеки.)
+    *trip* [trɪp] (n) подорож; поход
+    - We're planning a trip to Italy. (Ми плануємо подорож до Італії.)
+    *tunnel* [ˈtʌnl] (n) тунель
+    - The train went through the tunnel. (Поїзд пройшов через тунель.)
+    *tyre* [ˈtaɪər] (n) шина; покришка
+    - The tyre on the bike is flat. (Шина на велосипеді спущена.)
+    *underground* [ˈʌndərˌɡraʊnd] (adj) підземний
+    - The city has an extensive underground rail system. (У міста є розгалужена підземна залізниця.)
+    *unleaded* [ʌnˈlɛdɪd] (adj) безсвинцевий
+    - Make sure you fill the car with unleaded petrol. (Переконайся, що заливаєш безсвинцевий бензин в машину.)
+    *vehicle* [ˈviːɪkl] (n) транспортний засіб
+    - He checked the engine of his vehicle. (Він перевірив двигун свого транспортного засобу.)
+    *visa* [ˈviːzə] (n) віза
+    - He applied for a tourist visa. (Він подав заявку на туристичну візу.)
+    *visit* [ˈvɪzɪt] (v) відвідувати
+    - We plan to visit Paris next year. (Ми плануємо відвідати Париж наступного року.)
+    *voyage* [ˈvɔɪɪdʒ] (n) подорож; плавання
+    - The voyage across the ocean was long. (Подорож через океан була довгою.)
+    *waiting-room* [ˈweɪtɪŋ ruːm] (n) чекальня
+    - Please take a seat in the waiting-room. (Будь ласка, сядьте в чекальні.)
+    *windscreen* [ˈwɪndˌskriːn] (n) лобове скло
+    - The bird hit the windscreen of the car. (Птах вдарився об лобове скло машини.)
+* Weather
+    *blow* [bloʊ] (v) дути; дмухати
+    - The wind began to blow fiercely. (Вітер почав дути сильно.)
+    *centigrade* [ˈsɛntɪɡreɪd] (adj) градуси за Цельсієм
+    - The temperature was 20 degrees centigrade. (Температура була 20 градусів за Цельсієм.)
+    *cloud* [klaʊd] (n) хмара
+    - A cloud passed in front of the sun. (Хмара пройшла перед сонцем.)
+    *cloudy* [ˈklaʊdi] (adj) хмарно
+    - It's going to be a cloudy day. (Буде хмарний день.)
+    *cold* [kəʊld] (adj) холодний
+    - It's very cold outside today. (Сьогодні дуже холодно на вулиці.)
+    *cool* [kuːl] (adj) крутий; прохолодний
+    - It's a cool day today. (Сьогодні прохолодний день.)
+    *degrees* [dɪˈɡriːz] (n) градуси
+    - Water boils at 100 degrees. (Вода кипить при 100 градусах.  )
+    *dry* [draɪ] (adj) сухий
+    - The clothes are dry now. (Одяг уже сухий.)
+    *fog* [fɒɡ] (n) туман
+    - The fog was very thick. (Туман був дуже густий.)
+    *foggy* [ˈfɒɡi] (adj) туманно
+    - It is foggy today. (Сьогодні туманно.)
+    *forecast* [ˈfɔːkɑːst] (v) прогнозувати; передбачати
+    - They forecast rain for tomorrow. (Вони прогнозують дощ на завтра.)
+    *frost* [frɒst] (n) іній; мороз
+    - There was frost on the ground this morning. (Цього ранку на землі був іній.)
+    *gale* [ɡeɪl] (n) шторм; ураганний вітер
+    - The gale was so strong it knocked down trees. (Шторм був настільки сильним, що повалив дерева.)
+    *get wet* [ˌɡɛt ˈwɛt] (v) змокнути
+    - Don't go out, you'll get wet in the rain. (Не виходь, ти промокнеш під дощем.)
+    *heat* [hiːt] (n/v) тепло; нагрівати
+    - The heat from the sun was intense. (Тепло від сонця було інтенсивним.)
+    - Heat the soup before serving. (Розігрійте суп перед подачею.)
+    *hot* [hɒt] (adj) гарячий
+    - The coffee is too hot to drink. (Кава занадто гаряча, щоб її пити.)
+    *ice* [aɪs] (n) лід
+    - The lake was covered in ice. (Озеро було вкрите льодом.)
+    *icy* [ˈaɪsi] (adj) льодяний
+    - Be careful, the roads are icy. (Будь обережним, дороги льодяні.)
+    *lightning* [ˈlaɪtnɪŋ] (n) блискавка
+    - We saw lightning during the storm. (Ми бачили блискавку під час грози.)
+    *mild* [maɪld] (adj) м'який; лагідний
+    - The weather is mild today. (Погода сьогодні м'яка.)
+    *rain* [reɪn] (n) дощ
+    - The rain was heavy last night. (Вчора ввечері був сильний дощ.)
+    *shower* [ˈʃaʊər] (n) душ
+    - She takes a shower every morning. (Вона приймає душ кожного ранку.)
+    *snow* [snoʊ] (n) сніг
+    - The snow was deep after the storm. (Сніг був глибоким після бурі.)
+    *snowfall* [ˈsnoʊˌfɔːl] (n) снігопад
+    - The snowfall last night was heavy. (Снігопад минулої ночі був сильним.)
+    *storm* [stɔːrm] (n) буря
+    - The storm last night was intense. (Буря минулої ночі була інтенсивною.)
+    *sun* [sʌn] (n) сонце
+    - The sun sets in the west. (Сонце заходить на заході.)
+    *sunny* [ˈsʌni] (adj) сонячно
+    - It's a sunny day today. (Сьогодні сонячний день.)
+    *sunshine* [ˈsʌnˌʃaɪn] (n) сонячне світло; сонячний день
+    - The room is filled with sunshine. (Кімната наповнена сонячним світлом.)
+    - We had a day of sunshine. (У нас був сонячний день.)
+    *temperature* [ˈtɛmpərətʃər] (n) температура
+    - The temperature is dropping tonight. (Температура знижується сьогодні вночі.)
+    *thermometer* [θərˈmɒmɪtər] (n) термометр
+    - Check the temperature with a thermometer. (Перевір температуру термометром.)
+    *thunder* [ˈθʌndər] (n) грім
+    - You could hear the thunder in the distance. (Можна було почути грім у відстані.)
+    *wet* [wɛt] (adj) мокрий
+    - It's raining, and I'm getting wet. (Іде дощ, і я мокну.)
+    *wind* [wɪnd] (n) вітер
+    - The wind was blowing hard last night. (Вітер сильно дув минулого вечора.)
+    *windy* [ˈwɪndi] (adj) вітряно
+    - It's very windy today. (Сьогодні дуже вітряно.)
+* Work and Jobs
+    *CV* [ˌsiːˈviː] (n) резюме
+    - Send me your CV for review. (Надішліть мені своє резюме для перевірки.  )
+    *actor* [ˈæktər] (n) актор
+    - He is a famous Hollywood actor. (Він відомий голлівудський актор.)
+    *actress* [ˈæktrɪs] (n) актриса
+    - She won an award for best actress. (Вона отримала нагороду за кращу роль актриси.)
+    *application* [ˌæplɪˈkeɪʃn] (n) заявка; програма
+    - She filled out an application for the job. (Вона заповнила заявку на роботу.)
+    - There's an app for that. (Існує програма для цього.)
+    *apply* [əˈplaɪ] (v) подавати заявку; застосовувати
+    - Apply for the position online. (Подайте заявку на посаду онлайн.)
+    - Apply the cream twice a day. (Нанесіть крем двічі на день.)
+    *architect* [ˈɑːkɪtekt] (n) архітектор
+    - The architect designed a beautiful building. (Архітектор спроектував красиву будівлю.)
+    *army* [ˈɑːmi] (n) армія
+    - He joined the army last year. (Він вступив до армії минулого року.)
+    *artist* [ˈɑːtɪst] (n) художник
+    - She's a talented young artist. (Вона талановитий молодий художник.)
+    *assistant* [əˈsɪstənt] (n) помічник
+    - She works as an assistant to the manager. (Вона працює помічником менеджера.)
+    *athlete* [ˈæθliːt] (n) спортсмен
+    - He's an Olympic athlete. (Він олімпійський спортсмен.)
+    *banker* [ˈbæŋkər] (n) банкір
+    - The banker approved the loan. (Банкір схвалив кредит.)
+    *boss* [bɒs] (n) начальник; бос
+    - My boss gave me a new project. (Мій начальник дав мені новий проект.)
+    *businessman* [ˈbɪznɪsˌmæn] (n) бізнесмен
+    - He's a successful businessman. (Він успішний бізнесмен.)
+    *businesswoman* [ˈbɪznɪsˌwʊmən] (n) бізнесвумен
+    - She's a respected businesswoman. (Вона - поважна бізнесвумен.)
+    *butcher* [ˈbʊʧər] (n) м'ясник
+    - The butcher has the best meat in town. (У м'ясника найкраще м'ясо в місті.)
+    *cameraman* [ˈkæmərəˌmæn] (n) оператор
+    - The cameraman filmed the scene perfectly. (Оператор ідеально зняв сцену.)
+    *candidate* [ˈkændɪdət] (n) кандидат
+    - She is a strong candidate for the job. (Вона сильний кандидат на цю роботу.)
+    *canteen* [kænˈtiːn] (n) їдальня; буфет
+    - They ate lunch in the school canteen. (Вони обідали в шкільній їдальні.)
+    *captain* [ˈkæptɪn] (n) капітан
+    - The captain navigated the ship through the storm. (Капітан провів корабель через шторм.)
+    *career* [kəˈrɪər] (n) кар'єра
+    - She has a successful career in law. (У неї успішна кар'єра в юриспруденції.)
+    *chef* [ʃɛf] (n) кухар; шеф-кухар
+    - The chef prepared a gourmet meal. (Шеф-кухар приготував гурманську страву.)
+    *chemist* [ˈkɛmɪst] (n) хімік; аптекар
+    - He's a chemist working on new compounds. (Він хімік, який працює над новими сполуками.)
+    *colleague* [ˈkɒliːɡ] (n) колега
+    - She discussed the project with her colleague. (Вона обговорила проект зі своїм колегою.)
+    *comedian* [kəˈmiːdiən] (n) комік; гуморист
+    - The comedian had the audience in stitches. (Комік змусив аудиторію сміятися до сліз.)
+    *company* [ˈkʌmpəni] (n) компанія; товариство
+    - He works for a big company. (Він працює на велику компанію.)
+    *conference* [ˈkɒnfərəns] (n) конференція
+    - He's attending an international conference. (Він відвідує міжнародну конференцію.)
+    *consul* [ˈkɒnsəl] (n) консул
+    - He met with the consul for advice. (Він зустрівся з консулом за порадою.)
+    *consulate* [ˈkɒnsjʊlət] (n) консульство
+    - They visited the consulate for visa issues. (Вони відвідали консульство з питань віз.)
+    *contract* [ˈkɒntrækt] (n) контракт; угода
+    - He signed a contract with the company. (Він підписав контракт з компанією.)
+    *cook* [kʊk] (v) готувати; варити
+    - I like to cook Italian food. (Я люблю готувати італійську їжу.)
+    *crew* [kruː] (n) екіпаж
+    - The flight crew welcomed us aboard. (Екіпаж рейсу привітав нас на борту.)
+    *curriculum vitae* [kəˈrɪkjʊləm ˈviːtaɪ] (n) резюме; життєпис
+    - I sent my curriculum vitae to the company. (Я відправив своє резюме в компанію.)
+    *customs officer* [ˈkʌstəmz ˈɒfɪsər] (n) митник
+    - The customs officer checked my passport. (Митник перевірив мій паспорт.)
+    *dancer* [ˈdænsər] (n) танцівник
+    - She is a professional dancer. (Вона професійна танцівниця.  )
+    *dentist* [ˈdɛntɪst] (n) стоматолог
+    - I have an appointment with the dentist. (У мене запис до стоматолога.  )
+    *department* [dɪˈpɑːtmənt] (n) відділ; департамент
+    - She works in the sales department. (Вона працює у відділі продажів.  )
+    *designer* [dɪˈzaɪnər] (n) дизайнер
+    - She is a fashion designer. (Вона – дизайнер моди.  )
+    *detective* [dɪˈtɛktɪv] (n) детектив
+    - The detective solved the case. (Детектив розкрив справу.  )
+    *diploma* [dɪˈpləʊmə] (n) диплом
+    - She received her diploma last year. (Вона отримала диплом минулого року.  )
+    *director* [dɪˈrɛktər] (n) директор; режисер
+    - She is the director of the company. (Вона – директор компанії.)
+    - The film director won an award. (Режисер фільму отримав нагороду.  )
+    *diver* [ˈdaɪvər] (n) водолаз
+    - The diver explored the underwater cave. (Водолаз досліджував підводну печеру.)
+    *doctor* [ˈdɒktər] (n) лікар
+    - She visited the doctor for a check-up. (Вона відвідала лікаря для огляду.)
+    *employ* [ɪmˈplɔɪ] (v) наймати; займати
+    - The company employs many workers. (Компанія наймає багато працівників.)
+    *employee* [ɪmˈplɔɪ.iː] (n) працівник; найманий працівник
+    - The employee arrived on time. (Працівник прибув вчасно.)
+    *employer* [ɪmˈplɔɪər] (n) роботодавець
+    - Her employer is very strict. (Її роботодавець дуже строгий.)
+    *employment* [ɪmˈplɔɪmənt] (n) зайнятість; робота
+    - He is looking for employment. (Він шукає роботу.)
+    *engineer* [ˌɛndʒɪˈnɪər] (n) інженер
+    - He works as an engineer. (Він працює інженером.)
+    *factory* [ˈfæktəri] (n) фабрика; завод
+    - He works in a car factory. (Він працює на автомобільному заводі.)
+    *farm* [fɑːm] (n) ферма; господарство
+    - They live on a farm. (Вони живуть на фермі.)
+    *farmer* [ˈfɑːrmər] (n) фермер
+    - The farmer grows vegetables. (Фермер вирощує овочі.)
+    *film star* [ˈfɪlm stɑːr] (n) кіноактор; зірка кіно
+    - She is a popular film star. (Вона популярна кіноакторка.)
+    *fireman* [ˈfaɪəmən] (n) пожежник
+    - The fireman put out the fire. (Пожежник загасив пожежу.)
+    *flight attendant* [ˈflaɪt əˈtɛndənt] (n) стюардеса; стюард
+    - The flight attendant was very helpful. (Стюардеса була дуже привітною.)
+    *full time* [ˈfʊl taɪm] (n) повний робочий день
+    - She works full time at the office. (Вона працює повний робочий день в офісі.)
+    *greengrocer* [ˈɡriːnˌɡrəʊsə] (n) овочевий продавець
+    - The greengrocer has fresh vegetables. (У овочевого продавця є свіжі овочі.)
+    *grocer* [ˈɡrəʊsə] (n) бакалійник
+    - The grocer knows all about local produce. (Бакалійник знає все про місцеві продукти.)
+    *guard* [ɡɑːd] (n/v) охоронець; охороняти
+    - The guard is at the gate. (Охоронець на воротах.)
+    - Guard the entrance to the building. (Охороняйте вхід до будівлі.)
+    *hairdresser* [ˈheəˌdresə] (n) перукар
+    - She went to the hairdresser to dye her hair. (Вона пішла до перукаря, щоб пофарбувати волосся.)
+    *housewife* [ˈhaʊsˌwaɪf] (n) домогосподарка
+    - She's a housewife and manages the household. (Вона домогосподарка і керує домом.)
+    *housework* [ˈhaʊsˌwɜːk] (n) домашня робота
+    - He helps with the housework on weekends. (Він допомагає з домашньою роботою у вихідні.)
+    *instructor* [ɪnˈstrʌktə] (n) інструктор
+    - The ski instructor was very patient. (Інструктор з лиж дуже терплячий.)
+    *interpreter* [ɪnˈtɜːrprɪtər] (n) перекладач
+    - He works as an interpreter at the embassy. (Він працює перекладачем в посольстві.)
+    *journalist* [ˈdʒɜːnəlɪst] (n) журналіст
+    - He's a well-known journalist. (Він відомий журналіст.)
+    *judge* [dʒʌdʒ] (n/v) суддя; судити
+    - The judge made his ruling. (Суддя виніс своє рішення.)
+    - Don't judge people by their appearance. (Не суди людей за їхнім зовнішнім виглядом.)
+    *laboratory* [ləˈbɒrətəri] (n) лабораторія
+    - She works in a chemistry laboratory. (Вона працює в хімічній лабораторії.)
+    *labourer* [ˈleɪbərə] (n) робітник
+    - He's a hard-working labourer. (Він старанний робітник.)
+    *lawyer* [ˈlɔːjə] (n) адвокат; юрист
+    - She hired a good lawyer for her case. (Вона найняла хорошого адвоката для своєї справи.)
+    *lecturer* [ˈlɛkʧərər] (n) лектор
+    - The lecturer explained the topic clearly. (Лектор чітко пояснив тему.)
+    *librarian* [laɪˈbrɛəriən] (n) бібліотекар
+    - The librarian helped find the book. (Бібліотекар допоміг знайти книгу.)
+    *manager* [ˈmænɪdʒər] (n) менеджер
+    - She's the manager of the store. (Вона менеджер магазину.)
+    *mechanic* [mɪˈkænɪk] (n) механік
+    - The mechanic fixed my car. (Механік полагодив мою машину.)
+    *model* [ˈmɒdəl] (n) модель
+    - She's a successful fashion model. (Вона успішна модель.)
+    *musician* [mjuˈzɪʃən] (n) музикант
+    - He's a well-known musician in the jazz scene. (Він відомий музикант у джазовому світі.)
+    *newsagent* [ˈnjuːzˌeɪdʒənt] (n) торговець пресою
+    - The newsagent down the street always has the morning papers. (Торговець пресою на вулиці завжди має ранкові газети.)
+    *novelist* [ˈnɒvəlɪst] (n) романіст
+    - He is one of the greatest novelists of our time. (Він один з найбільших романістів нашого часу.)
+    *nurse* [nɜːrs] (n) медсестра; няня
+    - The nurse took my blood pressure. (Медсестра виміряла мені тиск.)
+    - She works as a nanny for three children. (Вона працює нянею для трьох дітей.)
+    *occupation* [ˌɒkjuˈpeɪʃən] (n) заняття; професія
+    - What is your occupation? (Яка у вас професія?)
+    - Her primary occupation is painting. (Її основне заняття - живопис.)
+    *office* [ˈɒfɪs] (n) офіс
+    - She works in an office downtown. (Вона працює в офісі в центрі міста.)
+    *officer* [ˈɒfɪsər] (n) офіцер; чиновник
+    - The police officer helped direct traffic. (Поліцейський офіцер допомагав регулювати рух.)
+    - He's a high-ranking officer in the government. (Він високопоставлений чиновник в уряді.)
+    *operator* [ˈɒpəreɪtər] (n) оператор
+    - The telephone operator connected the call. (Телефонний оператор з'єднав дзвінок.)
+    - He works as a machine operator. (Він працює оператором машини.)
+    *out of work* [ˌaʊt əv ˈwɜːrk] (adj) безробітний
+    - He has been out of work for months. (Він безробітний вже кілька місяців.)
+    *owner* [ˈoʊnər] (n) власник
+    - The owner of the shop is very friendly. (Власник магазину дуже привітний.)
+    *part time* [ˌpɑːrt ˈtaɪm] (adv) неповний робочий день
+    - She works part time at the bookstore. (Вона працює неповний робочий день у книжковому магазині.)
+    *pension* [ˈpɛnʃən] (n) пенсія
+    - She receives a pension from the government. (Вона отримує пенсію від уряду.)
+    *photographer* [fəˈtɒɡrəfər] (n) фотограф
+    - The photographer took amazing pictures. (Фотограф зробив чудові знімки.)
+    *physician* [fɪˈzɪʃən] (n) лікар
+    - She visited a physician for a check-up. (Вона відвідала лікаря для огляду.)
+    *pilot* [ˈpaɪlət] (n) пілот
+    - The pilot landed the plane safely. (Пілот безпечно посадив літак.)
+    *poet* [ˈpoʊɪt] (n) поет
+    - He's a well-known poet in his country. (Він відомий поет у своїй країні.)
+    *police officer* [pəˈlis ˈɒfɪsər] (n) поліцейський
+    - She's a police officer in the city. (Вона поліцейський у місті.)
+    *policeman* [pəˈlisˌmæn] (n) поліцейський (чоловік)
+    - The policeman directed traffic. (Поліцейський регулював рух.)
+    *policewoman* [pəˈlisˌwʊmən] (n) поліцейська (жінка)
+    - The policewoman was helping the lost child. (Поліцейська допомагала загубленій дитині.)
+    *politician* [ˌpɒlɪˈtɪʃən] (n) політик
+    - She's a respected politician in her country. (Вона шанований політик у своїй країні.)
+    *porter* [ˈpɔːrtər] (n) носій; портьє
+    - The porter carried our luggage to the room. (Носій відніс наш багаж до кімнати.)
+    - The porter at the hotel was very helpful. (Портьє в готелі був дуже корисний.)
+    *postman* [ˈpoʊstmæn] (n) поштар
+    - The postman delivers mail every morning. (Поштар розносить пошту кожного ранку.)
+    *presenter* [prɪˈzɛntər] (n) ведучий
+    - The TV presenter introduced the next segment. (Телеведучий представив наступний сегмент.)
+    *president* [ˈprɛzɪdənt] (n) президент
+    - The president will give a speech tonight. (Президент виступить з промовою сьогодні ввечері.)
+    *priest* [priːst] (n) священник
+    - The priest delivered a sermon on forgiveness. (Священник виголосив проповідь про прощення.)
+    *profession* [prəˈfɛʃən] (n) професія
+    - What is your profession? (Яка у вас професія?)
+    *professional* [prəˈfɛʃənəl] (adj) професійний
+    - He has a very professional attitude. (У нього дуже професійне ставлення.)
+    *professor* [prəˈfɛsər] (n) професор
+    - She's a professor of literature. (Вона професор літератури.)
+    *publisher* [ˈpʌblɪʃər] (n) видавець
+    - He signed a contract with a well-known publisher. (Він підписав контракт з відомим видавцем.)
+    *qualification* [ˌkwɒlɪfɪˈkeɪʃən] (n) кваліфікація
+    - He has the right qualifications for the job. (У нього є відповідна кваліфікація для цієї роботи.)
+    *quit* [kwɪt] (v) кинути; звільнитися
+    - He decided to quit smoking. (Він вирішив кинути курити.)
+    - I'm going to quit my job. (Я збираюся звільнитися з роботи.)
+    *reporter* [rɪˈpɔːrtər] (n) репортер
+    - The reporter covered the event live. (Репортер висвітлював подію в прямому ефірі.)
+    *retire* [rɪˈtaɪər] (v) виходити на пенсію; відступати
+    - He plans to retire next year. (Він планує вийти на пенсію наступного року.)
+    - The army had to retire from the battlefield. (Армія мусила відступити з поля бою.)
+    *retirement* [rɪˈtaɪəmənt] (n) вихід на пенсію
+    - He's looking forward to his retirement. (Він з нетерпінням чекає свого виходу на пенсію.)
+    *sailor* [ˈseɪlər] (n) моряк
+    - He's been a sailor for over twenty years. (Він моряк вже понад двадцять років.)
+    *salary* [ˈsæləri] (n) зарплата
+    - His monthly salary is quite good. (Його місячна зарплата досить хороша.)
+    *sales assistant* [ˌseɪlz əˈsɪstənt] (n) продавець
+    - The sales assistant helped me find the right size. (Продавець допоміг мені знайти правильний розмір.)
+    *salesman* [ˈseɪlzmən] (n) продавець
+    - He's a very persuasive salesman. (Він дуже переконливий продавець.)
+    *saleswoman* [ˈseɪlzˌwʊmən] (n) продавщиця
+    - The saleswoman recommended this dress. (Продавщиця порадила цю сукню.)
+    *scientist* [ˈsaɪəntɪst] (n) вчений
+    - She's a famous scientist in her field. (Вона відомий вчений у своїй галузі.)
+    *secretary* [ˈsɛkrətəri] (n) секретар
+    - She works as a secretary in a law firm. (Вона працює секретарем в юридичній фірмі.)
+    *security guard* [sɪˈkjʊərɪti ɡɑːrd] (n) охоронець
+    - The security guard checked our bags. (Охоронець перевірив наші сумки.)
+    *servant* [ˈsɜːrvənt] (n) слуга
+    - The servant brought the tea. (Слуга приніс чай.)
+    *shop assistant* [ˈʃɒp əˌsɪstənt] (n) продавець
+    - The shop assistant was very helpful. (Продавець був дуже корисним.)
+    *shopkeeper* [ˈʃɒpˌkiːpər] (n) крамар; власник магазину
+    - The shopkeeper knows all his regular customers. (Крамар знає всіх своїх постійних клієнтів.)
+    *soldier* [ˈsəʊldʒər] (n) солдат
+    - He served as a soldier in the army. (Він служив солдатом в армії.)
+    *staff* [stæf] (n) персонал; штаб
+    - The staff here is very friendly. (Персонал тут дуже дружній.)
+    - He's part of the general staff. (Він частина штабу.)
+    *taxi driver* [ˈtæksi ˌdraɪvər] (n) водій таксі
+    - The taxi driver knew all the shortcuts. (Водій таксі знав усі скорочення.)
+    *teacher* [ˈtiːʧər] (n) вчитель
+    - My teacher is very patient. (Мій вчитель дуже терплячий.)
+    *trade* [treɪd] (n) торгівля
+    - International trade has increased recently. (Міжнародна торгівля нещодавно зросла.)
+    *unemployed* [ˌʌnɪmˈplɔɪd] (adj) безробітний
+    - He's been unemployed for six months. (Він безробітний вже шість місяців.)
+    *wage* [weɪdʒ] (n) зарплата
+    - He earns a good weekly wage. (Він заробляє хорошу тижневу зарплату.)
+    *waiter* [ˈweɪtər] (n) офіціант
+    - The waiter brought us the menu. (Офіціант приніс нам меню.)
+    *waitress* [ˈweɪtrɪs] (n) офіціантка
+    - She works as a waitress in a café. (Вона працює офіціанткою в кафе.)

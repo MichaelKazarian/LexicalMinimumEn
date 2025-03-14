@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Шляхи до файлів
-const categoriesFile = '../../categories.csv';
+const categoriesFile = '../../data/categories.csv';
 const translationsFile = '../../data/translations.csv';
 
 // Функція для парсингу CSV рядків
